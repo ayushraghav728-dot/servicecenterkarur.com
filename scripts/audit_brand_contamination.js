@@ -10,7 +10,7 @@ wmBrands.forEach(brand => {
   const content = fs.readFileSync(filePath, 'utf8');
 
   // Split content before the "Other Brands" section to isolate brand-specific sections
-  const parts = content.split('<!-- Other Washing Machine Brands Service in Dindigul -->');
+  const parts = content.split('<!-- Other Washing Machine Brands Service in Karur -->');
   const mainBrandSection = parts[0];
 
   // In mainBrandSection, check if any other brand name appears in <h3> or <h2> headers

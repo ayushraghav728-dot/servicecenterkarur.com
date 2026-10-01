@@ -1,5 +1,5 @@
 const fs = require('fs');
-const content = fs.readFileSync('ac-repair-service-in-dindigul.html', 'utf8');
+const content = fs.readFileSync('ac-repair-service-in-karur.html', 'utf8');
 
 const start = content.indexOf('experiences-grid');
 const end = content.indexOf('Frequently Asked Questions', start);

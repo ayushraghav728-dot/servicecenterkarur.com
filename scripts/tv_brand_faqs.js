@@ -1,23 +1,23 @@
 // 31 Brand-tailored FAQ sets for all 31 TV brands
-// Dindigul only, no AI buzzwords, honest pricing, brand-specific questions
+// Karur only, no AI buzzwords, honest pricing, brand-specific questions
 const brandPricing = require('./tv_brand_pricing.js');
 
 const allBrandFaqs = {
   "Samsung": [
     {
       "q": "Why is my Samsung TV red standby light blinking 2 or 5 times continuously?",
-      "a": "A 2-blink or 5-blink red LED on Samsung televisions indicates an automatic shutdown triggered by the power supply protection circuit. This usually points to burnt LED backlight strips or overloaded secondary rails on the Samsung BN44 SMPS power board. Our technician checks the voltage on-site in Dindigul."
+      "a": "A 2-blink or 5-blink red LED on Samsung televisions indicates an automatic shutdown triggered by the power supply protection circuit. This usually points to burnt LED backlight strips or overloaded secondary rails on the Samsung BN44 SMPS power board. Our technician checks the voltage on-site in Karur."
     },
     {
-      "q": "Can you fix Samsung Tizen Smart TV freezing on the startup logo in Dindigul?",
+      "q": "Can you fix Samsung Tizen Smart TV freezing on the startup logo in Karur?",
       "a": "Yes. When a Samsung TV freezes on the 'Samsung Smart TV' logo or restarts every few seconds, it is usually caused by corrupted eMMC flash data or an uncompleted Tizen OS update. Our technician performs a system recovery or motherboard cache reset at your doorstep."
     },
     {
-      "q": "Where can I get Samsung Smart TV repair near me in Dindigul?",
-      "a": "Our service desk arranges doorstep visits across RM Colony, Nagal Nagar, Palani Road, Begampur, and all surrounding Dindigul areas."
+      "q": "Where can I get Samsung Smart TV repair near me in Karur?",
+      "a": "Our service desk arranges doorstep visits across Pasupathipalayam, Kagithapuramam, Kovai Road, Thanthonimalai, and all surrounding Karur areas."
     },
     {
-      "q": "How much does Samsung TV backlight replacement cost in Dindigul?",
+      "q": "How much does Samsung TV backlight replacement cost in Karur?",
       "a": "Samsung backlight strip replacement typically ranges between ₹1,500 and ₹4,200 depending on whether your model is a 32-inch Full HD, 43-inch Crystal 4K, or 55-inch QLED display."
     },
     {
@@ -45,29 +45,29 @@ const allBrandFaqs = {
       "a": "Vibrating speaker sound on Samsung TVs is resolved by replacing the downward-firing acoustic drivers with matched units, restoring dialogue clarity."
     },
     {
-      "q": "Is Samsung TV doorstep service available on Sundays in Dindigul?",
-      "a": "Yes, our Dindigul desk arranges Samsung technician visits Monday through Sunday between 8:00 AM and 8:30 PM across all neighborhoods."
+      "q": "Is Samsung TV doorstep service available on Sundays in Karur?",
+      "a": "Yes, our Karur desk arranges Samsung technician visits Monday through Sunday between 8:00 AM and 8:30 PM across all neighborhoods."
     },
     {
-      "q": "How do I book an experienced Samsung TV technician in Dindigul?",
-      "a": "Tap the Call button (+91 94420 54321) or send a WhatsApp message with your Samsung model and area in Dindigul."
+      "q": "How do I book an experienced Samsung TV technician in Karur?",
+      "a": "Tap the Call button (+91 94420 54321) or send a WhatsApp message with your Samsung model and area in Karur."
     }
   ],
   "Sony": [
     {
       "q": "What does it mean when my Sony Bravia TV red light blinks 6 times?",
-      "a": "A 6-blink error code on Sony Bravia televisions specifically indicates a backlight inverter or LED strip fault. The TV micro-controller detects an abnormal current draw and shuts down the display to prevent panel damage. Our Dindigul technician measures strip voltages on-site."
+      "a": "A 6-blink error code on Sony Bravia televisions specifically indicates a backlight inverter or LED strip fault. The TV micro-controller detects an abnormal current draw and shuts down the display to prevent panel damage. Our Karur technician measures strip voltages on-site."
     },
     {
-      "q": "Can Sony Android TV boot loop issues be fixed at home in Dindigul?",
+      "q": "Can Sony Android TV boot loop issues be fixed at home in Karur?",
       "a": "Yes. When a Sony TV gets stuck on the spinning Android circles or Google TV logo, our technician connects via USB service mode to clear cache, reset firmware, or service the system memory IC directly."
     },
     {
-      "q": "Is Sony Bravia TV repair available at home in Dindigul Town?",
-      "a": "Yes, our technicians travel directly to residences across Dindigul Town, Palani Road, Round Road, and neighboring streets."
+      "q": "Is Sony Bravia TV repair available at home in Karur Town?",
+      "a": "Yes, our technicians travel directly to residences across Karur Town, Kovai Road, Sengunthapuram, and neighboring streets."
     },
     {
-      "q": "What is the cost of Sony Bravia LED backlight repair in Dindigul?",
+      "q": "What is the cost of Sony Bravia LED backlight repair in Karur?",
       "a": "Sony Bravia backlight replacement generally costs between ₹1,800 and ₹4,800 depending on screen size and whether your set uses Full HD direct LEDs or 4K Triluminos arrays."
     },
     {
@@ -95,17 +95,17 @@ const allBrandFaqs = {
       "a": "Buzzing audio on Sony Bravia sets is fixed by replacing the acoustic bass reflex drivers with genuine-spec units for clean sound reproduction."
     },
     {
-      "q": "Can I schedule a Sony Bravia technician visit on weekends in Dindigul?",
+      "q": "Can I schedule a Sony Bravia technician visit on weekends in Karur?",
       "a": "Yes, Sony Bravia doorstep visits are scheduled seven days a week, including weekends and local holidays, for your convenience."
     },
     {
-      "q": "What is the quickest way to book Sony Bravia TV repair in Dindigul?",
+      "q": "What is the quickest way to book Sony Bravia TV repair in Karur?",
       "a": "Simply click Call or WhatsApp on this page, share your Sony screen size and blink error, and choose a visit time."
     }
   ],
   "Panasonic": [
     {
-      "q": "Can Panasonic TV power boards (TNPA series) be repaired in Dindigul?",
+      "q": "Can Panasonic TV power boards (TNPA series) be repaired in Karur?",
       "a": "Yes. Panasonic Viera models commonly use TNPA power supply boards. In most cases, blown bridge rectifiers, secondary MOSFETs, or swollen filter capacitors can be repaired at component level without replacing the whole board."
     },
     {
@@ -113,8 +113,8 @@ const allBrandFaqs = {
       "a": "Vertical lines can stem from a loose LVDS ribbon cable connecting the mainboard to the T-Con board or degraded COF driver IC bonds along the edge of the LCD glass. The technician inspects connections on-site."
     },
     {
-      "q": "How quickly can a Panasonic TV technician visit my house in Begampur?",
-      "a": "Technician visits in Begampur and Round Road are typically organized within 2 to 4 hours of your service request."
+      "q": "How quickly can a Panasonic TV technician visit my house in Thanthonimalai?",
+      "a": "Technician visits in Thanthonimalai and Sengunthapuram are typically organized within 2 to 4 hours of your service request."
     },
     {
       "q": "How much will it cost to replace Panasonic Viera backlight strips?",
@@ -146,11 +146,11 @@ const allBrandFaqs = {
     },
     {
       "q": "Does your team provide Panasonic TV repair service on public holidays?",
-      "a": "Yes, our Panasonic repair network operates on all seven days, including Sundays and festival holidays, across Dindigul."
+      "a": "Yes, our Panasonic repair network operates on all seven days, including Sundays and festival holidays, across Karur."
     },
     {
-      "q": "How can I schedule a Panasonic Viera TV service visit in Dindigul?",
-      "a": "Reach our local Dindigul desk via call or WhatsApp, describe the Viera TV fault, and confirm your doorstep appointment."
+      "q": "How can I schedule a Panasonic Viera TV service visit in Karur?",
+      "a": "Reach our local Karur desk via call or WhatsApp, describe the Viera TV fault, and confirm your doorstep appointment."
     }
   ],
   "Philips": [
@@ -160,11 +160,11 @@ const allBrandFaqs = {
     },
     {
       "q": "How do you fix Philips Saphi OS TV freezing on the shield startup logo?",
-      "a": "When a Philips TV hangs on the opening logo or fails to launch apps, it points to corrupted firmware memory or unstable logic rail voltages. Our technician resets the boot partition or updates firmware on-site in Dindigul."
+      "a": "When a Philips TV hangs on the opening logo or fails to launch apps, it points to corrupted firmware memory or unstable logic rail voltages. Our technician resets the boot partition or updates firmware on-site in Karur."
     },
     {
-      "q": "Can I book doorstep Philips Ambilight TV repair in Nagal Nagar?",
-      "a": "Yes, our local Dindigul team covers Nagal Nagar, Nehruji Nagar, and nearby residential zones with doorstep service."
+      "q": "Can I book doorstep Philips Ambilight TV repair in Kagithapuramam?",
+      "a": "Yes, our local Karur team covers Kagithapuramam, Sukkaliyur, and nearby residential zones with doorstep service."
     },
     {
       "q": "What is the price range for Philips TV backlight replacement?",
@@ -195,11 +195,11 @@ const allBrandFaqs = {
       "a": "Crackling audio in Philips TV enclosures is solved by replacing the internal speaker pair with matched drivers, eliminating cabinet resonance."
     },
     {
-      "q": "Is Philips TV doorstep inspection offered on Sundays in Dindigul?",
-      "a": "Yes, we provide Sunday doorstep inspection for Philips televisions across all 60 residential sectors in Dindigul."
+      "q": "Is Philips TV doorstep inspection offered on Sundays in Karur?",
+      "a": "Yes, we provide Sunday doorstep inspection for Philips televisions across all 60 residential sectors in Karur."
     },
     {
-      "q": "How do I request a Philips TV technician home visit in Dindigul?",
+      "q": "How do I request a Philips TV technician home visit in Karur?",
       "a": "Call our helpline or message on WhatsApp with your Philips TV model and address to arrange a technician inspection."
     }
   ],
@@ -213,15 +213,15 @@ const allBrandFaqs = {
       "a": "Yes. If VIDAA OS shows Wi-Fi disabled or repeatedly forgets your home network password, our technician tests the internal wireless card and checks 3.3V power continuity on the mainboard."
     },
     {
-      "q": "Where in Dindigul do you provide Toshiba REGZA TV service?",
-      "a": "We cover all major residential neighborhoods including RM Colony, Palani Road, and Round Road with technician home visits."
+      "q": "Where in Karur do you provide Toshiba REGZA TV service?",
+      "a": "We cover all major residential neighborhoods including Pasupathipalayam, Kovai Road, and Sengunthapuram with technician home visits."
     },
     {
       "q": "How much does Toshiba REGZA backlight strip repair cost?",
       "a": "Toshiba REGZA backlight strip repair generally ranges between ₹1,400 and ₹3,900 according to screen size and REGZA engine panel type."
     },
     {
-      "q": "Can Toshiba REGZA power supply boards be repaired in Dindigul?",
+      "q": "Can Toshiba REGZA power supply boards be repaired in Karur?",
       "a": "Yes, Toshiba REGZA power modules with swollen filter caps or shorted diodes are repaired at component level to keep costs minimal."
     },
     {
@@ -249,22 +249,22 @@ const allBrandFaqs = {
       "a": "Yes, you can easily book Sunday afternoon home visits for Toshiba televisions by calling our local service desk."
     },
     {
-      "q": "What information is needed to book Toshiba TV repair in Dindigul?",
+      "q": "What information is needed to book Toshiba TV repair in Karur?",
       "a": "Just share your Toshiba TV model code, observed issue, and locality with our desk via phone or WhatsApp."
     }
   ],
   "Sharp": [
     {
       "q": "What does it mean when a Sharp Aquos TV red indicator light blinks in sequence?",
-      "a": "Sharp Aquos televisions use blink error sequences to indicate faults such as inverter over-current, lamp error, or power supply rail drop. Our technician decodes the blink pattern on-site in Dindigul to replace the faulty component."
+      "a": "Sharp Aquos televisions use blink error sequences to indicate faults such as inverter over-current, lamp error, or power supply rail drop. Our technician decodes the blink pattern on-site in Karur to replace the faulty component."
     },
     {
-      "q": "Can Japanese Sharp Aquos display panels with lines be repaired in Dindigul?",
+      "q": "Can Japanese Sharp Aquos display panels with lines be repaired in Karur?",
       "a": "If the issue is caused by loose LVDS cables or T-Con gamma voltage shifts, our technician can repair the circuit. However, if the LCD glass is cracked or has internal COF tab damage, repair feasibility is checked before charging."
     },
     {
-      "q": "Do you send technicians to Spencer Compound for Sharp Aquos repair?",
-      "a": "Yes, our technician desk coordinates home visits to Spencer Compound, Dindigul Town, and nearby localities."
+      "q": "Do you send technicians to Thorakkalpatti for Sharp Aquos repair?",
+      "a": "Yes, our technician desk coordinates home visits to Thorakkalpatti, Karur Town, and nearby localities."
     },
     {
       "q": "What do you charge for Sharp Aquos TV backlight replacement?",
@@ -295,33 +295,33 @@ const allBrandFaqs = {
       "a": "Vibrating sound on Sharp Aquos TVs is resolved by replacing the bass reflex acoustic drivers with model-matched units on-site."
     },
     {
-      "q": "Are Sharp Aquos TV repair visits available seven days a week in Dindigul?",
-      "a": "Yes, Sharp Aquos repair visits are available every day of the week from 8:00 AM to 8:30 PM throughout Dindigul."
+      "q": "Are Sharp Aquos TV repair visits available seven days a week in Karur?",
+      "a": "Yes, Sharp Aquos repair visits are available every day of the week from 8:00 AM to 8:30 PM throughout Karur."
     },
     {
-      "q": "How do I schedule a Sharp Aquos TV inspection in Dindigul?",
+      "q": "How do I schedule a Sharp Aquos TV inspection in Karur?",
       "a": "Click the Call button or tap WhatsApp to share your Sharp Aquos symptoms and schedule a convenient visit."
     }
   ],
   "Haier": [
     {
       "q": "Why is my Haier Google TV stuck in an endless boot loop on the opening logo?",
-      "a": "Haier Google TVs can get stuck in a restart loop due to interrupted automatic updates, corrupted cache, or eMMC storage errors. Our Dindigul technician carries firmware recovery USB drives to reflash system partitions at your home."
+      "a": "Haier Google TVs can get stuck in a restart loop due to interrupted automatic updates, corrupted cache, or eMMC storage errors. Our Karur technician carries firmware recovery USB drives to reflash system partitions at your home."
     },
     {
       "q": "Can loose HDMI ports on Haier bezel-less televisions be repaired on-site?",
       "a": "Yes. Our technician resolders loose surface-mount HDMI connector pins or replaces broken ports directly on the Haier motherboard to restore set-top box video."
     },
     {
-      "q": "How do I schedule a Haier TV inspection in Begampur, Dindigul?",
-      "a": "Simply call or message our local customer desk to book a prompt technician visit in Begampur or Palani Road."
+      "q": "How do I schedule a Haier TV inspection in Thanthonimalai, Karur?",
+      "a": "Simply call or message our local customer desk to book a prompt technician visit in Thanthonimalai or Kovai Road."
     },
     {
-      "q": "How much does Haier TV backlight strip replacement cost in Dindigul?",
+      "q": "How much does Haier TV backlight strip replacement cost in Karur?",
       "a": "Haier backlight replacement generally ranges from ₹1,300 to ₹3,500 depending on whether your TV is an HD Ready or Bezel-Less 4K model."
     },
     {
-      "q": "Can Haier TV combo power boards be repaired on-site in Dindigul?",
+      "q": "Can Haier TV combo power boards be repaired on-site in Karur?",
       "a": "Yes, Haier integrated power boards can be repaired by replacing secondary voltage regulators and protection diodes on-site."
     },
     {
@@ -345,12 +345,12 @@ const allBrandFaqs = {
       "a": "Speaker buzz on Haier televisions is eliminated by replacing the internal down-firing sound modules, restoring clear dialogue for news and movies."
     },
     {
-      "q": "Does Haier TV doorstep service operate on weekends in Dindigul?",
-      "a": "Yes, our local technicians attend Haier TV service calls on Saturdays, Sundays, and public holidays across Dindigul."
+      "q": "Does Haier TV doorstep service operate on weekends in Karur?",
+      "a": "Yes, our local technicians attend Haier TV service calls on Saturdays, Sundays, and public holidays across Karur."
     },
     {
-      "q": "How can I book a Haier Google TV technician visit in Dindigul?",
-      "a": "Contact our Dindigul customer desk by phone or WhatsApp, mention your Haier TV model, and book an inspection."
+      "q": "How can I book a Haier Google TV technician visit in Karur?",
+      "a": "Contact our Karur customer desk by phone or WhatsApp, mention your Haier TV model, and book an inspection."
     }
   ],
   "Sansui": [
@@ -359,12 +359,12 @@ const allBrandFaqs = {
       "a": "Continuous clicking without picture or standby light indicates a short-circuit on the secondary DC rails of the Sansui power board. Our technician checks rectifier diodes and filter capacitors to repair the board."
     },
     {
-      "q": "How much does Sansui LED TV backlight replacement cost in Dindigul?",
+      "q": "How much does Sansui LED TV backlight replacement cost in Karur?",
       "a": "Backlight strip replacement for Sansui 32-inch to 55-inch televisions typically costs between ₹1,200 and ₹3,200 depending on screen size and DLED configuration. The technician confirms the exact quote after inspection."
     },
     {
-      "q": "Are Sansui TV repair visits available across Round Road in Dindigul?",
-      "a": "Yes, we provide doorstep service throughout Round Road, Nagal Nagar, and all 60 approved Dindigul residential sectors."
+      "q": "Are Sansui TV repair visits available across Sengunthapuram in Karur?",
+      "a": "Yes, we provide doorstep service throughout Sengunthapuram, Kagithapuramam, and all 60 approved Karur residential sectors."
     },
     {
       "q": "What is the price of Sansui LED TV backlight replacement?",
@@ -387,7 +387,7 @@ const allBrandFaqs = {
       "a": "Vertical stripes across Sansui DLED displays are checked by testing T-Con gamma reference lines and cable seating directly."
     },
     {
-      "q": "Can broken display glass on a Sansui TV be replaced in Dindigul?",
+      "q": "Can broken display glass on a Sansui TV be replaced in Karur?",
       "a": "When Sansui display glass is broken, replacement panel cost is close to a new television; we discuss feasibility with you transparently before booking."
     },
     {
@@ -395,11 +395,11 @@ const allBrandFaqs = {
       "a": "Cabinet rattle in Sansui televisions is fixed by replacing the stereo acoustic box drivers with fresh units that handle high volume cleanly."
     },
     {
-      "q": "Can I get Sansui TV repair on Sundays in Round Road, Dindigul?",
-      "a": "Yes, Sansui TV repairs are carried out seven days a week, including Sunday visits in Round Road and Nagal Nagar."
+      "q": "Can I get Sansui TV repair on Sundays in Sengunthapuram, Karur?",
+      "a": "Yes, Sansui TV repairs are carried out seven days a week, including Sunday visits in Sengunthapuram and Kagithapuramam."
     },
     {
-      "q": "What is the process to schedule Sansui TV repair in Dindigul?",
+      "q": "What is the process to schedule Sansui TV repair in Karur?",
       "a": "Simply call +91 94420 54321 or message our desk on WhatsApp with your Sansui TV screen size and location."
     }
   ],
@@ -413,8 +413,8 @@ const allBrandFaqs = {
       "a": "Liquid Luminous displays use high-power LED strips. Burnt diodes break the circuit, causing the backlight inverter to turn off while audio continues. Replacing the backlight strips restores original picture quality."
     },
     {
-      "q": "Can Videocon TV technicians visit our home in Nehruji Nagar?",
-      "a": "Our technicians regularly visit Nehruji Nagar and RM Colony to carry out on-site board and backlight repairs."
+      "q": "Can Videocon TV technicians visit our home in Sukkaliyur?",
+      "a": "Our technicians regularly visit Sukkaliyur and Pasupathipalayam to carry out on-site board and backlight repairs."
     },
     {
       "q": "How much is the repair cost for Videocon TV backlight strips?",
@@ -445,7 +445,7 @@ const allBrandFaqs = {
       "a": "Audio distortion on Videocon TVs is resolved by replacing the high-decibel speaker cones with matched drivers to eliminate buzzing."
     },
     {
-      "q": "Are Videocon TV repair technicians available on holidays in Dindigul?",
+      "q": "Are Videocon TV repair technicians available on holidays in Karur?",
       "a": "Yes, our technicians handle Videocon TV repair calls on weekends and regional holidays with no extra emergency surcharge."
     },
     {
@@ -456,15 +456,15 @@ const allBrandFaqs = {
   "Xiaomi": [
     {
       "q": "Why is my Mi TV stuck on the 'Mi' startup logo or rebooting continuously?",
-      "a": "This common Xiaomi TV issue is typically caused by corrupted PatchWall or Android TV firmware, an interrupted system update, or bad memory sectors on the eMMC flash chip. Our technician performs firmware flashing and cache resets in Dindigul."
+      "a": "This common Xiaomi TV issue is typically caused by corrupted PatchWall or Android TV firmware, an interrupted system update, or bad memory sectors on the eMMC flash chip. Our technician performs firmware flashing and cache resets in Karur."
     },
     {
       "q": "Why does my Mi TV Bluetooth voice remote keep disconnecting?",
       "a": "Mi voice remotes use Bluetooth to pair with an internal module on the motherboard. Low batteries, radio interference, or a failing Bluetooth card cause unpairing. We re-pair or replace the module card on-site."
     },
     {
-      "q": "Where can I find an experienced Mi TV repair technician in Nagal Nagar?",
-      "a": "You can book experienced Mi TV doorstep visits across Nagal Nagar and Dindigul Town by tapping the Call or WhatsApp button."
+      "q": "Where can I find an experienced Mi TV repair technician in Kagithapuramam?",
+      "a": "You can book experienced Mi TV doorstep visits across Kagithapuramam and Karur Town by tapping the Call or WhatsApp button."
     },
     {
       "q": "What is the charge for Xiaomi Mi TV backlight strip replacement?",
@@ -495,33 +495,33 @@ const allBrandFaqs = {
       "a": "Rattling sound from Mi TV 20W speakers is cured by installing a new internal acoustic driver set, restoring balanced stereo sound."
     },
     {
-      "q": "Is Mi TV repair service open on Sundays across Dindigul?",
-      "a": "Yes, Mi TV repair visits can be booked on Sundays between 8:00 AM and 8:30 PM across all Dindigul localities."
+      "q": "Is Mi TV repair service open on Sundays across Karur?",
+      "a": "Yes, Mi TV repair visits can be booked on Sundays between 8:00 AM and 8:30 PM across all Karur localities."
     },
     {
-      "q": "What is the quickest way to book Mi TV repair in Dindigul?",
+      "q": "What is the quickest way to book Mi TV repair in Karur?",
       "a": "Tap the Call or WhatsApp button to share your Mi TV model number and book a prompt doorstep technician visit."
     }
   ],
   "Hitachi": [
     {
-      "q": "Why is my Hitachi TV not responding to the power switch or remote in Dindigul?",
+      "q": "Why is my Hitachi TV not responding to the power switch or remote in Karur?",
       "a": "Hitachi televisions incorporate heavy-duty surge protection. A mains voltage spike often blows the input fuse or varistor on the SMPS board. Our technician replaces damaged components on-site to revive the television."
     },
     {
-      "q": "Can Hitachi IPS panel backlight strips be replaced at home in Dindigul?",
+      "q": "Can Hitachi IPS panel backlight strips be replaced at home in Karur?",
       "a": "Yes. Our technician brings matched Hitachi backlight diode strips, safely opens the chassis, and installs fresh strips with even light dispersion across the IPS glass."
     },
     {
-      "q": "Is doorstep Hitachi TV repair available around Spencer Compound?",
-      "a": "Yes, our local Dindigul service network extends to Spencer Compound and all neighboring residential areas."
+      "q": "Is doorstep Hitachi TV repair available around Thorakkalpatti?",
+      "a": "Yes, our local Karur service network extends to Thorakkalpatti and all neighboring residential areas."
     },
     {
-      "q": "What is the approximate cost for Hitachi TV backlight replacement in Dindigul?",
+      "q": "What is the approximate cost for Hitachi TV backlight replacement in Karur?",
       "a": "Hitachi backlight replacement ranges from ₹1,400 to ₹3,800 depending on whether it is an Alpha series HD Ready or 4K IPS display."
     },
     {
-      "q": "Can Hitachi Alpha power supply boards be serviced at home in Dindigul?",
+      "q": "Can Hitachi Alpha power supply boards be serviced at home in Karur?",
       "a": "Yes, Hitachi Alpha power modules are repaired by replacing damaged Japanese filter capacitors and voltage regulators directly."
     },
     {
@@ -546,11 +546,11 @@ const allBrandFaqs = {
     },
     {
       "q": "Can I schedule a Hitachi TV inspection on Sunday morning?",
-      "a": "Yes, our local desk organizes Sunday morning visits for Hitachi televisions across Spencer Compound and Dindigul Town."
+      "a": "Yes, our local desk organizes Sunday morning visits for Hitachi televisions across Thorakkalpatti and Karur Town."
     },
     {
-      "q": "How can I schedule a Hitachi TV inspection in Dindigul?",
-      "a": "Call our local Dindigul number or message on WhatsApp with your Hitachi model and preferred visit time slot."
+      "q": "How can I schedule a Hitachi TV inspection in Karur?",
+      "a": "Call our local Karur number or message on WhatsApp with your Hitachi model and preferred visit time slot."
     }
   ],
   "Intex": [
@@ -559,12 +559,12 @@ const allBrandFaqs = {
       "a": "Intex televisions use compact downward-firing speakers. Over continuous use, paper cones tear or voice coils loosen. Our technician replaces the speaker pair with fresh matched drivers to restore clean dialogue."
     },
     {
-      "q": "Can Intex TV combo motherboards be repaired at low cost in Dindigul?",
+      "q": "Can Intex TV combo motherboards be repaired at low cost in Karur?",
       "a": "Yes. Intex televisions frequently use universal combo boards where 12V regulators, audio ICs, and backlight drivers can be serviced at component level, keeping repair costs very affordable."
     },
     {
-      "q": "Can I get Intex TV repair service in Balakrishnapuram, Dindigul?",
-      "a": "We provide complete home inspection for Intex televisions throughout Balakrishnapuram and Nagal Nagar."
+      "q": "Can I get Intex TV repair service in Inam Karur, Karur?",
+      "a": "We provide complete home inspection for Intex televisions throughout Inam Karur and Kagithapuramam."
     },
     {
       "q": "What do you charge for Intex LED TV backlight repair?",
@@ -595,11 +595,11 @@ const allBrandFaqs = {
       "a": "Crackling audio on Intex televisions is fixed by installing fresh downward-firing acoustic cones, restoring loud and clean voice output."
     },
     {
-      "q": "Are Intex TV doorstep technicians available on weekends in Dindigul?",
-      "a": "Yes, doorstep service for Intex televisions is active seven days a week, including Sundays, across all Dindigul areas."
+      "q": "Are Intex TV doorstep technicians available on weekends in Karur?",
+      "a": "Yes, doorstep service for Intex televisions is active seven days a week, including Sundays, across all Karur areas."
     },
     {
-      "q": "What is the procedure to book Intex TV doorstep repair in Dindigul?",
+      "q": "What is the procedure to book Intex TV doorstep repair in Karur?",
       "a": "Contact our service desk via call or WhatsApp, state your Intex TV issue, and confirm a technician visit."
     }
   ],
@@ -614,7 +614,7 @@ const allBrandFaqs = {
     },
     {
       "q": "How to book a Micromax TV service call near Mengles Road?",
-      "a": "Reach out to our customer helpline to arrange a convenient technician visit near Mengles Road or RM Colony."
+      "a": "Reach out to our customer helpline to arrange a convenient technician visit near Mengles Road or Pasupathipalayam."
     },
     {
       "q": "How much does Micromax TV backlight replacement usually cost?",
@@ -659,19 +659,19 @@ const allBrandFaqs = {
       "a": "Kodak 4K televisions use high-output direct-lit LED arrays. When a diode burns open, the driver trips power to the entire string. We install model-matched replacement backlight arrays to restore the display."
     },
     {
-      "q": "Can Kodak Google TV Wi-Fi drop issues be resolved on-site in Dindigul?",
+      "q": "Can Kodak Google TV Wi-Fi drop issues be resolved on-site in Karur?",
       "a": "Yes. Our technician tests the 2.4GHz/5GHz internal Wi-Fi card and updates network driver settings on-site to ensure uninterrupted OTT streaming."
     },
     {
-      "q": "Do technicians travel to Chettinaickenpatti for Kodak TV repair?",
-      "a": "Yes, our technicians travel to Chettinaickenpatti and Dindigul Town to inspect Kodak televisions on-site."
+      "q": "Do technicians travel to Chinna Andankovil for Kodak TV repair?",
+      "a": "Yes, our technicians travel to Chinna Andankovil and Karur Town to inspect Kodak televisions on-site."
     },
     {
       "q": "What is the price range for Kodak 4K TV backlight strips?",
       "a": "Kodak CA PRO and 7XPRO backlight replacement usually costs from ₹1,350 to ₹3,600 based on screen dimensions and 4K specifications."
     },
     {
-      "q": "Is Kodak CA PRO power board component repair available in Dindigul?",
+      "q": "Is Kodak CA PRO power board component repair available in Karur?",
       "a": "Yes, Kodak power supply boards damaged by lightning spikes can be repaired by replacing shorted MOSFETs at your doorstep."
     },
     {
@@ -695,11 +695,11 @@ const allBrandFaqs = {
       "a": "Severe speaker buzz on Kodak CA PRO TVs is cured by installing new high-output acoustic drivers, eliminating distortion on high volume."
     },
     {
-      "q": "Can I get Kodak TV repair on Sundays in Chettinaickenpatti?",
-      "a": "Yes, technicians visit Chettinaickenpatti and Dindigul Town for Kodak TV service on Sundays with prior booking."
+      "q": "Can I get Kodak TV repair on Sundays in Chinna Andankovil?",
+      "a": "Yes, technicians visit Chinna Andankovil and Karur Town for Kodak TV service on Sundays with prior booking."
     },
     {
-      "q": "How can I book a Kodak TV inspection in Dindigul Town?",
+      "q": "How can I book a Kodak TV inspection in Karur Town?",
       "a": "Reach our local team via phone or WhatsApp with your Kodak TV details to schedule an on-site inspection."
     }
   ],
@@ -713,11 +713,11 @@ const allBrandFaqs = {
       "a": "The spinning dots animation indicates an OxygenPlay / Android TV boot freeze, usually caused by corrupt cache or low internal storage. Our technician clears cache partitions or performs firmware recovery."
     },
     {
-      "q": "Where can I get OnePlus TV repair near me around RM Colony?",
-      "a": "Technicians are available for prompt doorstep visits in RM Colony, Palani Road, and adjacent Dindigul streets."
+      "q": "Where can I get OnePlus TV repair near me around Pasupathipalayam?",
+      "a": "Technicians are available for prompt doorstep visits in Pasupathipalayam, Kovai Road, and adjacent Karur streets."
     },
     {
-      "q": "What is the expected charge for OnePlus TV backlight replacement in Dindigul?",
+      "q": "What is the expected charge for OnePlus TV backlight replacement in Karur?",
       "a": "OnePlus TV backlight replacement typically ranges between ₹1,450 and ₹3,900 depending on whether your unit is a Y1S Full HD or U1S 4K display."
     },
     {
@@ -746,16 +746,16 @@ const allBrandFaqs = {
     },
     {
       "q": "Is OnePlus TV doorstep repair available seven days a week?",
-      "a": "Yes, our OnePlus TV doorstep service runs seven days a week between 8:00 AM and 8:30 PM across Dindigul."
+      "a": "Yes, our OnePlus TV doorstep service runs seven days a week between 8:00 AM and 8:30 PM across Karur."
     },
     {
-      "q": "What is the simplest way to book OnePlus TV repair in Dindigul?",
+      "q": "What is the simplest way to book OnePlus TV repair in Karur?",
       "a": "Call our helpline or click WhatsApp, share your OnePlus TV model number, and book a home technician visit."
     }
   ],
   "Sanyo": [
     {
-      "q": "Can Sanyo Kaizen TV power supply problems be repaired in Dindigul?",
+      "q": "Can Sanyo Kaizen TV power supply problems be repaired in Karur?",
       "a": "Yes. Sanyo Kaizen models benefit from Panasonic-engineered circuit designs. In most cases, blown bridge rectifiers or secondary capacitors on the SMPS board can be serviced at component level."
     },
     {
@@ -763,8 +763,8 @@ const allBrandFaqs = {
       "a": "Screen blinking points to a failing backlight boost circuit or an aging LED diode string that triggers safety shutdown. Our technician measures boost voltages on-site to fix the fault."
     },
     {
-      "q": "Is doorstep Sanyo Kaizen TV repair supported in Nagal Nagar?",
-      "a": "Yes, we organize doorstep repair visits for Sanyo televisions across Nagal Nagar, Round Road, and nearby areas."
+      "q": "Is doorstep Sanyo Kaizen TV repair supported in Kagithapuramam?",
+      "a": "Yes, we organize doorstep repair visits for Sanyo televisions across Kagithapuramam, Sengunthapuram, and nearby areas."
     },
     {
       "q": "What is the cost of Sanyo Kaizen LED backlight replacement?",
@@ -795,11 +795,11 @@ const allBrandFaqs = {
       "a": "Distorted sound on Sanyo Kaizen TVs is resolved by installing fresh acoustic driver units, restoring crisp dialogue for serials and films."
     },
     {
-      "q": "Can I schedule Sanyo TV service on Sunday in Nagal Nagar?",
-      "a": "Yes, you can schedule a Sanyo TV inspection on Sunday in Nagal Nagar or any other Dindigul neighborhood."
+      "q": "Can I schedule Sanyo TV service on Sunday in Kagithapuramam?",
+      "a": "Yes, you can schedule a Sanyo TV inspection on Sunday in Kagithapuramam or any other Karur neighborhood."
     },
     {
-      "q": "How do I schedule a Sanyo Kaizen TV service visit in Dindigul?",
+      "q": "How do I schedule a Sanyo Kaizen TV service visit in Karur?",
       "a": "Contact our customer desk by phone or WhatsApp with your Sanyo TV screen size to confirm an appointment."
     }
   ],
@@ -809,12 +809,12 @@ const allBrandFaqs = {
       "a": "Akai Fire TV Edition models can freeze on the logo if internal storage is full or an Amazon software update was interrupted. Our technician connects via USB service mode to restore firmware functionality."
     },
     {
-      "q": "Can Akai Alexa voice remote pairing issues be checked at home in Dindigul?",
+      "q": "Can Akai Alexa voice remote pairing issues be checked at home in Karur?",
       "a": "Yes. If the Alexa voice remote refuses to pair, our technician inspects the internal Bluetooth module and IR receiver board to restore voice search and remote commands."
     },
     {
-      "q": "Can an Akai Fire TV technician visit my residence in Dindigul Town?",
-      "a": "Our local Dindigul technicians visit residences throughout Dindigul Town and Begampur on all seven days."
+      "q": "Can an Akai Fire TV technician visit my residence in Karur Town?",
+      "a": "Our local Karur technicians visit residences throughout Karur Town and Thanthonimalai on all seven days."
     },
     {
       "q": "How much do you charge for Akai Fire TV backlight repair?",
@@ -845,11 +845,11 @@ const allBrandFaqs = {
       "a": "Harsh buzzing on Akai Fire TVs is eliminated by replacing the Japanese acoustic sound drivers with fresh matched units directly at your home."
     },
     {
-      "q": "Does Akai Fire TV repair service operate on weekends in Dindigul?",
-      "a": "Yes, Akai Fire TV service calls are handled seven days a week, including Sunday appointments, throughout Dindigul."
+      "q": "Does Akai Fire TV repair service operate on weekends in Karur?",
+      "a": "Yes, Akai Fire TV service calls are handled seven days a week, including Sunday appointments, throughout Karur."
     },
     {
-      "q": "What is the process to book Akai Fire TV repair in Dindigul?",
+      "q": "What is the process to book Akai Fire TV repair in Karur?",
       "a": "Tap Call or WhatsApp on this page, describe the Akai Fire TV fault, and schedule a technician home visit."
     }
   ],
@@ -863,8 +863,8 @@ const allBrandFaqs = {
       "a": "When audio plays without video, the LED backlight diode strips have burned out. Our technician checks the strip forward voltage on-site and installs a new matched backlight array."
     },
     {
-      "q": "Where in Begampur can I get Onida TV repair service?",
-      "a": "Doorstep service for Onida televisions is available across Begampur, RM Colony, and surrounding residential roads."
+      "q": "Where in Thanthonimalai can I get Onida TV repair service?",
+      "a": "Doorstep service for Onida televisions is available across Thanthonimalai, Pasupathipalayam, and surrounding residential roads."
     },
     {
       "q": "What is the price for Onida LED TV backlight replacement?",
@@ -895,12 +895,12 @@ const allBrandFaqs = {
       "a": "Heavy vibration in Onida cabinets is resolved by servicing or replacing the Devil s Horn acoustic drivers for punchy, rattle-free audio."
     },
     {
-      "q": "Can I book an Onida TV inspection on Sunday in Begampur?",
-      "a": "Yes, our technicians visit homes in Begampur and surrounding Dindigul areas for Onida TV repairs on Sundays."
+      "q": "Can I book an Onida TV inspection on Sunday in Thanthonimalai?",
+      "a": "Yes, our technicians visit homes in Thanthonimalai and surrounding Karur areas for Onida TV repairs on Sundays."
     },
     {
-      "q": "How can I request an Onida TV technician home visit in Dindigul?",
-      "a": "Simply call our Dindigul number or message on WhatsApp with your Onida model details to book service."
+      "q": "How can I request an Onida TV technician home visit in Karur?",
+      "a": "Simply call our Karur number or message on WhatsApp with your Onida model details to book service."
     }
   ],
   "Aiwa": [
@@ -909,19 +909,19 @@ const allBrandFaqs = {
       "a": "Aiwa Magnifiq displays use high-luminance direct LED arrays. When diode strips burn out, the display goes dark while Amphitheatre audio continues playing. We replace the backlight strips on-site."
     },
     {
-      "q": "Can Aiwa Google TV freezing on the startup screen be repaired in Dindigul?",
+      "q": "Can Aiwa Google TV freezing on the startup screen be repaired in Karur?",
       "a": "Yes. Our technician inspects motherboard eMMC storage and logic rail voltages, resetting system cache or reflashing Google TV firmware to restore normal booting."
     },
     {
-      "q": "Do you provide doorstep Aiwa TV inspection along Palani Road?",
-      "a": "Yes, we arrange timely home visits along Palani Road, Round Road, and throughout Dindigul for Aiwa televisions."
+      "q": "Do you provide doorstep Aiwa TV inspection along Kovai Road?",
+      "a": "Yes, we arrange timely home visits along Kovai Road, Sengunthapuram, and throughout Karur for Aiwa televisions."
     },
     {
       "q": "How much does Aiwa Magnifiq backlight strip replacement cost?",
       "a": "Aiwa Magnifiq backlight replacement typically costs between ₹1,400 and ₹3,800 depending on whether you own a Full HD or 4K Google TV."
     },
     {
-      "q": "Can Aiwa Magnifiq power supply boards be repaired in Dindigul?",
+      "q": "Can Aiwa Magnifiq power supply boards be repaired in Karur?",
       "a": "Yes, Aiwa Magnifiq power supply circuits can be repaired at component level by replacing shorted switching transistors."
     },
     {
@@ -949,7 +949,7 @@ const allBrandFaqs = {
       "a": "Yes, Aiwa TV repair appointments can be scheduled on public holidays and weekends with our local customer desk."
     },
     {
-      "q": "How do I book an Aiwa Magnifiq TV inspection in Dindigul?",
+      "q": "How do I book an Aiwa Magnifiq TV inspection in Karur?",
       "a": "Reach out to our customer desk via call or WhatsApp, describe the Magnifiq TV fault, and confirm a visit."
     }
   ],
@@ -959,15 +959,15 @@ const allBrandFaqs = {
       "a": "An amber standby light on TCL televisions indicates that the system is unable to complete its boot sequence due to power rail drops or firmware lockup. Our technician tests power outputs and resets motherboard firmware."
     },
     {
-      "q": "Can TCL QLED backlight and local dimming faults be repaired in Dindigul?",
+      "q": "Can TCL QLED backlight and local dimming faults be repaired in Karur?",
       "a": "Yes. We service TCL C-Series QLED and P-Series 4K models, replacing worn backlight strips or repairing multi-zone driver circuits right at your home."
     },
     {
-      "q": "Can I schedule TCL QLED TV service in Round Road, Dindigul?",
-      "a": "Technicians can be scheduled for visits in Round Road, Nagal Nagar, and all local Dindigul neighborhoods."
+      "q": "Can I schedule TCL QLED TV service in Sengunthapuram, Karur?",
+      "a": "Technicians can be scheduled for visits in Sengunthapuram, Kagithapuramam, and all local Karur neighborhoods."
     },
     {
-      "q": "What is the cost of TCL QLED TV backlight repair in Dindigul?",
+      "q": "What is the cost of TCL QLED TV backlight repair in Karur?",
       "a": "TCL QLED and 4K backlight repair generally ranges between ₹1,500 and ₹4,200 depending on whether your set is a P-Series or C-Series QLED model."
     },
     {
@@ -995,11 +995,11 @@ const allBrandFaqs = {
       "a": "Distorted bass on TCL QLED televisions is cured by replacing the internal sound units with matched Onkyo-spec drivers on-site."
     },
     {
-      "q": "Can I schedule TCL TV service on Sundays in Round Road, Dindigul?",
-      "a": "Yes, TCL TV doorstep inspection is available on Sundays across Round Road and all Dindigul residential sectors."
+      "q": "Can I schedule TCL TV service on Sundays in Sengunthapuram, Karur?",
+      "a": "Yes, TCL TV doorstep inspection is available on Sundays across Sengunthapuram and all Karur residential sectors."
     },
     {
-      "q": "What is the quickest way to schedule TCL TV service in Dindigul?",
+      "q": "What is the quickest way to schedule TCL TV service in Karur?",
       "a": "Click Call or WhatsApp to share your TCL TV model code and book an experienced technician visit."
     }
   ],
@@ -1013,8 +1013,8 @@ const allBrandFaqs = {
       "a": "App crashes and buffering usually stem from filled system cache or failing Wi-Fi reception. Our technician clears system memory and checks antenna connections on-site."
     },
     {
-      "q": "Where can I get iFFALCON TV repair near Nagal Nagar?",
-      "a": "Our desk coordinates doorstep iFFALCON TV visits across Nagal Nagar, Begampur, and neighboring localities."
+      "q": "Where can I get iFFALCON TV repair near Kagithapuramam?",
+      "a": "Our desk coordinates doorstep iFFALCON TV visits across Kagithapuramam, Thanthonimalai, and neighboring localities."
     },
     {
       "q": "What do you charge for iFFALCON TV backlight strip replacement?",
@@ -1046,7 +1046,7 @@ const allBrandFaqs = {
     },
     {
       "q": "Does iFFALCON TV repair service operate seven days a week?",
-      "a": "Yes, iFFALCON TV service visits are available seven days a week, Monday through Sunday, across Dindigul."
+      "a": "Yes, iFFALCON TV service visits are available seven days a week, Monday through Sunday, across Karur."
     },
     {
       "q": "How do I arrange an iFFALCON TV doorstep inspection visit?",
@@ -1063,15 +1063,15 @@ const allBrandFaqs = {
       "a": "This is a classic backlight strip burnout symptom. While the mainboard and audio circuit work properly, the LEDs have failed. Installing a fresh backlight strip set resolves the problem."
     },
     {
-      "q": "Is doorstep Acer TV repair available in RM Colony, Dindigul?",
-      "a": "Yes, our repair technicians travel directly to residences in RM Colony, Dindigul Town, and nearby areas."
+      "q": "Is doorstep Acer TV repair available in Pasupathipalayam, Karur?",
+      "a": "Yes, our repair technicians travel directly to residences in Pasupathipalayam, Karur Town, and nearby areas."
     },
     {
-      "q": "What is the price estimate for Acer TV backlight replacement in Dindigul?",
+      "q": "What is the price estimate for Acer TV backlight replacement in Karur?",
       "a": "Acer I-Series and H-Series backlight replacement typically ranges between ₹1,400 and ₹3,700 based on screen dimensions and 4K resolution."
     },
     {
-      "q": "Is Acer 30W audio power supply board repair feasible in Dindigul?",
+      "q": "Is Acer 30W audio power supply board repair feasible in Karur?",
       "a": "Yes, Acer power circuits are repaired by replacing blown fuses, filter capacitors, and voltage regulators right at your home."
     },
     {
@@ -1095,11 +1095,11 @@ const allBrandFaqs = {
       "a": "Harsh speaker rattle on Acer TVs is fixed by installing fresh 30W high-output acoustic drivers, restoring powerful distortion-free sound."
     },
     {
-      "q": "Can I get Acer TV doorstep repair on Sunday in RM Colony?",
-      "a": "Yes, you can book an Acer TV repair visit on Sunday in RM Colony or any neighboring Dindigul locality."
+      "q": "Can I get Acer TV doorstep repair on Sunday in Pasupathipalayam?",
+      "a": "Yes, you can book an Acer TV repair visit on Sunday in Pasupathipalayam or any neighboring Karur locality."
     },
     {
-      "q": "What steps are required to book Acer TV repair in Dindigul?",
+      "q": "What steps are required to book Acer TV repair in Karur?",
       "a": "Simply tap Call or WhatsApp on this page, mention your Acer TV screen size, and choose your visit timing."
     }
   ],
@@ -1109,12 +1109,12 @@ const allBrandFaqs = {
       "a": "Hisense Tornado televisions feature high-wattage integrated soundbars. Dust accumulation or torn speaker cones cause resonance vibration. Our technician repairs or replaces the soundbar driver units."
     },
     {
-      "q": "Can Hisense ULED multi-zone local dimming issues be repaired in Dindigul?",
+      "q": "Can Hisense ULED multi-zone local dimming issues be repaired in Karur?",
       "a": "Yes. Our technician tests LED boost driver voltages and individual dimming zone lines to fix uneven dark patches or flickering backlight zones on-site."
     },
     {
-      "q": "Do your technicians cover Dindigul Town for Hisense TV service?",
-      "a": "We provide on-site service coverage throughout Dindigul Town, Palani Road, and all surrounding localities."
+      "q": "Do your technicians cover Karur Town for Hisense TV service?",
+      "a": "We provide on-site service coverage throughout Karur Town, Kovai Road, and all surrounding localities."
     },
     {
       "q": "How much do you charge for Hisense ULED backlight repair?",
@@ -1145,11 +1145,11 @@ const allBrandFaqs = {
       "a": "Buzzing sound from Hisense Tornado soundbars is cured by repairing or replacing the integrated acoustic drivers directly at your home."
     },
     {
-      "q": "Is Hisense TV technician service available on weekends in Dindigul?",
-      "a": "Yes, our Hisense TV repair technicians are on duty seven days a week between 8:00 AM and 8:30 PM in Dindigul."
+      "q": "Is Hisense TV technician service available on weekends in Karur?",
+      "a": "Yes, our Hisense TV repair technicians are on duty seven days a week between 8:00 AM and 8:30 PM in Karur."
     },
     {
-      "q": "What is the procedure to schedule a Hisense TV technician visit in Dindigul?",
+      "q": "What is the procedure to schedule a Hisense TV technician visit in Karur?",
       "a": "Reach our customer desk via call or WhatsApp, describe your Hisense TV issue, and arrange a home visit."
     }
   ],
@@ -1159,15 +1159,15 @@ const allBrandFaqs = {
       "a": "Lightning and voltage surges frequently damage the input varistor, fuse, or bridge rectifier on the BPL power board. Our technician repairs the power circuit on-site to restore power."
     },
     {
-      "q": "Can BPL TV backlight strips be replaced at home in Dindigul?",
+      "q": "Can BPL TV backlight strips be replaced at home in Karur?",
       "a": "Yes. Our technician carries model-matched backlight arrays for BPL 32-inch, 43-inch, and 50-inch televisions and completes installation in front of you."
     },
     {
-      "q": "Can I get BPL TV repair near Nehruji Nagar in Dindigul?",
-      "a": "Technicians are available for home visits around Nehruji Nagar, Begampur, and adjacent Dindigul sectors."
+      "q": "Can I get BPL TV repair near Sukkaliyur in Karur?",
+      "a": "Technicians are available for home visits around Sukkaliyur, Thanthonimalai, and adjacent Karur sectors."
     },
     {
-      "q": "What is the cost of BPL LED TV backlight replacement in Dindigul?",
+      "q": "What is the cost of BPL LED TV backlight replacement in Karur?",
       "a": "BPL Stellar backlight replacement usually ranges between ₹1,200 and ₹3,200 depending on whether you have an HD Ready or Full HD model."
     },
     {
@@ -1195,11 +1195,11 @@ const allBrandFaqs = {
       "a": "Muffled audio on BPL televisions is eliminated by installing fresh stereo speaker drivers, restoring clean dialogue for daily viewing."
     },
     {
-      "q": "Does your team repair BPL televisions on Sundays in Nehruji Nagar?",
-      "a": "Yes, Sunday repair appointments for BPL televisions are regularly scheduled across Nehruji Nagar and Dindigul Town."
+      "q": "Does your team repair BPL televisions on Sundays in Sukkaliyur?",
+      "a": "Yes, Sunday repair appointments for BPL televisions are regularly scheduled across Sukkaliyur and Karur Town."
     },
     {
-      "q": "How do I book a BPL TV doorstep service call in Dindigul?",
+      "q": "How do I book a BPL TV doorstep service call in Karur?",
       "a": "Call +91 94420 54321 or click WhatsApp to share your BPL TV symptoms and confirm a technician visit."
     }
   ],
@@ -1213,8 +1213,8 @@ const allBrandFaqs = {
       "a": "Cabinet vibration or torn voice coils in the integrated soundbar cause loud rattling on bass. Our technician replaces the acoustic drivers with genuine-spec units to restore cinema sound."
     },
     {
-      "q": "Where can I book Vu Glo TV doorstep service in Palani Road?",
-      "a": "You can schedule a doorstep inspection along Palani Road and RM Colony with our local service desk."
+      "q": "Where can I book Vu Glo TV doorstep service in Kovai Road?",
+      "a": "You can schedule a doorstep inspection along Kovai Road and Pasupathipalayam with our local service desk."
     },
     {
       "q": "How much does Vu Glo QLED backlight strip replacement cost?",
@@ -1245,11 +1245,11 @@ const allBrandFaqs = {
       "a": "Vibrating rattle on Vu Glo televisions is resolved by replacing the 40W soundbar acoustic drivers with genuine-spec units on-site."
     },
     {
-      "q": "Can I schedule Vu Glo TV repair on Sunday afternoon in Palani Road?",
-      "a": "Yes, you can schedule Sunday afternoon service for Vu Glo televisions along Palani Road with our local helpline."
+      "q": "Can I schedule Vu Glo TV repair on Sunday afternoon in Kovai Road?",
+      "a": "Yes, you can schedule Sunday afternoon service for Vu Glo televisions along Kovai Road with our local helpline."
     },
     {
-      "q": "What is the quickest way to request Vu Glo TV repair in Dindigul?",
+      "q": "What is the quickest way to request Vu Glo TV repair in Karur?",
       "a": "Tap the Call or WhatsApp button to provide your Vu TV model details and book a doorstep service appointment."
     }
   ],
@@ -1259,19 +1259,19 @@ const allBrandFaqs = {
       "a": "A 4-blink error on Lloyd televisions indicates a secondary voltage cutoff or backlight inverter fault detected by the system. Our technician measures power board rails on-site to replace the failed part."
     },
     {
-      "q": "Can Lloyd Smart TV Wi-Fi connection problems be checked at home in Dindigul?",
+      "q": "Can Lloyd Smart TV Wi-Fi connection problems be checked at home in Karur?",
       "a": "Yes. If your Lloyd TV cannot detect wireless networks or disconnects during YouTube streaming, our technician tests the internal wireless card and checks antenna continuity."
     },
     {
-      "q": "Is Lloyd TV repair available at home in Begampur, Dindigul?",
-      "a": "Yes, doorstep service for Lloyd televisions is available in Begampur, Nagal Nagar, and throughout Dindigul."
+      "q": "Is Lloyd TV repair available at home in Thanthonimalai, Karur?",
+      "a": "Yes, doorstep service for Lloyd televisions is available in Thanthonimalai, Kagithapuramam, and throughout Karur."
     },
     {
       "q": "What is the price of Lloyd Smart TV backlight replacement?",
       "a": "Lloyd Smart TV backlight replacement generally ranges between ₹1,400 and ₹3,800 based on whether your TV is an HD Ready or Novante 4K model."
     },
     {
-      "q": "Is Lloyd Havells Micro Dimming power board repair available in Dindigul?",
+      "q": "Is Lloyd Havells Micro Dimming power board repair available in Karur?",
       "a": "Yes, Lloyd Havells power units are serviced at component level by replacing shorted secondary diodes and capacitors."
     },
     {
@@ -1295,11 +1295,11 @@ const allBrandFaqs = {
       "a": "Harsh audio buzz on Lloyd televisions is fixed by replacing the front-firing speaker drivers with fresh matched units for clear speech."
     },
     {
-      "q": "Is Lloyd TV doorstep service available seven days a week in Dindigul?",
-      "a": "Yes, Lloyd TV doorstep repairs operate seven days a week across Begampur, Nagal Nagar, and all Dindigul sectors."
+      "q": "Is Lloyd TV doorstep service available seven days a week in Karur?",
+      "a": "Yes, Lloyd TV doorstep repairs operate seven days a week across Thanthonimalai, Kagithapuramam, and all Karur sectors."
     },
     {
-      "q": "How can I schedule a Lloyd TV technician visit in Dindigul?",
+      "q": "How can I schedule a Lloyd TV technician visit in Karur?",
       "a": "Simply contact our local desk via call or WhatsApp with your Lloyd TV model to schedule a home visit."
     }
   ],
@@ -1313,11 +1313,11 @@ const allBrandFaqs = {
       "a": "Yes. VW televisions use cost-effective combo logic boards where power regulators, sound amplifier chips, and display circuits can be serviced at component level."
     },
     {
-      "q": "Do you service VW televisions in Spencer Compound area?",
-      "a": "Our technicians visit residences in Spencer Compound, Round Road, and all surrounding Dindigul areas."
+      "q": "Do you service VW televisions in Thorakkalpatti area?",
+      "a": "Our technicians visit residences in Thorakkalpatti, Sengunthapuram, and all surrounding Karur areas."
     },
     {
-      "q": "What is the charge for VW TV backlight strip repair in Dindigul?",
+      "q": "What is the charge for VW TV backlight strip repair in Karur?",
       "a": "VW Playwall backlight strip repair typically costs between ₹1,150 and ₹3,000 depending on whether you own a 32-inch or 43-inch frameless screen."
     },
     {
@@ -1345,11 +1345,11 @@ const allBrandFaqs = {
       "a": "Severe speaker rattle on VW televisions is eliminated by installing new stereo acoustic drivers, restoring clean volume for movies."
     },
     {
-      "q": "Can I get VW TV repair on Sunday in Spencer Compound?",
-      "a": "Yes, technicians are available for Sunday VW television inspections in Spencer Compound and nearby areas."
+      "q": "Can I get VW TV repair on Sunday in Thorakkalpatti?",
+      "a": "Yes, technicians are available for Sunday VW television inspections in Thorakkalpatti and nearby areas."
     },
     {
-      "q": "What is the procedure to book VW TV repair in Dindigul?",
+      "q": "What is the procedure to book VW TV repair in Karur?",
       "a": "Reach our customer team by phone or WhatsApp, describe your VW TV problem, and confirm a visit slot."
     }
   ],
@@ -1359,12 +1359,12 @@ const allBrandFaqs = {
       "a": "System file corruption or an interrupted software update can trap Acerpure TVs in a boot loop. Our technician clears cache partitions or performs firmware recovery at your home."
     },
     {
-      "q": "Can Acerpure frameless LED TV backlight problems be repaired in Dindigul?",
+      "q": "Can Acerpure frameless LED TV backlight problems be repaired in Karur?",
       "a": "Yes. Our technician installs model-matched backlight arrays for Acerpure Life and Aspire series televisions directly at your doorstep."
     },
     {
-      "q": "Can an Acerpure TV technician visit my home in Balakrishnapuram?",
-      "a": "Home visits for Acerpure televisions can be scheduled across Balakrishnapuram, RM Colony, and nearby streets."
+      "q": "Can an Acerpure TV technician visit my home in Inam Karur?",
+      "a": "Home visits for Acerpure televisions can be scheduled across Inam Karur, Pasupathipalayam, and nearby streets."
     },
     {
       "q": "What is the cost to replace Acerpure TV backlight strips?",
@@ -1395,11 +1395,11 @@ const allBrandFaqs = {
       "a": "Vibrating dialogue on Acerpure TVs is resolved by replacing the internal acoustic drivers with fresh units for balanced voice clarity."
     },
     {
-      "q": "Does your team service Acerpure televisions on weekends in Dindigul?",
-      "a": "Yes, our team provides Acerpure TV service on weekends and festival holidays throughout Dindigul."
+      "q": "Does your team service Acerpure televisions on weekends in Karur?",
+      "a": "Yes, our team provides Acerpure TV service on weekends and festival holidays throughout Karur."
     },
     {
-      "q": "How do I arrange an Acerpure TV inspection visit in Dindigul?",
+      "q": "How do I arrange an Acerpure TV inspection visit in Karur?",
       "a": "Click Call or WhatsApp on this page, share your Acerpure TV details, and book a doorstep inspection."
     }
   ],
@@ -1413,8 +1413,8 @@ const allBrandFaqs = {
       "a": "High-decibel output can loosen speaker mounts or fatigue the cone material over time. Our technician replaces the speaker units with matched drivers to eliminate buzz."
     },
     {
-      "q": "Where in Nagal Nagar can I get Redmi TV repair service?",
-      "a": "Doorstep service for Redmi televisions is readily available across Nagal Nagar, Palani Road, and Dindigul Town."
+      "q": "Where in Kagithapuramam can I get Redmi TV repair service?",
+      "a": "Doorstep service for Redmi televisions is readily available across Kagithapuramam, Kovai Road, and Karur Town."
     },
     {
       "q": "How much does Redmi X-Series backlight replacement cost?",
@@ -1445,11 +1445,11 @@ const allBrandFaqs = {
       "a": "Harsh buzzing on Redmi TVs is cured by installing fresh 30W stereo drivers, restoring punchy dialogue without vibration."
     },
     {
-      "q": "Can I schedule Redmi TV repair on Sunday in Nagal Nagar?",
-      "a": "Yes, Sunday repair appointments for Redmi televisions can be booked in Nagal Nagar and across Dindigul."
+      "q": "Can I schedule Redmi TV repair on Sunday in Kagithapuramam?",
+      "a": "Yes, Sunday repair appointments for Redmi televisions can be booked in Kagithapuramam and across Karur."
     },
     {
-      "q": "What is the easiest way to book Redmi TV repair in Dindigul?",
+      "q": "What is the easiest way to book Redmi TV repair in Karur?",
       "a": "Simply call +91 94420 54321 or tap WhatsApp, mention your Redmi TV symptoms, and choose your visit time."
     }
   ],
@@ -1459,19 +1459,19 @@ const allBrandFaqs = {
       "a": "In Mi Horizon Edition TVs, burnt backlight diodes shut off screen lighting while the audio continues. Our technician installs factory-spaced backlight strips to restore edge-to-edge illumination."
     },
     {
-      "q": "How do you repair Mi TV PatchWall eMMC flash memory errors in Dindigul?",
+      "q": "How do you repair Mi TV PatchWall eMMC flash memory errors in Karur?",
       "a": "When a Mi TV cannot boot past the logo or apps freeze constantly, our technician tests the eMMC storage chip, rewrites system partitions, or replaces the memory IC."
     },
     {
-      "q": "Is Mi Horizon TV doorstep repair offered around RM Colony?",
-      "a": "Yes, our local technicians travel directly to RM Colony, Begampur, and all 60 residential localities in Dindigul."
+      "q": "Is Mi Horizon TV doorstep repair offered around Pasupathipalayam?",
+      "a": "Yes, our local technicians travel directly to Pasupathipalayam, Thanthonimalai, and all 60 residential localities in Karur."
     },
     {
       "q": "What is the charge for Mi Horizon TV backlight strip repair?",
       "a": "Mi Horizon Edition backlight repair typically ranges from ₹1,300 to ₹3,500 depending on whether you own a 32-inch or 43-inch bezel-less TV."
     },
     {
-      "q": "Is Mi Horizon combo power board repair available on-site in Dindigul?",
+      "q": "Is Mi Horizon combo power board repair available on-site in Karur?",
       "a": "Yes, Mi Horizon combo power boards are serviced at component level by replacing failed rectifier diodes and capacitors."
     },
     {
@@ -1499,7 +1499,7 @@ const allBrandFaqs = {
       "a": "Yes, Mi Horizon TV home visits are arranged on public holidays and Sundays between 8:00 AM and 8:30 PM."
     },
     {
-      "q": "How can I request a Mi Horizon TV service visit in Dindigul?",
+      "q": "How can I request a Mi Horizon TV service visit in Karur?",
       "a": "Reach out via Call or WhatsApp with your Mi Horizon TV model code to book a convenient doorstep visit."
     }
   ],
@@ -1513,8 +1513,8 @@ const allBrandFaqs = {
       "a": "This symptom indicates burnt LED backlight strips. The audio processor and WebOS motherboard are working normally, but the screen illumination has failed. We replace the strips on-site."
     },
     {
-      "q": "Do you provide Hyundai WebOS TV repair across Dindigul Town?",
-      "a": "We handle doorstep repairs for Hyundai televisions across Dindigul Town, Nagal Nagar, and surrounding neighborhoods."
+      "q": "Do you provide Hyundai WebOS TV repair across Karur Town?",
+      "a": "We handle doorstep repairs for Hyundai televisions across Karur Town, Kagithapuramam, and surrounding neighborhoods."
     },
     {
       "q": "How much does Hyundai WebOS TV backlight replacement cost?",
@@ -1545,11 +1545,11 @@ const allBrandFaqs = {
       "a": "Jarring vibration on Hyundai WebOS TVs is resolved by replacing the internal box stereo drivers with fresh units for clear speech."
     },
     {
-      "q": "Does Hyundai WebOS TV repair operate seven days a week in Dindigul?",
-      "a": "Yes, our Hyundai TV repair service operates seven days a week across Dindigul Town and surrounding neighborhoods."
+      "q": "Does Hyundai WebOS TV repair operate seven days a week in Karur?",
+      "a": "Yes, our Hyundai TV repair service operates seven days a week across Karur Town and surrounding neighborhoods."
     },
     {
-      "q": "How do I schedule a Hyundai WebOS TV technician visit in Dindigul?",
+      "q": "How do I schedule a Hyundai WebOS TV technician visit in Karur?",
       "a": "Tap the Call button or message on WhatsApp to share your Hyundai TV fault and confirm an on-site appointment."
     }
   ]

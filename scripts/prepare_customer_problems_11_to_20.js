@@ -14,7 +14,7 @@ const expandedBrandProblems = {
     },
     {
       quote: "Anti-corrosive Blue Fin coil mela heavy dust adanjirukku",
-      text: "Godrej Blue Fin outdoor condenser unit mela Dindigul roadside dust full-aa adanju cooling kuranjuduchu nu solluvanga. Outdoor fin heat rejection block aana compressor overload trip aagum. Technician pressurized water jet wash panni fins deep clean panni, compressor load reduce panni chilling restore panni tharuvanga."
+      text: "Godrej Blue Fin outdoor condenser unit mela Karur roadside dust full-aa adanju cooling kuranjuduchu nu solluvanga. Outdoor fin heat rejection block aana compressor overload trip aagum. Technician pressurized water jet wash panni fins deep clean panni, compressor load reduce panni chilling restore panni tharuvanga."
     },
     {
       quote: "Outdoor unit run aagum bodhu humming and buzzing sound",

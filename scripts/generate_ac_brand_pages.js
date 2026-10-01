@@ -13,7 +13,7 @@ if (!fs.existsSync(acDir)) {
 
 const { generateBrandLocalitiesHtml } = require('./generate_locality_cards');
 
-// Function to generate the "Other AC Brands Service in Dindigul" section
+// Function to generate the "Other AC Brands Service in Karur" section
 // for brand pages inside the AC folder (peer links)
 function generatePeerBrandsGridHtml(currentBrandSlug) {
   const brandCards = allBrands.map(b => {
@@ -21,24 +21,24 @@ function generatePeerBrandsGridHtml(currentBrandSlug) {
     if (isCurrent) {
       return `        <div class="service-card" style="border: 2px solid var(--accent-blue); background: #f0f7ff; padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--accent-blue); margin-bottom: 0.35rem;">${b.name} AC Service</h3>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Currently viewing ${b.name} AC repair & service guide for Dindigul.</p>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Currently viewing ${b.name} AC repair & service guide for Karur.</p>
           <span style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue);">Active Page</span>
         </div>`;
     }
     return `        <a href="${b.slug}" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">${b.name} AC Service</h3>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${b.name} split, inverter & window AC repair in Dindigul.</p>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${b.name} split, inverter & window AC repair in Karur.</p>
           <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent-blue);">View ${b.name} Service →</span>
         </a>`;
   }).join('\n');
 
-  return `  <!-- Other AC Brands Service in Dindigul -->
+  return `  <!-- Other AC Brands Service in Karur -->
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>AC Brands Service in Dindigul (All 29 Brands)</h2>
+        <h2>AC Brands Service in Karur (All 29 Brands)</h2>
         <p>
-          Dindigul-la different AC brands-ku repair, service, cleaning, gas checking, installation and common AC problems-ku support available. Check brand-specific service information below:
+          Karur-la different AC brands-ku repair, service, cleaning, gas checking, installation and common AC problems-ku support available. Check brand-specific service information below:
         </p>
       </div>
 
@@ -47,32 +47,32 @@ ${brandCards}
       </div>
 
       <div style="text-align: center; margin-top: 2rem;">
-        <a href="../ac-repair-service-in-dindigul.html" class="btn-primary-call sync-call" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.75rem 1.75rem;">
-          <span>← Back to All AC Repair Services in Dindigul</span>
+        <a href="../ac-repair-service-in-karur.html" class="btn-primary-call sync-call" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.75rem 1.75rem;">
+          <span>← Back to All AC Repair Services in Karur</span>
         </a>
       </div>
     </div>
   </section>`;
 }
 
-// Function to generate the "AC Brands Service in Dindigul" section
+// Function to generate the "AC Brands Service in Karur" section
 // for the main landing page (root level linking to ac/)
 function generateRootBrandsGridHtml() {
   const brandCards = allBrands.map(b => {
     return `        <a href="ac/${b.slug}" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">${b.name} AC Service</h3>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${b.name} split, inverter & window AC repair in Dindigul.</p>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${b.name} split, inverter & window AC repair in Karur.</p>
           <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent-blue);">View ${b.name} Service →</span>
         </a>`;
   }).join('\n');
 
-  return `  <!-- 14. Supported AC Brands in Dindigul (All 29 Unique Brands) -->
+  return `  <!-- 14. Supported AC Brands in Karur (All 29 Unique Brands) -->
   <section class="section" id="acBrandsSection">
     <div class="container">
       <div class="section-header">
-        <h2>AC Brands Service in Dindigul (All 29 Brands)</h2>
+        <h2>AC Brands Service in Karur (All 29 Brands)</h2>
         <p>
-          Dindigul-la all major AC brands-ku doorstep inspection, cooling repair, deep jet wash, gas recharging and spare parts support kedaikkum. Select your AC brand to view brand-specific service details and pricing:
+          Karur-la all major AC brands-ku doorstep inspection, cooling repair, deep jet wash, gas recharging and spare parts support kedaikkum. Select your AC brand to view brand-specific service details and pricing:
         </p>
       </div>
 
@@ -87,7 +87,7 @@ ${brandCards}
 function generateBrandPage(brand) {
   const brandSlug = brand.slug;
   const brandName = brand.name;
-  const waText = encodeURIComponent(`Hello, I need ${brandName} AC repair service in Dindigul. Please share technician visit details.`);
+  const waText = encodeURIComponent(`Hello, I need ${brandName} AC repair service in Karur. Please share technician visit details.`);
 
   // AC Types HTML - Enriched with search terms, common problems, relevant parts, and simple explanations
   const acTypesHtml = brand.acTypes.map(t => {
@@ -202,13 +202,13 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${brand.metaTitle}</title>
   <meta name="description" content="${brand.metaDesc}">
-  <link rel="canonical" href="https://servicecenterdindigul.com/ac/${brand.slug}">
+  <link rel="canonical" href="https://servicecenterkarur.com/ac/${brand.slug}">
   
   <meta property="og:type" content="article">
-  <meta property="og:url" content="https://servicecenterdindigul.com/ac/${brand.slug}">
+  <meta property="og:url" content="https://servicecenterkarur.com/ac/${brand.slug}">
   <meta property="og:title" content="${brand.metaTitle}">
   <meta property="og:description" content="${brand.metaDesc}">
-  <meta property="og:site_name" content="Service Center Dindigul">
+  <meta property="og:site_name" content="Service Center Karur">
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -220,26 +220,26 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "${brandName} AC Repair Service in Dindigul",
+    "name": "${brandName} AC Repair Service in Karur",
     "serviceType": "${brandName} Air Conditioner Repair & Service",
     "provider": {
       "@type": "HomeAndConstructionBusiness",
-      "name": "Service Center Dindigul",
+      "name": "Service Center Karur",
       "telephone": "+919442054321",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Road, Near Nagal Nagar & RM Colony",
-        "addressLocality": "Dindigul",
+        "streetAddress": "Jawahar Bazaar, Kovai Road, Near Bus Stand",
+        "addressLocality": "Karur",
         "addressRegion": "Tamil Nadu",
-        "postalCode": "624001",
+        "postalCode": "639001",
         "addressCountry": "IN"
       }
     },
     "areaServed": {
       "@type": "City",
-      "name": "Dindigul"
+      "name": "Karur"
     },
-    "description": "Doorstep inspection, troubleshooting, repair, and general service for ${brandName} split, inverter, and window air conditioners in Dindigul, Tamil Nadu."
+    "description": "Doorstep inspection, troubleshooting, repair, and general service for ${brandName} split, inverter, and window air conditioners in Karur, Tamil Nadu."
   }
   </script>
 </head>
@@ -248,25 +248,25 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
   <!-- Site Header -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="../index.html" class="brand-logo" title="Service Center Dindigul Homepage">
+      <a href="../index.html" class="brand-logo" title="Service Center Karur Homepage">
         <div class="brand-icon">
           <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
           </svg>
         </div>
         <div class="brand-title">
-          <span class="brand-name">Service Center Dindigul</span>
+          <span class="brand-name">Service Center Karur</span>
           <span class="brand-loc">Local Appliance Care</span>
         </div>
       </a>
 
       <nav class="main-nav" id="mainNav" aria-label="Main Navigation">
         <a href="../index.html">Home</a>
-        <a href="../ac-repair-service-in-dindigul.html" class="active">AC Repair</a>
-        <a href="../refrigerator-repair-service-in-dindigul.html">Fridge Repair</a>
-        <a href="../washing-machine-repair-service-in-dindigul.html">Washing Machine</a>
-        <a href="../tv-repair-service-in-dindigul.html">TV Repair</a>
-        <a href="../microwave-repair-service-in-dindigul.html">Microwave</a>
+        <a href="../ac-repair-service-in-karur.html" class="active">AC Repair</a>
+        <a href="../refrigerator-repair-service-in-karur.html">Fridge Repair</a>
+        <a href="../washing-machine-repair-service-in-karur.html">Washing Machine</a>
+        <a href="../tv-repair-service-in-karur.html">TV Repair</a>
+        <a href="../microwave-repair-service-in-karur.html">Microwave</a>
       </nav>
 
       <div class="header-actions">
@@ -289,8 +289,8 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
     <div class="container">
       <ol>
         <li><a href="../index.html">Home</a></li>
-        <li><a href="../ac-repair-service-in-dindigul.html">AC Repair</a></li>
-        <li aria-current="page">${brandName} AC Repair Service in Dindigul</li>
+        <li><a href="../ac-repair-service-in-karur.html">AC Repair</a></li>
+        <li aria-current="page">${brandName} AC Repair Service in Karur</li>
       </ol>
     </div>
   </div>
@@ -301,10 +301,10 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
       <div class="hero-content">
         <div class="trust-badge-pill">
           <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
-          <span>Doorstep ${brandName} AC Service in Dindigul</span>
+          <span>Doorstep ${brandName} AC Service in Karur</span>
         </div>
         
-        <h1>${brandName} AC Repair Service in Dindigul</h1>
+        <h1>${brandName} AC Repair Service in Karur</h1>
         
         <p class="hero-lead">
           ${brand.heroSubtitle}
@@ -339,7 +339,7 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
           </div>
           <div class="stat-item">
             <span class="stat-num">60</span>
-            <span class="stat-lbl">Dindigul Localities Served</span>
+            <span class="stat-lbl">Karur Localities Served</span>
           </div>
         </div>
       </div>
@@ -347,13 +347,13 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
       <div class="hero-card-panel">
         <div class="booking-card">
           <h3>Need Quick ${brandName} AC Service?</h3>
-          <p>Technician checks the AC at your home in Dindigul. Share your AC problem:</p>
+          <p>Technician checks the AC at your home in Karur. Share your AC problem:</p>
           
           <div class="quick-callout">
             <div class="callout-icon">⚡</div>
             <div class="callout-text">
               <strong>Same-Day Inspection Available</strong>
-              <span>Available across Nagal Nagar, RM Colony, Palani Road & all Dindigul areas.</span>
+              <span>Available across Kagithapuramam, Pasupathipalayam, Kovai Road & all Karur areas.</span>
             </div>
           </div>
 
@@ -396,7 +396,7 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
     <div class="container">
       <div class="section-header">
         <h2>${brand.tagline}</h2>
-        <p>Local technician support for ${brandName} air conditioners in Dindigul, Tamil Nadu</p>
+        <p>Local technician support for ${brandName} air conditioners in Karur, Tamil Nadu</p>
       </div>
 
       <div class="about-grid">
@@ -413,7 +413,7 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
         </div>
         <div class="about-highlights">
           <div class="highlight-card">
-            <h4>Dindigul Climate & ${brandName} ACs</h4>
+            <h4>Karur climate & ${brandName} ACs</h4>
             <p>${brand.climateContext}</p>
           </div>
           <div class="highlight-card" style="margin-top: 1rem;">
@@ -430,7 +430,7 @@ ${t.points.map(p => `            <li>${p}</li>`).join('\n')}
     <div class="container">
       <div class="section-header">
         <h2>Common ${brandName} AC Problems We Check</h2>
-        <p>Quick breakdown of frequent ${brandName} air conditioner issues checked during technician visits in Dindigul:</p>
+        <p>Quick breakdown of frequent ${brandName} air conditioner issues checked during technician visits in Karur:</p>
       </div>
 
       <div class="problem-grid">
@@ -443,8 +443,8 @@ ${commonProblemsHtml}
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>${brandName} AC Services in Dindigul</h2>
-        <p>Doorstep checking, cleaning, repair, and refrigerant filling for ${brandName} air conditioners in Dindigul:</p>
+        <h2>${brandName} AC Services in Karur</h2>
+        <p>Doorstep checking, cleaning, repair, and refrigerant filling for ${brandName} air conditioners in Karur:</p>
       </div>
 
       <div class="services-grid">
@@ -458,7 +458,7 @@ ${servicesHtml}
     <div class="container">
       <div class="section-header">
         <h2>${brandName} Air Conditioner Types We Service</h2>
-        <p>We check and repair your AC based on the problem and AC model. Below are the common ${brandName} AC types serviced in Dindigul:</p>
+        <p>We check and repair your AC based on the problem and AC model. Below are the common ${brandName} AC types serviced in Karur:</p>
       </div>
 
       <div class="types-grid">
@@ -471,8 +471,8 @@ ${acTypesHtml}
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Common ${brandName} AC Problems During Summer in Dindigul</h2>
-        <p>During the intense peak heat months in Dindigul, these are the most frequent issues households report:</p>
+        <h2>Common ${brandName} AC Problems During Summer in Karur</h2>
+        <p>During the intense peak heat months in Karur, these are the most frequent issues households report:</p>
       </div>
 
       <div class="problem-grid">
@@ -485,7 +485,7 @@ ${summerProblemsHtml}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Why Regular ${brandName} AC Service Is Important in Dindigul</h2>
+        <h2>Why Regular ${brandName} AC Service Is Important in Karur</h2>
         <p>Seasonal servicing keeps your AC running cold and protects important electrical parts:</p>
       </div>
 
@@ -499,8 +499,8 @@ ${whyServiceHtml}
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>${brandName} AC Service & Spare Parts Price in Dindigul</h2>
-        <p>Direct, transparent rates for ${brandName} air conditioner repair and replacement parts. Our displayed service and parts rates are approximately 20% lower than typical market reference prices in Dindigul:</p>
+        <h2>${brandName} AC Service & Spare Parts Price in Karur</h2>
+        <p>Direct, transparent rates for ${brandName} air conditioner repair and replacement parts. Our displayed service and parts rates are approximately 20% lower than typical market reference prices in Karur:</p>
       </div>
 
       <div class="content-table-wrapper" style="overflow-x: auto;">
@@ -535,7 +535,7 @@ ${partsPricingRows}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>${brandName} AC Gas Filling & Leak Repair Price in Dindigul</h2>
+        <h2>${brandName} AC Gas Filling & Leak Repair Price in Karur</h2>
         <p>Accurate manifold pressure testing and refrigerant charging rates for ${brandName} split and window ACs:</p>
       </div>
 
@@ -569,7 +569,7 @@ ${gasPricingRows}
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>${brandName} AC Service Breakdown in Dindigul</h2>
+        <h2>${brandName} AC Service Breakdown in Karur</h2>
         <p>Know exactly what is included in each service visit and what may involve separate replacement costs:</p>
       </div>
 
@@ -628,7 +628,7 @@ ${gasPricingRows}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>How Much Does ${brandName} AC Repair Cost in Dindigul?</h2>
+        <h2>How Much Does ${brandName} AC Repair Cost in Karur?</h2>
         <p>Our clear step-by-step checking process before any repair work starts:</p>
       </div>
 
@@ -715,7 +715,7 @@ ${gasPricingRows}
 
       <!-- Maintenance Tips -->
       <div class="info-callout" style="margin-top: 2rem; margin-bottom: 0;">
-        <h3>Simple ${brandName} AC Maintenance Tips for Dindigul Homes</h3>
+        <h3>Simple ${brandName} AC Maintenance Tips for Karur homes</h3>
         <p style="margin-bottom: 0.75rem;">Keep your air conditioner running smoothly with these practical practices:</p>
         <ul style="list-style: disc; padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-muted); line-height: 1.6; margin: 0;">
           <li><strong>Clean air filters every 2–3 weeks:</strong> Remove the front plastic mesh filters, wash under running tap water, dry in shade, and reinsert.</li>
@@ -734,7 +734,7 @@ ${gasPricingRows}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Supported ${brandName} AC Series & Models in Dindigul</h2>
+        <h2>Supported ${brandName} AC Series & Models in Karur</h2>
         <p>Doorstep checking, repair, and servicing support across all leading ${brandName} residential cooling models:</p>
       </div>
 
@@ -752,12 +752,12 @@ ${seriesPillsHtml}
     </div>
   </section>
 
-  <!-- 15. Dindigul Locality Coverage (60 Genuine Localities) -->
+  <!-- 15. Karur Locality Coverage (60 Genuine Localities) -->
   <section class="section section-bg-muted" id="localitiesSection">
     <div class="container">
       <div class="section-header">
-        <h2>${brandName} AC Repair Coverage Across Dindigul Areas (60 Localities)</h2>
-        <p>Technician visits for ${brandName} split and window air conditioners are available across these Dindigul localities:</p>
+        <h2>${brandName} AC Repair Coverage Across Karur areas (60 Localities)</h2>
+        <p>Technician visits for ${brandName} split and window air conditioners are available across these Karur localities:</p>
       </div>
 
       <div class="localities-grid-expanded">
@@ -770,8 +770,8 @@ ${localitiesInnerHtml}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Customer Experiences & Common Questions in Dindigul</h2>
-        <p>Real-life feedback and common situations shared by ${brandName} AC owners across Dindigul:</p>
+        <h2>Customer Experiences & Common Questions in Karur</h2>
+        <p>Real-life feedback and common situations shared by ${brandName} AC owners across Karur:</p>
       </div>
 
       <div class="experience-grid">
@@ -784,7 +784,7 @@ ${customerProblemsHtml}
   <section class="section section-bg-muted" id="faqSection">
     <div class="container">
       <div class="section-header">
-        <h2>Frequently Asked Questions — ${brandName} AC Repair in Dindigul</h2>
+        <h2>Frequently Asked Questions — ${brandName} AC Repair in Karur</h2>
         <p>Clear answers to common questions about ${brandName} air conditioner servicing, charges, and doorstep visits:</p>
       </div>
 
@@ -799,9 +799,9 @@ ${otherBrandsSectionHtml}
   <!-- Final CTA Section -->
   <section class="section" style="background: linear-gradient(135deg, var(--primary-color) 0%, #0f172a 100%); color: #ffffff; text-align: center; padding: 3.5rem 1rem;">
     <div class="container" style="max-width: 720px;">
-      <h2 style="color: #ffffff; font-size: 2rem; margin-bottom: 1rem;">Book Doorstep ${brandName} AC Service in Dindigul</h2>
+      <h2 style="color: #ffffff; font-size: 2rem; margin-bottom: 1rem;">Book Doorstep ${brandName} AC Service in Karur</h2>
       <p style="color: #cbd5e1; font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
-        Get your ${brandName} split or window AC checked at your doorstep in Dindigul. Fast technician scheduling, honest problem checking, and ~20% lower rates.
+        Get your ${brandName} split or window AC checked at your doorstep in Karur. Fast technician scheduling, honest problem checking, and ~20% lower rates.
       </p>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
         <a href="tel:+919442054321" class="btn-primary-call sync-call" style="background: var(--accent-orange); color: #ffffff; padding: 0.85rem 2rem; font-size: 1.05rem; text-decoration: none; border-radius: var(--radius-sm); font-weight: 700; display: inline-flex; align-items: center; gap: 0.5rem;">
@@ -822,15 +822,15 @@ ${otherBrandsSectionHtml}
       <div class="footer-grid">
         <div class="footer-col footer-col-wide">
           <div class="footer-logo">
-            <span class="brand-name">Service Center Dindigul</span>
+            <span class="brand-name">Service Center Karur</span>
             <span class="brand-loc">Local Appliance Care</span>
           </div>
           <p>
-            Local doorstep repair and inspection service for home appliances across Dindigul, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
+            Local doorstep repair and inspection service for home appliances across Karur, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
           </p>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-            <span>Main Road, Nagal Nagar & RM Colony, Dindigul, Tamil Nadu 624001</span>
+            <span>Main Road, Kagithapuramam & Pasupathipalayam, Karur, Tamil Nadu 639001</span>
           </div>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
@@ -841,22 +841,22 @@ ${otherBrandsSectionHtml}
         <div class="footer-col">
           <h4>Repair Services</h4>
           <ul class="footer-links">
-            <li><a href="../ac-repair-service-in-dindigul.html">AC Repair & Service</a></li>
-            <li><a href="../refrigerator-repair-service-in-dindigul.html">Refrigerator / Fridge Repair</a></li>
-            <li><a href="../washing-machine-repair-service-in-dindigul.html">Washing Machine Repair</a></li>
-            <li><a href="../tv-repair-service-in-dindigul.html">TV Repair & Service</a></li>
-            <li><a href="../microwave-repair-service-in-dindigul.html">Microwave Oven Repair</a></li>
+            <li><a href="../ac-repair-service-in-karur.html">AC Repair & Service</a></li>
+            <li><a href="../refrigerator-repair-service-in-karur.html">Refrigerator / Fridge Repair</a></li>
+            <li><a href="../washing-machine-repair-service-in-karur.html">Washing Machine Repair</a></li>
+            <li><a href="../tv-repair-service-in-karur.html">TV Repair & Service</a></li>
+            <li><a href="../microwave-repair-service-in-karur.html">Microwave Oven Repair</a></li>
           </ul>
         </div>
 
         <div class="footer-col">
-          <h4>Dindigul Coverage</h4>
+          <h4>Karur Coverage</h4>
           <ul class="footer-links">
-            <li><a href="../index.html#localitiesSection">Nagal Nagar & RM Colony</a></li>
-            <li><a href="../index.html#localitiesSection">Begampur & Town Center</a></li>
-            <li><a href="../index.html#localitiesSection">Seelapadi & Balakrishnapuram</a></li>
-            <li><a href="../index.html#localitiesSection">Palani Road & Adiyanuthu</a></li>
-            <li><a href="../index.html#localitiesSection">Batlagundu, Natham & Oddanchatram</a></li>
+            <li><a href="../index.html#localitiesSection">Kagithapuramam & Pasupathipalayam</a></li>
+            <li><a href="../index.html#localitiesSection">Thanthonimalai & Town Center</a></li>
+            <li><a href="../index.html#localitiesSection">Vengamedu & Inam Karur</a></li>
+            <li><a href="../index.html#localitiesSection">Kovai Road & Sanapiratti</a></li>
+            <li><a href="../index.html#localitiesSection">Velayuthampalayam, Pugalur & Aravakurichi</a></li>
           </ul>
         </div>
 
@@ -878,7 +878,7 @@ ${otherBrandsSectionHtml}
       </div>
 
       <div class="footer-copy">
-        <div>© 2026 servicecenterdindigul.com — Local Home Appliance Repair in Dindigul.</div>
+        <div>© 2026 servicecenterkarur.com — Local Home Appliance Repair in Karur.</div>
         <div>All rights reserved.</div>
       </div>
     </div>
@@ -932,16 +932,16 @@ allBrands.forEach(brand => {
   }
 });
 
-// 3. Update main AC page (ac-repair-service-in-dindigul.html) with 29 brands section pointing to ac/ folder
-console.log("Updating main AC page ac-repair-service-in-dindigul.html with 29 brands section pointing to ac/...");
+// 3. Update main AC page (ac-repair-service-in-karur.html) with 29 brands section pointing to ac/ folder
+console.log("Updating main AC page ac-repair-service-in-karur.html with 29 brands section pointing to ac/...");
 const mainBrandsSectionHtml = generateRootBrandsGridHtml();
-const mainAcPath = path.join(__dirname, '..', 'ac-repair-service-in-dindigul.html');
+const mainAcPath = path.join(__dirname, '..', 'ac-repair-service-in-karur.html');
 const mainAcHtml = fs.readFileSync(mainAcPath, 'utf8');
 
 let updatedMainAcHtml = mainAcHtml;
 
-// If "<!-- 14. Supported AC Brands in Dindigul" exists, replace that section
-const supportedBrandsSectionRegex = /<!-- 14\. Supported AC Brands in Dindigul[\s\S]*?<\/section>/;
+// If "<!-- 14. Supported AC Brands in Karur" exists, replace that section
+const supportedBrandsSectionRegex = /<!-- 14\. Supported AC Brands in Karur[\s\S]*?<\/section>/;
 if (supportedBrandsSectionRegex.test(updatedMainAcHtml)) {
   updatedMainAcHtml = updatedMainAcHtml.replace(supportedBrandsSectionRegex, mainBrandsSectionHtml);
   console.log("Replaced existing section 14 with full 29 brands section pointing to ac/ in main AC page.");
@@ -962,14 +962,14 @@ let sitemapContent = fs.readFileSync(sitemapPath, 'utf8');
 
 // First remove any existing brand URLs without /ac/ or with /AC/
 allBrands.forEach(b => {
-  const oldUrlRegex = new RegExp(`\\s*<url>\\s*<loc>https://servicecenterdindigul\\.com/${b.slug}</loc>[\\s\\S]*?</url>`, 'g');
+  const oldUrlRegex = new RegExp(`\\s*<url>\\s*<loc>https://servicecenterkarur\\.com/${b.slug}</loc>[\\s\\S]*?</url>`, 'g');
   sitemapContent = sitemapContent.replace(oldUrlRegex, '');
-  const oldAcRegex = new RegExp(`\\s*<url>\\s*<loc>https://servicecenterdindigul\\.com/(?:AC|ac)/${b.slug}</loc>[\\s\\S]*?</url>`, 'g');
+  const oldAcRegex = new RegExp(`\\s*<url>\\s*<loc>https://servicecenterkarur\\.com/(?:AC|ac)/${b.slug}</loc>[\\s\\S]*?</url>`, 'g');
   sitemapContent = sitemapContent.replace(oldAcRegex, '');
 });
 
 const newUrlEntries = allBrands.map(b => `  <url>
-    <loc>https://servicecenterdindigul.com/ac/${b.slug}</loc>
+    <loc>https://servicecenterkarur.com/ac/${b.slug}</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>

@@ -1,4 +1,4 @@
-const zonesData = require('./dindigul_wm_60_localities');
+const zonesData = require('./karur_wm_60_localities');
 
 // Rotated heading templates for brand pages
 const brandHeadingTemplates = [
@@ -13,8 +13,8 @@ const brandHeadingTemplates = [
 
 // Rotated heading templates for main page (generic only, no brand)
 const genericHeadingTemplates = [
-  (loc) => `Washing Machine Repair in ${loc}, Dindigul`,
-  (loc) => `Washing Machine Service in ${loc}, Dindigul`,
+  (loc) => `Washing Machine Repair in ${loc}, Karur`,
+  (loc) => `Washing Machine Service in ${loc}, Karur`,
   (loc) => `Washing Machine Repair Near Me in ${loc}`,
   (loc) => `Washing Machine Technician in ${loc}`,
   (loc) => `Washing Machine Service Center near ${loc}`,
@@ -50,7 +50,7 @@ function generateBrandLocalitiesHtml(brandName) {
     const cardsHtml = zoneObj.localities.map(loc => {
       const heading = brandHeadingTemplates[cardCounter % brandHeadingTemplates.length](brandName, loc.name);
       const desc = descTemplates[cardCounter % descTemplates.length](brandName, loc.name, loc.landmark);
-      const waText = encodeURIComponent(`Hello, I need ${brandName} washing machine repair service in ${loc.name}, Dindigul. Please share technician visit details.`);
+      const waText = encodeURIComponent(`Hello, I need ${brandName} washing machine repair service in ${loc.name}, Karur. Please share technician visit details.`);
       cardCounter++;
 
       return `          <div class="service-card" style="padding: 1.25rem; display: flex; flex-direction: column; justify-content: space-between;">
@@ -84,13 +84,13 @@ ${cardsHtml}
       </div>`;
   }).join('\n');
 
-  return `  <!-- Washing Machine Service Near Me in Dindigul (60 Verified Localities) -->
+  return `  <!-- Washing Machine Service Near Me in Karur (60 Verified Localities) -->
   <section class="section section-bg-muted" id="localities">
     <div class="container">
       <div class="section-header">
-        <h2>${brandName} Washing Machine Repair Near Me in Dindigul (60 Verified Localities)</h2>
+        <h2>${brandName} Washing Machine Repair Near Me in Karur (60 Verified Localities)</h2>
         <p>
-          Looking for ${brandName} washing machine repair near me in Dindigul? Doorstep ${brandName} washing machine inspection, water drain fixing, spin motor repair, and genuine parts replacement are available across all 60 residential and commercial localities in Central, North, South, East, and West Dindigul:
+          Looking for ${brandName} washing machine repair near me in Karur? Doorstep ${brandName} washing machine inspection, water drain fixing, spin motor repair, and genuine parts replacement are available across all 60 residential and commercial localities in Central, North, South, East, and West Karur:
         </p>
       </div>
 
@@ -106,7 +106,7 @@ function generateMainLandingLocalitiesHtml() {
     const cardsHtml = zoneObj.localities.map(loc => {
       const heading = genericHeadingTemplates[cardCounter % genericHeadingTemplates.length](loc.name);
       const desc = genericDescTemplates[cardCounter % genericDescTemplates.length](loc.name, loc.landmark);
-      const waText = encodeURIComponent(`Hello, I need washing machine repair service in ${loc.name}, Dindigul. Please share technician visit details.`);
+      const waText = encodeURIComponent(`Hello, I need washing machine repair service in ${loc.name}, Karur. Please share technician visit details.`);
       cardCounter++;
 
       return `          <div class="service-card" style="padding: 1.25rem; display: flex; flex-direction: column; justify-content: space-between;">
@@ -140,13 +140,13 @@ ${cardsHtml}
       </div>`;
   }).join('\n');
 
-  return `  <!-- Washing Machine Service Localities in Dindigul (60 Verified Localities) -->
+  return `  <!-- Washing Machine Service Localities in Karur (60 Verified Localities) -->
   <section class="section section-bg-muted" id="localitiesSection">
     <div class="container">
       <div class="section-header">
-        <h2>Washing Machine Service Localities in Dindigul (60 Verified Areas)</h2>
+        <h2>Washing Machine Service Localities in Karur (60 Verified Areas)</h2>
         <p>
-          Our doorstep technicians cover all 60 residential and commercial localities across Dindigul Corporation and surrounding areas. Select your nearby locality below for quick technician inspection:
+          Our doorstep technicians cover all 60 residential and commercial localities across Karur Corporation and surrounding areas. Select your nearby locality below for quick technician inspection:
         </p>
       </div>
 

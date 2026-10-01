@@ -1,5 +1,5 @@
 /**
- * Main Interactive Script for servicecenterdindigul.com
+ * Main Interactive Script for servicecenterkarur.com
  * Handles mobile menu, 50% scroll floating triggers, booking modal, and FAQ accordion.
  */
 
@@ -96,7 +96,7 @@ function initQuickBookingForm() {
       const issueInput = form.querySelector("[name='issue']");
 
       const appliance = applianceSelect ? applianceSelect.value : "Home Appliance";
-      const locality = localitySelect ? localitySelect.value : "Dindigul";
+      const locality = localitySelect ? localitySelect.value : "Karur";
       const phone = phoneInput ? phoneInput.value.trim() : "";
       const issue = issueInput ? issueInput.value.trim() : "Inspection & Repair required";
 
@@ -106,7 +106,7 @@ function initQuickBookingForm() {
         return;
       }
 
-      const msg = `Hello Service Center Dindigul,\n\nI need service for:\n* Appliance: ${appliance}\n* Issue: ${issue}\n* My Location: ${locality}, Dindigul\n* Contact Phone: ${phone}\n\nPlease let me know technician visit availability and service details.`;
+      const msg = `Hello Service Center Karur,\n\nI need service for:\n* Appliance: ${appliance}\n* Issue: ${issue}\n* My Location: ${locality}, Karur\n* Contact Phone: ${phone}\n\nPlease let me know technician visit availability and service details.`;
       
       const encodedMsg = encodeURIComponent(msg);
       const waPhone = typeof SITE_CONFIG !== "undefined" && SITE_CONFIG.whatsappNumber ? SITE_CONFIG.whatsappNumber : "919211512088";

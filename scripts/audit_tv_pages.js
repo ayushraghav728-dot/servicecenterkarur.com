@@ -96,19 +96,19 @@ allBrands.forEach((b, idx) => {
   }
 
   // Check Canonical
-  const canonicalExpected = `<link rel="canonical" href="https://servicecenterdindigul.com/tv/${b.slug}">`;
+  const canonicalExpected = `<link rel="canonical" href="https://servicecenterkarur.com/tv/${b.slug}">`;
   if (!content.includes(canonicalExpected)) {
     errors.push(`[tv/${b.slug}] Canonical link mismatch or missing`);
   }
 
   // Check Schema
-  if (!content.includes('"addressLocality": "Dindigul"') || !content.includes('"addressRegion": "Tamil Nadu"')) {
-    errors.push(`[tv/${b.slug}] Schema missing Dindigul/Tamil Nadu`);
+  if (!content.includes('"addressLocality": "Karur"') || !content.includes('"addressRegion": "Tamil Nadu"')) {
+    errors.push(`[tv/${b.slug}] Schema missing Karur/Tamil Nadu`);
   }
-  if (!content.includes(`"name": "${b.name} TV Repair & Service in Dindigul"`)) {
+  if (!content.includes(`"name": "${b.name} TV Repair & Service in Karur"`)) {
     errors.push(`[tv/${b.slug}] Schema name does not match brand: ${b.name}`);
   }
-  if (!content.includes(`"url": "https://servicecenterdindigul.com/tv/${b.slug}"`)) {
+  if (!content.includes(`"url": "https://servicecenterkarur.com/tv/${b.slug}"`)) {
     errors.push(`[tv/${b.slug}] Schema URL does not point to /tv/${b.slug}`);
   }
 
@@ -136,7 +136,7 @@ allBrands.forEach((b, idx) => {
   }
 
   // Check Localities section (all 60)
-  if (!content.includes('id="localitiesSection"') || !content.includes('📍 Dindigul Town') || !content.includes('📍 Nagal Nagar') || !content.includes('📍 RM Colony')) {
+  if (!content.includes('id="localitiesSection"') || !content.includes('📍 Karur Town') || !content.includes('📍 Kagithapuramam') || !content.includes('📍 Pasupathipalayam')) {
     errors.push(`[tv/${b.slug}] Localities section incomplete or missing`);
   }
 
@@ -152,22 +152,22 @@ allBrands.forEach((b, idx) => {
   }
 });
 
-// Audit Master Page: tv-repair-service-in-dindigul.html
+// Audit Master Page: tv-repair-service-in-karur.html
 console.log('\n=== 3. AUDITING MASTER TV PAGE ===');
-const masterFile = path.join(rootDir, 'tv-repair-service-in-dindigul.html');
+const masterFile = path.join(rootDir, 'tv-repair-service-in-karur.html');
 const masterContent = fs.readFileSync(masterFile, 'utf8');
 
 foreignCities.forEach(city => {
   const regex = new RegExp(`\\b${city}\\b`, 'i');
   if (regex.test(masterContent)) {
-    errors.push(`[tv-repair-service-in-dindigul.html] Found forbidden city: ${city}`);
+    errors.push(`[tv-repair-service-in-karur.html] Found forbidden city: ${city}`);
   }
 });
 
 allBrands.forEach(b => {
   const expectedLink = `tv/${b.slug}`;
   if (!masterContent.includes(expectedLink)) {
-    errors.push(`[tv-repair-service-in-dindigul.html] Missing link to tv/${b.slug}`);
+    errors.push(`[tv-repair-service-in-karur.html] Missing link to tv/${b.slug}`);
   }
 });
 
@@ -177,11 +177,11 @@ const sitemapFile = path.join(rootDir, 'sitemap.xml');
 const sitemapContent = fs.readFileSync(sitemapFile, 'utf8');
 
 allBrands.forEach(b => {
-  const expectedUrl = `https://servicecenterdindigul.com/tv/${b.slug}`;
+  const expectedUrl = `https://servicecenterkarur.com/tv/${b.slug}`;
   if (!sitemapContent.includes(expectedUrl)) {
     errors.push(`[sitemap.xml] Missing brand URL: ${expectedUrl}`);
   }
-  const oldUrl = `https://servicecenterdindigul.com/${b.slug}`;
+  const oldUrl = `https://servicecenterkarur.com/${b.slug}`;
   if (sitemapContent.includes(oldUrl)) {
     errors.push(`[sitemap.xml] Old root-level URL still present: ${oldUrl}`);
   }

@@ -81,7 +81,7 @@ const replacements = [
   ],
   [
     'Voltage fluctuations during summer power outages can damage SMPS filter capacitors or cause backlight flickering',
-    'Everyday power cuts in Dindigul can strain SMPS electrolytic capacitors or lead to LED string burnout'
+    'Everyday power cuts in Karur can strain SMPS electrolytic capacitors or lead to LED string burnout'
   ],
   [
     'We inspect SMPS circuit boards, renew backlight bars, and service speakers directly at home',

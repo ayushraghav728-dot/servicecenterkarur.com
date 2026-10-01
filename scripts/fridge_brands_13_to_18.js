@@ -5,21 +5,21 @@
 const brands13to18 = [
   {
     name: 'Sharp',
-    slug: 'sharp-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Sharp Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Sharp Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Sharp refrigerator repair in Dindigul? Doorstep inspection for Sharp J-Tech Inverter, Plasmacluster, 4-door French door & top mount fridges. Cooling diagnosis.',
-    searchIntentIntro: 'Searching for Sharp refrigerator repair near me in Dindigul? When your Sharp J-Tech Inverter refrigerator experiences cooling drop or the Plasmacluster air circulation fan stalls, our technicians deliver careful doorstep diagnosis across Dindigul. Whether located in GTN Salai, Siluvathur Road, or RM Colony, get reliable Sharp fridge repair near me with verified component testing and authentic spares.',
+    slug: 'sharp-refrigerator-repair-service-in-karur.html',
+    h1: 'Sharp Refrigerator Repair Service in Karur',
+    metaTitle: 'Sharp Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Sharp refrigerator repair in Karur? Doorstep inspection for Sharp J-Tech Inverter, Plasmacluster, 4-door French door & top mount fridges. Cooling diagnosis.',
+    searchIntentIntro: 'Searching for Sharp refrigerator repair near me in Karur? When your Sharp J-Tech Inverter refrigerator experiences cooling drop or the Plasmacluster air circulation fan stalls, our technicians deliver careful doorstep diagnosis across Karur. Whether located in Kovai Road, Vennaimalai, or Pasupathipalayam, get reliable Sharp fridge repair near me with verified component testing and authentic spares.',
     tanglishIntroBox: 'Sharp fridge-la cooling kammi aa irukka? J-Tech Inverter compressor start aagala? Hybrid cooling panel mela ice kattudha? Sharp precision Japanese refrigeration-ku experienced technicians unga doorstep-la attend pannuvanga. Systematic multimeter inspection panni accurate problem identify panni repair mudipanga.',
-    whyRepair: 'Sharp refrigerators feature J-Tech 36-step inverter compressors, Plasmacluster air purifying ions, and hybrid cooling aluminum panels. In Dindigul conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
-    localContent: 'We provide specialized Sharp refrigerator repair in Dindigul covering GTN Salai, Siluvathur Road, RM Colony, Palani Road, and Spencer Compound. Our technicians arrive with precision testing multimeters, J-Tech sensor probes, DC blower fans, and starter modules.',
+    whyRepair: 'Sharp refrigerators feature J-Tech 36-step inverter compressors, Plasmacluster air purifying ions, and hybrid cooling aluminum panels. In Karur conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
+    localContent: 'We provide specialized Sharp refrigerator repair in Karur covering Kovai Road, Vennaimalai, Pasupathipalayam, Kovai Road, and Thorakkalpatti. Our technicians arrive with precision testing multimeters, J-Tech sensor probes, DC blower fans, and starter modules.',
     whenToCall: 'Call our technicians if your Sharp fridge stops chilling food, displays error codes, exhibits cold freezer but warm fresh food compartments, builds moisture around door gaskets, or gives off an electrical burning odor (unplug from socket immediately).',
     types: [
       {
         name: 'Sharp J-Tech Inverter Double Door Refrigerator Repair',
         badge: 'J-Tech Inverter Frost Free',
         desc: 'Sharp J-Tech inverter refrigerators modulate cooling speed across 36 fine steps. Inverter driver failure or sensor drift can disrupt automatic cooling cycles.',
-        searchIntent: 'Searching for <strong>Sharp double door fridge repair near me</strong> in Dindigul? We diagnose J-Tech inverter driver boards and hybrid cooling panels.',
+        searchIntent: 'Searching for <strong>Sharp double door fridge repair near me</strong> in Karur? We diagnose J-Tech inverter driver boards and hybrid cooling panels.',
         problems: 'Inverter compressor not turning over, cooling drop in lower fresh food cabin, display light blinking.',
         checks: 'J-Tech inverter drive voltages, hybrid panel fan speed, and evaporator sensor resistance.',
         parts: 'Inverter power module, DC circulation fan, and temperature sensors.',
@@ -29,7 +29,7 @@ const brands13to18 = [
         name: 'Sharp 4-Door French Door Refrigerator Repair',
         badge: '4-Door French Door',
         desc: 'Sharp 4-door French door refrigerators offer wide storage compartments with Plasmacluster air treatment. Motorized damper failures or hinge wiring fatigue can cause uneven cooling.',
-        searchIntent: 'Looking for <strong>Sharp refrigerator repair in Dindigul</strong> for 4-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
+        searchIntent: 'Looking for <strong>Sharp refrigerator repair in Karur</strong> for 4-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
         problems: 'One door compartment cooling normally while the other remains warm, touch panel error codes, water pooling under crisper.',
         checks: 'Motorised damper valve, compartment thermistors, and hinge ribbon cables.',
         parts: 'Zone thermistors, electronic damper motor, and display wiring harness.',
@@ -88,71 +88,71 @@ const brands13to18 = [
     ],
     customerExperiences: [
       {
-        location: 'GTN Salai',
+        location: 'Kovai Road',
         title: 'Sharp J-Tech Inverter Double Door Cooling Fix',
-        tanglishText: 'GTN Salai-la oru customer avanga Sharp J-Tech Inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Kovai Road-la oru customer avanga Sharp J-Tech Inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'Siluvathur Road',
+        location: 'Vennaimalai',
         title: 'Sharp 4-Door French Door Damper Motor Replacement',
-        tanglishText: 'Siluvathur Road housing unit-la Sharp 4-door French door fridge use panra family contact pannanga. Left side compartment-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
+        tanglishText: 'Vennaimalai housing unit-la Sharp 4-door French door fridge use panra family contact pannanga. Left side compartment-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Sharp J-Tech Inverter Driver Board Power Surge Recovery',
-        tanglishText: 'RM Colony 2nd Street-la sudden power surge apram Sharp fridge dead aagi compressor start aagala. Technician visit panni J-Tech inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
+        tanglishText: 'Pasupathipalayam 2nd Street-la sudden power surge apram Sharp fridge dead aagi compressor start aagala. Technician visit panni J-Tech inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
       },
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Sharp Frost Free Rear Duct Defrost Heater Fix',
-        tanglishText: 'Palani Road layout-la Sharp fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
+        tanglishText: 'Kovai Road layout-la Sharp fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
       },
       {
-        location: 'Spencer Compound',
+        location: 'Thorakkalpatti',
         title: 'Sharp Door Perimeter Magnetic Gasket Realignment',
-        tanglishText: 'Spencer Compound layout-la Sharp fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
+        tanglishText: 'Thorakkalpatti layout-la Sharp fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Sharp Double Door Water Drainage De-clogging',
-        tanglishText: 'Begampur area-la Sharp double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
+        tanglishText: 'Thanthonimalai area-la Sharp double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'Sharp Sealed Circuit Nitrogen Leak Test & R600a Refill',
-        tanglishText: 'Nagal Nagar-la Sharp fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
+        tanglishText: 'Kagithapuramam-la Sharp fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
       },
       {
-        location: 'Seelapadi',
+        location: 'Vengamedu',
         title: 'Sharp Multi-Zone Temperature Sensor Calibration',
-        tanglishText: 'Seelapadi bypass kitta Sharp fridge-la cooling fluctuation problem irundhadhu. Sensor reading irregular-aa signal send panni compressor unneccessarily off aagitu irundhadhu. Technician evaporator and cabin thermistors-a water bath calibration test panni out-of-range sensor-a replace pannanga. Temperature perfectly stable aagi machine normal-aa function aachu.'
+        tanglishText: 'Vengamedu bypass kitta Sharp fridge-la cooling fluctuation problem irundhadhu. Sensor reading irregular-aa signal send panni compressor unneccessarily off aagitu irundhadhu. Technician evaporator and cabin thermistors-a water bath calibration test panni out-of-range sensor-a replace pannanga. Temperature perfectly stable aagi machine normal-aa function aachu.'
       }
     ],
     whyChoose: [
       'Specialized technicians familiar with Sharp J-Tech Inverter and Plasmacluster engineering',
       'Doorstep diagnostic testing with digital precision multimeters and sensor probes',
-      'quick response across Dindigul Town and residential suburbs',
+      'quick response across Karur Town and residential suburbs',
       'Honest fault explanations with transparent spare pricing',
       'Thorough temperature profiling before completing the service call'
     ]
   },
   {
     name: 'IFB',
-    slug: 'ifb-refrigerator-repair-service-in-dindigul.html',
-    h1: 'IFB Refrigerator Repair Service in Dindigul',
-    metaTitle: 'IFB Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for IFB refrigerator repair in Dindigul? Doorstep service for IFB direct cool single door, frost-free double door & inverter fridges. Quick local repairs.',
-    searchIntentIntro: 'Searching for IFB refrigerator repair near me in Dindigul? When your IFB frost-free inverter refrigerator stops maintaining cooling or the direct cool single door freezer builds excess frost, our technicians visit your home across Dindigul. From Seelapadi to Batlagundu Road and Nagal Nagar, find dependable IFB fridge repair near me with verified troubleshooting and accessible spares.',
+    slug: 'ifb-refrigerator-repair-service-in-karur.html',
+    h1: 'IFB Refrigerator Repair Service in Karur',
+    metaTitle: 'IFB Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for IFB refrigerator repair in Karur? Doorstep service for IFB direct cool single door, frost-free double door & inverter fridges. Quick local repairs.',
+    searchIntentIntro: 'Searching for IFB refrigerator repair near me in Karur? When your IFB frost-free inverter refrigerator stops maintaining cooling or the direct cool single door freezer builds excess frost, our technicians visit your home across Karur. From Vengamedu to Velayuthampalayam Road and Kagithapuramam, find dependable IFB fridge repair near me with verified troubleshooting and accessible spares.',
     tanglishIntroBox: 'IFB fridge-la cooling ninnu pocha? Metal cooling back panel warm-aa irukka? Inverter compressor run aaga maatudha? IFB modern refrigerators-ku experienced local technicians unga veetukke vandhu check pannuvanga. Reason-a explain pannitu affordable spare cost-la repair mudipanga.',
-    whyRepair: 'IFB refrigerators combine metal cooling airflow panels, inverter compressors, and humidity-controlled crispers. In Dindigul summer conditions, fine electronics can react to supply voltage dips or clogged condenser airflow. Timely service keeps electronic dampers and inverter modules operating smoothly without compressor failure.',
-    localContent: 'We service IFB refrigerators across Seelapadi, Batlagundu Road, Nagal Nagar, Begampur, and RM Colony. We carry replacement starter relays, defrost sensors, blower fan motors, and thermostats for immediate doorstep repair.',
+    whyRepair: 'IFB refrigerators combine metal cooling airflow panels, inverter compressors, and humidity-controlled crispers. In Karur summer conditions, fine electronics can react to supply voltage dips or clogged condenser airflow. Timely service keeps electronic dampers and inverter modules operating smoothly without compressor failure.',
+    localContent: 'We service IFB refrigerators across Vengamedu, Velayuthampalayam Road, Kagithapuramam, Thanthonimalai, and Pasupathipalayam. We carry replacement starter relays, defrost sensors, blower fan motors, and thermostats for immediate doorstep repair.',
     whenToCall: 'Reach out for inspection if your IFB fridge stops chilling food, builds excessive ice in the freezer, makes loud clicking sounds, leaks water onto the floor, or gives an electrical burning smell (switch off main socket immediately).',
     types: [
       {
         name: 'IFB Frost Free Inverter Double Door Refrigerator Repair',
         badge: 'Inverter Frost Free',
         desc: 'IFB frost-free inverter double door models circulate cold air through metal-backed cooling channels. Defrost sensor failure or fan stalls reduce chilling in the fresh food cabin.',
-        searchIntent: 'Searching for <strong>IFB double door fridge repair near me</strong> in Dindigul? We diagnose metal cooling panels and inverter fan circuits at your doorstep.',
+        searchIntent: 'Searching for <strong>IFB double door fridge repair near me</strong> in Karur? We diagnose metal cooling panels and inverter fan circuits at your doorstep.',
         problems: 'Freezer cold but lower compartment warm, fan motor vibrating, water pooling under crisper.',
         checks: 'Defrost sensor resistance, evaporator fan motor speed, and inverter PCB output.',
         parts: 'Defrost sensor, bimetal thermostat, evaporator DC fan motor, and inverter control board.',
@@ -162,7 +162,7 @@ const brands13to18 = [
         name: 'IFB Direct Cool Single Door Refrigerator Repair',
         badge: 'Direct Cool Single Door',
         desc: 'IFB direct cool single door refrigerators are built with compact mechanical cooling loops. Starter relays, thermostats, and door gaskets are common service items.',
-        searchIntent: 'Looking for <strong>IFB single door fridge repair in Dindigul</strong>? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
+        searchIntent: 'Looking for <strong>IFB single door fridge repair in Karur</strong>? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
         problems: 'Freezer box icing up uncontrollably, compressor clicking without starting, zero cooling with warm body.',
         checks: 'Rotary thermostat contacts, PTC starter relay, overload protector, and gas pressure.',
         parts: 'PTC starter relay, mechanical thermostat switch, door gasket, and refrigerant.',
@@ -221,39 +221,39 @@ const brands13to18 = [
     ],
     customerExperiences: [
       {
-        location: 'Seelapadi',
+        location: 'Vengamedu',
         title: 'IFB Frost Free Inverter Double Door Cooling Fix',
-        tanglishText: 'Seelapadi bypass kitta oru customer call pannanga. Avanga IFB inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Vengamedu bypass kitta oru customer call pannanga. Avanga IFB inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'Batlagundu Road',
+        location: 'Velayuthampalayam Road',
         title: 'IFB Direct Cool Single Door Relay Replacement',
-        tanglishText: 'Batlagundu Road-la IFB single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
+        tanglishText: 'Velayuthampalayam Road-la IFB single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'IFB Single Door Thermostat Ice Over-Accumulation Fix',
-        tanglishText: 'Nagal Nagar-la IFB single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
+        tanglishText: 'Kagithapuramam-la IFB single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'IFB Double Door Vegetable Crisper Water Leak Fix',
-        tanglishText: 'Begampur area-la IFB double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
+        tanglishText: 'Thanthonimalai area-la IFB double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'IFB Inverter Motherboard Voltage Surge Recovery',
-        tanglishText: 'RM Colony-la sudden thunder and voltage surge apram IFB inverter fridge on aagala. Technician check pannadhula main PCB-la input fuse and varistor blown aagirundhadhu. Inverter power section-a bench repair panni test pannom. Re-installation ku apram inverter compressor smooth-aa speed pick up aachu.'
+        tanglishText: 'Pasupathipalayam-la sudden thunder and voltage surge apram IFB inverter fridge on aagala. Technician check pannadhula main PCB-la input fuse and varistor blown aagirundhadhu. Inverter power section-a bench repair panni test pannom. Re-installation ku apram inverter compressor smooth-aa speed pick up aachu.'
       },
       {
-        location: 'Dindigul Town',
+        location: 'Karur Town',
         title: 'IFB Sealed Refrigeration Circuit Pinhole Braze & Gas Fill',
-        tanglishText: 'Dindigul Town-la IFB double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
+        tanglishText: 'Karur Town-la IFB double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
       }
     ],
     whyChoose: [
       'Experienced technicians with specialized knowledge in IFB inverter and direct cool refrigerators',
-      'Doorstep diagnostic service across Dindigul residential areas',
+      'Doorstep diagnostic service across Karur residential areas',
       'Multimeter inspection of sensors, fan motors, and control boards',
       'Fair, transparent pricing with no hidden charges',
       'complete testing of cooling temperatures before call completion'
@@ -261,21 +261,21 @@ const brands13to18 = [
   },
   {
     name: 'Onida',
-    slug: 'onida-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Onida Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Onida Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Onida refrigerator repair in Dindigul? Doorstep service for Onida direct cool single door & frost-free double door fridges. Affordable local repair.',
-    searchIntentIntro: 'Searching for Onida refrigerator repair near me in Dindigul? Whether your Onida single door direct cool fridge is not making ice or the compressor is clicking repeatedly without starting, our technicians provide dependable doorstep service across Dindigul. From Begampur to Chinnalapatti and Dindigul Town, find economical Onida fridge repair near me with verified troubleshooting and accessible spares.',
+    slug: 'onida-refrigerator-repair-service-in-karur.html',
+    h1: 'Onida Refrigerator Repair Service in Karur',
+    metaTitle: 'Onida Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Onida refrigerator repair in Karur? Doorstep service for Onida direct cool single door & frost-free double door fridges. Affordable local repair.',
+    searchIntentIntro: 'Searching for Onida refrigerator repair near me in Karur? Whether your Onida single door direct cool fridge is not making ice or the compressor is clicking repeatedly without starting, our technicians provide dependable doorstep service across Karur. From Thanthonimalai to Vaiyapuri Nagar and Karur Town, find economical Onida fridge repair near me with verified troubleshooting and accessible spares.',
     tanglishIntroBox: 'Onida fridge-la cooling ninnu pocha? Single door model-la ice kattala? Compressor tick-tick nu sound vandhu off aagudha? Onida durable Indian refrigerators-ku experienced local technicians unga veetukke vandhu check pannuvanga. Reason-a explain pannitu affordable spare cost-la repair mudipanga.',
     whyRepair: 'Onida refrigerators are designed for fast cooling and simple mechanical durability in Indian conditions. Over years of operation, starter relays can burn out, thermostats can lose charge, or capillary lines can choke. Economical repairs restore dependable cooling and keep your appliance running smoothly.',
-    localContent: 'We service Onida refrigerators across Begampur, Chinnalapatti, Dindigul Town, Balakrishnapuram, and Round Road. We carry mechanical thermostats, PTC starter relays, bimetals, and blower fans for immediate doorstep repair.',
+    localContent: 'We service Onida refrigerators across Thanthonimalai, Vaiyapuri Nagar, Karur Town, Inam Karur, and Sengunthapuram. We carry mechanical thermostats, PTC starter relays, bimetals, and blower fans for immediate doorstep repair.',
     whenToCall: 'Reach out for inspection if your Onida fridge stops chilling food, builds excessive ice in the freezer, makes loud clicking sounds, leaks water onto the floor, or gives an electrical burning smell (switch off main socket immediately).',
     types: [
       {
         name: 'Onida Direct Cool Single Door Refrigerator Repair',
         badge: 'Direct Cool Single Door',
         desc: 'Onida direct cool single door refrigerators are built with robust mechanical cooling loops. Starter relays, thermostats, and door gaskets are common service items.',
-        searchIntent: 'Searching for <strong>Onida single door fridge repair near me</strong> in Dindigul? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
+        searchIntent: 'Searching for <strong>Onida single door fridge repair near me</strong> in Karur? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
         problems: 'Freezer box icing up uncontrollably, compressor clicking without starting, zero cooling with warm body.',
         checks: 'Rotary thermostat contacts, PTC starter relay, overload protector, and gas pressure.',
         parts: 'PTC starter relay, mechanical thermostat switch, door gasket, and refrigerant.',
@@ -285,7 +285,7 @@ const brands13to18 = [
         name: 'Onida Frost Free Double Door Refrigerator Repair',
         badge: 'Frost Free Double Door',
         desc: 'Onida frost-free double door fridges circulate cold air from the freezer into the food cabin. Mechanical defrost timers and bimetal switches are typical service components.',
-        searchIntent: 'Looking for <strong>Onida double door fridge repair in Dindigul</strong>? Doorstep diagnosis for defrost timers, heaters, and circulation fans.',
+        searchIntent: 'Looking for <strong>Onida double door fridge repair in Karur</strong>? Doorstep diagnosis for defrost timers, heaters, and circulation fans.',
         problems: 'Freezer cold but lower compartment warm, fan motor vibrating, water pooling under crisper.',
         checks: 'Mechanical defrost timer, bimetal switch, evaporator fan motor, and return air vents.',
         parts: 'Defrost timer, bimetal thermostat, evaporator fan motor, and defrost heater tube.',
@@ -344,34 +344,34 @@ const brands13to18 = [
     ],
     customerExperiences: [
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Onida Direct Cool Single Door Relay Replacement',
-        tanglishText: 'Begampur Big Mosque kitta irundha customer call pannanga. Avanga Onida single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu. Customer romba satisfied.'
+        tanglishText: 'Thanthonimalai central bazaar market kitta irundha customer call pannanga. Avanga Onida single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu. Customer romba satisfied.'
       },
       {
-        location: 'Chinnalapatti',
+        location: 'Vaiyapuri Nagar',
         title: 'Onida Double Door Defrost Timer Problem Fix',
-        tanglishText: 'Chinnalapatti weaving area-la oru customer avanga Onida double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk spoil aagudhu-nu complaint pannanga. Technician inspect pannadhula mechanical defrost timer gear stuck aagi heating cycle trigger aagala. Evaporator coil full-aa ice kattirundhadhai steam panni clear pannom. New defrost timer and bimetal switch install panni test pannadhula lower cabin airflow perfect-aa return aachu.'
+        tanglishText: 'Vaiyapuri Nagar weaving area-la oru customer avanga Onida double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk spoil aagudhu-nu complaint pannanga. Technician inspect pannadhula mechanical defrost timer gear stuck aagi heating cycle trigger aagala. Evaporator coil full-aa ice kattirundhadhai steam panni clear pannom. New defrost timer and bimetal switch install panni test pannadhula lower cabin airflow perfect-aa return aachu.'
       },
       {
-        location: 'Dindigul Town',
+        location: 'Karur Town',
         title: 'Onida Single Door Thermostat Over-Freezing Rectification',
-        tanglishText: 'Dindigul Town flower market kitta Onida single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
+        tanglishText: 'Karur Town flower market kitta Onida single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
       },
       {
-        location: 'Balakrishnapuram',
+        location: 'Inam Karur',
         title: 'Onida Double Door Vegetable Crisper Water Leakage Solution',
-        tanglishText: 'Balakrishnapuram area-la Onida double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
+        tanglishText: 'Inam Karur area-la Onida double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
       },
       {
-        location: 'Round Road',
+        location: 'Sengunthapuram',
         title: 'Onida Single Door Magnetic Door Gasket Renewal',
-        tanglishText: 'Round Road layout-la Onida fridge door rubber loose aagi side-la gap irundhadhu. Cold air veliya leak aagi current bill athigam aagudhu-nu sonnanga. Matching magnetic gasket replace panni door alignment adjust pannom. Tight airtight grip establish aagi cooling retention restore aachu.'
+        tanglishText: 'Sengunthapuram layout-la Onida fridge door rubber loose aagi side-la gap irundhadhu. Cold air veliya leak aagi current bill athigam aagudhu-nu sonnanga. Matching magnetic gasket replace panni door alignment adjust pannom. Tight airtight grip establish aagi cooling retention restore aachu.'
       }
     ],
     whyChoose: [
       'Experienced technicians with extensive repair history on Onida refrigerators',
-      'Doorstep service across Begampur, Chinnalapatti, Dindigul Town, and nearby areas',
+      'Doorstep service across Thanthonimalai, Vaiyapuri Nagar, Karur Town, and nearby areas',
       'Ready availability of economical, compatible spare parts',
       'Clear, honest fault explanation with upfront estimates',
       'Cooling and cut-off verification before call closure'
@@ -379,21 +379,21 @@ const brands13to18 = [
   },
   {
     name: 'Toshiba',
-    slug: 'toshiba-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Toshiba Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Toshiba Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Toshiba refrigerator repair in Dindigul? Doorstep inspection for Toshiba Origin Inverter, PureBio, dual cooling double door & multi-door fridges. Cooling diagnosis.',
-    searchIntentIntro: 'Searching for Toshiba refrigerator repair near me in Dindigul? When your Toshiba Origin Inverter refrigerator experiences cooling drop or the PureBio air circulation system stalls, our technicians provide quick doorstep repair across Dindigul. From Palani Road to Nagal Nagar and RM Colony, get dependable Toshiba fridge repair near me with verified sensor troubleshooting and authentic spares.',
+    slug: 'toshiba-refrigerator-repair-service-in-karur.html',
+    h1: 'Toshiba Refrigerator Repair Service in Karur',
+    metaTitle: 'Toshiba Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Toshiba refrigerator repair in Karur? Doorstep inspection for Toshiba Origin Inverter, PureBio, dual cooling double door & multi-door fridges. Cooling diagnosis.',
+    searchIntentIntro: 'Searching for Toshiba refrigerator repair near me in Karur? When your Toshiba Origin Inverter refrigerator experiences cooling drop or the PureBio air circulation system stalls, our technicians provide quick doorstep repair across Karur. From Kovai Road to Kagithapuramam and Pasupathipalayam, get dependable Toshiba fridge repair near me with verified sensor troubleshooting and authentic spares.',
     tanglishIntroBox: 'Toshiba fridge-la cooling balance miss aagudha? Origin Inverter dual system-la compressor run aagala? PureBio airflow compartment-la odor neutralize aagala? Toshiba precision Japanese refrigeration-ku trained technicians unga doorstep-la attend pannuvanga. Systematic multimeter inspection panni accurate problem identify panni repair mudipanga.',
-    whyRepair: 'Toshiba refrigerators incorporate Origin Inverter dual inverter systems (compressor and fan), PureBio honeycomb deodorizers, and multi-airflow cooling ducts. In Dindigul conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
-    localContent: 'We provide specialized Toshiba refrigerator repair in Dindigul covering Palani Road, Nagal Nagar, RM Colony, Spencer Compound, and GTN Salai. Our technicians arrive with precision testing multimeters, Origin Inverter components, DC blower fans, and starter modules.',
+    whyRepair: 'Toshiba refrigerators incorporate Origin Inverter dual inverter systems (compressor and fan), PureBio honeycomb deodorizers, and multi-airflow cooling ducts. In Karur conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
+    localContent: 'We provide specialized Toshiba refrigerator repair in Karur covering Kovai Road, Kagithapuramam, Pasupathipalayam, Thorakkalpatti, and Kovai Road. Our technicians arrive with precision testing multimeters, Origin Inverter components, DC blower fans, and starter modules.',
     whenToCall: 'Call our technicians if your Toshiba fridge stops chilling food, displays error codes, exhibits cold freezer but warm fresh food compartments, builds moisture around door gaskets, or gives off an electrical burning odor (unplug from socket immediately).',
     types: [
       {
         name: 'Toshiba Origin Inverter Double Door Refrigerator Repair',
         badge: 'Origin Inverter Frost Free',
         desc: 'Toshiba Origin Inverter double door refrigerators synchronize inverter compressor and DC fan speeds to keep internal temperatures steady. Sensor drift or inverter board faults reduce chilling performance.',
-        searchIntent: 'Searching for <strong>Toshiba double door fridge repair near me</strong> in Dindigul? We diagnose Origin Inverter dual inverter boards and airflow vents.',
+        searchIntent: 'Searching for <strong>Toshiba double door fridge repair near me</strong> in Karur? We diagnose Origin Inverter dual inverter boards and airflow vents.',
         problems: 'Inverter compressor not spinning, food spoiling on lower shelves, defrost error blinking.',
         checks: 'Inverter output frequency, PureBio fan motor speed, and evaporator thermistor.',
         parts: 'Dual inverter PCB, evaporator fan motor, and defrost sensor.',
@@ -403,7 +403,7 @@ const brands13to18 = [
         name: 'Toshiba Multi-Door Refrigerator Repair',
         badge: 'Multi-Door Dual Cooling',
         desc: 'Toshiba multi-door refrigerators feature multi-door layouts with inverter compressors. Touch display issues, motorized damper failures, and gas leaks are typical service items.',
-        searchIntent: 'Looking for <strong>Toshiba refrigerator repair in Dindigul</strong> for multi-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
+        searchIntent: 'Looking for <strong>Toshiba refrigerator repair in Karur</strong> for multi-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
         problems: 'One compartment cooling normally while the other remains warm, touch panel error codes, water pooling under crisper.',
         checks: 'Motorised damper valve, compartment thermistors, and hinge ribbon cables.',
         parts: 'Zone thermistors, electronic damper motor, and display wiring harness.',
@@ -462,66 +462,66 @@ const brands13to18 = [
     ],
     customerExperiences: [
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Toshiba Origin Inverter Double Door Cooling Fix',
-        tanglishText: 'Palani Road layout-la oru customer avanga Toshiba Origin Inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Kovai Road layout-la oru customer avanga Toshiba Origin Inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'Toshiba Origin Inverter Dual Control Board Recovery',
-        tanglishText: 'Nagal Nagar-la sudden power surge apram Toshiba fridge dead aagi compressor start aagala. Technician visit panni dual inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
+        tanglishText: 'Kagithapuramam-la sudden power surge apram Toshiba fridge dead aagi compressor start aagala. Technician visit panni dual inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Toshiba Multi-Door Damper Motor Replacement',
-        tanglishText: 'RM Colony 2nd Street-la Toshiba multi-door fridge use panra family contact pannanga. Fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
+        tanglishText: 'Pasupathipalayam 2nd Street-la Toshiba multi-door fridge use panra family contact pannanga. Fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
       },
       {
-        location: 'Spencer Compound',
+        location: 'Thorakkalpatti',
         title: 'Toshiba Frost Free Rear Duct Defrost Heater Fix',
-        tanglishText: 'Spencer Compound layout-la Toshiba fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
+        tanglishText: 'Thorakkalpatti layout-la Toshiba fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
       },
       {
-        location: 'GTN Salai',
+        location: 'Kovai Road',
         title: 'Toshiba Door Perimeter Magnetic Gasket Realignment',
-        tanglishText: 'GTN Salai-la Toshiba fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
+        tanglishText: 'Kovai Road-la Toshiba fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Toshiba Double Door Water Drainage De-clogging',
-        tanglishText: 'Begampur area-la Toshiba double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
+        tanglishText: 'Thanthonimalai area-la Toshiba double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
       },
       {
-        location: 'Seelapadi',
+        location: 'Vengamedu',
         title: 'Toshiba Sealed Circuit Nitrogen Leak Test & R600a Refill',
-        tanglishText: 'Seelapadi bypass kitta Toshiba fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
+        tanglishText: 'Vengamedu bypass kitta Toshiba fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
       }
     ],
     whyChoose: [
       'Specialized technicians familiar with Toshiba Origin Inverter and PureBio engineering',
       'Doorstep diagnostic testing with digital precision multimeters and sensor probes',
-      'quick response across Dindigul Town and residential suburbs',
+      'quick response across Karur Town and residential suburbs',
       'Honest fault explanations with transparent spare pricing',
       'Thorough temperature profiling before completing the service call'
     ]
   },
   {
     name: 'Voltas Beko',
-    slug: 'voltas-beko-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Voltas Beko Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Voltas Beko Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Voltas Beko refrigerator repair in Dindigul? Doorstep inspection for Voltas Beko ProSmart Inverter, NeoFrost, HarvestFresh double door & single door fridges. Cooling diagnosis.',
-    searchIntentIntro: 'Searching for Voltas Beko refrigerator repair near me in Dindigul? When your Voltas Beko NeoFrost Dual Cooling fridge loses cooling in the fresh food cabin or the ProSmart Inverter motor fails to start, our technicians visit your home across Dindigul. From Seelapadi to Balakrishnapuram and Begampur, get dependable Voltas Beko fridge repair near me with verified troubleshooting and authentic spares.',
+    slug: 'voltas-beko-refrigerator-repair-service-in-karur.html',
+    h1: 'Voltas Beko Refrigerator Repair Service in Karur',
+    metaTitle: 'Voltas Beko Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Voltas Beko refrigerator repair in Karur? Doorstep inspection for Voltas Beko ProSmart Inverter, NeoFrost, HarvestFresh double door & single door fridges. Cooling diagnosis.',
+    searchIntentIntro: 'Searching for Voltas Beko refrigerator repair near me in Karur? When your Voltas Beko NeoFrost Dual Cooling fridge loses cooling in the fresh food cabin or the ProSmart Inverter motor fails to start, our technicians visit your home across Karur. From Vengamedu to Inam Karur and Thanthonimalai, get dependable Voltas Beko fridge repair near me with verified troubleshooting and authentic spares.',
     tanglishIntroBox: 'Voltas Beko fridge-la cooling ninnu pocha? NeoFrost dual cooling-la freezer cool aana lower cabin warm-aa irukka? ProSmart Inverter compressor click sound kuduthu ninnudha? Voltas Beko advanced refrigerators-ku trained technicians unga veetukke vandhu check pannuvanga. Reason-a explain pannitu affordable spare cost-la repair mudipanga.',
-    whyRepair: 'Voltas Beko refrigerators feature NeoFrost dual cooling circuits, ProSmart inverter compressors, and HarvestFresh vegetable crispers. In Dindigul conditions, environmental humidity or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
-    localContent: 'We provide specialized Voltas Beko refrigerator repair in Dindigul covering Seelapadi, Balakrishnapuram, Begampur, Palani Road, and RM Colony. Our technicians arrive with precision testing multimeters, ProSmart sensor probes, DC blower fans, and starter modules.',
+    whyRepair: 'Voltas Beko refrigerators feature NeoFrost dual cooling circuits, ProSmart inverter compressors, and HarvestFresh vegetable crispers. In Karur conditions, environmental humidity or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
+    localContent: 'We provide specialized Voltas Beko refrigerator repair in Karur covering Vengamedu, Inam Karur, Thanthonimalai, Kovai Road, and Pasupathipalayam. Our technicians arrive with precision testing multimeters, ProSmart sensor probes, DC blower fans, and starter modules.',
     whenToCall: 'Call our technicians if your Voltas Beko fridge stops chilling food, displays error codes, exhibits cold freezer but warm fresh food compartments, builds moisture around door gaskets, or gives off an electrical burning odor (unplug from socket immediately).',
     types: [
       {
         name: 'Voltas Beko NeoFrost Inverter Double Door Refrigerator Repair',
         badge: 'NeoFrost Dual Cooling Inverter',
         desc: 'Voltas Beko NeoFrost refrigerators use two independent cooling circuits for the freezer and fridge compartments. Defrost sensor failure or fan stalls reduce chilling in the fresh food cabin.',
-        searchIntent: 'Searching for <strong>Voltas Beko double door fridge repair near me</strong> in Dindigul? We diagnose NeoFrost dual cooling fans and ProSmart inverter boards at your doorstep.',
+        searchIntent: 'Searching for <strong>Voltas Beko double door fridge repair near me</strong> in Karur? We diagnose NeoFrost dual cooling fans and ProSmart inverter boards at your doorstep.',
         problems: 'Freezer cold but lower compartment warm, fan motor vibrating, water pooling under crisper.',
         checks: 'NeoFrost fan speeds, independent evaporator sensors, and control board output.',
         parts: 'Dedicated DC circulation fan, compartment thermistors, and defrost heater.',
@@ -531,7 +531,7 @@ const brands13to18 = [
         name: 'Voltas Beko Direct Cool Single Door Refrigerator Repair',
         badge: 'Direct Cool Single Door',
         desc: 'Voltas Beko direct cool single door refrigerators are built with compact mechanical cooling loops. Starter relays, thermostats, and door gaskets are common service items.',
-        searchIntent: 'Looking for <strong>Voltas Beko single door fridge repair in Dindigul</strong>? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
+        searchIntent: 'Looking for <strong>Voltas Beko single door fridge repair in Karur</strong>? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
         problems: 'Freezer box icing up uncontrollably, compressor clicking without starting, zero cooling with warm body.',
         checks: 'Rotary thermostat contacts, PTC starter relay, overload protector, and gas pressure.',
         parts: 'PTC starter relay, mechanical thermostat switch, door gasket, and refrigerant.',
@@ -590,71 +590,71 @@ const brands13to18 = [
     ],
     customerExperiences: [
       {
-        location: 'Seelapadi',
+        location: 'Vengamedu',
         title: 'Voltas Beko NeoFrost Dual Cooling Double Door Fix',
-        tanglishText: 'Seelapadi bypass kitta oru customer call pannanga. Avanga Voltas Beko NeoFrost inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Vengamedu bypass kitta oru customer call pannanga. Avanga Voltas Beko NeoFrost inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'Balakrishnapuram',
+        location: 'Inam Karur',
         title: 'Voltas Beko ProSmart Inverter PCB Board Recovery',
-        tanglishText: 'Balakrishnapuram-la sudden power surge apram Voltas Beko fridge dead aagi compressor start aagala. Technician visit panni ProSmart inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
+        tanglishText: 'Inam Karur-la sudden power surge apram Voltas Beko fridge dead aagi compressor start aagala. Technician visit panni ProSmart inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Voltas Beko Direct Cool Single Door Relay Replacement',
-        tanglishText: 'Begampur area-la Voltas Beko single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
+        tanglishText: 'Thanthonimalai area-la Voltas Beko single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
       },
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Voltas Beko Single Door Thermostat Over-Freezing Fix',
-        tanglishText: 'Palani Road layout-la Voltas Beko single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
+        tanglishText: 'Kovai Road layout-la Voltas Beko single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Voltas Beko Double Door Vegetable Crisper Water Leak Fix',
-        tanglishText: 'RM Colony-la Voltas Beko double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
+        tanglishText: 'Pasupathipalayam-la Voltas Beko double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
       },
       {
-        location: 'GTN Salai',
+        location: 'Kovai Road',
         title: 'Voltas Beko Door Perimeter Magnetic Gasket Renewal',
-        tanglishText: 'GTN Salai-la Voltas Beko fridge door rubber loose aagi side-la gap irundhadhu. Cold air veliya leak aagi current bill athigam aagudhu-nu sonnanga. Matching magnetic gasket replace panni door alignment adjust pannom. Tight airtight grip establish aagi cooling retention restore aachu.'
+        tanglishText: 'Kovai Road-la Voltas Beko fridge door rubber loose aagi side-la gap irundhadhu. Cold air veliya leak aagi current bill athigam aagudhu-nu sonnanga. Matching magnetic gasket replace panni door alignment adjust pannom. Tight airtight grip establish aagi cooling retention restore aachu.'
       },
       {
-        location: 'Spencer Compound',
+        location: 'Thorakkalpatti',
         title: 'Voltas Beko Sealed Refrigeration Circuit Pinhole Braze',
-        tanglishText: 'Spencer Compound-la Voltas Beko double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
+        tanglishText: 'Thorakkalpatti-la Voltas Beko double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'Voltas Beko Multi-Zone Temperature Sensor Calibration',
-        tanglishText: 'Nagal Nagar-la Voltas Beko fridge-la cooling fluctuation problem irundhadhu. Sensor reading irregular-aa signal send panni compressor unneccessarily off aagitu irundhadhu. Technician evaporator and cabin thermistors-a water bath calibration test panni out-of-range sensor-a replace pannanga. Temperature perfectly stable aagi machine normal-aa function aachu.'
+        tanglishText: 'Kagithapuramam-la Voltas Beko fridge-la cooling fluctuation problem irundhadhu. Sensor reading irregular-aa signal send panni compressor unneccessarily off aagitu irundhadhu. Technician evaporator and cabin thermistors-a water bath calibration test panni out-of-range sensor-a replace pannanga. Temperature perfectly stable aagi machine normal-aa function aachu.'
       }
     ],
     whyChoose: [
       'Technicians trained in Voltas Beko NeoFrost Dual Cooling and ProSmart inverter systems',
       'Doorstep diagnostic testing with precision digital multimeters and temperature sensors',
-      'quick doorstep support across all Dindigul localities',
+      'quick doorstep support across all Karur localities',
       'Transparent fault explanation and upfront spare pricing',
       'Post-repair temperature profiling to verify proper cooling recovery'
     ]
   },
   {
     name: 'Lloyd',
-    slug: 'lloyd-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Lloyd Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Lloyd Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Lloyd refrigerator repair in Dindigul? Doorstep service for Lloyd ten-vent cooling, inverter double door & direct cool fridges. Quick local repairs.',
-    searchIntentIntro: 'Searching for Lloyd refrigerator repair near me in Dindigul? When your Havells Lloyd inverter double door fridge stops circulating chilled air or the single door compressor clicks without starting, our technicians visit your home across Dindigul. From Chinnalapatti to Vedasandur Road and Dindigul Town, find dependable Lloyd fridge repair near me with verified troubleshooting and accessible spares.',
+    slug: 'lloyd-refrigerator-repair-service-in-karur.html',
+    h1: 'Lloyd Refrigerator Repair Service in Karur',
+    metaTitle: 'Lloyd Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Lloyd refrigerator repair in Karur? Doorstep service for Lloyd ten-vent cooling, inverter double door & direct cool fridges. Quick local repairs.',
+    searchIntentIntro: 'Searching for Lloyd refrigerator repair near me in Karur? When your Havells Lloyd inverter double door fridge stops circulating chilled air or the single door compressor clicks without starting, our technicians visit your home across Karur. From Vaiyapuri Nagar to Mayanur Road and Karur Town, find dependable Lloyd fridge repair near me with verified troubleshooting and accessible spares.',
     tanglishIntroBox: 'Lloyd fridge-la cooling ninnu pocha? Ten-vent cooling system-la cold air flow drop aagudha? Inverter compressor click sound kuduthu ninnudha? Havells Lloyd modern refrigerators-ku experienced local technicians unga veetukke vandhu check pannuvanga. Reason-a explain pannitu affordable spare cost-la repair mudipanga.',
-    whyRepair: 'Havells Lloyd refrigerators feature ten-vent cooling distribution towers, inverter compressors, and direct cool models. In Dindigul summer conditions, fine electronics can react to supply voltage dips or clogged condenser airflow. Timely service keeps electronic dampers and inverter modules operating smoothly without compressor failure.',
-    localContent: 'We service Lloyd refrigerators across Chinnalapatti, Vedasandur Road, Dindigul Town, Begampur, and RM Colony. We carry replacement starter relays, defrost sensors, blower fan motors, and thermostats for immediate doorstep repair.',
+    whyRepair: 'Havells Lloyd refrigerators feature ten-vent cooling distribution towers, inverter compressors, and direct cool models. In Karur summer conditions, fine electronics can react to supply voltage dips or clogged condenser airflow. Timely service keeps electronic dampers and inverter modules operating smoothly without compressor failure.',
+    localContent: 'We service Lloyd refrigerators across Vaiyapuri Nagar, Mayanur Road, Karur Town, Thanthonimalai, and Pasupathipalayam. We carry replacement starter relays, defrost sensors, blower fan motors, and thermostats for immediate doorstep repair.',
     whenToCall: 'Reach out for inspection if your Lloyd fridge stops chilling food, builds excessive ice in the freezer, makes loud clicking sounds, leaks water onto the floor, or gives an electrical burning smell (switch off main socket immediately).',
     types: [
       {
         name: 'Lloyd Inverter Frost Free Double Door Refrigerator Repair',
         badge: 'Inverter Frost Free Double Door',
         desc: 'Lloyd frost-free double door models circulate cold air through ten-vent airflow towers. Defrost sensor failure or fan stalls reduce chilling in the fresh food cabin.',
-        searchIntent: 'Searching for <strong>Lloyd double door fridge repair near me</strong> in Dindigul? We diagnose ten-vent cooling towers and inverter fan circuits at your doorstep.',
+        searchIntent: 'Searching for <strong>Lloyd double door fridge repair near me</strong> in Karur? We diagnose ten-vent cooling towers and inverter fan circuits at your doorstep.',
         problems: 'Freezer cold but lower compartment warm, fan motor vibrating, water pooling under crisper.',
         checks: 'Defrost sensor resistance, evaporator fan motor speed, and inverter PCB output.',
         parts: 'Defrost sensor, bimetal thermostat, evaporator DC fan motor, and inverter control board.',
@@ -664,7 +664,7 @@ const brands13to18 = [
         name: 'Lloyd Direct Cool Single Door Refrigerator Repair',
         badge: 'Direct Cool Single Door',
         desc: 'Lloyd direct cool single door refrigerators are built with compact mechanical cooling loops. Starter relays, thermostats, and door gaskets are common service items.',
-        searchIntent: 'Looking for <strong>Lloyd single door fridge repair in Dindigul</strong>? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
+        searchIntent: 'Looking for <strong>Lloyd single door fridge repair in Karur</strong>? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
         problems: 'Freezer box icing up uncontrollably, compressor clicking without starting, zero cooling with warm body.',
         checks: 'Rotary thermostat contacts, PTC starter relay, overload protector, and gas pressure.',
         parts: 'PTC starter relay, mechanical thermostat switch, door gasket, and refrigerant.',
@@ -723,39 +723,39 @@ const brands13to18 = [
     ],
     customerExperiences: [
       {
-        location: 'Chinnalapatti',
+        location: 'Vaiyapuri Nagar',
         title: 'Lloyd Inverter Frost Free Double Door Cooling Fix',
-        tanglishText: 'Chinnalapatti-la oru customer call pannanga. Avanga Lloyd inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Vaiyapuri Nagar-la oru customer call pannanga. Avanga Lloyd inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'Vedasandur Road',
+        location: 'Mayanur Road',
         title: 'Lloyd Direct Cool Single Door Relay Replacement',
-        tanglishText: 'Vedasandur Road-la Lloyd single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
+        tanglishText: 'Mayanur Road-la Lloyd single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
       },
       {
-        location: 'Dindigul Town',
+        location: 'Karur Town',
         title: 'Lloyd Single Door Thermostat Over-Freezing Rectification',
-        tanglishText: 'Dindigul Town-la Lloyd single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
+        tanglishText: 'Karur Town-la Lloyd single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Lloyd Double Door Vegetable Crisper Water Leak Fix',
-        tanglishText: 'Begampur area-la Lloyd double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
+        tanglishText: 'Thanthonimalai area-la Lloyd double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Lloyd Inverter Motherboard Voltage Surge Recovery',
-        tanglishText: 'RM Colony-la sudden thunder and voltage surge apram Lloyd inverter fridge on aagala. Technician check pannadhula main PCB-la input fuse and varistor blown aagirundhadhu. Inverter power section-a bench repair panni test pannom. Re-installation ku apram inverter compressor smooth-aa speed pick up aachu.'
+        tanglishText: 'Pasupathipalayam-la sudden thunder and voltage surge apram Lloyd inverter fridge on aagala. Technician check pannadhula main PCB-la input fuse and varistor blown aagirundhadhu. Inverter power section-a bench repair panni test pannom. Re-installation ku apram inverter compressor smooth-aa speed pick up aachu.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'Lloyd Sealed Refrigeration Circuit Pinhole Braze & Gas Fill',
-        tanglishText: 'Nagal Nagar-la Lloyd double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
+        tanglishText: 'Kagithapuramam-la Lloyd double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
       }
     ],
     whyChoose: [
       'Experienced technicians with specialized knowledge in Havells Lloyd inverter and direct cool refrigerators',
-      'Doorstep diagnostic service across Dindigul residential areas',
+      'Doorstep diagnostic service across Karur residential areas',
       'Multimeter inspection of sensors, fan motors, and control boards',
       'Fair, transparent pricing with no hidden charges',
       'complete testing of cooling temperatures before call completion'

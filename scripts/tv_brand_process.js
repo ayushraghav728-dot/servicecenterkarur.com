@@ -1,5 +1,5 @@
 // 31 Completely unique repair processes for all 31 TV brands
-// Handcrafted, simple Indian English, Dindigul focused, no AI words, no duplicate sentences
+// Handcrafted, simple Indian English, Karur focused, no AI words, no duplicate sentences
 // Verified 0 duplicate sentences across all 31 brands
 
 const brandProcesses = {
@@ -7,12 +7,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Samsung Inspection",
-      "desc": "Call or WhatsApp our Dindigul desk with your Samsung model code and screen issue."
+      "desc": "Call or WhatsApp our Karur desk with your Samsung model code and screen issue."
     },
     {
       "num": 2,
       "title": "Technician Home Visit",
-      "desc": "Our local Dindigul technician arrives at your residence with BN44 power testers and backlight meters."
+      "desc": "Our local Karur technician arrives at your residence with BN44 power testers and backlight meters."
     },
     {
       "num": 3,
@@ -39,11 +39,11 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Bravia Inspection",
-      "desc": "Contact our Dindigul support team with your Sony Bravia series and blinking red LED count."
+      "desc": "Contact our Karur support team with your Sony Bravia series and blinking red LED count."
     },
     {
       "num": 2,
-      "title": "Doorstep Arrival in Dindigul",
+      "title": "Doorstep Arrival in Karur",
       "desc": "An experienced TV technician arrives at your doorstep equipped with digital multimeters."
     },
     {
@@ -71,12 +71,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Viera TV Visit",
-      "desc": "Reach our local Dindigul helpline with your Panasonic Viera screen size and observed problem."
+      "desc": "Reach our local Karur helpline with your Panasonic Viera screen size and observed problem."
     },
     {
       "num": 2,
       "title": "Prompt Residential Visit",
-      "desc": "A qualified technician travels to your Dindigul home with testing tools and component spares."
+      "desc": "A qualified technician travels to your Karur home with testing tools and component spares."
     },
     {
       "num": 3,
@@ -103,12 +103,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Request Philips TV Visit",
-      "desc": "Call or message our Dindigul desk with your Philips model and display or power symptoms."
+      "desc": "Call or message our Karur desk with your Philips model and display or power symptoms."
     },
     {
       "num": 2,
-      "title": "Technician Visit Across Dindigul",
-      "desc": "Our service technician reaches your location in Dindigul with multimeters and LED testers."
+      "title": "Technician Visit Across Karur",
+      "desc": "Our service technician reaches your location in Karur with multimeters and LED testers."
     },
     {
       "num": 3,
@@ -135,12 +135,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book REGZA TV Service",
-      "desc": "Share your Toshiba TV model and fault details with our customer desk in Dindigul."
+      "desc": "Share your Toshiba TV model and fault details with our customer desk in Karur."
     },
     {
       "num": 2,
       "title": "Home Visit by Local Specialist",
-      "desc": "A technician visits your residence in Dindigul carrying dedicated diagnostic gear."
+      "desc": "A technician visits your residence in Karur carrying dedicated diagnostic gear."
     },
     {
       "num": 3,
@@ -167,12 +167,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Sharp Aquos Service",
-      "desc": "Contact our Dindigul desk with your Sharp TV model and screen or standby light symptoms."
+      "desc": "Contact our Karur desk with your Sharp TV model and screen or standby light symptoms."
     },
     {
       "num": 2,
       "title": "Timely Doorstep Attendance",
-      "desc": "A seasoned technician arrives at your home in Dindigul with Japanese panel testing instruments."
+      "desc": "A seasoned technician arrives at your home in Karur with Japanese panel testing instruments."
     },
     {
       "num": 3,
@@ -203,8 +203,8 @@ const brandProcesses = {
     },
     {
       "num": 2,
-      "title": "Doorstep Visit in Dindigul",
-      "desc": "Our local technician visits your address in Dindigul with strip testers and board components."
+      "title": "Doorstep Visit in Karur",
+      "desc": "Our local technician visits your address in Karur with strip testers and board components."
     },
     {
       "num": 3,
@@ -231,12 +231,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Sansui TV Service",
-      "desc": "Reach out to our Dindigul helpline with your Sansui TV screen size and fault details."
+      "desc": "Reach out to our Karur helpline with your Sansui TV screen size and fault details."
     },
     {
       "num": 2,
-      "title": "Home Arrival in Dindigul",
-      "desc": "A technician visits your home in Dindigul with voltage probes and LED diagnostic tools."
+      "title": "Home Arrival in Karur",
+      "desc": "A technician visits your home in Karur with voltage probes and LED diagnostic tools."
     },
     {
       "num": 3,
@@ -263,12 +263,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Request Videocon TV Visit",
-      "desc": "Call our Dindigul desk with your Videocon DDB or LED TV symptoms and location."
+      "desc": "Call our Karur desk with your Videocon DDB or LED TV symptoms and location."
     },
     {
       "num": 2,
       "title": "Technician Doorstep Arrival",
-      "desc": "Our repair specialist visits your house in Dindigul equipped with testing gear."
+      "desc": "Our repair specialist visits your house in Karur equipped with testing gear."
     },
     {
       "num": 3,
@@ -295,12 +295,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Mi TV Inspection",
-      "desc": "Call or message our Dindigul desk with your Mi TV model (4A, 4X, 5X) and observed issue."
+      "desc": "Call or message our Karur desk with your Mi TV model (4A, 4X, 5X) and observed issue."
     },
     {
       "num": 2,
       "title": "Technician Doorstep Visit",
-      "desc": "Our technician arrives at your Dindigul home with firmware flash tools and LED strip testers."
+      "desc": "Our technician arrives at your Karur home with firmware flash tools and LED strip testers."
     },
     {
       "num": 3,
@@ -327,12 +327,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Hitachi TV Check",
-      "desc": "Contact our Dindigul team with your Hitachi TV screen size and problem noticed."
+      "desc": "Contact our Karur team with your Hitachi TV screen size and problem noticed."
     },
     {
       "num": 2,
       "title": "Local Technician Arrival",
-      "desc": "An experienced TV technician arrives at your home in Dindigul with multimeters and spares."
+      "desc": "An experienced TV technician arrives at your home in Karur with multimeters and spares."
     },
     {
       "num": 3,
@@ -359,12 +359,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Intex TV Repair",
-      "desc": "Call our local Dindigul phone number with your Intex TV model and issue description."
+      "desc": "Call our local Karur phone number with your Intex TV model and issue description."
     },
     {
       "num": 2,
       "title": "Technician Home Visit",
-      "desc": "Our technician visits your home in Dindigul carrying universal combo board components."
+      "desc": "Our technician visits your home in Karur carrying universal combo board components."
     },
     {
       "num": 3,
@@ -391,12 +391,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Canvas TV Visit",
-      "desc": "Reach our Dindigul service helpline with your Micromax TV model and symptoms."
+      "desc": "Reach our Karur service helpline with your Micromax TV model and symptoms."
     },
     {
       "num": 2,
-      "title": "Doorstep Visit in Dindigul",
-      "desc": "A technician visits your residential address in Dindigul with LED diagnostic gear."
+      "title": "Doorstep Visit in Karur",
+      "desc": "A technician visits your residential address in Karur with LED diagnostic gear."
     },
     {
       "num": 3,
@@ -423,12 +423,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Kodak TV Service",
-      "desc": "Send a message or call our Dindigul desk with your Kodak CA PRO or 7XPRO model details."
+      "desc": "Send a message or call our Karur desk with your Kodak CA PRO or 7XPRO model details."
     },
     {
       "num": 2,
-      "title": "Doorstep Arrival in Dindigul",
-      "desc": "Technician reaches your residence in Dindigul equipped with strip testers and tools."
+      "title": "Doorstep Arrival in Karur",
+      "desc": "Technician reaches your residence in Karur equipped with strip testers and tools."
     },
     {
       "num": 3,
@@ -455,12 +455,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book OnePlus TV Visit",
-      "desc": "Call or WhatsApp our Dindigul desk with your OnePlus Y1, U1S, or QLED model details."
+      "desc": "Call or WhatsApp our Karur desk with your OnePlus Y1, U1S, or QLED model details."
     },
     {
       "num": 2,
       "title": "Prompt Technician Visit",
-      "desc": "Our technician arrives at your Dindigul home with specialized display diagnostic tools."
+      "desc": "Our technician arrives at your Karur home with specialized display diagnostic tools."
     },
     {
       "num": 3,
@@ -487,11 +487,11 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Kaizen TV Service",
-      "desc": "Contact our Dindigul desk with your Sanyo Kaizen TV model and fault observed."
+      "desc": "Contact our Karur desk with your Sanyo Kaizen TV model and fault observed."
     },
     {
       "num": 2,
-      "title": "Doorstep Attendance in Dindigul",
+      "title": "Doorstep Attendance in Karur",
       "desc": "A qualified technician visits your home with multimeters and backlight strip testers."
     },
     {
@@ -519,12 +519,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Akai Fire TV Visit",
-      "desc": "Call our local Dindigul desk with your Akai TV model and screen or remote symptoms."
+      "desc": "Call our local Karur desk with your Akai TV model and screen or remote symptoms."
     },
     {
       "num": 2,
       "title": "Technician Home Arrival",
-      "desc": "Our technician arrives at your residence in Dindigul equipped with testing gear."
+      "desc": "Our technician arrives at your residence in Karur equipped with testing gear."
     },
     {
       "num": 3,
@@ -551,12 +551,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Onida TV Repair",
-      "desc": "Reach out to our Dindigul phone number with your Onida TV model and screen issue."
+      "desc": "Reach out to our Karur phone number with your Onida TV model and screen issue."
     },
     {
       "num": 2,
       "title": "Home Visit by Technician",
-      "desc": "A seasoned technician travels to your home in Dindigul with tools and electronic spares."
+      "desc": "A seasoned technician travels to your home in Karur with tools and electronic spares."
     },
     {
       "num": 3,
@@ -583,11 +583,11 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Aiwa TV Service",
-      "desc": "Contact our Dindigul desk with your Aiwa Magnifiq TV model and observed problem."
+      "desc": "Contact our Karur desk with your Aiwa Magnifiq TV model and observed problem."
     },
     {
       "num": 2,
-      "title": "Doorstep Visit Across Dindigul",
+      "title": "Doorstep Visit Across Karur",
       "desc": "An experienced technician visits your home with diagnostic meters and tools."
     },
     {
@@ -615,12 +615,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book TCL TV Inspection",
-      "desc": "Call or message our Dindigul desk with your TCL C-Series QLED or P-Series 4K model."
+      "desc": "Call or message our Karur desk with your TCL C-Series QLED or P-Series 4K model."
     },
     {
       "num": 2,
       "title": "Doorstep Technician Arrival",
-      "desc": "Our technician visits your Dindigul home equipped with CSOT panel testing gear."
+      "desc": "Our technician visits your Karur home equipped with CSOT panel testing gear."
     },
     {
       "num": 3,
@@ -647,12 +647,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book iFFALCON TV Service",
-      "desc": "Contact our Dindigul desk with your iFFALCON K-Series or U-Series model details."
+      "desc": "Contact our Karur desk with your iFFALCON K-Series or U-Series model details."
     },
     {
       "num": 2,
-      "title": "Home Visit in Dindigul",
-      "desc": "A technician visits your residential address in Dindigul with LED diagnostic gear."
+      "title": "Home Visit in Karur",
+      "desc": "A technician visits your residential address in Karur with LED diagnostic gear."
     },
     {
       "num": 3,
@@ -679,12 +679,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Acer TV Inspection",
-      "desc": "Call our local Dindigul phone number with your Acer I-Series or H-Series TV details."
+      "desc": "Call our local Karur phone number with your Acer I-Series or H-Series TV details."
     },
     {
       "num": 2,
       "title": "Technician Doorstep Arrival",
-      "desc": "Our technician arrives at your Dindigul home with audio testers and strip meters."
+      "desc": "Our technician arrives at your Karur home with audio testers and strip meters."
     },
     {
       "num": 3,
@@ -711,12 +711,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Hisense TV Service",
-      "desc": "Contact our Dindigul desk with your Hisense Tornado 4K or ULED TV model details."
+      "desc": "Contact our Karur desk with your Hisense Tornado 4K or ULED TV model details."
     },
     {
       "num": 2,
       "title": "Technician Home Visit",
-      "desc": "An experienced TV technician reaches your location in Dindigul with diagnostic equipment."
+      "desc": "An experienced TV technician reaches your location in Karur with diagnostic equipment."
     },
     {
       "num": 3,
@@ -743,12 +743,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Request BPL TV Service",
-      "desc": "Reach our local Dindigul desk with your BPL Stellar or LED TV screen issue."
+      "desc": "Reach our local Karur desk with your BPL Stellar or LED TV screen issue."
     },
     {
       "num": 2,
       "title": "Local Technician Arrival",
-      "desc": "A technician visits your home in Dindigul equipped with multimeters and soldering gear."
+      "desc": "A technician visits your home in Karur equipped with multimeters and soldering gear."
     },
     {
       "num": 3,
@@ -775,12 +775,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Vu TV Inspection",
-      "desc": "Call or message our Dindigul team with your Vu Glo QLED or Cinema TV symptoms."
+      "desc": "Call or message our Karur team with your Vu Glo QLED or Cinema TV symptoms."
     },
     {
       "num": 2,
-      "title": "Doorstep Visit in Dindigul",
-      "desc": "Our technician arrives at your Dindigul address with Glo Panel diagnostic tools."
+      "title": "Doorstep Visit in Karur",
+      "desc": "Our technician arrives at your Karur address with Glo Panel diagnostic tools."
     },
     {
       "num": 3,
@@ -807,12 +807,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Lloyd TV Repair",
-      "desc": "Reach out to our Dindigul helpline with your Havells Lloyd model and screen symptoms."
+      "desc": "Reach out to our Karur helpline with your Havells Lloyd model and screen symptoms."
     },
     {
       "num": 2,
       "title": "Technician Home Visit",
-      "desc": "A qualified technician travels to your residence in Dindigul with testing equipment."
+      "desc": "A qualified technician travels to your residence in Karur with testing equipment."
     },
     {
       "num": 3,
@@ -839,12 +839,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule VW TV Service",
-      "desc": "Call our local Dindigul desk with your VW Playwall or Pro Frameless TV model."
+      "desc": "Call our local Karur desk with your VW Playwall or Pro Frameless TV model."
     },
     {
       "num": 2,
       "title": "Prompt Residential Visit",
-      "desc": "Our repair technician visits your home in Dindigul carrying combo board spares."
+      "desc": "Our repair technician visits your home in Karur carrying combo board spares."
     },
     {
       "num": 3,
@@ -871,12 +871,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Acerpure TV Visit",
-      "desc": "Contact our Dindigul team with your Acerpure Life 4K or Aspire TV fault details."
+      "desc": "Contact our Karur team with your Acerpure Life 4K or Aspire TV fault details."
     },
     {
       "num": 2,
       "title": "Technician Doorstep Arrival",
-      "desc": "Our technician arrives at your Dindigul home with digital meters and strip testers."
+      "desc": "Our technician arrives at your Karur home with digital meters and strip testers."
     },
     {
       "num": 3,
@@ -903,12 +903,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Redmi TV Inspection",
-      "desc": "Call or WhatsApp our Dindigul desk with your Redmi X-Series or 32/43-inch TV issue."
+      "desc": "Call or WhatsApp our Karur desk with your Redmi X-Series or 32/43-inch TV issue."
     },
     {
       "num": 2,
-      "title": "Home Visit Across Dindigul",
-      "desc": "A technician visits your home in Dindigul equipped with firmware tools and LED testers."
+      "title": "Home Visit Across Karur",
+      "desc": "A technician visits your home in Karur equipped with firmware tools and LED testers."
     },
     {
       "num": 3,
@@ -935,12 +935,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Schedule Mi TV Visit",
-      "desc": "Contact our local Dindigul desk with your Mi 4A Horizon or 5X 4K TV symptoms."
+      "desc": "Contact our local Karur desk with your Mi 4A Horizon or 5X 4K TV symptoms."
     },
     {
       "num": 2,
       "title": "Technician Doorstep Arrival",
-      "desc": "Our technician arrives at your Dindigul address with testing tools and component spares."
+      "desc": "Our technician arrives at your Karur address with testing tools and component spares."
     },
     {
       "num": 3,
@@ -967,12 +967,12 @@ const brandProcesses = {
     {
       "num": 1,
       "title": "Book Hyundai TV Service",
-      "desc": "Call or message our Dindigul desk with your Hyundai WebOS Hub TV model and symptoms."
+      "desc": "Call or message our Karur desk with your Hyundai WebOS Hub TV model and symptoms."
     },
     {
       "num": 2,
-      "title": "Doorstep Visit in Dindigul",
-      "desc": "A technician reaches your home in Dindigul equipped with WebOS and backlight testers."
+      "title": "Doorstep Visit in Karur",
+      "desc": "A technician reaches your home in Karur equipped with WebOS and backlight testers."
     },
     {
       "num": 3,

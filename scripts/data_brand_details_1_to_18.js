@@ -3,11 +3,11 @@
 
 module.exports = {
   acer: {
-    searchIntentHeading: "Searching for Acer Service Center in Dindigul?",
-    searchIntentText: "Looking for Acer home appliance service near me in Dindigul? If your Acer split AC is not cooling properly or your Acer Google TV screen went dark, our local technicians provide prompt doorstep visits across Dindigul neighborhoods.",
-    whyMatters: "Acer has expanded into Indian households with smart air conditioners, frost-free refrigerators, automatic washing machines, and Android televisions. Families in Dindigul rely on these appliances for daily summer cooling, fresh grocery storage, routine laundry, and living-room entertainment.",
-    cleaningMatters: "Dust accumulation on Acer AC filters reduces cooling speed, while hard water scaling can choke washing machine valves. Regular wiping of TV panel vents and clearing the refrigerator drain pipe keeps Acer appliances operating smoothly through Dindigul summers.",
-    nearMeText: "When searching for Acer Service Center Near Me or Acer Repair Center Near Me in Dindigul, getting a qualified technician to your doorstep saves time. We offer Acer Home Appliance Service Near Me covering split ACs, single and double door refrigerators, front load washers, and smart TVs.",
+    searchIntentHeading: "Searching for Acer Service Center in Karur?",
+    searchIntentText: "Looking for Acer home appliance service near me in Karur? If your Acer split AC is not cooling properly or your Acer Google TV screen went dark, our local technicians provide prompt doorstep visits across Karur neighborhoods.",
+    whyMatters: "Acer has expanded into Indian households with smart air conditioners, frost-free refrigerators, automatic washing machines, and Android televisions. Families in Karur rely on these appliances for daily summer cooling, fresh grocery storage, routine laundry, and living-room entertainment.",
+    cleaningMatters: "Dust accumulation on Acer AC filters reduces cooling speed, while hard water scaling can choke washing machine valves. Regular wiping of TV panel vents and clearing the refrigerator drain pipe keeps Acer appliances operating smoothly through Karur summers.",
+    nearMeText: "When searching for Acer Service Center Near Me or Acer Repair Center Near Me in Karur, getting a qualified technician to your doorstep saves time. We offer Acer Home Appliance Service Near Me covering split ACs, single and double door refrigerators, front load washers, and smart TVs.",
     ac: {
       types: ["Inverter Split AC", "Fixed Speed Split AC", "4-in-1 Convertible AC"],
       tech: "Acer air conditioners use variable speed inverter compressors with micro-channel or copper condensers, depending on model. Selected models feature convertible cooling modes and anti-corrosive blue-fin coil coatings.",
@@ -59,11 +59,11 @@ module.exports = {
   },
 
   acerpure: {
-    searchIntentHeading: "Looking for Acerpure Service in Dindigul?",
-    searchIntentText: "Need Acerpure appliance repair in Dindigul? If your Acerpure split air conditioner is not cooling or your Acerpure smart TV has a display problem, our local Dindigul technicians are ready for home inspection visits.",
-    whyMatters: "Acerpure products focus on clean home air, energy-efficient cooling, and modern smart television displays. Dindigul households count on Acerpure cooling appliances to manage seasonal heat while keeping indoor air circulating cleanly.",
+    searchIntentHeading: "Looking for Acerpure Service in Karur?",
+    searchIntentText: "Need Acerpure appliance repair in Karur? If your Acerpure split air conditioner is not cooling or your Acerpure smart TV has a display problem, our local Karur technicians are ready for home inspection visits.",
+    whyMatters: "Acerpure products focus on clean home air, energy-efficient cooling, and modern smart television displays. Karur households count on Acerpure cooling appliances to manage seasonal heat while keeping indoor air circulating cleanly.",
     cleaningMatters: "Keeping Acerpure AC air filters clean prevents the evaporator coil from freezing up. Gently cleaning TV ventilation slots ensures the main processor board does not overheat during lengthy viewing sessions.",
-    nearMeText: "If you are searching for Acerpure Service Center Near Me or Acerpure Repair Center Near Me in Dindigul, our doorstep visit service ensures fast inspection. We provide Acerpure Home Appliance Service Near Me for air conditioning and television systems across town.",
+    nearMeText: "If you are searching for Acerpure Service Center Near Me or Acerpure Repair Center Near Me in Karur, our doorstep visit service ensures fast inspection. We provide Acerpure Home Appliance Service Near Me for air conditioning and television systems across town.",
     ac: {
       types: ["Inverter Split AC", "Smart Inverter Split AC"],
       tech: "Acerpure air conditioners feature energy-saving inverter compressors with air circulation fins and multi-stage dust filtration, depending on model. Selected units include smart temperature sensors and eco sleep modes.",
@@ -91,11 +91,11 @@ module.exports = {
   },
 
   aiwa: {
-    searchIntentHeading: "Need Aiwa TV Repair in Dindigul?",
-    searchIntentText: "Searching for Aiwa TV Service Center in Dindigul? If your Aiwa Magnifiq smart LED TV has no picture, no sound, or will not switch on from standby, our local technicians provide dependable doorstep diagnosis across Dindigul.",
-    whyMatters: "Aiwa televisions are known for rich sound tuning, clear LED panels, and modern Android smart interfaces. Dindigul families enjoy Aiwa TVs for watching sports, daily news, and entertainment serials.",
+    searchIntentHeading: "Need Aiwa TV Repair in Karur?",
+    searchIntentText: "Searching for Aiwa TV Service Center in Karur? If your Aiwa Magnifiq smart LED TV has no picture, no sound, or will not switch on from standby, our local technicians provide dependable doorstep diagnosis across Karur.",
+    whyMatters: "Aiwa televisions are known for rich sound tuning, clear LED panels, and modern Android smart interfaces. Karur families enjoy Aiwa TVs for watching sports, daily news, and entertainment serials.",
     cleaningMatters: "Dust can easily settle into rear ventilation grills and HDMI input ports. Keeping the back cover dusted and protecting the power plug from loose wall sockets extends the life of Aiwa power boards.",
-    nearMeText: "When looking for Aiwa TV Repair Near Me or Aiwa Service Center Near Me in Dindigul, you can get quick doorstep support. We provide Aiwa TV Service Near Me covering backlight repairs, motherboard checks, and soundboard faults.",
+    nearMeText: "When looking for Aiwa TV Repair Near Me or Aiwa Service Center Near Me in Karur, you can get quick doorstep support. We provide Aiwa TV Service Near Me covering backlight repairs, motherboard checks, and soundboard faults.",
     tv: {
       types: ["Smart LED TV", "4K UHD Smart Google TV", "Magnifiq Series TV", "Full HD LED TV"],
       tech: "Aiwa smart TVs utilize high-lumen LED backlight bars, dedicated audio amplifier circuits, and Android TV operating software, depending on model. Selected models feature wide color gamut displays and Dolby Atmos audio.",
@@ -111,11 +111,11 @@ module.exports = {
   },
 
   akai: {
-    searchIntentHeading: "Looking for Akai TV Service Center in Dindigul?",
-    searchIntentText: "Need Akai TV repair service near me in Dindigul? When your Akai LED TV screen shows a black display, restarts randomly, or refuses to power on, our experienced Dindigul technicians can inspect the appliance at your home.",
-    whyMatters: "Akai televisions offer budget-friendly home entertainment with durable panels and simple smart connectivity. Many households across Dindigul rely on Akai TVs for their daily television viewing.",
+    searchIntentHeading: "Looking for Akai TV Service Center in Karur?",
+    searchIntentText: "Need Akai TV repair service near me in Karur? When your Akai LED TV screen shows a black display, restarts randomly, or refuses to power on, our experienced Karur technicians can inspect the appliance at your home.",
+    whyMatters: "Akai televisions offer budget-friendly home entertainment with durable panels and simple smart connectivity. Many households across Karur rely on Akai TVs for their daily television viewing.",
     cleaningMatters: "Moisture and dust around edge connectors can trigger screen lines. Keeping the TV away from damp walls and wiping the outer frame regularly helps maintain stable picture clarity.",
-    nearMeText: "Searching for Akai TV Repair Near Me or Akai Service Center in Dindigul? We provide local doorstep inspection for all Akai LED and smart television models with transparent problem explanations.",
+    nearMeText: "Searching for Akai TV Repair Near Me or Akai Service Center in Karur? We provide local doorstep inspection for all Akai LED and smart television models with transparent problem explanations.",
     tv: {
       types: ["Smart LED TV", "4K Ultra HD TV", "Android TV", "HD Ready LED TV"],
       tech: "Akai TVs are built with energy-efficient LED edge-lit or direct-lit backlights and Android-based user interfaces, depending on model. Selected units include multiple AV and HDMI ports for set-top boxes.",
@@ -131,11 +131,11 @@ module.exports = {
   },
 
   bajaj: {
-    searchIntentHeading: "Searching for Bajaj Appliance Service in Dindigul?",
-    searchIntentText: "Need Bajaj appliance repair service near me in Dindigul? If your Bajaj cooling equipment, air cooling system, or commercial cooling setup is running warm or having motor faults, our local Dindigul technicians provide honest doorstep checking.",
-    whyMatters: "Bajaj is one of India's most trusted household names for home climate control, water heating, and kitchen appliances. In Dindigul's dry and warm climate, dependable cooling appliances are necessary for everyday comfort.",
+    searchIntentHeading: "Searching for Bajaj Appliance Service in Karur?",
+    searchIntentText: "Need Bajaj appliance repair service near me in Karur? If your Bajaj cooling equipment, air cooling system, or commercial cooling setup is running warm or having motor faults, our local Karur technicians provide honest doorstep checking.",
+    whyMatters: "Bajaj is one of India's most trusted household names for home climate control, water heating, and kitchen appliances. In Karur's dry and warm climate, dependable cooling appliances are necessary for everyday comfort.",
     cleaningMatters: "Hard water minerals often scale up cooling pads and water lines. Regular descaling of water tanks and cleaning fan grilles prevents motor strain and unpleasant odors during summer months.",
-    nearMeText: "When searching for Bajaj Service Center Near Me or Bajaj Repair Center Near Me in Dindigul, you get reliable doorstep technician assistance for cooling appliances and electrical checks across the municipality.",
+    nearMeText: "When searching for Bajaj Service Center Near Me or Bajaj Repair Center Near Me in Karur, you get reliable doorstep technician assistance for cooling appliances and electrical checks across the municipality.",
     ac: {
       types: ["Commercial Air Conditioning", "Residential Air Cooling Systems", "Split Cooling Units"],
       tech: "Bajaj cooling systems utilize heavy-duty blower fans, durable copper windings, and high-efficiency heat exchangers, depending on model. Selected units include multi-directional louvers and low-noise air distribution systems.",
@@ -151,11 +151,11 @@ module.exports = {
   },
 
   "blue-star": {
-    searchIntentHeading: "Need Blue Star Service Center in Dindigul?",
-    searchIntentText: "Searching for Blue Star AC or refrigeration repair near me in Dindigul? If your Blue Star inverter split AC is not cooling or your deep freezer temperature is dropping, our local technicians provide prompt doorstep visits across Dindigul.",
-    whyMatters: "Blue Star is an industry leader in air conditioning and commercial refrigeration across Tamil Nadu. Homes, grocery stores, and medical shops in Dindigul depend on Blue Star split ACs and deep freezers for reliable, uninterrupted chilling.",
-    cleaningMatters: "Dindigul's dusty outdoor air can coat Blue Star condenser fins quickly, forcing the compressor to work harder. Keeping indoor filters rinsed and ensuring clear airflow around deep freezer compressors prevents sudden breakdowns.",
-    nearMeText: "Looking for Blue Star Service Center Near Me or Blue Star AC Repair Near Me in Dindigul? Our local team provides verified doorstep service for Blue Star air conditioners and deep freezers with clear spare part pricing.",
+    searchIntentHeading: "Need Blue Star Service Center in Karur?",
+    searchIntentText: "Searching for Blue Star AC or refrigeration repair near me in Karur? If your Blue Star inverter split AC is not cooling or your deep freezer temperature is dropping, our local technicians provide prompt doorstep visits across Karur.",
+    whyMatters: "Blue Star is an industry leader in air conditioning and commercial refrigeration across Tamil Nadu. Homes, grocery stores, and medical shops in Karur depend on Blue Star split ACs and deep freezers for reliable, uninterrupted chilling.",
+    cleaningMatters: "Karur's dusty outdoor air can coat Blue Star condenser fins quickly, forcing the compressor to work harder. Keeping indoor filters rinsed and ensuring clear airflow around deep freezer compressors prevents sudden breakdowns.",
+    nearMeText: "Looking for Blue Star Service Center Near Me or Blue Star AC Repair Near Me in Karur? Our local team provides verified doorstep service for Blue Star air conditioners and deep freezers with clear spare part pricing.",
     ac: {
       types: ["Inverter Split AC", "Fixed Speed Split AC", "Window AC", "Cassette AC"],
       tech: "Blue Star ACs feature precision cooling technology, brushless DC inverter motors, and 100% copper coils with anti-corrosive hydrophilic blue fins, depending on model. Selected units offer 5-in-1 convertible cooling modes.",
@@ -166,7 +166,7 @@ module.exports = {
         "Outdoor unit compressor making loud metallic buzzing noise"
       ],
       parts: ["Inverter control PCB", "Compressor run capacitor", "Indoor fan motor", "Copper flare joints", "Coil thermistor"],
-      cleaning: "Wash dust filters every two to three weeks and schedule coil jet cleaning before the peak Dindigul summer starts."
+      cleaning: "Wash dust filters every two to three weeks and schedule coil jet cleaning before the peak Karur summer starts."
     },
     fridge: {
       types: ["Deep Freezer", "Commercial Refrigerator", "Chest Freezer", "Visi Cooler"],
@@ -183,11 +183,11 @@ module.exports = {
   },
 
   bosch: {
-    searchIntentHeading: "Looking for Bosch Appliance Service in Dindigul?",
-    searchIntentText: "Searching for Bosch Service Center in Dindigul? If your Bosch front load washing machine shows an E18 error or your Bosch double door refrigerator has stopped chilling, our trained Dindigul technicians visit your doorstep with testing tools.",
-    whyMatters: "Bosch appliances are celebrated for German engineering, quiet EcoSilence Drive motors, and sturdy build quality. Households in Dindigul depend on Bosch washers and refrigerators for daily laundry hygiene and fresh food preservation.",
-    cleaningMatters: "Hard water minerals in Dindigul can build up inside Bosch front load heating elements and water valves. Using descaling powder every couple of months and cleaning the drain pump filter ensures smooth operation.",
-    nearMeText: "Searching for Bosch Service Center Near Me or Bosch Washing Machine Repair Near Me in Dindigul? We provide doorstep inspection across Dindigul for Bosch front load, top load washers, and frost-free refrigerators.",
+    searchIntentHeading: "Looking for Bosch Appliance Service in Karur?",
+    searchIntentText: "Searching for Bosch Service Center in Karur? If your Bosch front load washing machine shows an E18 error or your Bosch double door refrigerator has stopped chilling, our trained Karur technicians visit your doorstep with testing tools.",
+    whyMatters: "Bosch appliances are celebrated for German engineering, quiet EcoSilence Drive motors, and sturdy build quality. Households in Karur depend on Bosch washers and refrigerators for daily laundry hygiene and fresh food preservation.",
+    cleaningMatters: "Hard water minerals in Karur can build up inside Bosch front load heating elements and water valves. Using descaling powder every couple of months and cleaning the drain pump filter ensures smooth operation.",
+    nearMeText: "Searching for Bosch Service Center Near Me or Bosch Washing Machine Repair Near Me in Karur? We provide doorstep inspection across Karur for Bosch front load, top load washers, and frost-free refrigerators.",
     wm: {
       types: ["Front Load Washing Machine", "Top Load Washing Machine", "Washer Dryer Combination"],
       tech: "Bosch washing machines feature EcoSilence Drive brushless motors, VarioDrum wave-droplet paddles, and ActiveWater Plus load sensors, depending on model. Selected models include SpeedPerfect wash cycles and AntiVibration side walls.",
@@ -215,11 +215,11 @@ module.exports = {
   },
 
   bpl: {
-    searchIntentHeading: "Need BPL Service Center in Dindigul?",
-    searchIntentText: "Searching for BPL home appliance repair near me in Dindigul? Whether your BPL washing machine drum has stopped spinning, your BPL refrigerator is not cooling, or your BPL LED TV has no picture, our local technicians are ready to assist.",
-    whyMatters: "BPL is a pioneer Indian consumer brand that continues to serve millions with practical air conditioners, refrigerators, washing machines, and televisions. Many families in Dindigul trust BPL for everyday home utility.",
+    searchIntentHeading: "Need BPL Service Center in Karur?",
+    searchIntentText: "Searching for BPL home appliance repair near me in Karur? Whether your BPL washing machine drum has stopped spinning, your BPL refrigerator is not cooling, or your BPL LED TV has no picture, our local technicians are ready to assist.",
+    whyMatters: "BPL is a pioneer Indian consumer brand that continues to serve millions with practical air conditioners, refrigerators, washing machines, and televisions. Many families in Karur trust BPL for everyday home utility.",
     cleaningMatters: "Dust accumulation on cooling coils and washing machine tub residue can lower efficiency over time. Regular filter maintenance and cleaning lint collectors keeps BPL appliances running dependably.",
-    nearMeText: "Looking for BPL Service Center Near Me or BPL Repair Center in Dindigul? We provide local doorstep technician service for BPL TVs, washing machines, refrigerators, and air conditioners across Dindigul town.",
+    nearMeText: "Looking for BPL Service Center Near Me or BPL Repair Center in Karur? We provide local doorstep technician service for BPL TVs, washing machines, refrigerators, and air conditioners across Karur town.",
     ac: {
       types: ["Split Air Conditioner", "Inverter Split AC"],
       tech: "BPL air conditioners use copper condenser coils with rotary compressors and basic digital displays, depending on model. Selected units include auto-restart after power cuts and turbo cooling modes.",
@@ -271,11 +271,11 @@ module.exports = {
   },
 
   carrier: {
-    searchIntentHeading: "Searching for Carrier AC Service Center in Dindigul?",
-    searchIntentText: "Looking for Carrier AC repair near me in Dindigul? If your Carrier split AC is not chilling your room, leaking water indoors, or displaying an error code on the panel, our local technicians provide prompt doorstep visits.",
-    whyMatters: "Carrier is a world pioneer in air conditioning engineering, renowned for heavy-duty cooling performance in Indian summer temperatures. Homes and offices in Dindigul count on Carrier split and window ACs for dependable cooling.",
-    cleaningMatters: "Dindigul's outdoor summer dust coats Carrier condenser coils, reducing heat transfer and increasing electricity bills. Routine filter cleaning and seasonal condenser washes keep cooling strong and quiet.",
-    nearMeText: "Searching for Carrier Service Center Near Me or Carrier AC Repair in Dindigul? Our local technicians cover doorstep inspection, gas charging, capacitor replacement, and PCB repairs across all Dindigul localities.",
+    searchIntentHeading: "Searching for Carrier AC Service Center in Karur?",
+    searchIntentText: "Looking for Carrier AC repair near me in Karur? If your Carrier split AC is not chilling your room, leaking water indoors, or displaying an error code on the panel, our local technicians provide prompt doorstep visits.",
+    whyMatters: "Carrier is a world pioneer in air conditioning engineering, renowned for heavy-duty cooling performance in Indian summer temperatures. Homes and offices in Karur count on Carrier split and window ACs for dependable cooling.",
+    cleaningMatters: "Karur's outdoor summer dust coats Carrier condenser coils, reducing heat transfer and increasing electricity bills. Routine filter cleaning and seasonal condenser washes keep cooling strong and quiet.",
+    nearMeText: "Searching for Carrier Service Center Near Me or Carrier AC Repair in Karur? Our local technicians cover doorstep inspection, gas charging, capacitor replacement, and PCB repairs across all Karur localities.",
     ac: {
       types: ["Inverter Split AC", "Fixed Speed Split AC", "Window AC", "Cassette AC"],
       tech: "Carrier air conditioners feature Hybridjet cooling technology, Flexicool convertible modes, and Insta Cool rapid pull-down, depending on model. Selected models feature copper condenser coils with Aqua Clear protection.",
@@ -291,11 +291,11 @@ module.exports = {
   },
 
   daewoo: {
-    searchIntentHeading: "Need Daewoo Washing Machine Service in Dindigul?",
-    searchIntentText: "Looking for Daewoo washing machine repair near me in Dindigul? If your Daewoo top load or front load washer is not spinning, making a grinding noise, or refusing to drain water, our Dindigul technicians can inspect it at home.",
-    whyMatters: "Daewoo washing machines are designed with air bubble wash systems and durable drum mechanics for gentle fabric cleaning. Families in Dindigul depend on their Daewoo washers for daily family laundry.",
+    searchIntentHeading: "Need Daewoo Washing Machine Service in Karur?",
+    searchIntentText: "Looking for Daewoo washing machine repair near me in Karur? If your Daewoo top load or front load washer is not spinning, making a grinding noise, or refusing to drain water, our Karur technicians can inspect it at home.",
+    whyMatters: "Daewoo washing machines are designed with air bubble wash systems and durable drum mechanics for gentle fabric cleaning. Families in Karur depend on their Daewoo washers for daily family laundry.",
     cleaningMatters: "Hard water deposits can clog Daewoo water inlet valves and leave scale on the drum surface. Running periodic tub-clean cycles and emptying the lint collector maintains clean washing performance.",
-    nearMeText: "When searching for Daewoo Service Center Near Me or Daewoo Washing Machine Repair in Dindigul, getting a technician directly to your residence saves hassle. We provide full diagnosis and genuine compatible spare repairs.",
+    nearMeText: "When searching for Daewoo Service Center Near Me or Daewoo Washing Machine Repair in Karur, getting a technician directly to your residence saves hassle. We provide full diagnosis and genuine compatible spare repairs.",
     wm: {
       types: ["Fully Automatic Top Load", "Fully Automatic Front Load", "Semi-Automatic Washer"],
       tech: "Daewoo washing machines utilize air bubble wash technology, nano silver sterilization, and direct drive or belt-driven motors, depending on model. Selected units include child lock and delay start timers.",
@@ -311,11 +311,11 @@ module.exports = {
   },
 
   daikin: {
-    searchIntentHeading: "Looking for Daikin AC Service Center in Dindigul?",
-    searchIntentText: "Searching for Daikin AC service near me in Dindigul? If your Daikin inverter split AC is not cooling properly, blowing warm air, or showing an error code on the remote controller, our local Dindigul technicians provide fast doorstep help.",
-    whyMatters: "Daikin is globally celebrated for Japanese precision cooling, patented Swing Inverter compressors, and quiet indoor performance. Dindigul homes and clinics rely heavily on Daikin ACs for whisper-quiet and efficient cooling.",
+    searchIntentHeading: "Looking for Daikin AC Service Center in Karur?",
+    searchIntentText: "Searching for Daikin AC service near me in Karur? If your Daikin inverter split AC is not cooling properly, blowing warm air, or showing an error code on the remote controller, our local Karur technicians provide fast doorstep help.",
+    whyMatters: "Daikin is globally celebrated for Japanese precision cooling, patented Swing Inverter compressors, and quiet indoor performance. Karur homes and clinics rely heavily on Daikin ACs for whisper-quiet and efficient cooling.",
     cleaningMatters: "Fine dust particles on Daikin PM2.5 filters can restrict airflow and cause the indoor evaporator to ice up. Rinsing indoor filters and keeping outdoor heat exchanger fins clean ensures maximum cooling power.",
-    nearMeText: "Searching for Daikin Service Center Near Me or Daikin AC Repair in Dindigul? Our local technicians provide expert doorstep diagnosis, error code checking, gas leak rectification, and PCB servicing throughout Dindigul.",
+    nearMeText: "Searching for Daikin Service Center Near Me or Daikin AC Repair in Karur? Our local technicians provide expert doorstep diagnosis, error code checking, gas leak rectification, and PCB servicing throughout Karur.",
     ac: {
       types: ["Inverter Split AC", "Non-Inverter Split AC", "Window AC", "Cassette AC"],
       tech: "Daikin air conditioners feature Neo Swing inverter compressors, Coanda airflow design for uniform room cooling, and PM2.5 air purification filters, depending on model. Selected models use R32 eco refrigerant with copper coils.",
@@ -331,16 +331,16 @@ module.exports = {
   },
 
   electrolux: {
-    searchIntentHeading: "Searching for Electrolux Appliance Service in Dindigul?",
-    searchIntentText: "Looking for Electrolux Service Center in Dindigul? If your Electrolux front load washing machine will not spin, your frost-free refrigerator is not cooling, or your split AC has airflow issues, our local technicians are ready to visit.",
-    whyMatters: "Electrolux is a premium Swedish home appliance brand built for fabric care, food preservation, and quiet home comfort. Families across Dindigul rely on Electrolux washers, fridges, and ACs for everyday family living.",
+    searchIntentHeading: "Searching for Electrolux Appliance Service in Karur?",
+    searchIntentText: "Looking for Electrolux Service Center in Karur? If your Electrolux front load washing machine will not spin, your frost-free refrigerator is not cooling, or your split AC has airflow issues, our local technicians are ready to visit.",
+    whyMatters: "Electrolux is a premium Swedish home appliance brand built for fabric care, food preservation, and quiet home comfort. Families across Karur rely on Electrolux washers, fridges, and ACs for everyday family living.",
     cleaningMatters: "Detergent buildup inside front load washing machine dispensers and dust on refrigerator condenser coils can reduce appliance life. Simple periodic cleaning keeps Electrolux appliances running smoothly.",
-    nearMeText: "When searching for Electrolux Service Center Near Me or Electrolux Repair Center Near Me in Dindigul, you get reliable doorstep technician service for front load washers, refrigerators, and ACs across Dindigul.",
+    nearMeText: "When searching for Electrolux Service Center Near Me or Electrolux Repair Center Near Me in Karur, you get reliable doorstep technician service for front load washers, refrigerators, and ACs across Karur.",
     ac: {
       types: ["Inverter Split AC", "Fixed Speed Split AC"],
       tech: "Electrolux air conditioners use energy-efficient inverter compressors with multi-stage air filtration and rapid turbo cooling modes, depending on model. Selected models feature gold-fin anti-corrosion protection.",
       problems: [
-        "Cooling output weak during hot Dindigul afternoons",
+        "Cooling output weak during hot Karur afternoons",
         "Indoor fan makes squeaking noise when rotating on low speed",
         "Water leak near the refrigerant piping hole",
         "Outdoor unit fails to power up after electrical power cut"
@@ -375,11 +375,11 @@ module.exports = {
   },
 
   godrej: {
-    searchIntentHeading: "Looking for Godrej Appliance Service in Dindigul?",
-    searchIntentText: "Searching for Godrej Service Center in Dindigul? If your Godrej refrigerator is not cooling, your Godrej washing machine drum is not rotating, or your Godrej inverter AC is blowing warm air, our local Dindigul technicians visit your home promptly.",
-    whyMatters: "Godrej is one of India's most dependable home appliance brands, trusted for rugged build quality, power-saving performance, and eco-friendly refrigerants. In Dindigul homes, Godrej fridges, washers, and ACs are household staples.",
-    cleaningMatters: "Dindigul's hard water can build scale inside Godrej top load washing machines, while dust on AC filters slows room cooling. Regular filter washing and drain maintenance keeps Godrej appliances working at their best.",
-    nearMeText: "Searching for Godrej Service Center Near Me or Godrej Refrigerator Repair Near Me in Dindigul? Our local technicians provide transparent doorstep inspection, spare replacement, and servicing across all Dindigul neighborhoods.",
+    searchIntentHeading: "Looking for Godrej Appliance Service in Karur?",
+    searchIntentText: "Searching for Godrej Service Center in Karur? If your Godrej refrigerator is not cooling, your Godrej washing machine drum is not rotating, or your Godrej inverter AC is blowing warm air, our local Karur technicians visit your home promptly.",
+    whyMatters: "Godrej is one of India's most dependable home appliance brands, trusted for rugged build quality, power-saving performance, and eco-friendly refrigerants. In Karur homes, Godrej fridges, washers, and ACs are household staples.",
+    cleaningMatters: "Karur's hard water can build scale inside Godrej top load washing machines, while dust on AC filters slows room cooling. Regular filter washing and drain maintenance keeps Godrej appliances working at their best.",
+    nearMeText: "Searching for Godrej Service Center Near Me or Godrej Refrigerator Repair Near Me in Karur? Our local technicians provide transparent doorstep inspection, spare replacement, and servicing across all Karur neighborhoods.",
     ac: {
       types: ["5-Star Inverter Split AC", "Fixed Speed Split AC", "Window AC"],
       tech: "Godrej air conditioners feature green inverter technology with eco-friendly R32/R290 refrigerants, 100% copper coils, and anti-corrosive Blue Fin coatings, depending on model. Selected units include heavy-duty cooling for high ambient temperatures.",
@@ -419,11 +419,11 @@ module.exports = {
   },
 
   haier: {
-    searchIntentHeading: "Need Haier Appliance Service in Dindigul?",
-    searchIntentText: "Searching for Haier Service Center in Dindigul? Whether your Haier bottom mount refrigerator is not cooling, your Haier washing machine is vibrating loudly, your Haier AC is blowing warm air, or your Haier Google TV has no display, our local technicians are ready to visit.",
-    whyMatters: "Haier is popular for practical home innovations like bottom-mounted refrigerators, self-cleaning air conditioners, and direct motion washing machines. Dindigul families rely on Haier appliances every single day.",
-    cleaningMatters: "Dust in Dindigul's climate can block Haier self-clean AC coils and refrigerator fan motors. Routine filter maintenance and clearing washer drain pumps keeps Haier appliances working efficiently.",
-    nearMeText: "Searching for Haier Service Center Near Me or Haier Home Appliance Repair in Dindigul? We provide verified doorstep service across Dindigul with clear pricing on genuine compatible parts.",
+    searchIntentHeading: "Need Haier Appliance Service in Karur?",
+    searchIntentText: "Searching for Haier Service Center in Karur? Whether your Haier bottom mount refrigerator is not cooling, your Haier washing machine is vibrating loudly, your Haier AC is blowing warm air, or your Haier Google TV has no display, our local technicians are ready to visit.",
+    whyMatters: "Haier is popular for practical home innovations like bottom-mounted refrigerators, self-cleaning air conditioners, and direct motion washing machines. Karur families rely on Haier appliances every single day.",
+    cleaningMatters: "Dust in Karur's climate can block Haier self-clean AC coils and refrigerator fan motors. Routine filter maintenance and clearing washer drain pumps keeps Haier appliances working efficiently.",
+    nearMeText: "Searching for Haier Service Center Near Me or Haier Home Appliance Repair in Karur? We provide verified doorstep service across Karur with clear pricing on genuine compatible parts.",
     ac: {
       types: ["Triple Inverter Split AC", "Self-Clean Inverter AC", "Window AC"],
       tech: "Haier ACs feature Triple Inverter Plus technology, Frost Self-Clean mechanism, and hyper PCB designs engineered to withstand power surges, depending on model. Selected models cool even at 60-degree ambient heat.",
@@ -475,11 +475,11 @@ module.exports = {
   },
 
   havells: {
-    searchIntentHeading: "Looking for Havells Service in Dindigul?",
-    searchIntentText: "Searching for Havells home appliance service near me in Dindigul? If your Havells air conditioner is not cooling or your Havells washing machine is having spin or drainage issues, our local Dindigul technicians provide dependable doorstep assistance.",
-    whyMatters: "Havells is renowned across India for reliable electrical engineering, energy-efficient appliances, and durable household products. In Dindigul, families rely on Havells climate and laundry appliances for everyday convenience.",
+    searchIntentHeading: "Looking for Havells Service in Karur?",
+    searchIntentText: "Searching for Havells home appliance service near me in Karur? If your Havells air conditioner is not cooling or your Havells washing machine is having spin or drainage issues, our local Karur technicians provide dependable doorstep assistance.",
+    whyMatters: "Havells is renowned across India for reliable electrical engineering, energy-efficient appliances, and durable household products. In Karur, families rely on Havells climate and laundry appliances for everyday convenience.",
     cleaningMatters: "Dust accumulation on air filters and lint buildup in washing machines can reduce operating efficiency. Simple regular cleaning keeps Havells appliances running smoothly and safely.",
-    nearMeText: "Searching for Havells Service Center Near Me or Havells Appliance Repair in Dindigul? Our local technicians provide doorstep inspection, clear fault explanation, and transparent spare part repair across Dindigul.",
+    nearMeText: "Searching for Havells Service Center Near Me or Havells Appliance Repair in Karur? Our local technicians provide doorstep inspection, clear fault explanation, and transparent spare part repair across Karur.",
     ac: {
       types: ["Inverter Split AC", "Heavy Duty Split AC", "Window AC"],
       tech: "Havells air conditioners feature rapid cooling inverter compressors, golden fin evaporator coatings, and smart temperature sensors, depending on model. Selected units include stabilizer-free operation across wide voltage bands.",
@@ -507,11 +507,11 @@ module.exports = {
   },
 
   hisense: {
-    searchIntentHeading: "Searching for Hisense Service Center in Dindigul?",
-    searchIntentText: "Looking for Hisense TV, refrigerator, or AC repair near me in Dindigul? If your Hisense 4K Google TV has a dark screen, your Hisense refrigerator has stopped cooling, or your split AC has airflow faults, our local Dindigul technicians are here to help.",
-    whyMatters: "Hisense is a global leader in display technology, smart Google TVs, and modern refrigeration. Households in Dindigul enjoy Hisense TVs for immersive cinema viewing and Hisense refrigerators for reliable food preservation.",
-    cleaningMatters: "Dindigul's dry dust can settle into TV back covers and refrigerator cooling vents. Keeping ventilation pathways clear and gently wiping screen surfaces prevents overheating and picture degradation.",
-    nearMeText: "Looking for Hisense Service Center Near Me or Hisense TV Repair Near Me in Dindigul? We provide prompt doorstep service for Hisense smart TVs, refrigerators, and ACs across Dindigul town.",
+    searchIntentHeading: "Searching for Hisense Service Center in Karur?",
+    searchIntentText: "Looking for Hisense TV, refrigerator, or AC repair near me in Karur? If your Hisense 4K Google TV has a dark screen, your Hisense refrigerator has stopped cooling, or your split AC has airflow faults, our local Karur technicians are here to help.",
+    whyMatters: "Hisense is a global leader in display technology, smart Google TVs, and modern refrigeration. Households in Karur enjoy Hisense TVs for immersive cinema viewing and Hisense refrigerators for reliable food preservation.",
+    cleaningMatters: "Karur's dry dust can settle into TV back covers and refrigerator cooling vents. Keeping ventilation pathways clear and gently wiping screen surfaces prevents overheating and picture degradation.",
+    nearMeText: "Looking for Hisense Service Center Near Me or Hisense TV Repair Near Me in Karur? We provide prompt doorstep service for Hisense smart TVs, refrigerators, and ACs across Karur town.",
     ac: {
       types: ["Inverter Split AC", "Fast Cooling Split AC"],
       tech: "Hisense air conditioners feature multi-stage inverter motors, 100% copper condenser coils, and smart self-clean modes, depending on model. Selected units include 4-in-1 convertible cooling options.",
@@ -551,11 +551,11 @@ module.exports = {
   },
 
   hitachi: {
-    searchIntentHeading: "Looking for Hitachi Service Center in Dindigul?",
-    searchIntentText: "Searching for Hitachi appliance repair near me in Dindigul? If your Hitachi split AC is not cooling your room, your Hitachi refrigerator is warming up, your washing machine has spin faults, or your Hitachi TV has display issues, our local technicians provide dependable doorstep service.",
-    whyMatters: "Hitachi is renowned for Japanese engineering excellence, tropicalized rotary compressors, and durable home electronics. Families and offices across Dindigul trust Hitachi appliances for demanding summer use.",
-    cleaningMatters: "Dindigul's dusty summer weather can choke Hitachi AC heat exchangers and refrigerator air channels. Periodic filter washing and coil checks maintain optimal cooling speed and lower power consumption.",
-    nearMeText: "Searching for Hitachi Service Center Near Me or Hitachi AC Repair in Dindigul? Our local technicians provide doorstep checking, gas charging, PCB board repairs, and spare replacement throughout Dindigul.",
+    searchIntentHeading: "Looking for Hitachi Service Center in Karur?",
+    searchIntentText: "Searching for Hitachi appliance repair near me in Karur? If your Hitachi split AC is not cooling your room, your Hitachi refrigerator is warming up, your washing machine has spin faults, or your Hitachi TV has display issues, our local technicians provide dependable doorstep service.",
+    whyMatters: "Hitachi is renowned for Japanese engineering excellence, tropicalized rotary compressors, and durable home electronics. Families and offices across Karur trust Hitachi appliances for demanding summer use.",
+    cleaningMatters: "Karur's dusty summer weather can choke Hitachi AC heat exchangers and refrigerator air channels. Periodic filter washing and coil checks maintain optimal cooling speed and lower power consumption.",
+    nearMeText: "Searching for Hitachi Service Center Near Me or Hitachi AC Repair in Karur? Our local technicians provide doorstep checking, gas charging, PCB board repairs, and spare replacement throughout Karur.",
     ac: {
       types: ["Expandable Inverter Split AC", "Fixed Speed Split AC", "Window AC", "Cassette AC"],
       tech: "Hitachi air conditioners feature Expandable Inverter technology that adjusts cooling capacity under extreme outdoor heat, 100% inner-grooved copper tubes, and FrostWash self-cleaning, depending on model.",
@@ -607,11 +607,11 @@ module.exports = {
   },
 
   hyundai: {
-    searchIntentHeading: "Need Hyundai TV Repair in Dindigul?",
-    searchIntentText: "Searching for Hyundai TV Service Center in Dindigul? If your Hyundai smart LED TV screen went blank, has audio but no picture, or will not turn on from standby, our local Dindigul technicians can inspect the television at your home.",
-    whyMatters: "Hyundai smart televisions provide affordable large-screen entertainment with Android or WebOS interfaces and clear LED panels. Households in Dindigul rely on Hyundai TVs for daily news and family movie viewing.",
+    searchIntentHeading: "Need Hyundai TV Repair in Karur?",
+    searchIntentText: "Searching for Hyundai TV Service Center in Karur? If your Hyundai smart LED TV screen went blank, has audio but no picture, or will not turn on from standby, our local Karur technicians can inspect the television at your home.",
+    whyMatters: "Hyundai smart televisions provide affordable large-screen entertainment with Android or WebOS interfaces and clear LED panels. Households in Karur rely on Hyundai TVs for daily news and family movie viewing.",
     cleaningMatters: "Keeping the rear ventilation openings free from dust prevents the internal power board and motherboard from overheating during long operation hours.",
-    nearMeText: "Searching for Hyundai TV Repair Near Me or Hyundai Service Center in Dindigul? We provide doorstep television inspection, LED backlight repairs, and circuit board servicing across all Dindigul neighborhoods.",
+    nearMeText: "Searching for Hyundai TV Repair Near Me or Hyundai Service Center in Karur? We provide doorstep television inspection, LED backlight repairs, and circuit board servicing across all Karur neighborhoods.",
     tv: {
       types: ["Smart LED TV", "4K Ultra HD WebOS TV", "Android Smart TV", "Frameless Series TV"],
       tech: "Hyundai televisions feature A+ grade LED panels, WebOS or Android operating systems, box speakers with surround sound, and multiple HDMI ports, depending on model.",

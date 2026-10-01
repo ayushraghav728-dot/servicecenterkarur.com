@@ -1,4 +1,4 @@
-// Comprehensive Generator Script for Dindigul TV Brand Pages in /tv/ folder
+// Comprehensive Generator Script for Karur TV Brand Pages in /tv/ folder
 const fs = require('fs');
 const path = require('path');
 
@@ -6,7 +6,7 @@ const brands1to10 = require('./tv_brands_1_to_10.js');
 const brands11to20 = require('./tv_brands_11_to_20.js');
 const brands21to31 = require('./tv_brands_21_to_31.js');
 const allBrands = [...brands1to10, ...brands11to20, ...brands21to31];
-const localities = require('./dindigul_localities.json');
+const localities = require('./karur_localities.json');
 
 // Modular engines with 100% unique brand-specific content
 const brandPricingData = require('./tv_brand_pricing.js');
@@ -27,25 +27,25 @@ function escapeHtml(str) {
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-// Generate Locality Cards (60 authentic Dindigul localities)
+// Generate Locality Cards (60 authentic Karur localities)
 function generateLocalityCards(brandName) {
   return localities.map((loc, idx) => {
     let serviceTitle, descText;
     const mod = idx % 5;
     if (mod === 0) {
       serviceTitle = `${brandName} TV Repair Service in ${loc.title}`;
-      descText = `Doorstep ${brandName} LED and Smart TV diagnosis across ${loc.title}, Dindigul.`;
+      descText = `Doorstep ${brandName} LED and Smart TV diagnosis across ${loc.title}, Karur.`;
     } else if (mod === 1) {
-      serviceTitle = `${brandName} LED TV Repair in ${loc.title}, Dindigul`;
+      serviceTitle = `${brandName} LED TV Repair in ${loc.title}, Karur`;
       descText = `Backlight replacement and power board repair support for ${brandName} televisions in ${loc.title}.`;
     } else if (mod === 2) {
       serviceTitle = `${brandName} Smart TV Service in ${loc.title}`;
       descText = `Technician inspection for ${brandName} Smart TV boot loop, sound, and display issues in ${loc.title}.`;
     } else if (mod === 3) {
       serviceTitle = `${brandName} TV Repair Near Me in ${loc.title}`;
-      descText = `Reliable home visits for ${brandName} TV power supply and motherboard repair around ${loc.title}, Dindigul.`;
+      descText = `Reliable home visits for ${brandName} TV power supply and motherboard repair around ${loc.title}, Karur.`;
     } else {
-      serviceTitle = `${brandName} TV Technician in ${loc.title}, Dindigul`;
+      serviceTitle = `${brandName} TV Technician in ${loc.title}, Karur`;
       descText = `Doorstep checking for ${brandName} 4K, LED, and Smart TV audio and screen problems in ${loc.title}.`;
     }
 
@@ -65,12 +65,12 @@ function generateBrandNavGrid(currentSlug) {
       return `        <div class="service-card" style="border: 2px solid var(--accent-blue); background: rgba(30, 58, 138, 0.04); padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--accent-blue); margin-bottom: 0.35rem;">${escapeHtml(b.name)} TV Repair</h3>
           <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Current Service Page</p>
-          <span style="font-size: 0.82rem; font-weight: 700; color: var(--primary-color);">Dindigul Doorstep Service ✓</span>
+          <span style="font-size: 0.82rem; font-weight: 700; color: var(--primary-color);">Karur Doorstep Service ✓</span>
         </div>`;
     }
     return `        <a href="${b.slug}" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">${escapeHtml(b.name)} TV Repair</h3>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${escapeHtml(b.name)} LED & Smart TV repair across Dindigul.</p>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${escapeHtml(b.name)} LED & Smart TV repair across Karur.</p>
           <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent-blue); margin-top: auto;">View Service →</span>
         </a>`;
   }).join('\n');
@@ -79,8 +79,8 @@ function generateBrandNavGrid(currentSlug) {
 // Generate Brand Page HTML (placed in /tv/)
 function generateBrandPageHtml(brand) {
   const currentSlug = brand.slug;
-  const canonicalUrl = `https://servicecenterdindigul.com/tv/${currentSlug}`;
-  const whatsappUrl = `https://wa.me/919442054321?text=Hello%2C%20I%20need%20${encodeURIComponent(brand.name)}%20TV%20repair%20service%20in%20Dindigul.%20Please%20share%20technician%20visit%20details.`;
+  const canonicalUrl = `https://servicecenterkarur.com/tv/${currentSlug}`;
+  const whatsappUrl = `https://wa.me/919442054321?text=Hello%2C%20I%20need%20${encodeURIComponent(brand.name)}%20TV%20repair%20service%20in%20Karur.%20Please%20share%20technician%20visit%20details.`;
   
   const pricing = brandPricingData[brand.name] || brandPricingData['Samsung'];
   const parts = getBrandParts(brand.name);
@@ -153,7 +153,7 @@ function generateBrandPageHtml(brand) {
           </div>
         </div>`).join('\n');
 
-  // Customer Experiences HTML - Authentic Dindigul localities
+  // Customer Experiences HTML - Authentic Karur localities
   const experiencesList = brand.customerExperiences || brand.experiences || [];
   const experiencesHtml = experiencesList.map(exp => {
     if (exp.title && exp.text) {
@@ -209,27 +209,27 @@ function generateBrandPageHtml(brand) {
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "${escapeHtml(brand.name)} TV Repair & Service in Dindigul",
+    "name": "${escapeHtml(brand.name)} TV Repair & Service in Karur",
     "serviceType": "Television Repair Service",
     "url": "${canonicalUrl}",
     "provider": {
       "@type": "HomeAndConstructionBusiness",
-      "name": "Service Center Dindigul",
+      "name": "Service Center Karur",
       "telephone": "+919442054321",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Road, Near Nagal Nagar & RM Colony",
-        "addressLocality": "Dindigul",
+        "streetAddress": "Jawahar Bazaar, Kovai Road, Near Bus Stand",
+        "addressLocality": "Karur",
         "addressRegion": "Tamil Nadu",
-        "postalCode": "624001",
+        "postalCode": "639001",
         "addressCountry": "IN"
       }
     },
     "areaServed": {
       "@type": "City",
-      "name": "Dindigul"
+      "name": "Karur"
     },
-    "description": "Doorstep ${escapeHtml(brand.name)} LED, 4K, and Smart TV repair and inspection service across Dindigul, Tamil Nadu."
+    "description": "Doorstep ${escapeHtml(brand.name)} LED, 4K, and Smart TV repair and inspection service across Karur, Tamil Nadu."
   }
   </script>
 </head>
@@ -238,25 +238,25 @@ function generateBrandPageHtml(brand) {
   <!-- Site Header -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="../index.html" class="brand-logo" title="Service Center Dindigul Homepage">
+      <a href="../index.html" class="brand-logo" title="Service Center Karur Homepage">
         <div class="brand-icon">
           <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
           </svg>
         </div>
         <div class="brand-title">
-          <span class="brand-name">Service Center Dindigul</span>
+          <span class="brand-name">Service Center Karur</span>
           <span class="brand-loc">Local Appliance Care</span>
         </div>
       </a>
 
       <nav class="main-nav" id="mainNav" aria-label="Main Navigation">
         <a href="../index.html">Home</a>
-        <a href="../ac-repair-service-in-dindigul.html">AC Repair</a>
-        <a href="../refrigerator-repair-service-in-dindigul.html">Fridge Repair</a>
-        <a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine</a>
-        <a href="../tv-repair-service-in-dindigul.html" class="active">TV Repair</a>
-        <a href="../microwave-repair-service-in-dindigul.html">Microwave</a>
+        <a href="../ac-repair-service-in-karur.html">AC Repair</a>
+        <a href="../refrigerator-repair-service-in-karur.html">Fridge Repair</a>
+        <a href="../washing-machine/washing-machine-repair-service-in-karur.html">Washing Machine</a>
+        <a href="../tv-repair-service-in-karur.html" class="active">TV Repair</a>
+        <a href="../microwave-repair-service-in-karur.html">Microwave</a>
       </nav>
 
       <div class="header-actions">
@@ -279,7 +279,7 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <ol>
         <li><a href="../index.html">Home</a></li>
-        <li><a href="../tv-repair-service-in-dindigul.html">TV Repair Service in Dindigul</a></li>
+        <li><a href="../tv-repair-service-in-karur.html">TV Repair Service in Karur</a></li>
         <li aria-current="page">${escapeHtml(brand.name)} TV Repair</li>
       </ol>
     </div>
@@ -291,21 +291,21 @@ function generateBrandPageHtml(brand) {
       <div class="hero-content">
         <div class="hero-badge">
           <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-          <span>Dindigul Doorstep TV Service</span>
+          <span>Karur Doorstep TV Service</span>
         </div>
 
         <!-- Single H1 Rule -->
         <h1>${escapeHtml(brand.h1)}</h1>
 
         <p class="hero-copy">
-          ${escapeHtml(brand.introText && brand.introText[0] ? brand.introText[0] : `Need ${brand.name} TV repair in Dindigul? Get your television checked by a local technician.`)}
+          ${escapeHtml(brand.introText && brand.introText[0] ? brand.introText[0] : `Need ${brand.name} TV repair in Karur? Get your television checked by a local technician.`)}
         </p>
 
         <div class="tanglish-intro-box">
           <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2z"/></svg>
           <div>
             <strong>${escapeHtml(brand.introTamil || `${brand.name} TV problem irukka? Sound varudhu picture varala?`)}</strong><br>
-            ${brand.introTanglish || `${brand.name} TV check panna Dindigul local technician inspection book pannalaam.`}
+            ${brand.introTanglish || `${brand.name} TV check panna Karur local technician inspection book pannalaam.`}
           </div>
         </div>
 
@@ -324,7 +324,7 @@ function generateBrandPageHtml(brand) {
       <!-- Quick Request Card -->
       <div class="hero-card-box">
         <h2>Schedule ${escapeHtml(brand.name)} TV Diagnosis</h2>
-        <p>Doorstep check for ${escapeHtml(brand.name)} LED & Smart TVs in Dindigul.</p>
+        <p>Doorstep check for ${escapeHtml(brand.name)} LED & Smart TVs in Karur.</p>
 
         <form class="quick-booking-form">
           <input type="hidden" name="appliance" value="${escapeHtml(brand.name)} TV Repair & Service">
@@ -335,22 +335,22 @@ function generateBrandPageHtml(brand) {
           </div>
 
           <div class="form-group">
-            <label for="tvLocality">Your Locality in Dindigul</label>
+            <label for="tvLocality">Your Locality in Karur</label>
             <select id="tvLocality" name="locality" class="form-control" required>
-              <option value="Dindigul Town">Dindigul Town / Bus Stand</option>
-              <option value="Nagal Nagar">Nagal Nagar</option>
-              <option value="RM Colony">RM Colony</option>
-              <option value="Begampur">Begampur</option>
-              <option value="Seelapadi">Seelapadi</option>
-              <option value="Balakrishnapuram">Balakrishnapuram</option>
-              <option value="Adiyanuthu">Adiyanuthu</option>
-              <option value="Siluvathur Road">Siluvathur Road</option>
-              <option value="Palani Road">Palani Road</option>
-              <option value="Batlagundu">Batlagundu</option>
-              <option value="Natham">Natham</option>
-              <option value="Oddanchatram">Oddanchatram</option>
-              <option value="Vedasandur">Vedasandur</option>
-              <option value="Nilakottai">Nilakottai</option>
+              <option value="Karur Town">Karur Town / Bus Stand</option>
+              <option value="Kagithapuramam">Kagithapuramam</option>
+              <option value="Pasupathipalayam">Pasupathipalayam</option>
+              <option value="Thanthonimalai">Thanthonimalai</option>
+              <option value="Vengamedu">Vengamedu</option>
+              <option value="Inam Karur">Inam Karur</option>
+              <option value="Sanapiratti">Sanapiratti</option>
+              <option value="Vennaimalai">Vennaimalai</option>
+              <option value="Kovai Road">Kovai Road</option>
+              <option value="Velayuthampalayam">Velayuthampalayam</option>
+              <option value="Pugalur">Pugalur</option>
+              <option value="Aravakurichi">Aravakurichi</option>
+              <option value="Mayanur">Mayanur</option>
+              <option value="Puliyur">Puliyur</option>
             </select>
           </div>
 
@@ -380,7 +380,7 @@ function generateBrandPageHtml(brand) {
         <div style="background: rgba(30, 58, 138, 0.06); border-left: 4px solid var(--accent-blue); padding: 0.85rem 1.25rem; border-radius: 4px; margin-bottom: 1.25rem;">
           <strong style="color: var(--primary-color); font-size: 1.05rem;">${escapeHtml(brand.introTamil || `${brand.name} TV display problem irukka?`)}</strong>
           <p style="margin: 0.25rem 0 0 0; color: var(--text-muted); font-size: 0.95rem;">
-            ${brand.introTanglish || `${brand.name} TV repair in Dindigul thedureengalana, local technician inspection arrange pannalaam.`}
+            ${brand.introTanglish || `${brand.name} TV repair in Karur thedureengalana, local technician inspection arrange pannalaam.`}
           </p>
         </div>
 
@@ -394,8 +394,8 @@ function generateBrandPageHtml(brand) {
   <section class="section section-bg-muted" id="tvTypesSection">
     <div class="container">
       <div class="section-header">
-        <h2>${escapeHtml(brand.name)} TV Types We Repair in Dindigul</h2>
-        <p>Doorstep inspection and repair support across ${escapeHtml(brand.name)} television types and display formats in Dindigul.</p>
+        <h2>${escapeHtml(brand.name)} TV Types We Repair in Karur</h2>
+        <p>Doorstep inspection and repair support across ${escapeHtml(brand.name)} television types and display formats in Karur.</p>
       </div>
 
       <div class="types-grid" style="grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));">
@@ -409,10 +409,10 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <div style="background: #fff; border: 1px solid var(--border-color); border-radius: 8px; padding: 1.75rem;">
         <h2 style="font-size: 1.35rem; color: var(--primary-color); margin-bottom: 0.75rem;">
-          ${escapeHtml(brand.name)} TV Series & Models We Service in Dindigul
+          ${escapeHtml(brand.name)} TV Series & Models We Service in Karur
         </h2>
         <p style="font-size: 0.95rem; color: var(--text-color); line-height: 1.6; margin-bottom: 0.75rem;">
-          ${escapeHtml(brand.modelsSeries || `${brand.name} televisions come in various screen sizes and model series across Dindigul.`)}
+          ${escapeHtml(brand.modelsSeries || `${brand.name} televisions come in various screen sizes and model series across Karur.`)}
         </p>
         <p style="font-size: 0.88rem; color: var(--text-muted); line-height: 1.5; margin: 0; background: #f8fafc; padding: 0.75rem 1rem; border-radius: 4px; border-left: 3px solid var(--accent-blue);">
           <strong>Note on TV models:</strong> Different models can use different display panels, boards and parts. Our technician checks the specific model number on the rear cabinet label and tests the exact circuits before recommending repair or replacement.
@@ -425,8 +425,8 @@ function generateBrandPageHtml(brand) {
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Common ${escapeHtml(brand.name)} TV Problems Repaired in Dindigul</h2>
-        <p>Frequent issues faced by ${escapeHtml(brand.name)} television owners in Dindigul and how our local technician inspects them.</p>
+        <h2>Common ${escapeHtml(brand.name)} TV Problems Repaired in Karur</h2>
+        <p>Frequent issues faced by ${escapeHtml(brand.name)} television owners in Karur and how our local technician inspects them.</p>
       </div>
 
       <div class="problems-grid">
@@ -440,7 +440,7 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <div class="section-header">
         <h2>${escapeHtml(brand.name)} TV Repair Parts & Components</h2>
-        <p>Essential internal components tested and serviced for ${escapeHtml(brand.name)} televisions in Dindigul.</p>
+        <p>Essential internal components tested and serviced for ${escapeHtml(brand.name)} televisions in Karur.</p>
       </div>
 
       <p style="text-align: center; max-width: 800px; margin: 0 auto 1.5rem auto; font-size: 0.95rem; color: var(--text-muted);">
@@ -457,9 +457,9 @@ function generateBrandPageHtml(brand) {
   <section class="section section-bg-muted" id="pricingSection">
     <div class="container">
       <div class="section-header">
-        <h2>${escapeHtml(brand.name)} TV Repair Cost in Dindigul</h2>
+        <h2>${escapeHtml(brand.name)} TV Repair Cost in Karur</h2>
         <p>
-          Estimated service charges and typical part pricing for ${escapeHtml(brand.name)} television repairs in Dindigul:
+          Estimated service charges and typical part pricing for ${escapeHtml(brand.name)} television repairs in Karur:
         </p>
       </div>
 
@@ -476,7 +476,7 @@ function generateBrandPageHtml(brand) {
             <tr>
               <td class="highlight-col">${escapeHtml(brand.name)} TV Doorstep Inspection</td>
               <td class="price-col">${escapeHtml(pricing.inspection)}</td>
-              <td>Complete on-site electronic testing of power board, backlight strips, logic lines, and audio output in Dindigul.</td>
+              <td>Complete on-site electronic testing of power board, backlight strips, logic lines, and audio output in Karur.</td>
             </tr>
             <tr>
               <td class="highlight-col">TV Wall Mount Installation / Unmounting</td>
@@ -550,8 +550,8 @@ function generateBrandPageHtml(brand) {
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Why Choose Us for ${escapeHtml(brand.name)} TV Repair in Dindigul</h2>
-        <p>Practical benefits of scheduling your ${escapeHtml(brand.name)} TV inspection with our local Dindigul desk:</p>
+        <h2>Why Choose Us for ${escapeHtml(brand.name)} TV Repair in Karur</h2>
+        <p>Practical benefits of scheduling your ${escapeHtml(brand.name)} TV inspection with our local Karur desk:</p>
       </div>
 
       <div class="why-grid">
@@ -564,7 +564,7 @@ function generateBrandPageHtml(brand) {
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>How ${escapeHtml(brand.name)} TV Repair Works in Dindigul</h2>
+        <h2>How ${escapeHtml(brand.name)} TV Repair Works in Karur</h2>
         <p>A simple step-by-step repair process from booking to final testing.</p>
       </div>
 
@@ -578,8 +578,8 @@ function generateBrandPageHtml(brand) {
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Recent ${escapeHtml(brand.name)} TV Repair Experiences in Dindigul</h2>
-        <p>Real repair discussions and feedback from households across Dindigul.</p>
+        <h2>Recent ${escapeHtml(brand.name)} TV Repair Experiences in Karur</h2>
+        <p>Real repair discussions and feedback from households across Karur.</p>
       </div>
 
       <div class="experiences-grid">
@@ -592,7 +592,7 @@ function generateBrandPageHtml(brand) {
   <section class="section section-bg-muted" id="localitiesSection">
     <div class="container">
       <div class="section-header">
-        <h2>${escapeHtml(brand.name)} TV Repair Across Dindigul Localities</h2>
+        <h2>${escapeHtml(brand.name)} TV Repair Across Karur Localities</h2>
         <p>Doorstep inspection and repair support across residential colonies, town areas, and surrounding suburban belts.</p>
       </div>
 
@@ -606,7 +606,7 @@ ${generateLocalityCards(brand.name)}
   <section class="section" id="faqSection">
     <div class="container">
       <div class="section-header">
-        <h2>Frequently Asked Questions — ${escapeHtml(brand.name)} TV Repair in Dindigul</h2>
+        <h2>Frequently Asked Questions — ${escapeHtml(brand.name)} TV Repair in Karur</h2>
         <p>Helpful answers to common questions about ${escapeHtml(brand.name)} television faults, doorstep visits, and repairs.</p>
       </div>
 
@@ -616,17 +616,17 @@ ${generateLocalityCards(brand.name)}
     </div>
   </section>
 
-  <!-- TV Brand Repair Service in Dindigul (Links to All 31 Brands) -->
+  <!-- TV Brand Repair Service in Karur (Links to All 31 Brands) -->
   <section class="section section-bg-muted" id="brandsSection">
     <div class="container">
       <div class="section-header">
-        <h2>TV Brand Repair Service in Dindigul</h2>
-        <p>Explore doorstep repair support for all major television brands across Dindigul:</p>
+        <h2>TV Brand Repair Service in Karur</h2>
+        <p>Explore doorstep repair support for all major television brands across Karur:</p>
       </div>
 
       <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
-        <a href="../tv-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; border-left: 4px solid var(--accent-blue); padding: 1.25rem;">
-          <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">All TV Repair in Dindigul</h3>
+        <a href="../tv-repair-service-in-karur.html" class="service-card" style="text-decoration: none; border-left: 4px solid var(--accent-blue); padding: 1.25rem;">
+          <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">All TV Repair in Karur</h3>
           <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Main TV service hub covering all 12 TV types and 31 brands.</p>
           <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent-blue); margin-top: auto;">Main TV Page →</span>
         </a>
@@ -635,34 +635,34 @@ ${generateBrandNavGrid(currentSlug)}
     </div>
   </section>
 
-  <!-- Other Home Appliances in Dindigul -->
+  <!-- Other Home Appliances in Karur -->
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Other Home Appliance Repair Services in Dindigul</h2>
+        <h2>Other Home Appliance Repair Services in Karur</h2>
         <p>Explore doorstep assistance for your other household appliances:</p>
       </div>
 
       <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
-        <a href="../ac-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
+        <a href="../ac-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.1rem; color: var(--primary-color); margin-bottom: 0.35rem;">AC Repair & Service</h3>
           <p style="font-size: 0.88rem; color: var(--text-muted);">Split & window AC cooling faults, water drips, fan motor issues & seasonal service.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue); margin-top: auto; padding-top: 0.75rem;">View AC Services →</span>
         </a>
 
-        <a href="../refrigerator-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
+        <a href="../refrigerator-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.1rem; color: var(--primary-color); margin-bottom: 0.35rem;">Refrigerator / Fridge Repair</h3>
           <p style="font-size: 0.88rem; color: var(--text-muted);">Cooling failure, freezer frost issues, thermostat checking & gas leakage testing.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue); margin-top: auto; padding-top: 0.75rem;">View Fridge Services →</span>
         </a>
 
-        <a href="../washing-machine/washing-machine-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
+        <a href="../washing-machine/washing-machine-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.1rem; color: var(--primary-color); margin-bottom: 0.35rem;">Washing Machine Repair</h3>
           <p style="font-size: 0.88rem; color: var(--text-muted);">Front load, top load & semi-automatic drainage, spinning, vibration & motor repair.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue); margin-top: auto; padding-top: 0.75rem;">View Washing Machine →</span>
         </a>
 
-        <a href="../microwave-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
+        <a href="../microwave-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.1rem; color: var(--primary-color); margin-bottom: 0.35rem;">Microwave Oven Repair</h3>
           <p style="font-size: 0.88rem; color: var(--text-muted);">Solo, grill & convection heating failure, turntable rotation, spark & touch panel repair.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue); margin-top: auto; padding-top: 0.75rem;">View Microwave Services →</span>
@@ -674,7 +674,7 @@ ${generateBrandNavGrid(currentSlug)}
   <!-- CTA Banner Section -->
   <section class="cta-banner-section">
     <div class="container">
-      <h2>Need ${escapeHtml(brand.name)} TV Repair in Dindigul?</h2>
+      <h2>Need ${escapeHtml(brand.name)} TV Repair in Karur?</h2>
       <p>Contact our local team now to discuss your ${escapeHtml(brand.name)} TV issue and arrange a technician inspection.</p>
       <div class="cta-banner-buttons">
         <a href="tel:+919442054321" class="btn-primary-call sync-call">
@@ -694,13 +694,13 @@ ${generateBrandNavGrid(currentSlug)}
     <div class="container">
       <div class="footer-grid">
         <div class="footer-col">
-          <h4>Service Center Dindigul</h4>
+          <h4>Service Center Karur</h4>
           <p>
-            Local doorstep repair and inspection service for home appliances across Dindigul, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
+            Local doorstep repair and inspection service for home appliances across Karur, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
           </p>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-            <span>Main Road, Nagal Nagar & RM Colony, Dindigul, Tamil Nadu 624001</span>
+            <span>Main Road, Kagithapuramam & Pasupathipalayam, Karur, Tamil Nadu 639001</span>
           </div>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
@@ -711,22 +711,22 @@ ${generateBrandNavGrid(currentSlug)}
         <div class="footer-col">
           <h4>Repair Services</h4>
           <ul class="footer-links">
-            <li><a href="../ac-repair-service-in-dindigul.html">AC Repair & Service</a></li>
-            <li><a href="../refrigerator-repair-service-in-dindigul.html">Refrigerator / Fridge Repair</a></li>
-            <li><a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine Repair</a></li>
-            <li><a href="../tv-repair-service-in-dindigul.html">TV Repair & Service</a></li>
-            <li><a href="../microwave-repair-service-in-dindigul.html">Microwave Oven Repair</a></li>
+            <li><a href="../ac-repair-service-in-karur.html">AC Repair & Service</a></li>
+            <li><a href="../refrigerator-repair-service-in-karur.html">Refrigerator / Fridge Repair</a></li>
+            <li><a href="../washing-machine/washing-machine-repair-service-in-karur.html">Washing Machine Repair</a></li>
+            <li><a href="../tv-repair-service-in-karur.html">TV Repair & Service</a></li>
+            <li><a href="../microwave-repair-service-in-karur.html">Microwave Oven Repair</a></li>
           </ul>
         </div>
 
         <div class="footer-col">
-          <h4>Dindigul Coverage</h4>
+          <h4>Karur Coverage</h4>
           <ul class="footer-links">
-            <li><a href="../index.html#localitiesSection">Nagal Nagar & RM Colony</a></li>
-            <li><a href="../index.html#localitiesSection">Begampur & Town Center</a></li>
-            <li><a href="../index.html#localitiesSection">Seelapadi & Balakrishnapuram</a></li>
-            <li><a href="../index.html#localitiesSection">Palani Road & Adiyanuthu</a></li>
-            <li><a href="../index.html#localitiesSection">Batlagundu, Natham & Oddanchatram</a></li>
+            <li><a href="../index.html#localitiesSection">Kagithapuramam & Pasupathipalayam</a></li>
+            <li><a href="../index.html#localitiesSection">Thanthonimalai & Town Center</a></li>
+            <li><a href="../index.html#localitiesSection">Vengamedu & Inam Karur</a></li>
+            <li><a href="../index.html#localitiesSection">Kovai Road & Sanapiratti</a></li>
+            <li><a href="../index.html#localitiesSection">Velayuthampalayam, Pugalur & Aravakurichi</a></li>
           </ul>
         </div>
 
@@ -748,7 +748,7 @@ ${generateBrandNavGrid(currentSlug)}
       </div>
 
       <div class="footer-copy">
-        <div>© 2026 servicecenterdindigul.com — Local Home Appliance Repair in Dindigul.</div>
+        <div>© 2026 servicecenterkarur.com — Local Home Appliance Repair in Karur.</div>
         <div>All rights reserved.</div>
       </div>
     </div>
@@ -806,22 +806,22 @@ for (const brand of allBrands) {
 }
 console.log(`Removed ${removedRootCount} old root-level brand files from ${rootDir}`);
 
-// 3. Update master page: tv-repair-service-in-dindigul.html with Brand Linking Section pointing to tv/
-const masterPath = path.join(rootDir, 'tv-repair-service-in-dindigul.html');
+// 3. Update master page: tv-repair-service-in-karur.html with Brand Linking Section pointing to tv/
+const masterPath = path.join(rootDir, 'tv-repair-service-in-karur.html');
 let masterHtml = fs.readFileSync(masterPath, 'utf8');
 
 const brandCardsForMaster = allBrands.map(b => `        <a href="tv/${b.slug}" class="service-card" style="text-decoration: none; padding: 1.25rem;">
-          <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">${escapeHtml(b.name)} TV Repair Service in Dindigul</h3>
+          <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">${escapeHtml(b.name)} TV Repair Service in Karur</h3>
           <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${escapeHtml(b.name)} LED & Smart TV repair and board inspection.</p>
           <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent-blue); margin-top: auto;">View ${escapeHtml(b.name)} Service →</span>
         </a>`).join('\n');
 
-const brandSectionHtml = `  <!-- TV Brand Repair Service in Dindigul Section -->
+const brandSectionHtml = `  <!-- TV Brand Repair Service in Karur Section -->
   <section class="section section-bg-muted" id="brandsSection">
     <div class="container">
       <div class="section-header">
-        <h2>TV Brand Repair Service in Dindigul</h2>
-        <p>Doorstep inspection and repair support across all 31 popular television brands in Dindigul, Tamil Nadu:</p>
+        <h2>TV Brand Repair Service in Karur</h2>
+        <p>Doorstep inspection and repair support across all 31 popular television brands in Karur, Tamil Nadu:</p>
       </div>
 
       <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
@@ -831,12 +831,12 @@ ${brandCardsForMaster}
   </section>`;
 
 if (masterHtml.includes('id="brandsSection"')) {
-  masterHtml = masterHtml.replace(/<!-- TV Brand Repair Service in Dindigul Section -->[\s\S]*?<\/section>/, brandSectionHtml.trim());
+  masterHtml = masterHtml.replace(/<!-- TV Brand Repair Service in Karur Section -->[\s\S]*?<\/section>/, brandSectionHtml.trim());
 } else if (masterHtml.includes('<!-- Internal Links Section -->')) {
   masterHtml = masterHtml.replace('  <!-- Internal Links Section -->', brandSectionHtml + '\n\n  <!-- Internal Links Section -->');
 }
 fs.writeFileSync(masterPath, masterHtml, 'utf8');
-console.log(`Updated tv-repair-service-in-dindigul.html with TV Brand links pointing to tv/`);
+console.log(`Updated tv-repair-service-in-karur.html with TV Brand links pointing to tv/`);
 
 // 4. Update sitemap.xml to point TV brand URLs to /tv/
 const sitemapPath = path.join(rootDir, 'sitemap.xml');
@@ -844,8 +844,8 @@ let sitemapContent = fs.readFileSync(sitemapPath, 'utf8');
 
 // Replace any old root-level brand URLs with /tv/
 for (const brand of allBrands) {
-  const oldUrl = `https://servicecenterdindigul.com/${brand.slug}`;
-  const newUrl = `https://servicecenterdindigul.com/tv/${brand.slug}`;
+  const oldUrl = `https://servicecenterkarur.com/${brand.slug}`;
+  const newUrl = `https://servicecenterkarur.com/tv/${brand.slug}`;
   if (sitemapContent.includes(oldUrl)) {
     sitemapContent = sitemapContent.replace(oldUrl, newUrl);
   } else if (!sitemapContent.includes(newUrl)) {

@@ -1,16 +1,16 @@
 // Illustrative Customer Service Experiences for All 54 Brands
 // Strictly 100% simple English, no Tamil, no Tanglish, no Hindi
-// Localized to verified Dindigul neighborhoods
+// Localized to verified Karur neighborhoods
 // One experience per major appliance the brand actually has
 
 const brands = require('./data_brands_info.js');
 
-// Approved Dindigul localities for rotation
+// Approved Karur localities for rotation
 const localities = [
-  "RM Colony", "Nagal Nagar", "Palani Road", "Begampur", "Seelapadi",
-  "Balakrishnapuram", "Siluvathur Road", "GTN Nagar", "Round Road",
-  "Nehruji Nagar", "Collectorate Area", "Spencer Compound", "Mendonsa Colony",
-  "Chinnalapatti", "Batlagundu", "Thadicombu", "Vedasandur", "Natham Road"
+  "Pasupathipalayam", "Kagithapuramam", "Kovai Road", "Thanthonimalai", "Vengamedu",
+  "Inam Karur", "Vennaimalai", "Rayanur", "Sengunthapuram",
+  "Sukkaliyur", "Collectorate & Arts College Road", "Thorakkalpatti", "Periya Andankovil",
+  "Vaiyapuri Nagar", "Velayuthampalayam", "Vangal", "Mayanur", "Salem Bypass Road"
 ];
 
 const experiences = {};

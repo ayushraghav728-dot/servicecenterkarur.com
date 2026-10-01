@@ -6,14 +6,14 @@ let content = fs.readFileSync(sitemapPath, 'utf8');
 
 // Parse existing URLs
 const existingUrls = new Set();
-const urlRegex = /<loc>(https:\/\/servicecenterdindigul\.com\/[^<]+)<\/loc>/g;
+const urlRegex = /<loc>(https:\/\/servicecenterkarur\.com\/[^<]+)<\/loc>/g;
 let match;
 while ((match = urlRegex.exec(content)) !== null) {
   existingUrls.add(match[1]);
 }
 // Also check root
-if (content.includes('<loc>https://servicecenterdindigul.com/</loc>')) {
-  existingUrls.add('https://servicecenterdindigul.com/');
+if (content.includes('<loc>https://servicecenterkarur.com/</loc>')) {
+  existingUrls.add('https://servicecenterkarur.com/');
 }
 
 console.log('Existing URLs in sitemap:', existingUrls.size);
@@ -22,7 +22,7 @@ console.log('Existing URLs in sitemap:', existingUrls.size);
 const newUrls = [];
 
 function checkFile(relPath, priority) {
-  const fullUrl = `https://servicecenterdindigul.com/${relPath.replace(/\\/g, '/')}`;
+  const fullUrl = `https://servicecenterkarur.com/${relPath.replace(/\\/g, '/')}`;
   if (!existingUrls.has(fullUrl)) {
     newUrls.push({
       loc: fullUrl,
@@ -46,7 +46,7 @@ scFiles.forEach(f => checkFile(`service-center/${f}`, '0.85'));
 ['ac', 'fridge', 'washing-machine', 'tv'].forEach(dir => {
   const files = fs.readdirSync(path.join(__dirname, '..', dir)).filter(f => f.endsWith('.html'));
   files.forEach(f => {
-    const p = f.includes('-repair-service-in-dindigul.html') && !f.startsWith(dir) ? '0.8' : '0.9';
+    const p = f.includes('-repair-service-in-karur.html') && !f.startsWith(dir) ? '0.8' : '0.9';
     checkFile(`${dir}/${f}`, p);
   });
 });

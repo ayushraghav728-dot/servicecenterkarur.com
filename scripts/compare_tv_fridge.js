@@ -1,7 +1,7 @@
 const fs = require('fs');
-const tv = fs.readFileSync('tv/tv-repair-service-in-dindigul.html', 'utf8');
-const fridge = fs.readFileSync('fridge/refrigerator-repair-service-in-dindigul.html', 'utf8');
-const liebherr = fs.readFileSync('fridge/liebherr-refrigerator-repair-service-in-dindigul.html', 'utf8');
+const tv = fs.readFileSync('tv/tv-repair-service-in-karur.html', 'utf8');
+const fridge = fs.readFileSync('fridge/refrigerator-repair-service-in-karur.html', 'utf8');
+const liebherr = fs.readFileSync('fridge/liebherr-refrigerator-repair-service-in-karur.html', 'utf8');
 
 console.log('TV length:', tv.length);
 console.log('Fridge length:', fridge.length);

@@ -1,7 +1,7 @@
 {
-  "name": "Service Center Dindigul",
+  "name": "Service Center Karur",
   "short_name": "Service Center",
-  "description": "Local doorstep home appliance repair and maintenance services in Dindigul, Tamil Nadu.",
+  "description": "Local doorstep home appliance repair and maintenance services in Karur, Tamil Nadu.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

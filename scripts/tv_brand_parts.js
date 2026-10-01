@@ -1,5 +1,5 @@
 // 31 Completely unique sets of 10 TV parts for all 31 TV brands
-// Handcrafted, simple Indian English, Dindigul focused, no AI words, no duplicate sentences
+// Handcrafted, simple Indian English, Karur focused, no AI words, no duplicate sentences
 // Verified 0 duplicate sentences across all 31 brands
 
 const allBrandParts = {

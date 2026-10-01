@@ -23,7 +23,7 @@ function updateBrandFile(filePath, brandKeys) {
       .join('\n');
 
     // Find the brand section in the file using its slug
-    const slugStr = `"${slugKey}-ac-repair-service-in-dindigul.html"`;
+    const slugStr = `"${slugKey}-ac-repair-service-in-karur.html"`;
     const slugIdx = fileContent.indexOf(slugStr);
     if (slugIdx === -1) {
       console.error(`Could not find slug ${slugStr} in ${filePath}`);

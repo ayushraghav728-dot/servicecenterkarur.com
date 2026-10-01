@@ -29,7 +29,7 @@ const brandPartsMap = {
     },
     {
       name: 'Magnetic Door Gasket',
-      desc: 'The rubber door seal holds cold air inside and keeps warm Dindigul air out. If the gasket is torn, loose, or hardened, moisture gathers inside and cooling leaks out.'
+      desc: 'The rubber door seal holds cold air inside and keeps warm Karur air out. If the gasket is torn, loose, or hardened, moisture gathers inside and cooling leaks out.'
     },
     {
       name: 'Drain Hole & Evaporation Tray',
@@ -301,7 +301,7 @@ const brandPartsMap = {
     },
     {
       name: 'Magnetic Door Gasket',
-      desc: 'Provides a tight seal to keep warm humid Dindigul air outside. If cracked or misaligned, moisture accumulates inside the fridge.'
+      desc: 'Provides a tight seal to keep warm humid Karur air outside. If cracked or misaligned, moisture accumulates inside the fridge.'
     },
     {
       name: 'Defrost Drain Tube & Catch Pan',

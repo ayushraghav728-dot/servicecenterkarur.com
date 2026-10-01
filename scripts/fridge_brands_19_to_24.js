@@ -5,21 +5,21 @@
 const brands19to24 = [
   {
     name: 'Midea',
-    slug: 'midea-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Midea Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Midea Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Midea refrigerator repair in Dindigul? Doorstep inspection for Midea multi-door, side-by-side & inverter frost-free fridges. Cooling diagnosis.',
-    searchIntentIntro: 'Searching for Midea refrigerator repair near me in Dindigul? When your Midea multi-door or side-by-side refrigerator experiences cooling drop or the inverter compressor driver flashes diagnostic error codes, our technicians provide quick doorstep repair across Dindigul. From Palani Road to Begampur and RM Colony, get dependable Midea fridge repair near me with verified troubleshooting and authentic spares.',
+    slug: 'midea-refrigerator-repair-service-in-karur.html',
+    h1: 'Midea Refrigerator Repair Service in Karur',
+    metaTitle: 'Midea Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Midea refrigerator repair in Karur? Doorstep inspection for Midea multi-door, side-by-side & inverter frost-free fridges. Cooling diagnosis.',
+    searchIntentIntro: 'Searching for Midea refrigerator repair near me in Karur? When your Midea multi-door or side-by-side refrigerator experiences cooling drop or the inverter compressor driver flashes diagnostic error codes, our technicians provide quick doorstep repair across Karur. From Kovai Road to Thanthonimalai and Pasupathipalayam, get dependable Midea fridge repair near me with verified troubleshooting and authentic spares.',
     tanglishIntroBox: 'Midea fridge-la cooling balance miss aagudha? Multi-door side-by-side model-la compressor run aagala? Electronic air damper jam aagirukka? Midea modern refrigeration-ku trained technicians unga doorstep-la attend pannuvanga. Multimeter testing panni accurate solution provide panrom.',
-    whyRepair: 'Midea refrigerators incorporate multi-zone airflow dampers, dual inverter compressors, and multi-air ducting. In Dindigul conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
-    localContent: 'We provide specialized Midea refrigerator repair in Dindigul covering Palani Road, Begampur, RM Colony, Round Road, and Nagal Nagar. Our technicians arrive with precision testing multimeters, Midea sensor probes, DC blower fans, and starter modules.',
+    whyRepair: 'Midea refrigerators incorporate multi-zone airflow dampers, dual inverter compressors, and multi-air ducting. In Karur conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
+    localContent: 'We provide specialized Midea refrigerator repair in Karur covering Kovai Road, Thanthonimalai, Pasupathipalayam, Sengunthapuram, and Kagithapuramam. Our technicians arrive with precision testing multimeters, Midea sensor probes, DC blower fans, and starter modules.',
     whenToCall: 'Call our technicians if your Midea fridge stops chilling food, displays error codes, exhibits cold freezer but warm fresh food compartments, builds moisture around door gaskets, or gives off an electrical burning odor (unplug from socket immediately).',
     types: [
       {
         name: 'Midea Inverter Frost Free Double Door Refrigerator Repair',
         badge: 'Inverter Frost Free',
         desc: 'Midea inverter frost-free double door refrigerators modulate compressor speeds to keep internal temperatures steady. Sensor drift or inverter board faults reduce chilling performance.',
-        searchIntent: 'Searching for <strong>Midea double door fridge repair near me</strong> in Dindigul? We diagnose inverter control boards and airflow vents at your doorstep.',
+        searchIntent: 'Searching for <strong>Midea double door fridge repair near me</strong> in Karur? We diagnose inverter control boards and airflow vents at your doorstep.',
         problems: 'Inverter compressor not spinning, food spoiling on lower shelves, defrost error blinking.',
         checks: 'Inverter output frequency, multi-air blower fan speed, and evaporator thermistor.',
         parts: 'Inverter PCB, evaporator fan motor, and defrost sensor.',
@@ -29,7 +29,7 @@ const brands19to24 = [
         name: 'Midea Multi-Door & Side-by-Side Refrigerator Repair',
         badge: 'Multi-Door Side-by-Side',
         desc: 'Midea multi-door and side-by-side refrigerators feature wide storage compartments with inverter compressors. Motorized damper failures or hinge wiring fatigue can cause uneven cooling.',
-        searchIntent: 'Looking for <strong>Midea refrigerator repair in Dindigul</strong> for multi-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
+        searchIntent: 'Looking for <strong>Midea refrigerator repair in Karur</strong> for multi-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
         problems: 'One compartment cooling normally while the other remains warm, touch panel error codes, water pooling under crisper.',
         checks: 'Motorised damper valve, compartment thermistors, and hinge ribbon cables.',
         parts: 'Zone thermistors, electronic damper motor, and display wiring harness.',
@@ -88,66 +88,66 @@ const brands19to24 = [
     ],
     customerExperiences: [
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Midea Multi-Door Damper Motor Replacement',
-        tanglishText: 'Palani Road layout-la oru customer avanga Midea multi-door fridge-la fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician spot-ku poi inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
+        tanglishText: 'Kovai Road layout-la oru customer avanga Midea multi-door fridge-la fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician spot-ku poi inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Midea Inverter Control Board Power Surge Recovery',
-        tanglishText: 'Begampur area-la sudden power surge apram Midea fridge dead aagi compressor start aagala. Technician visit panni inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
+        tanglishText: 'Thanthonimalai area-la sudden power surge apram Midea fridge dead aagi compressor start aagala. Technician visit panni inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Midea Inverter Double Door Cooling Fix',
-        tanglishText: 'RM Colony-la Midea inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu complaint. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Pasupathipalayam-la Midea inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu complaint. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'Round Road',
+        location: 'Sengunthapuram',
         title: 'Midea Frost Free Rear Duct Defrost Heater Fix',
-        tanglishText: 'Round Road layout-la Midea fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
+        tanglishText: 'Sengunthapuram layout-la Midea fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'Midea Door Perimeter Magnetic Gasket Realignment',
-        tanglishText: 'Nagal Nagar-la Midea fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
+        tanglishText: 'Kagithapuramam-la Midea fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
       },
       {
-        location: 'Seelapadi',
+        location: 'Vengamedu',
         title: 'Midea Double Door Water Drainage De-clogging',
-        tanglishText: 'Seelapadi bypass kitta Midea double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
+        tanglishText: 'Vengamedu bypass kitta Midea double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
       },
       {
-        location: 'Spencer Compound',
+        location: 'Thorakkalpatti',
         title: 'Midea Sealed Circuit Nitrogen Leak Test & R600a Refill',
-        tanglishText: 'Spencer Compound-la Midea fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
+        tanglishText: 'Thorakkalpatti-la Midea fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
       }
     ],
     whyChoose: [
       'Specialized technicians familiar with Midea multi-door and inverter engineering',
       'Doorstep diagnostic testing with digital precision multimeters and sensor probes',
-      'quick response across Dindigul Town and residential suburbs',
+      'quick response across Karur Town and residential suburbs',
       'Honest fault explanations with transparent spare pricing',
       'Thorough temperature profiling before completing the service call'
     ]
   },
   {
     name: 'Blue Star',
-    slug: 'blue-star-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Blue Star Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Blue Star Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Blue Star refrigerator repair in Dindigul? Doorstep inspection for Blue Star deep freezers, visi coolers, chest coolers & domestic cooling units. Fast local repair.',
-    searchIntentIntro: 'Searching for Blue Star refrigerator repair near me in Dindigul? Whether your Blue Star commercial deep freezer, visi cooler, bottle cooler, or domestic cooling unit has stopped maintaining sub-zero freezing, our technicians provide quick doorstep repair across Dindigul. From Nagal Nagar to Bus Stand Road and Dindigul Town, get dependable Blue Star fridge repair near me with verified heavy-duty compressor troubleshooting and authentic spares.',
+    slug: 'blue-star-refrigerator-repair-service-in-karur.html',
+    h1: 'Blue Star Refrigerator Repair Service in Karur',
+    metaTitle: 'Blue Star Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Blue Star refrigerator repair in Karur? Doorstep inspection for Blue Star deep freezers, visi coolers, chest coolers & domestic cooling units. Fast local repair.',
+    searchIntentIntro: 'Searching for Blue Star refrigerator repair near me in Karur? Whether your Blue Star commercial deep freezer, visi cooler, bottle cooler, or domestic cooling unit has stopped maintaining sub-zero freezing, our technicians provide quick doorstep repair across Karur. From Kagithapuramam to Bus Stand Area and Karur Town, get dependable Blue Star fridge repair near me with verified heavy-duty compressor troubleshooting and authentic spares.',
     tanglishIntroBox: 'Blue Star deep freezer or cooling unit-la chilling drop aagirukka? Compressor strain panni trip aagudha? Hard-start capacitor or relay issue-aa? Blue Star commercial and domestic refrigeration equipment-ku trained technicians unga spot-la attend pannuvanga. Multimeter testing panni accurate solution provide panrom.',
     whyRepair: 'Blue Star refrigeration units are engineered for intensive cooling in commercial and domestic environments across Tamil Nadu. Heavy workloads, high summer heat, and dust accumulation on bottom condenser coils can cause thermal overload trips, capacitor failures, or gas leaks. quick technician service protects your inventory and prevents costly compressor burnouts.',
-    localContent: 'We provide specialized Blue Star refrigerator and deep freezer repair across Dindigul including Nagal Nagar, Bus Stand Road, Dindigul Town, Palani Road, and Begampur. Our technicians arrive with heavy-duty start capacitors, digital thermostats, condenser fans, and brazing rigs.',
+    localContent: 'We provide specialized Blue Star refrigerator and deep freezer repair across Karur including Kagithapuramam, Bus Stand Area, Karur Town, Kovai Road, and Thanthonimalai. Our technicians arrive with heavy-duty start capacitors, digital thermostats, condenser fans, and brazing rigs.',
     whenToCall: 'Contact our technicians if your Blue Star freezer loses sub-zero chilling, trips the circuit breaker, emits rattling sounds from the bottom condenser fan, shows dense ice around the lid perimeter, or produces an electrical burning odor (switch off power immediately).',
     types: [
       {
         name: 'Blue Star Deep Freezer & Chest Freezer Repair',
         badge: 'Commercial & Domestic Deep Freezer',
         desc: 'Blue Star chest freezers provide high-capacity sub-zero freezing for ice creams, dairy, and frozen foods. Thermostat failures, capacitor burnouts, and puncture leaks are common service calls.',
-        searchIntent: 'Searching for <strong>Blue Star deep freezer repair near me</strong> in Dindigul? We diagnose heavy-duty compressors and temperature controllers on-site.',
+        searchIntent: 'Searching for <strong>Blue Star deep freezer repair near me</strong> in Karur? We diagnose heavy-duty compressors and temperature controllers on-site.',
         problems: 'Ice cream melting, compressor clicking and tripping breaker, dense frost ring around lid edges.',
         checks: 'Start capacitor capacitance, compressor winding insulation, and digital controller setpoint.',
         parts: 'Hard-start capacitor, heavy-duty relay, digital thermostat, and lid perimeter gasket.',
@@ -157,7 +157,7 @@ const brands19to24 = [
         name: 'Blue Star Visi Cooler & Glass Door Refrigerator Repair',
         badge: 'Visi Cooler & Bottle Chiller',
         desc: 'Blue Star visi coolers chill beverages with uniform air circulation behind transparent glass doors. Condenser fan stalls, dirty coils, and electronic thermostat faults affect chilling.',
-        searchIntent: 'Looking for <strong>Blue Star visi cooler repair in Dindigul</strong>? Doorstep testing for condenser fans, digital displays, and door seals.',
+        searchIntent: 'Looking for <strong>Blue Star visi cooler repair in Karur</strong>? Doorstep testing for condenser fans, digital displays, and door seals.',
         problems: 'Bottles staying warm, condenser fan stopped, display controller flashing alarm codes.',
         checks: 'Condenser fan motor, digital display controller, and evaporator airflow vents.',
         parts: 'Condenser cooling fan motor, digital controller, and magnetic door seal.',
@@ -216,39 +216,39 @@ const brands19to24 = [
     ],
     customerExperiences: [
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'Blue Star Deep Freezer Hard-Start Capacitor Replacement',
-        tanglishText: 'Nagal Nagar wholesale market kitta irundha grocery shop owner call pannanga. Avanga Blue Star 300L deep freezer compressor strain panni MCB trip aagudhu-nu sonnanga. Technician spot-ku poi compressor electrical box open pannadhula hard-start capacitor bulge aagi fail aagirundhadhu. Capacitor meter vechu test panni puthiya heavy-duty 80-100 MFD start capacitor and relay install pannom. Compressor smooth-aa start aagi ammeter-la normal running current eduthadhu. Ice cream stock save aachu.'
+        tanglishText: 'Kagithapuramam wholesale market kitta irundha grocery shop owner call pannanga. Avanga Blue Star 300L deep freezer compressor strain panni MCB trip aagudhu-nu sonnanga. Technician spot-ku poi compressor electrical box open pannadhula hard-start capacitor bulge aagi fail aagirundhadhu. Capacitor meter vechu test panni puthiya heavy-duty 80-100 MFD start capacitor and relay install pannom. Compressor smooth-aa start aagi ammeter-la normal running current eduthadhu. Ice cream stock save aachu.'
       },
       {
-        location: 'Bus Stand Road',
+        location: 'Bus Stand Area',
         title: 'Blue Star Visi Cooler Condenser Fan Motor Change',
-        tanglishText: 'Bus Stand Road restaurant-la Blue Star glass door visi cooler-la soft drinks chill aagala-nu complaint. Technician inspect pannadhula bottom condenser fan motor dirt and dust-la jam aagi compressor overheat aagi trip aagitu irundhadhu. High-speed condenser fan motor change panni condenser coil dust blower vechu clean pannom. Heat dissipation recover aagi bottle cooler 30 minutes-la chilled air deliver pannuchu.'
+        tanglishText: 'Bus Stand Area restaurant-la Blue Star glass door visi cooler-la soft drinks chill aagala-nu complaint. Technician inspect pannadhula bottom condenser fan motor dirt and dust-la jam aagi compressor overheat aagi trip aagitu irundhadhu. High-speed condenser fan motor change panni condenser coil dust blower vechu clean pannom. Heat dissipation recover aagi bottle cooler 30 minutes-la chilled air deliver pannuchu.'
       },
       {
-        location: 'Dindigul Town',
+        location: 'Karur Town',
         title: 'Blue Star Chest Freezer Puncture Leak Solder & Gas Fill',
-        tanglishText: 'Dindigul Town milk depot-la Blue Star chest freezer defrost panna knife use pannadhula inner tube puncture aagi gas leak aagirundhadhu. Technician spot-la aluminium-to-copper brazing rod vechu leak hole arrest pannanga. Nitrogen pressure test panni leak illa-nu verify pannitu, high-capacity filter drier replace panni exact weight refrigerant gas charge pannom. Sub-zero freezing 1 hour-la restore aachu.'
+        tanglishText: 'Karur Town milk depot-la Blue Star chest freezer defrost panna knife use pannadhula inner tube puncture aagi gas leak aagirundhadhu. Technician spot-la aluminium-to-copper brazing rod vechu leak hole arrest pannanga. Nitrogen pressure test panni leak illa-nu verify pannitu, high-capacity filter drier replace panni exact weight refrigerant gas charge pannom. Sub-zero freezing 1 hour-la restore aachu.'
       },
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Blue Star Digital Temperature Controller Replacement',
-        tanglishText: 'Palani Road layout-la oru commercial outlet-la Blue Star deep freezer front digital controller display blank aagi cooling cut aagirundhadhu. Technician power supply and sensor check pannadhula internal transformer burn aagirundhadhu. Puthiya digital thermostat controller fit panni -18 degree setpoint program pannom. Freezing cycle perfectly regulate aachu.'
+        tanglishText: 'Kovai Road layout-la oru commercial outlet-la Blue Star deep freezer front digital controller display blank aagi cooling cut aagirundhadhu. Technician power supply and sensor check pannadhula internal transformer burn aagirundhadhu. Puthiya digital thermostat controller fit panni -18 degree setpoint program pannom. Freezing cycle perfectly regulate aachu.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Blue Star Chest Freezer Lid Perimeter Gasket Renewal',
-        tanglishText: 'Begampur area-la Blue Star deep freezer top lid rubber beading tear aagi heavy ice crust form aagudhu-nu sonnanga. Ambient warm air ulla leak aagi energy waste aagitu irundhadhu. Heavy silicone perimeter gasket replace panni lid hinge tension adjust pannom. Lid tight-aa close aagi ice crust problem complete-aa stop aachu.'
+        tanglishText: 'Thanthonimalai area-la Blue Star deep freezer top lid rubber beading tear aagi heavy ice crust form aagudhu-nu sonnanga. Ambient warm air ulla leak aagi energy waste aagitu irundhadhu. Heavy silicone perimeter gasket replace panni lid hinge tension adjust pannom. Lid tight-aa close aagi ice crust problem complete-aa stop aachu.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Blue Star Domestic Cooling Unit Relay Service',
-        tanglishText: 'RM Colony residence-la Blue Star cooling unit clicking noise kuduthu cooling stop aagirundhadhu. Technician starter relay replace panni compressor health verify pannanga. Unit instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
+        tanglishText: 'Pasupathipalayam residence-la Blue Star cooling unit clicking noise kuduthu cooling stop aagirundhadhu. Technician starter relay replace panni compressor health verify pannanga. Unit instant-aa ignite aagi cooling plates chill aaga aarambichadhu.'
       }
     ],
     whyChoose: [
       'Specialized technicians handling Blue Star commercial deep freezers, visi coolers, and cooling units',
-      'Rapid doorstep and on-site commercial repair across Dindigul markets and residences',
+      'Rapid doorstep and on-site commercial repair across Karur markets and residences',
       'Stock of heavy-duty start capacitors, digital thermostats, and condenser fans',
       'Honest pricing with itemized part and labour breakdown',
       'Post-service sub-zero temperature verification before completing the call'
@@ -256,21 +256,21 @@ const brands19to24 = [
   },
   {
     name: 'Motorola',
-    slug: 'motorola-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Motorola Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Motorola Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Motorola refrigerator repair in Dindigul? Doorstep service for Motorola smart inverter frost-free double door & convertible fridges. Quick local repairs.',
-    searchIntentIntro: 'Searching for Motorola refrigerator repair near me in Dindigul? When your Motorola smart inverter frost-free double door refrigerator stops cooling or the convertible mode fails to switch, our technicians visit your home across Dindigul. From RM Colony to Spencer Compound and Palani Road, find dependable Motorola fridge repair near me with verified troubleshooting and accessible spares.',
+    slug: 'motorola-refrigerator-repair-service-in-karur.html',
+    h1: 'Motorola Refrigerator Repair Service in Karur',
+    metaTitle: 'Motorola Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Motorola refrigerator repair in Karur? Doorstep service for Motorola smart inverter frost-free double door & convertible fridges. Quick local repairs.',
+    searchIntentIntro: 'Searching for Motorola refrigerator repair near me in Karur? When your Motorola smart inverter frost-free double door refrigerator stops cooling or the convertible mode fails to switch, our technicians visit your home across Karur. From Pasupathipalayam to Thorakkalpatti and Kovai Road, find dependable Motorola fridge repair near me with verified troubleshooting and accessible spares.',
     tanglishIntroBox: 'Motorola smart fridge-la cooling ninnu pocha? Inverter compressor run aaga maatudha? Convertible mode change panniyum freeze aagala? Motorola smart inverter refrigerators-ku experienced local technicians unga veetukke vandhu check pannuvanga. Reason-a explain pannitu affordable spare cost-la repair mudipanga.',
-    whyRepair: 'Motorola smart inverter refrigerators marketed in India combine convertible cooling modes, smart sensor boards, and inverter compressors. In Dindigul summer conditions, fine electronics can react to supply voltage dips or clogged condenser airflow. Timely service keeps electronic dampers and inverter modules operating smoothly without compressor failure.',
-    localContent: 'We service Motorola refrigerators across RM Colony, Spencer Compound, Palani Road, Begampur, and Dindigul Town. We carry replacement starter relays, defrost sensors, blower fan motors, and control boards for immediate doorstep repair.',
+    whyRepair: 'Motorola smart inverter refrigerators marketed in India combine convertible cooling modes, smart sensor boards, and inverter compressors. In Karur summer conditions, fine electronics can react to supply voltage dips or clogged condenser airflow. Timely service keeps electronic dampers and inverter modules operating smoothly without compressor failure.',
+    localContent: 'We service Motorola refrigerators across Pasupathipalayam, Thorakkalpatti, Kovai Road, Thanthonimalai, and Karur Town. We carry replacement starter relays, defrost sensors, blower fan motors, and control boards for immediate doorstep repair.',
     whenToCall: 'Reach out for inspection if your Motorola fridge stops chilling food, builds excessive ice in the freezer, makes loud clicking sounds, leaks water onto the floor, or gives an electrical burning smell (switch off main socket immediately).',
     types: [
       {
         name: 'Motorola Smart Inverter Frost Free Double Door Refrigerator Repair',
         badge: 'Smart Inverter Frost Free',
         desc: 'Motorola smart inverter double door refrigerators modulate compressor speeds to keep internal temperatures steady. Sensor drift or inverter board faults reduce chilling performance.',
-        searchIntent: 'Searching for <strong>Motorola double door fridge repair near me</strong> in Dindigul? We diagnose smart inverter control boards and airflow vents at your doorstep.',
+        searchIntent: 'Searching for <strong>Motorola double door fridge repair near me</strong> in Karur? We diagnose smart inverter control boards and airflow vents at your doorstep.',
         problems: 'Inverter compressor not spinning, food spoiling on lower shelves, defrost error blinking.',
         checks: 'Inverter output frequency, multi-air blower fan speed, and evaporator thermistor.',
         parts: 'Inverter PCB, evaporator fan motor, and defrost sensor.',
@@ -280,7 +280,7 @@ const brands19to24 = [
         name: 'Motorola Convertible Double Door Refrigerator Repair',
         badge: 'Convertible Multi-Mode Fridge',
         desc: 'Motorola convertible models allow altering compartment temperatures to suit storage needs. Faulty motorized dampers or control boards prevent mode switching.',
-        searchIntent: 'Looking for <strong>Motorola refrigerator repair in Dindigul</strong> for convertible models? Doorstep testing for electronic dampers and control panels.',
+        searchIntent: 'Looking for <strong>Motorola refrigerator repair in Karur</strong> for convertible models? Doorstep testing for electronic dampers and control panels.',
         problems: 'Mode change button unresponsive, freezer failing to convert to fridge cooling, heavy frost accumulation.',
         checks: 'Mode selector switch, motorised air damper, and compartment thermistors.',
         parts: 'Airflow damper motor, display PCB, and temperature sensors.',
@@ -339,34 +339,34 @@ const brands19to24 = [
     ],
     customerExperiences: [
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Motorola Smart Inverter Double Door Cooling Fix',
-        tanglishText: 'RM Colony 2nd Street-la oru customer call pannanga. Avanga Motorola smart inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Pasupathipalayam 2nd Street-la oru customer call pannanga. Avanga Motorola smart inverter double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk curdling aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice melt pannom. Fan motor check panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'Spencer Compound',
+        location: 'Thorakkalpatti',
         title: 'Motorola Convertible Mode Damper Replacement',
-        tanglishText: 'Spencer Compound layout-la Motorola convertible fridge-la mode change panniyum freezer normal fridge cooling-ku maarala. Technician inspect panni motorised air damper flap motor gear slipped aagirundhadhai identify pannanga. Matched motorised damper change panni electronic display recalibrate pannom. Rendu cabin-layum required temperature maintain aagudha-nu confirm pannom.'
+        tanglishText: 'Thorakkalpatti layout-la Motorola convertible fridge-la mode change panniyum freezer normal fridge cooling-ku maarala. Technician inspect panni motorised air damper flap motor gear slipped aagirundhadhai identify pannanga. Matched motorised damper change panni electronic display recalibrate pannom. Rendu cabin-layum required temperature maintain aagudha-nu confirm pannom.'
       },
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Motorola Inverter Control Board Power Surge Recovery',
-        tanglishText: 'Palani Road-la sudden thunder and voltage surge apram Motorola inverter fridge on aagala. Technician check pannadhula main PCB-la input fuse and varistor blown aagirundhadhu. Inverter power section-a bench repair panni test pannom. Re-installation ku apram inverter compressor smooth-aa speed pick up aachu.'
+        tanglishText: 'Kovai Road-la sudden thunder and voltage surge apram Motorola inverter fridge on aagala. Technician check pannadhula main PCB-la input fuse and varistor blown aagirundhadhu. Inverter power section-a bench repair panni test pannom. Re-installation ku apram inverter compressor smooth-aa speed pick up aachu.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Motorola Frost Free Rear Duct Defrost Heater Fix',
-        tanglishText: 'Begampur area-la Motorola fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
+        tanglishText: 'Thanthonimalai area-la Motorola fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
       },
       {
-        location: 'Dindigul Town',
+        location: 'Karur Town',
         title: 'Motorola Sealed Refrigeration Circuit Pinhole Braze & Gas Fill',
-        tanglishText: 'Dindigul Town-la Motorola double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
+        tanglishText: 'Karur Town-la Motorola double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight R600a gas charge pannom. 45 minutes-la freezer super chill aachu.'
       }
     ],
     whyChoose: [
       'Experienced technicians with specialized knowledge in Motorola smart inverter refrigerators',
-      'Doorstep diagnostic service across Dindigul residential areas',
+      'Doorstep diagnostic service across Karur residential areas',
       'Multimeter inspection of sensors, fan motors, and control boards',
       'Fair, transparent pricing with no hidden charges',
       'complete testing of cooling temperatures before call completion'
@@ -374,21 +374,21 @@ const brands19to24 = [
   },
   {
     name: 'BPL',
-    slug: 'bpl-refrigerator-repair-service-in-dindigul.html',
-    h1: 'BPL Refrigerator Repair Service in Dindigul',
-    metaTitle: 'BPL Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for BPL refrigerator repair in Dindigul? Doorstep service for BPL direct cool single door & frost-free double door fridges. Affordable local repair.',
-    searchIntentIntro: 'Searching for BPL refrigerator repair near me in Dindigul? Whether your vintage BPL direct cool single door fridge is not cooling or the compressor is clicking repeatedly without starting, our technicians provide dependable doorstep service across Dindigul. From Dindigul Town to Begampur and Balakrishnapuram, find economical BPL fridge repair near me with verified troubleshooting and accessible spares.',
+    slug: 'bpl-refrigerator-repair-service-in-karur.html',
+    h1: 'BPL Refrigerator Repair Service in Karur',
+    metaTitle: 'BPL Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for BPL refrigerator repair in Karur? Doorstep service for BPL direct cool single door & frost-free double door fridges. Affordable local repair.',
+    searchIntentIntro: 'Searching for BPL refrigerator repair near me in Karur? Whether your vintage BPL direct cool single door fridge is not cooling or the compressor is clicking repeatedly without starting, our technicians provide dependable doorstep service across Karur. From Karur Town to Thanthonimalai and Inam Karur, find economical BPL fridge repair near me with verified troubleshooting and accessible spares.',
     tanglishIntroBox: 'BPL fridge-la cooling ninnu pocha? Single door model-la ice kattala? Compressor tick-tick nu sound vandhu off aagudha? BPL traditional robust refrigerators-ku experienced local technicians unga veetukke vandhu check pannuvanga. Reason-a explain pannitu affordable spare cost-la repair mudipanga.',
     whyRepair: 'BPL refrigerators are known for durable electromechanical components and thick cabinet insulation. Over years of operation, starter relays can burn out, thermostats can lose charge, or capillary lines can choke. Economical repairs restore dependable cooling and keep your appliance running smoothly.',
-    localContent: 'We service BPL refrigerators across Dindigul Town, Begampur, Balakrishnapuram, Round Road, and Nagal Nagar. We carry mechanical thermostats, PTC starter relays, bimetals, and blower fans for immediate doorstep repair.',
+    localContent: 'We service BPL refrigerators across Karur Town, Thanthonimalai, Inam Karur, Sengunthapuram, and Kagithapuramam. We carry mechanical thermostats, PTC starter relays, bimetals, and blower fans for immediate doorstep repair.',
     whenToCall: 'Reach out for inspection if your BPL fridge stops chilling food, builds excessive ice in the freezer, makes loud clicking sounds, leaks water onto the floor, or gives an electrical burning smell (switch off main socket immediately).',
     types: [
       {
         name: 'BPL Direct Cool Single Door Refrigerator Repair',
         badge: 'Direct Cool Single Door',
         desc: 'BPL direct cool single door refrigerators are built with robust mechanical cooling loops. Starter relays, thermostats, and door gaskets are common service items.',
-        searchIntent: 'Searching for <strong>BPL single door fridge repair near me</strong> in Dindigul? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
+        searchIntent: 'Searching for <strong>BPL single door fridge repair near me</strong> in Karur? Quick doorstep fix for thermostat, starter relay, and cooling coil leaks.',
         problems: 'Freezer box icing up uncontrollably, compressor clicking without starting, zero cooling with warm body.',
         checks: 'Rotary thermostat contacts, PTC starter relay, overload protector, and gas pressure.',
         parts: 'PTC starter relay, mechanical thermostat switch, door gasket, and refrigerant.',
@@ -398,7 +398,7 @@ const brands19to24 = [
         name: 'BPL Frost Free Double Door Refrigerator Repair',
         badge: 'Frost Free Double Door',
         desc: 'BPL frost-free double door fridges circulate cold air from the freezer into the food cabin. Mechanical defrost timers and bimetal switches are typical service components.',
-        searchIntent: 'Looking for <strong>BPL double door fridge repair in Dindigul</strong>? Doorstep diagnosis for defrost timers, heaters, and circulation fans.',
+        searchIntent: 'Looking for <strong>BPL double door fridge repair in Karur</strong>? Doorstep diagnosis for defrost timers, heaters, and circulation fans.',
         problems: 'Freezer cold but lower compartment warm, fan motor vibrating, water pooling under crisper.',
         checks: 'Mechanical defrost timer, bimetal switch, evaporator fan motor, and return air vents.',
         parts: 'Defrost timer, bimetal thermostat, evaporator fan motor, and defrost heater element.',
@@ -457,39 +457,39 @@ const brands19to24 = [
     ],
     customerExperiences: [
       {
-        location: 'Dindigul Town',
+        location: 'Karur Town',
         title: 'BPL Direct Cool Single Door Relay Replacement',
-        tanglishText: 'Dindigul Town main market kitta irundha customer call pannanga. Avanga BPL single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu. Customer romba satisfied.'
+        tanglishText: 'Karur Town main market kitta irundha customer call pannanga. Avanga BPL single door fridge-la cooling ninnu compressor clicking sound varudhu-nu sonnanga. Technician spot-ku poi check pannadhula PTC starter relay overheat aagi contact burn aagirundhadhu. Compressor winding ohms test panni motor safe-nu confirm pannitu puthiya heavy-duty relay fit pannom. Motor instant-aa ignite aagi cooling plates chill aaga aarambichadhu. Customer romba satisfied.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'BPL Double Door Defrost Timer Problem Fix',
-        tanglishText: 'Begampur area-la oru customer avanga BPL double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk spoil aagudhu-nu complaint pannanga. Technician inspect pannadhula mechanical defrost timer gear stuck aagi heating cycle trigger aagala. Evaporator coil full-aa ice kattirundhadhai steam panni clear pannom. New defrost timer and bimetal switch install panni test pannadhula lower cabin airflow perfect-aa return aachu.'
+        tanglishText: 'Thanthonimalai area-la oru customer avanga BPL double door fridge-la freezer matrum ice aagudhu, keezha cooling ninnu milk spoil aagudhu-nu complaint pannanga. Technician inspect pannadhula mechanical defrost timer gear stuck aagi heating cycle trigger aagala. Evaporator coil full-aa ice kattirundhadhai steam panni clear pannom. New defrost timer and bimetal switch install panni test pannadhula lower cabin airflow perfect-aa return aachu.'
       },
       {
-        location: 'Balakrishnapuram',
+        location: 'Inam Karur',
         title: 'BPL Single Door Thermostat Over-Freezing Fix',
-        tanglishText: 'Balakrishnapuram-la BPL single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
+        tanglishText: 'Inam Karur-la BPL single door fridge freezer-la ice rock madhiri solid-aa kattudhu-nu sonnanga. Defrost button press panniyum solve aagala. Technician inspect pannadhula thermostat contact welded aagi compressor cut-off aagama non-stop-aa run aagitu irundhadhu. Original calibrated rotary thermostat replace pannom. Machine ippo proper interval-la cut-off aagi temperature maintain panradhu.'
       },
       {
-        location: 'Round Road',
+        location: 'Sengunthapuram',
         title: 'BPL Double Door Vegetable Crisper Water Leak Fix',
-        tanglishText: 'Round Road layout-la BPL double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
+        tanglishText: 'Sengunthapuram layout-la BPL double door fridge veg box kulla water thengi floor-la leak aagudhu-nu sonnanga. Technician back panel open panni paathadhula defrost drain cup dust particle-la block aagirundhadhu. High-pressure warm water flush panni drain pipe-a completely clear pannom. Rear compressor tray-ku water proper-aa discharge aagudha-nu check pannitu solve pannom.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'BPL Single Door Magnetic Door Gasket Renewal',
-        tanglishText: 'Nagal Nagar-la BPL fridge door rubber loose aagi side-la gap irundhadhu. Cold air veliya leak aagi current bill athigam aagudhu-nu sonnanga. Matching magnetic gasket replace panni door alignment adjust pannom. Tight airtight grip establish aagi cooling retention restore aachu.'
+        tanglishText: 'Kagithapuramam-la BPL fridge door rubber loose aagi side-la gap irundhadhu. Cold air veliya leak aagi current bill athigam aagudhu-nu sonnanga. Matching magnetic gasket replace panni door alignment adjust pannom. Tight airtight grip establish aagi cooling retention restore aachu.'
       },
       {
-        location: 'Siluvathur Road',
+        location: 'Vennaimalai',
         title: 'BPL Sealed Refrigeration Circuit Pinhole Braze & Gas Fill',
-        tanglishText: 'Siluvathur Road-la BPL double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight refrigerant gas charge pannom. 45 minutes-la freezer super chill aachu.'
+        tanglishText: 'Vennaimalai-la BPL double door fridge motor odite irundhadhu aana zero cooling. Technician pressure gauge vechu test pannadhula copper filter drier kitta micro pinhole leak irundhadhu. Silver brazing panni leak arrest pannom, vacuum pump pottu exact weight refrigerant gas charge pannom. 45 minutes-la freezer super chill aachu.'
       }
     ],
     whyChoose: [
       'Experienced technicians with extensive repair history on BPL refrigerators',
-      'Doorstep service across Dindigul Town, Begampur, Balakrishnapuram, and nearby areas',
+      'Doorstep service across Karur Town, Thanthonimalai, Inam Karur, and nearby areas',
       'Ready availability of economical, compatible spare parts',
       'Clear, honest fault explanation with upfront estimates',
       'Cooling and cut-off verification before call closure'
@@ -497,21 +497,21 @@ const brands19to24 = [
   },
   {
     name: 'Acer',
-    slug: 'acer-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Acer Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Acer Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Acer refrigerator repair in Dindigul? Doorstep inspection for Acer / Acerpure smart inverter frost-free double door & multi-door fridges. Cooling diagnosis.',
-    searchIntentIntro: 'Searching for Acer refrigerator repair near me in Dindigul? When your Acerpure smart inverter refrigerator experiences cooling drop or the digital touch panel displays error codes, our technicians provide quick doorstep repair across Dindigul. From RM Colony to GTN Salai and Siluvathur Road, get dependable Acer fridge repair near me with verified sensor troubleshooting and authentic spares.',
+    slug: 'acer-refrigerator-repair-service-in-karur.html',
+    h1: 'Acer Refrigerator Repair Service in Karur',
+    metaTitle: 'Acer Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Acer refrigerator repair in Karur? Doorstep inspection for Acer / Acerpure smart inverter frost-free double door & multi-door fridges. Cooling diagnosis.',
+    searchIntentIntro: 'Searching for Acer refrigerator repair near me in Karur? When your Acerpure smart inverter refrigerator experiences cooling drop or the digital touch panel displays error codes, our technicians provide quick doorstep repair across Karur. From Pasupathipalayam to Kovai Road and Vennaimalai, get dependable Acer fridge repair near me with verified sensor troubleshooting and authentic spares.',
     tanglishIntroBox: 'Acer fridge-la cooling balance miss aagudha? Acerpure smart inverter compressor run aagala? Touch display-la temperature blink aagudha? Acer modern inverter refrigerators-ku trained technicians unga doorstep-la attend pannuvanga. Systematic multimeter inspection panni accurate problem identify panni repair mudipanga.',
-    whyRepair: 'Acer / Acerpure smart inverter refrigerators combine multi-air ducting, smart digital displays, and variable frequency compressors. In Dindigul conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
-    localContent: 'We provide specialized Acer refrigerator repair in Dindigul covering RM Colony, GTN Salai, Siluvathur Road, Spencer Compound, and Palani Road. Our technicians arrive with precision testing multimeters, Acerpure sensor probes, DC blower fans, and starter modules.',
+    whyRepair: 'Acer / Acerpure smart inverter refrigerators combine multi-air ducting, smart digital displays, and variable frequency compressors. In Karur conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
+    localContent: 'We provide specialized Acer refrigerator repair in Karur covering Pasupathipalayam, Kovai Road, Vennaimalai, Thorakkalpatti, and Kovai Road. Our technicians arrive with precision testing multimeters, Acerpure sensor probes, DC blower fans, and starter modules.',
     whenToCall: 'Call our technicians if your Acer fridge stops chilling food, displays error codes, exhibits cold freezer but warm fresh food compartments, builds moisture around door gaskets, or gives off an electrical burning odor (unplug from socket immediately).',
     types: [
       {
         name: 'Acerpure Smart Inverter Double Door Refrigerator Repair',
         badge: 'Smart Inverter Frost Free',
         desc: 'Acerpure smart inverter double door refrigerators modulate compressor speeds to keep internal temperatures steady. Sensor drift or inverter board faults reduce chilling performance.',
-        searchIntent: 'Searching for <strong>Acer double door fridge repair near me</strong> in Dindigul? We diagnose smart inverter control boards and airflow vents at your doorstep.',
+        searchIntent: 'Searching for <strong>Acer double door fridge repair near me</strong> in Karur? We diagnose smart inverter control boards and airflow vents at your doorstep.',
         problems: 'Inverter compressor not spinning, food spoiling on lower shelves, defrost error blinking.',
         checks: 'Inverter output frequency, multi-air blower fan speed, and evaporator thermistor.',
         parts: 'Inverter PCB, evaporator fan motor, and defrost sensor.',
@@ -521,7 +521,7 @@ const brands19to24 = [
         name: 'Acer Multi-Door Inverter Refrigerator Repair',
         badge: 'Multi-Door Inverter',
         desc: 'Acer multi-door refrigerators feature wide storage compartments with inverter compressors. Motorized damper failures or hinge wiring fatigue can cause uneven cooling.',
-        searchIntent: 'Looking for <strong>Acer refrigerator repair in Dindigul</strong> for multi-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
+        searchIntent: 'Looking for <strong>Acer refrigerator repair in Karur</strong> for multi-door models? Doorstep testing for electronic dampers and multi-zone sensors.',
         problems: 'One compartment cooling normally while the other remains warm, touch panel error codes, water pooling under crisper.',
         checks: 'Motorised damper valve, compartment thermistors, and hinge ribbon cables.',
         parts: 'Zone thermistors, electronic damper motor, and display wiring harness.',
@@ -580,56 +580,56 @@ const brands19to24 = [
     ],
     customerExperiences: [
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Acerpure Smart Inverter Double Door Cooling Fix',
-        tanglishText: 'RM Colony 4th Cross-la oru customer call pannanga. Avanga Acerpure smart inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Pasupathipalayam 4th Cross-la oru customer call pannanga. Avanga Acerpure smart inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu sonnanga. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'GTN Salai',
+        location: 'Kovai Road',
         title: 'Acer Inverter Control Board Power Surge Recovery',
-        tanglishText: 'GTN Salai-la sudden power surge apram Acer fridge dead aagi compressor start aagala. Technician visit panni inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
+        tanglishText: 'Kovai Road-la sudden power surge apram Acer fridge dead aagi compressor start aagala. Technician visit panni inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
       },
       {
-        location: 'Siluvathur Road',
+        location: 'Vennaimalai',
         title: 'Acer Multi-Door Damper Motor Replacement',
-        tanglishText: 'Siluvathur Road housing unit-la Acer multi-door fridge use panra family contact pannanga. Fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
+        tanglishText: 'Vennaimalai housing unit-la Acer multi-door fridge use panra family contact pannanga. Fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
       },
       {
-        location: 'Spencer Compound',
+        location: 'Thorakkalpatti',
         title: 'Acer Frost Free Rear Duct Defrost Heater Fix',
-        tanglishText: 'Spencer Compound layout-la Acer fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
+        tanglishText: 'Thorakkalpatti layout-la Acer fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
       },
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Acer Sealed Circuit Nitrogen Leak Test & R600a Refill',
-        tanglishText: 'Palani Road-la Acer fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
+        tanglishText: 'Kovai Road-la Acer fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
       }
     ],
     whyChoose: [
       'Specialized technicians familiar with Acer and Acerpure smart inverter engineering',
       'Doorstep diagnostic testing with digital precision multimeters and sensor probes',
-      'quick response across Dindigul Town and residential suburbs',
+      'quick response across Karur Town and residential suburbs',
       'Honest fault explanations with transparent spare pricing',
       'Thorough temperature profiling before completing the service call'
     ]
   },
   {
     name: 'Hisense',
-    slug: 'hisense-refrigerator-repair-service-in-dindigul.html',
-    h1: 'Hisense Refrigerator Repair Service in Dindigul',
-    metaTitle: 'Hisense Refrigerator Repair Service in Dindigul | Fridge Repair',
-    metaDesc: 'Looking for Hisense refrigerator repair in Dindigul? Doorstep inspection for Hisense PureFlat, side-by-side, cross-door & inverter frost-free fridges. Cooling diagnosis.',
-    searchIntentIntro: 'Searching for Hisense refrigerator repair near me in Dindigul? When your Hisense PureFlat, side-by-side, or cross-door refrigerator experiences cooling drop or the inverter compressor driver flashes diagnostic error codes, our technicians provide quick doorstep repair across Dindigul. From Seelapadi to Palani Road and Begampur, get dependable Hisense fridge repair near me with verified troubleshooting and authentic spares.',
+    slug: 'hisense-refrigerator-repair-service-in-karur.html',
+    h1: 'Hisense Refrigerator Repair Service in Karur',
+    metaTitle: 'Hisense Refrigerator Repair Service in Karur | Fridge Repair',
+    metaDesc: 'Looking for Hisense refrigerator repair in Karur? Doorstep inspection for Hisense PureFlat, side-by-side, cross-door & inverter frost-free fridges. Cooling diagnosis.',
+    searchIntentIntro: 'Searching for Hisense refrigerator repair near me in Karur? When your Hisense PureFlat, side-by-side, or cross-door refrigerator experiences cooling drop or the inverter compressor driver flashes diagnostic error codes, our technicians provide quick doorstep repair across Karur. From Vengamedu to Kovai Road and Thanthonimalai, get dependable Hisense fridge repair near me with verified troubleshooting and authentic spares.',
     tanglishIntroBox: 'Hisense fridge-la cooling balance miss aagudha? PureFlat cross-door model-la compressor run aagala? Electronic cross-air damper jam aagirukka? Hisense modern inverter refrigeration-ku trained technicians unga doorstep-la attend pannuvanga. Multimeter testing panni accurate solution provide panrom.',
-    whyRepair: 'Hisense refrigerators feature PureFlat smooth styling, cross-door airflow dampers, and inverter compressors. In Dindigul conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
-    localContent: 'We provide specialized Hisense refrigerator repair in Dindigul covering Seelapadi, Palani Road, Begampur, RM Colony, and Round Road. Our technicians arrive with precision testing multimeters, Hisense sensor probes, DC blower fans, and starter modules.',
+    whyRepair: 'Hisense refrigerators feature PureFlat smooth styling, cross-door airflow dampers, and inverter compressors. In Karur conditions, environmental dust or supply voltage dips can stress inverter power cards or cause electronic damper stalls. Timely technician inspection prevents food spoilage and protects your inverter compressor from burnout.',
+    localContent: 'We provide specialized Hisense refrigerator repair in Karur covering Vengamedu, Kovai Road, Thanthonimalai, Pasupathipalayam, and Sengunthapuram. Our technicians arrive with precision testing multimeters, Hisense sensor probes, DC blower fans, and starter modules.',
     whenToCall: 'Call our technicians if your Hisense fridge stops chilling food, displays error codes, exhibits cold freezer but warm fresh food compartments, builds moisture around door gaskets, or gives off an electrical burning odor (unplug from socket immediately).',
     types: [
       {
         name: 'Hisense Inverter Frost Free Double Door Refrigerator Repair',
         badge: 'Inverter Frost Free',
         desc: 'Hisense inverter frost-free double door refrigerators modulate compressor speeds to keep internal temperatures steady. Sensor drift or inverter board faults reduce chilling performance.',
-        searchIntent: 'Searching for <strong>Hisense double door fridge repair near me</strong> in Dindigul? We diagnose inverter control boards and airflow vents at your doorstep.',
+        searchIntent: 'Searching for <strong>Hisense double door fridge repair near me</strong> in Karur? We diagnose inverter control boards and airflow vents at your doorstep.',
         problems: 'Inverter compressor not spinning, food spoiling on lower shelves, defrost error blinking.',
         checks: 'Inverter output frequency, multi-air blower fan speed, and evaporator thermistor.',
         parts: 'Inverter PCB, evaporator fan motor, and defrost sensor.',
@@ -639,7 +639,7 @@ const brands19to24 = [
         name: 'Hisense PureFlat Side-by-Side & Cross-Door Refrigerator Repair',
         badge: 'PureFlat Cross-Door',
         desc: 'Hisense PureFlat and cross-door refrigerators feature wide storage compartments with inverter compressors. Motorized damper failures or hinge wiring fatigue can cause uneven cooling.',
-        searchIntent: 'Looking for <strong>Hisense refrigerator repair in Dindigul</strong> for PureFlat models? Doorstep testing for electronic dampers and multi-zone sensors.',
+        searchIntent: 'Looking for <strong>Hisense refrigerator repair in Karur</strong> for PureFlat models? Doorstep testing for electronic dampers and multi-zone sensors.',
         problems: 'One compartment cooling normally while the other remains warm, touch panel error codes, water pooling under crisper.',
         checks: 'Motorised damper valve, compartment thermistors, and hinge ribbon cables.',
         parts: 'Zone thermistors, electronic damper motor, and display wiring harness.',
@@ -698,45 +698,45 @@ const brands19to24 = [
     ],
     customerExperiences: [
       {
-        location: 'Seelapadi',
+        location: 'Vengamedu',
         title: 'Hisense PureFlat Cross-Door Damper Motor Replacement',
-        tanglishText: 'Seelapadi bypass kitta oru customer avanga Hisense PureFlat cross-door fridge-la fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician spot-ku poi inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
+        tanglishText: 'Vengamedu bypass kitta oru customer avanga Hisense PureFlat cross-door fridge-la fresh food section-la cooling drop aagi vegetables spoil aagudhu-nu sonnanga. Technician spot-ku poi inspect panni motorised air damper flap stuck aagi irundhadhai kandupidichanga. Damper motor replace panni display PCB settings recalibrate pannom. Rendu compartment-layum uniform cooling maintain aagudha-nu confirm pannom.'
       },
       {
-        location: 'Palani Road',
+        location: 'Kovai Road',
         title: 'Hisense Inverter Control Board Power Surge Recovery',
-        tanglishText: 'Palani Road-la sudden power surge apram Hisense fridge dead aagi compressor start aagala. Technician visit panni inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
+        tanglishText: 'Kovai Road-la sudden power surge apram Hisense fridge dead aagi compressor start aagala. Technician visit panni inverter board check pannadhula DC bus fuse open circuit aagirundhadhu. Inverter power components repair panni bench-la simulate pannom. Re-installation ku apram motor whisper silent-aa cycle run aachu, customer romba happy.'
       },
       {
-        location: 'Begampur',
+        location: 'Thanthonimalai',
         title: 'Hisense Inverter Double Door Cooling Fix',
-        tanglishText: 'Begampur area-la Hisense inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu complaint. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
+        tanglishText: 'Thanthonimalai area-la Hisense inverter double door fridge-la freezer matrum ice aagudhu, fresh food section-la milk spoil aagudhu-nu complaint. Technician spot-ku poi back panel remove pannadhula defrost sensor fail aagi evaporator coil full-aa ice kattirundhadhu. Defrost sensor change panni duct ice steam vechu clear pannom. DC circulation fan test panni re-assemble pannadhuku apram lower shelves-la 40 minutes-la proper cooling recover aachu.'
       },
       {
-        location: 'RM Colony',
+        location: 'Pasupathipalayam',
         title: 'Hisense Frost Free Rear Duct Defrost Heater Fix',
-        tanglishText: 'RM Colony-la Hisense fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
+        tanglishText: 'Pasupathipalayam-la Hisense fridge back wall-la heavy ice slab form aagi air vents block aagirundhadhu. Technician rear panel open panni paathadhula defrost heating element burnt aagirundhadhu. Matched OEM replacement heater fit panni steam treatment-la ice clear pannom. Air circulation super-aa recover aachu.'
       },
       {
-        location: 'Round Road',
+        location: 'Sengunthapuram',
         title: 'Hisense Door Perimeter Magnetic Gasket Realignment',
-        tanglishText: 'Round Road layout-la Hisense fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
+        tanglishText: 'Sengunthapuram layout-la Hisense fridge door corner-la light gap irundhu frame mela moisture condensation varudhu-nu sonnanga. Technician magnetic gasket heat shaping treatment panni door hinge level correct-aa align pannanga. Gap 100% close aagi internal sweating problem complete-aa stop aachu.'
       },
       {
-        location: 'Nagal Nagar',
+        location: 'Kagithapuramam',
         title: 'Hisense Double Door Water Drainage De-clogging',
-        tanglishText: 'Nagal Nagar-la Hisense double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
+        tanglishText: 'Kagithapuramam-la Hisense double door fridge veg box kulla water thengudhu-nu complaint. Technician inner back grill remove panni defrost drain channel check pannadhula dust particles-la block aagirundhadhu. Flexible cleaning wire and hot water pottu drain line flush pannom. Problem periya expense illama spot-la theerndhadhu.'
       },
       {
-        location: 'Spencer Compound',
+        location: 'Thorakkalpatti',
         title: 'Hisense Sealed Circuit Nitrogen Leak Test & R600a Refill',
-        tanglishText: 'Spencer Compound-la Hisense fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
+        tanglishText: 'Thorakkalpatti-la Hisense fridge motor odite irundhadhu aana cooling absent. Technician pressure gauge vechu test pannadhula sealed line-la low pressure irundhadhu. Nitrogen test-la copper line micro leak detect panni silver braze pannom. Deep vacuum pull panni exact weight R600a charge pannom. Cooling within 40 minutes normal aachu.'
       }
     ],
     whyChoose: [
       'Specialized technicians familiar with Hisense PureFlat and inverter engineering',
       'Doorstep diagnostic testing with digital precision multimeters and sensor probes',
-      'quick response across Dindigul Town and residential suburbs',
+      'quick response across Karur Town and residential suburbs',
       'Honest fault explanations with transparent spare pricing',
       'Thorough temperature profiling before completing the service call'
     ]

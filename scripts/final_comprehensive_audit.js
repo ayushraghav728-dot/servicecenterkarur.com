@@ -1,16 +1,16 @@
 // Final Comprehensive Verification and Audit Script for Service Center Section
-// Project: servicecenterdindigul.com
+// Project: servicecenterkarur.com
 
 const fs = require('fs');
 const path = require('path');
 
 const brands = require('./data_brands_info.js');
-const localities = require('./data_dindigul_localities.js');
+const localities = require('./data_karur_localities.js');
 const experiences = require('./data_brand_experiences.js');
 const faqs = require('./data_brand_faqs.js');
 
 console.log('==================================================');
-console.log('FINAL MASTER AUDIT: SERVICE CENTER DINDIGUL');
+console.log('FINAL MASTER AUDIT: SERVICE CENTER KARUR');
 console.log('==================================================\n');
 
 // 1. Total unique brands found
@@ -37,7 +37,7 @@ brands.forEach(b => {
 // 5. Main appliance sections created
 let acSecCount = 0, fridgeSecCount = 0, wmSecCount = 0, tvSecCount = 0;
 brands.forEach(b => {
-  const filePath = path.join(scDir, `${b.slug}-service-center-dindigul.html`);
+  const filePath = path.join(scDir, `${b.slug}-service-center-karur.html`);
   const content = fs.readFileSync(filePath, 'utf8');
   if (content.includes(`id="acSection"`)) acSecCount++;
   if (content.includes(`id="refrigeratorSection"`)) fridgeSecCount++;
@@ -90,16 +90,16 @@ brands.forEach(b => {
 });
 console.log(`\n8. Confirmation that content duplication was checked: CONFIRMED (${intros.size} unique brand search-intent introductions, 0 duplicate intros)`);
 
-// 9. Dindigul locality count
+// 9. Karur locality count
 const totalLocalities = localities.east.length + localities.west.length + localities.north.length + localities.south.length;
-console.log(`\n9. Dindigul locality count: ${totalLocalities} verified areas`);
+console.log(`\n9. Karur locality count: ${totalLocalities} verified areas`);
 
 // 10. Directional breakdown
 console.log(`\n10. Directional locality breakdown:`);
-console.log(`   - East Dindigul: ${localities.east.length} verified areas`);
-console.log(`   - West Dindigul: ${localities.west.length} verified areas`);
-console.log(`   - North Dindigul: ${localities.north.length} verified areas`);
-console.log(`   - South Dindigul: ${localities.south.length} verified areas`);
+console.log(`   - East Karur: ${localities.east.length} verified areas`);
+console.log(`   - West Karur: ${localities.west.length} verified areas`);
+console.log(`   - North Karur: ${localities.north.length} verified areas`);
+console.log(`   - South Karur: ${localities.south.length} verified areas`);
 
 // 11. Sitemap update confirmation
 const sitemapContent = fs.readFileSync(path.join(__dirname, '..', 'sitemap.xml'), 'utf8');

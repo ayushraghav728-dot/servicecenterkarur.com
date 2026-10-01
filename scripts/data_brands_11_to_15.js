@@ -1,28 +1,28 @@
 // Authentic, brand-specific TV Types and Common Problems for Brands 11-20
 // Hitachi, Intex, Micromax, Kodak, OnePlus, Sanyo, Akai, Onida, Aiwa, TCL
-// Dindigul only, no AI buzzwords, zero duplicate sentences
+// Karur only, no AI buzzwords, zero duplicate sentences
 
 module.exports = [
   // 11. Hitachi
   {
     name: "Hitachi",
-    slug: "hitachi-tv-repair-service-in-dindigul.html",
-    h1: "Hitachi TV Repair Service in Dindigul",
-    metaTitle: "Hitachi TV Repair Service in Dindigul | LED & Smart TV Repair",
-    metaDesc: "Need Hitachi TV repair in Dindigul? Doorstep inspection for Hitachi Alpha, LD & Smart LED TVs. Backlight strip replacement, SMPS power & T-Con repair.",
-    introHeading: "Need Hitachi TV Repair in Dindigul?",
+    slug: "hitachi-tv-repair-service-in-karur.html",
+    h1: "Hitachi TV Repair Service in Karur",
+    metaTitle: "Hitachi TV Repair Service in Karur | LED & Smart TV Repair",
+    metaDesc: "Need Hitachi TV repair in Karur? Doorstep inspection for Hitachi Alpha, LD & Smart LED TVs. Backlight strip replacement, SMPS power & T-Con repair.",
+    introHeading: "Need Hitachi TV Repair in Karur?",
     introTamil: "Hitachi TV switch-on aagala? Sound varudhu screen dark-aa irukka?",
-    introTanglish: "Hitachi TV on pannina display varalaya or red light standby-laye irukka? <strong>Hitachi TV repair in Dindigul</strong> thedureengalana, unga area-kku local technician inspection arrange pannuvom. Power board, backlight and motherboard issues spot-laye check pannalaam.",
+    introTanglish: "Hitachi TV on pannina display varalaya or red light standby-laye irukka? <strong>Hitachi TV repair in Karur</strong> thedureengalana, unga area-kku local technician inspection arrange pannuvom. Power board, backlight and motherboard issues spot-laye check pannalaam.",
     introText: [
       "Is your Hitachi television experiencing display cutoff, power failure after voltage spikes, or sound playing with a dark screen? Hitachi televisions are recognized for sturdy Japanese engineering and IPS display panels, but with years of operation, backlight LED strips and power board capacitors require skilled attention.",
-      "If you are looking for reliable <strong>Hitachi LED TV repair near me</strong> in Nagal Nagar, timely <strong>Hitachi Smart TV repair in Dindigul</strong> around RM Colony, or an experienced <strong>Hitachi TV technician near me</strong> near Palani Road, our local desk organizes timely home visits across Dindigul town.",
+      "If you are looking for reliable <strong>Hitachi LED TV repair near me</strong> in Kagithapuramam, timely <strong>Hitachi Smart TV repair in Karur</strong> around Pasupathipalayam, or an experienced <strong>Hitachi TV technician near me</strong> near Kovai Road, our local desk organizes timely home visits across Karur town.",
       "Our technician tests Hitachi SMPS power boards, IPS panel timing circuits, LED backlight arrays, and main motherboards directly at your home, providing honest guidance and an upfront repair estimate."
     ],
     tvTypes: [
       {
         title: "Hitachi 4K Ultra HD Smart TV Repair",
         desc: "Hitachi 4K UHD smart televisions feature high resolution Japanese display panels with built-in streaming apps and multiple HDMI ports. Over continuous operation, backlight diode strings can burn open or Wi-Fi connectivity may drop unexpectedly.",
-        searchIntent: "Searching for <strong>Hitachi 4K TV repair in Dindigul</strong>? We diagnose IPS panel blackout, Wi-Fi errors, and HDMI connectivity issues at your doorstep.",
+        searchIntent: "Searching for <strong>Hitachi 4K TV repair in Karur</strong>? We diagnose IPS panel blackout, Wi-Fi errors, and HDMI connectivity issues at your doorstep.",
         problems: "Sound coming but no picture on screen, Wi-Fi failing to connect, HDMI set-top box not detected.",
         checks: "Technician tests LED backlight strip forward voltages, motherboard HDMI switch IC, and Wi-Fi module power rails.",
         parts: "LED backlight strip sets, main logic board, internal Wi-Fi card, HDMI connector.",
@@ -30,8 +30,8 @@ module.exports = [
       },
       {
         title: "Hitachi Full HD & HD Ready LED TV",
-        desc: "Popular 32-inch and 43-inch Hitachi LED models installed in bedrooms and living rooms across Dindigul. Frequent issues include power failure after voltage fluctuations, standby light not turning green, or distorted speaker audio.",
-        searchIntent: "Need reliable <strong>Hitachi LED TV repair in Dindigul</strong>? We carry out SMPS component servicing and speaker driver replacement on-site.",
+        desc: "Popular 32-inch and 43-inch Hitachi LED models installed in bedrooms and living rooms across Karur. Frequent issues include power failure after voltage fluctuations, standby light not turning green, or distorted speaker audio.",
+        searchIntent: "Need reliable <strong>Hitachi LED TV repair in Karur</strong>? We carry out SMPS component servicing and speaker driver replacement on-site.",
         problems: "TV completely dead, standby light not glowing, buzzing sound from speakers, screen flickering.",
         checks: "Inspects SMPS power supply board secondary outputs (12V, 24V), speaker cone condition, and inverter board.",
         parts: "SMPS power board, speaker drivers, backlight inverter, filter capacitors, fuse.",
@@ -40,7 +40,7 @@ module.exports = [
       {
         title: "Hitachi IPS Panel LED TV Repair",
         desc: "Hitachi TVs equipped with wide-angle IPS display panels. Common faults include horizontal colored lines, double image ghosting, or one corner of the panel appearing unusually dim.",
-        searchIntent: "Searching for specialized <strong>Hitachi TV service in Dindigul</strong>? We service IPS panel T-Con timing circuits and LVDS cable connections at your residence.",
+        searchIntent: "Searching for specialized <strong>Hitachi TV service in Karur</strong>? We service IPS panel T-Con timing circuits and LVDS cable connections at your residence.",
         problems: "Colored horizontal lines across display, ghosting effect on moving pictures, uneven dark patches.",
         checks: "Tests T-Con board VGH/VGL voltages, checks LVDS ribbon cable seating, and inspects panel driver chips.",
         parts: "T-Con board, LVDS cable, panel driver board, timing controller IC.",
@@ -111,33 +111,33 @@ module.exports = [
       }
     ],
     customerExperiences: [
-      { locality: "Nagal Nagar, Dindigul", issue: "Hitachi 43-inch LED dark display with clear dialogue", resolution: "Technician replaced direct-lit backlight diode array on-site and verified uniform brightness.", time: "Resolved in 2.5 hours" },
-      { locality: "RM Colony, Dindigul", issue: "Hitachi 50-inch 4K TV dead after voltage surge", resolution: "Repaired input varistor and bridge rectifier on SMPS power board directly at residence.", time: "Serviced same day" },
-      { locality: "Palani Road, Dindigul", issue: "Hitachi LED TV buzzing speaker audio during serials", resolution: "Installed fresh acoustic stereo sound drivers with clean vocal response.", time: "Fixed within 2 hours" },
-      { locality: "Spencer Compound, Dindigul", issue: "Hitachi IPS display showing horizontal color lines", resolution: "Cleaned LVDS ribbon contacts and calibrated T-Con timing voltages on-site.", time: "Completed on-site" }
+      { locality: "Kagithapuramam, Karur", issue: "Hitachi 43-inch LED dark display with clear dialogue", resolution: "Technician replaced direct-lit backlight diode array on-site and verified uniform brightness.", time: "Resolved in 2.5 hours" },
+      { locality: "Pasupathipalayam, Karur", issue: "Hitachi 50-inch 4K TV dead after voltage surge", resolution: "Repaired input varistor and bridge rectifier on SMPS power board directly at residence.", time: "Serviced same day" },
+      { locality: "Kovai Road, Karur", issue: "Hitachi LED TV buzzing speaker audio during serials", resolution: "Installed fresh acoustic stereo sound drivers with clean vocal response.", time: "Fixed within 2 hours" },
+      { locality: "Thorakkalpatti, Karur", issue: "Hitachi IPS display showing horizontal color lines", resolution: "Cleaned LVDS ribbon contacts and calibrated T-Con timing voltages on-site.", time: "Completed on-site" }
     ]
   },
 
   // 12. Intex
   {
     name: "Intex",
-    slug: "intex-tv-repair-service-in-dindigul.html",
-    h1: "Intex TV Repair Service in Dindigul",
-    metaTitle: "Intex TV Repair Service in Dindigul | LED Star & Smart TV Repair",
-    metaDesc: "Need Intex TV repair in Dindigul? Doorstep inspection for Intex LED Star, Splash Plus & Smart LED TVs. Backlight strip replacement, combo board & audio repair.",
-    introHeading: "Need Intex TV Repair in Dindigul?",
+    slug: "intex-tv-repair-service-in-karur.html",
+    h1: "Intex TV Repair Service in Karur",
+    metaTitle: "Intex TV Repair Service in Karur | LED Star & Smart TV Repair",
+    metaDesc: "Need Intex TV repair in Karur? Doorstep inspection for Intex LED Star, Splash Plus & Smart LED TVs. Backlight strip replacement, combo board & audio repair.",
+    introHeading: "Need Intex TV Repair in Karur?",
     introTamil: "Intex TV switch-on aagala? Standby red light eriyudha aana on aagala?",
-    introTanglish: "Intex TV on aagala or sound mattum vandhu screen dark-aa irukka? <strong>Intex TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. LED Star, Splash Plus, and Smart LED problems spot-laye check pannuvom.",
+    introTanglish: "Intex TV on aagala or sound mattum vandhu screen dark-aa irukka? <strong>Intex TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. LED Star, Splash Plus, and Smart LED problems spot-laye check pannuvom.",
     introText: [
-      "Is your Intex television failing to turn on, playing audio with a pitch-black screen, or making a heavy rattling sound through its internal speakers? Intex televisions are common in Dindigul homes for affordable family entertainment, but combo boards and backlight diode strings often require maintenance over time.",
-      "Whether you require quick <strong>Intex LED TV repair near me</strong> in Balakrishnapuram, budget-friendly <strong>Intex Smart TV service in Dindigul</strong> near Nagal Nagar, or an experienced <strong>Intex TV technician near me</strong> around Begampur, our local desk schedules reliable doorstep visits across Dindigul.",
+      "Is your Intex television failing to turn on, playing audio with a pitch-black screen, or making a heavy rattling sound through its internal speakers? Intex televisions are common in Karur homes for affordable family entertainment, but combo boards and backlight diode strings often require maintenance over time.",
+      "Whether you require quick <strong>Intex LED TV repair near me</strong> in Inam Karur, budget-friendly <strong>Intex Smart TV service in Karur</strong> near Kagithapuramam, or an experienced <strong>Intex TV technician near me</strong> around Thanthonimalai, our local desk schedules reliable doorstep visits across Karur.",
       "Our technician tests Intex universal combo motherboards, 12V DC input rails, LED backlight strips, and speaker drivers right in front of you, providing a straightforward price quote before doing any work."
     ],
     tvTypes: [
       {
         title: "Intex LED Star Series Repair",
         desc: "Intex Star series LED televisions feature energy-efficient backlights and compact cabinets. Over extended viewing hours, backlight diode strings can burn open or power board rectifiers can fail from mains voltage fluctuations.",
-        searchIntent: "Searching for <strong>Intex TV repair in Dindigul</strong>? We service LED Star series black screen, dead standby, and distorted speaker sound at your doorstep.",
+        searchIntent: "Searching for <strong>Intex TV repair in Karur</strong>? We service LED Star series black screen, dead standby, and distorted speaker sound at your doorstep.",
         problems: "Screen completely black while audio continues, red light glowing but unit not powering up, rattling audio.",
         checks: "Measures constant-current driver output, inspects 12V power supply lines, and checks speaker impedance.",
         parts: "LED Star backlight diode bars, universal combo board, 12V adapter circuit, speaker cones.",
@@ -146,7 +146,7 @@ module.exports = [
       {
         title: "Intex Splash Plus Smart LED TV",
         desc: "Intex Smart televisions running Android-based platforms for YouTube streaming and USB playback. Corrupted memory partitions or voltage drops during startup can freeze the TV on the Intex splash screen.",
-        searchIntent: "Looking for prompt <strong>Intex Smart TV service in Dindigul</strong>? We fix splash screen boot loops, Wi-Fi drops, and app freezing directly at your home.",
+        searchIntent: "Looking for prompt <strong>Intex Smart TV service in Karur</strong>? We fix splash screen boot loops, Wi-Fi drops, and app freezing directly at your home.",
         problems: "Frozen on Intex opening screen, continuous restart cycle, failure to connect to wireless router.",
         checks: "Inspects eMMC memory stability, tests 3.3V and 1.8V processor rails, and verifies internal Wi-Fi card.",
         parts: "Smart combo motherboard, internal Wi-Fi card, eMMC flash chip, remote sensor board.",
@@ -155,7 +155,7 @@ module.exports = [
       {
         title: "Intex HD Ready & Full HD LED TV",
         desc: "Standard 32-inch and 40-inch Intex LED televisions designed for cable TV and set-top box viewing. Frequent problems include HDMI port signal loss, blown input fuses, and loose internal ribbon connectors.",
-        searchIntent: "Looking for <strong>Intex LED TV technician in Dindigul</strong>? We repair HDMI ports, replace backlight diode strips, and service combo boards on-site.",
+        searchIntent: "Looking for <strong>Intex LED TV technician in Karur</strong>? We repair HDMI ports, replace backlight diode strips, and service combo boards on-site.",
         problems: "Set-top box shows No Signal banner, television dead with no red light, picture flickering intermittently.",
         checks: "Inspects HDMI connector pins, tests AC input protection fuse, and checks LVDS ribbon seating.",
         parts: "HDMI port connector, AC fuse, bridge rectifier, LVDS ribbon cable.",
@@ -226,33 +226,33 @@ module.exports = [
       }
     ],
     customerExperiences: [
-      { locality: "Balakrishnapuram, Dindigul", issue: "Intex 32-inch LED dark display with clear dialogue", resolution: "Fitted brand-matched LED Star backlight strips and calibrated constant-current driver.", time: "Serviced in 2 hours" },
-      { locality: "Nagal Nagar, Dindigul", issue: "Intex TV dead after thunderstorm power surge", resolution: "Replaced blown fuse and bridge rectifier on combo power supply on-site.", time: "Fixed within 3 hours" },
-      { locality: "Begampur, Dindigul", issue: "Intex Smart TV freezing on startup logo", resolution: "Cleared corrupted cache partition and reset Android firmware at customer residence.", time: "Completed same day" },
-      { locality: "Dindigul Town", issue: "Intex downward-firing speakers buzzing heavily", resolution: "Installed fresh acoustic stereo sound drivers with clean vocal response.", time: "Resolved in 90 minutes" }
+      { locality: "Inam Karur, Karur", issue: "Intex 32-inch LED dark display with clear dialogue", resolution: "Fitted brand-matched LED Star backlight strips and calibrated constant-current driver.", time: "Serviced in 2 hours" },
+      { locality: "Kagithapuramam, Karur", issue: "Intex TV dead after thunderstorm power surge", resolution: "Replaced blown fuse and bridge rectifier on combo power supply on-site.", time: "Fixed within 3 hours" },
+      { locality: "Thanthonimalai, Karur", issue: "Intex Smart TV freezing on startup logo", resolution: "Cleared corrupted cache partition and reset Android firmware at customer residence.", time: "Completed same day" },
+      { locality: "Karur Town", issue: "Intex downward-firing speakers buzzing heavily", resolution: "Installed fresh acoustic stereo sound drivers with clean vocal response.", time: "Resolved in 90 minutes" }
     ]
   },
 
   // 13. Micromax
   {
     name: "Micromax",
-    slug: "micromax-tv-repair-service-in-dindigul.html",
-    h1: "Micromax TV Repair Service in Dindigul",
-    metaTitle: "Micromax TV Repair Service in Dindigul | Canvas & LED TV Repair",
-    metaDesc: "Need Micromax TV repair in Dindigul? Doorstep inspection for Micromax Canvas Smart, Spark & LED TVs. Backlight strip replacement, power & audio board repair.",
-    introHeading: "Need Micromax TV Repair in Dindigul?",
+    slug: "micromax-tv-repair-service-in-karur.html",
+    h1: "Micromax TV Repair Service in Karur",
+    metaTitle: "Micromax TV Repair Service in Karur | Canvas & LED TV Repair",
+    metaDesc: "Need Micromax TV repair in Karur? Doorstep inspection for Micromax Canvas Smart, Spark & LED TVs. Backlight strip replacement, power & audio board repair.",
+    introHeading: "Need Micromax TV Repair in Karur?",
     introTamil: "Micromax TV-la sound varudhu picture black-aa irukka? Canvas logo-laye nikkudha?",
-    introTanglish: "Micromax TV on pannumbodhu display varalaiya or boot loop aagudha? <strong>Micromax TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Canvas Smart, Spark LED, and Full HD problems spot-laye check pannuvom.",
+    introTanglish: "Micromax TV on pannumbodhu display varalaiya or boot loop aagudha? <strong>Micromax TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Canvas Smart, Spark LED, and Full HD problems spot-laye check pannuvom.",
     introText: [
-      "Is your Micromax television stuck in an infinite restart loop on the Canvas logo, playing channel sound with a dark screen, or emitting distorted audio during daily serials? Micromax televisions are popular across Dindigul for their Canvas features, but backlight diode arrays and Android flash memory chips require experienced care.",
-      "If you are seeking reliable <strong>Micromax LED TV repair in Dindigul</strong> near Mengles Road, quick <strong>Micromax TV service in Dindigul</strong> in RM Colony, or an experienced <strong>Micromax TV technician near me</strong> around Palani Road, our local desk arranges doorstep visits on all days.",
+      "Is your Micromax television stuck in an infinite restart loop on the Canvas logo, playing channel sound with a dark screen, or emitting distorted audio during daily serials? Micromax televisions are popular across Karur for their Canvas features, but backlight diode arrays and Android flash memory chips require experienced care.",
+      "If you are seeking reliable <strong>Micromax LED TV repair in Karur</strong> near Mengles Road, quick <strong>Micromax TV service in Karur</strong> in Pasupathipalayam, or an experienced <strong>Micromax TV technician near me</strong> around Kovai Road, our local desk arranges doorstep visits on all days.",
       "Our technician inspects Micromax Canvas logic boards, audio amplifier circuits, direct-lit backlight strips, and power supply modules on-site, confirming the honest repair estimate before opening screws."
     ],
     tvTypes: [
       {
         title: "Micromax Canvas Smart TV Repair",
         desc: "Micromax Canvas smart televisions run customized Android operating firmware. Memory fragmentation or interrupted software updates can trap the TV in an endless startup boot loop or cause streaming apps to exit abruptly.",
-        searchIntent: "Searching for <strong>Micromax Smart TV repair in Dindigul</strong>? We resolve Canvas boot loops, app crashes, and Wi-Fi disconnect errors on-site.",
+        searchIntent: "Searching for <strong>Micromax Smart TV repair in Karur</strong>? We resolve Canvas boot loops, app crashes, and Wi-Fi disconnect errors on-site.",
         problems: "Stuck on Canvas opening logo, continuous restarting, Wi-Fi failing to turn on.",
         checks: "Accesses Android recovery console, tests eMMC flash storage sectors, and measures core processor rails.",
         parts: "Canvas logic motherboard, eMMC memory IC, internal Wi-Fi card, remote receiver board.",
@@ -261,7 +261,7 @@ module.exports = [
       {
         title: "Micromax Spark & Wave LED TV",
         desc: "Popular 32-inch and 40-inch Micromax LED televisions designed for set-top box viewing. Heavy daily usage over 3 to 4 years frequently leads to burnt backlight strips, causing sound to play without video.",
-        searchIntent: "Need reliable <strong>Micromax LED TV repair near me</strong> in Dindigul? We replace backlight diode bars and service power boards right at your home.",
+        searchIntent: "Need reliable <strong>Micromax LED TV repair near me</strong> in Karur? We replace backlight diode bars and service power boards right at your home.",
         problems: "Sound playing clearly but screen is pitch dark, red standby indicator blinking, flickering picture.",
         checks: "Measures constant-current driver output, tests backlight diode strings, and inspects power rails.",
         parts: "LED backlight strip bars, combo power board, inverter driver, LVDS cable.",
@@ -270,7 +270,7 @@ module.exports = [
       {
         title: "Micromax Full HD & 4K LED TV",
         desc: "High-definition Micromax televisions featuring large 43-inch and 50-inch displays. Common issues include HDMI port connection drops, speaker buzzing during high volume, and vertical color lines across the glass.",
-        searchIntent: "Looking for <strong>Micromax TV technician near me</strong> in Dindigul? We service HDMI ports, replace rattling speaker cones, and check display lines on-site.",
+        searchIntent: "Looking for <strong>Micromax TV technician near me</strong> in Karur? We service HDMI ports, replace rattling speaker cones, and check display lines on-site.",
         problems: "Set-top box shows No Signal, speaker rattle during loud dialogue, colored vertical lines.",
         checks: "Tests HDMI connector pin alignment, checks speaker impedance, and inspects T-Con display signals.",
         parts: "HDMI port terminal, stereo sound drivers, T-Con board, filter capacitors.",
@@ -341,33 +341,33 @@ module.exports = [
       }
     ],
     customerExperiences: [
-      { locality: "Mengles Road, Dindigul", issue: "Micromax Canvas 40-inch stuck on boot loop", resolution: "Reflashed system firmware via service mode and restored normal smart booting.", time: "Resolved in 2 hours" },
-      { locality: "RM Colony, Dindigul", issue: "Micromax LED TV dark screen with audible dialogue", resolution: "Replaced direct-lit backlight diode array on-site and verified brightness uniformity.", time: "Serviced same day" },
-      { locality: "Palani Road, Dindigul", issue: "Micromax TV dead following voltage spike", resolution: "Repaired input varistor and bridge rectifier on combo power supply on-site.", time: "Fixed in 2.5 hours" },
-      { locality: "Dindigul Town", issue: "Micromax internal speaker vibrating heavily", resolution: "Installed fresh acoustic stereo sound drivers with clean vocal response.", time: "Completed on-site" }
+      { locality: "Mengles Road, Karur", issue: "Micromax Canvas 40-inch stuck on boot loop", resolution: "Reflashed system firmware via service mode and restored normal smart booting.", time: "Resolved in 2 hours" },
+      { locality: "Pasupathipalayam, Karur", issue: "Micromax LED TV dark screen with audible dialogue", resolution: "Replaced direct-lit backlight diode array on-site and verified brightness uniformity.", time: "Serviced same day" },
+      { locality: "Kovai Road, Karur", issue: "Micromax TV dead following voltage spike", resolution: "Repaired input varistor and bridge rectifier on combo power supply on-site.", time: "Fixed in 2.5 hours" },
+      { locality: "Karur Town", issue: "Micromax internal speaker vibrating heavily", resolution: "Installed fresh acoustic stereo sound drivers with clean vocal response.", time: "Completed on-site" }
     ]
   },
 
   // 14. Kodak
   {
     name: "Kodak",
-    slug: "kodak-tv-repair-service-in-dindigul.html",
-    h1: "Kodak TV Repair Service in Dindigul",
-    metaTitle: "Kodak TV Repair Service in Dindigul | 4K & Google TV Repair",
-    metaDesc: "Need Kodak TV repair in Dindigul? Doorstep inspection for Kodak CA PRO 4K, 7XPRO & Matrix QLED TVs. Backlight strip replacement & board repair.",
-    introHeading: "Need Kodak TV Repair in Dindigul?",
+    slug: "kodak-tv-repair-service-in-karur.html",
+    h1: "Kodak TV Repair Service in Karur",
+    metaTitle: "Kodak TV Repair Service in Karur | 4K & Google TV Repair",
+    metaDesc: "Need Kodak TV repair in Karur? Doorstep inspection for Kodak CA PRO 4K, 7XPRO & Matrix QLED TVs. Backlight strip replacement & board repair.",
+    introHeading: "Need Kodak TV Repair in Karur?",
     introTamil: "Kodak TV-la sound varudhu picture varalaiya? Google TV logo-laye nikkudha?",
-    introTanglish: "Kodak TV on pannumbodhu display dark-aa irukka or remote pair aagala? <strong>Kodak TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. CA PRO 4K, 7XPRO, and Matrix QLED problems spot-laye check pannuvom.",
+    introTanglish: "Kodak TV on pannumbodhu display dark-aa irukka or remote pair aagala? <strong>Kodak TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. CA PRO 4K, 7XPRO, and Matrix QLED problems spot-laye check pannuvom.",
     introText: [
-      "Is your Kodak television displaying sound without picture, freezing on the Google TV startup animation, or failing to pair with its Bluetooth voice remote? Kodak televisions manufactured by SPPL are widely used in Dindigul for their 4K features, but high-luminance backlights and system firmware require expert maintenance.",
-      "If you are looking for prompt <strong>Kodak 4K TV repair in Dindigul</strong> around Chettinaickenpatti, dependable <strong>Kodak Smart TV service in Dindigul</strong> in Dindigul Town, or an experienced <strong>Kodak TV technician near me</strong> near RM Colony, our local team schedules doorstep visits every day.",
+      "Is your Kodak television displaying sound without picture, freezing on the Google TV startup animation, or failing to pair with its Bluetooth voice remote? Kodak televisions manufactured by SPPL are widely used in Karur for their 4K features, but high-luminance backlights and system firmware require expert maintenance.",
+      "If you are looking for prompt <strong>Kodak 4K TV repair in Karur</strong> around Chinna Andankovil, dependable <strong>Kodak Smart TV service in Karur</strong> in Karur Town, or an experienced <strong>Kodak TV technician near me</strong> near Pasupathipalayam, our local team schedules doorstep visits every day.",
       "Our technician tests Kodak CA PRO power boards, direct-lit LED arrays, Google TV logic circuits, and Bluetooth modules on-site, explaining the exact problem and confirming the repair cost before taking up work."
     ],
     tvTypes: [
       {
         title: "Kodak CA PRO 4K Google TV Repair",
         desc: "Kodak CA PRO 4K series televisions deliver high-definition HDR resolution powered by Google TV OS. Daily high-brightness running can lead to LED diode burnout, causing dialogue to play clearly while the screen remains black.",
-        searchIntent: "Searching for <strong>Kodak 4K TV repair in Dindigul</strong>? We diagnose CA PRO screen blackout, Google TV boot loop, and HDMI sync drops on-site.",
+        searchIntent: "Searching for <strong>Kodak 4K TV repair in Karur</strong>? We diagnose CA PRO screen blackout, Google TV boot loop, and HDMI sync drops on-site.",
         problems: "Sound playing clearly while display is black, red standby light glowing, HDMI port failing to detect console.",
         checks: "Measures forward voltage across each backlight strip, inspects SMPS standby rails, and tests HDMI switch IC.",
         parts: "CA PRO 4K LED backlight strips, SMPS power supply board, main logic board, HDMI connector.",
@@ -376,7 +376,7 @@ module.exports = [
       {
         title: "Kodak 7XPRO & Matrix QLED TV",
         desc: "Kodak 7XPRO and Matrix QLED models feature high peak luminance and Google TV smart capabilities. Voltage fluctuations or memory degradation can cause the TV to hang on the opening logo or drop home Wi-Fi.",
-        searchIntent: "Need dependable <strong>Kodak Smart TV repair in Dindigul</strong>? We resolve Matrix QLED boot freezes, remote unpairing, and Wi-Fi disconnects at home.",
+        searchIntent: "Need dependable <strong>Kodak Smart TV repair in Karur</strong>? We resolve Matrix QLED boot freezes, remote unpairing, and Wi-Fi disconnects at home.",
         problems: "Frozen on Google TV logo, Bluetooth voice remote unpairing, apps crashing during streaming.",
         checks: "Accesses Google TV recovery mode, tests eMMC flash memory, and checks Bluetooth transceiver module.",
         parts: "Google TV motherboard, Bluetooth module, eMMC flash memory, remote sensor board.",
@@ -384,8 +384,8 @@ module.exports = [
       },
       {
         title: "Kodak Full HD & HD Ready LED TV",
-        desc: "Popular 32-inch and 40-inch Kodak LED models widely installed in Dindigul bedrooms. Thunderstorms and power spikes frequently affect the input power supply, or internal speakers develop buzzing rattles.",
-        searchIntent: "Looking for <strong>Kodak LED TV repair near me</strong> in Dindigul? We carry out power board component repairs, replace backlight strips, and service speakers on-site.",
+        desc: "Popular 32-inch and 40-inch Kodak LED models widely installed in Karur bedrooms. Thunderstorms and power spikes frequently affect the input power supply, or internal speakers develop buzzing rattles.",
+        searchIntent: "Looking for <strong>Kodak LED TV repair near me</strong> in Karur? We carry out power board component repairs, replace backlight strips, and service speakers on-site.",
         problems: "Television completely dead with no standby light, speaker buzzing during serials, colored vertical lines.",
         checks: "Tests 12V and 24V SMPS outputs, checks speaker cone condition, and tests T-Con gamma voltages.",
         parts: "SMPS power supply board, internal speaker set, T-Con timing controller, LVDS cable.",
@@ -456,33 +456,33 @@ module.exports = [
       }
     ],
     customerExperiences: [
-      { locality: "Chettinaickenpatti, Dindigul", issue: "Kodak CA PRO 50-inch dark screen with clear audio", resolution: "Installed model-matched 4K direct-lit backlight array and tested brightness.", time: "Resolved in 3 hours" },
-      { locality: "Dindigul Town", issue: "Kodak TV dead following lightning thunderstorm", resolution: "Repaired input fuse and bridge rectifier on SMPS power board directly at residence.", time: "Fixed same day" },
-      { locality: "RM Colony, Dindigul", issue: "Kodak Google TV stuck on startup logo screen", resolution: "Cleared partition cache and restored Google TV firmware via service mode.", time: "Serviced in 2 hours" },
-      { locality: "Nagal Nagar, Dindigul", issue: "Kodak Bluetooth voice remote refusing to pair", resolution: "Reset Bluetooth subsystem and calibrated internal transceiver antenna on-site.", time: "Completed in 1 hour" }
+      { locality: "Chinna Andankovil, Karur", issue: "Kodak CA PRO 50-inch dark screen with clear audio", resolution: "Installed model-matched 4K direct-lit backlight array and tested brightness.", time: "Resolved in 3 hours" },
+      { locality: "Karur Town", issue: "Kodak TV dead following lightning thunderstorm", resolution: "Repaired input fuse and bridge rectifier on SMPS power board directly at residence.", time: "Fixed same day" },
+      { locality: "Pasupathipalayam, Karur", issue: "Kodak Google TV stuck on startup logo screen", resolution: "Cleared partition cache and restored Google TV firmware via service mode.", time: "Serviced in 2 hours" },
+      { locality: "Kagithapuramam, Karur", issue: "Kodak Bluetooth voice remote refusing to pair", resolution: "Reset Bluetooth subsystem and calibrated internal transceiver antenna on-site.", time: "Completed in 1 hour" }
     ]
   },
 
   // 15. OnePlus
   {
     name: "OnePlus",
-    slug: "oneplus-tv-repair-service-in-dindigul.html",
-    h1: "OnePlus TV Repair Service in Dindigul",
-    metaTitle: "OnePlus TV Repair Service in Dindigul | Y Series & QLED Repair",
-    metaDesc: "Need OnePlus TV repair in Dindigul? Doorstep inspection for OnePlus Y Series, U1S 4K & QLED TVs. Backlight strip replacement, Gamma Engine & board repair.",
-    introHeading: "Need OnePlus TV Repair in Dindigul?",
+    slug: "oneplus-tv-repair-service-in-karur.html",
+    h1: "OnePlus TV Repair Service in Karur",
+    metaTitle: "OnePlus TV Repair Service in Karur | Y Series & QLED Repair",
+    metaDesc: "Need OnePlus TV repair in Karur? Doorstep inspection for OnePlus Y Series, U1S 4K & QLED TVs. Backlight strip replacement, Gamma Engine & board repair.",
+    introHeading: "Need OnePlus TV Repair in Karur?",
     introTamil: "OnePlus TV-la sound varudhu screen black-aa irukka? OxygenPlay logo-laye freeze aagudha?",
-    introTanglish: "OnePlus TV on pannumbodhu display dark-aa irukka or remote pair aagala? <strong>OnePlus TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Y1, Y1S Pro, U1S 4K, and QLED problems spot-laye check pannuvom.",
+    introTanglish: "OnePlus TV on pannumbodhu display dark-aa irukka or remote pair aagala? <strong>OnePlus TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Y1, Y1S Pro, U1S 4K, and QLED problems spot-laye check pannuvom.",
     introText: [
-      "Is your OnePlus television displaying a single bright green vertical line, freezing on the spinning dots boot screen, or playing clear dialogue with a pitch-black screen? OnePlus televisions are widely preferred in Dindigul for their sleek bezels and OxygenPlay integration, but backlight diodes and panel flex connections need specialized attention.",
-      "If you are seeking dependable <strong>OnePlus TV repair in Dindigul</strong> in RM Colony, fast <strong>OnePlus Smart TV service in Dindigul</strong> near Palani Road, or an experienced <strong>OnePlus TV technician near me</strong> around Nagal Nagar, our local desk organizes timely home visits across Dindigul.",
+      "Is your OnePlus television displaying a single bright green vertical line, freezing on the spinning dots boot screen, or playing clear dialogue with a pitch-black screen? OnePlus televisions are widely preferred in Karur for their sleek bezels and OxygenPlay integration, but backlight diodes and panel flex connections need specialized attention.",
+      "If you are seeking dependable <strong>OnePlus TV repair in Karur</strong> in Pasupathipalayam, fast <strong>OnePlus Smart TV service in Karur</strong> near Kovai Road, or an experienced <strong>OnePlus TV technician near me</strong> around Kagithapuramam, our local desk organizes timely home visits across Karur.",
       "Our technician tests OnePlus Gamma Engine processing boards, SMPS power supplies, direct-lit backlight arrays, and Bluetooth remotes on-site, providing honest guidance and an upfront repair estimate."
     ],
     tvTypes: [
       {
         title: "OnePlus Y Series & Y1S Pro Repair",
         desc: "OnePlus Y Series (32Y1, 43Y1S Pro) delivers Full HD and 4K resolution powered by the Gamma Engine. Over continuous operation, backlight diode strips can burn open or the system may freeze on the OxygenPlay loading screen.",
-        searchIntent: "Searching for <strong>OnePlus Smart TV repair near me</strong> in Dindigul? We diagnose Y1S screen blackout, OxygenPlay boot loops, and remote disconnects on-site.",
+        searchIntent: "Searching for <strong>OnePlus Smart TV repair near me</strong> in Karur? We diagnose Y1S screen blackout, OxygenPlay boot loops, and remote disconnects on-site.",
         problems: "Sound playing but screen is dark, frozen on spinning dots animation, Bluetooth remote unpairing.",
         checks: "Measures backlight strip forward voltages, tests eMMC flash sectors, and inspects Bluetooth module.",
         parts: "Y Series backlight strips, Gamma Engine mainboard, Bluetooth transceiver, power supply circuit.",
@@ -491,7 +491,7 @@ module.exports = [
       {
         title: "OnePlus U1S 4K & Q Series QLED Repair",
         desc: "OnePlus U1S and Q Series QLED televisions feature high-contrast Quantum Dot displays and Dolby Audio. Power surges or driver heating can trigger protection shutdown or cause green/pink vertical lines on the glass.",
-        searchIntent: "Need specialized <strong>OnePlus 4K TV repair in Dindigul</strong>? Our technicians service QLED backlights, panel COF lines, and power boards across Dindigul homes.",
+        searchIntent: "Need specialized <strong>OnePlus 4K TV repair in Karur</strong>? Our technicians service QLED backlights, panel COF lines, and power boards across Karur homes.",
         problems: "Single green vertical line on display, screen flickering during HDR playback, television shutting down.",
         checks: "Tests panel COF bonding lines, measures T-Con mini-LVDS voltages, and tests QLED driver lines.",
         parts: "QLED backlight strips, T-Con timing board, LED driver module, thermal pads.",
@@ -499,8 +499,8 @@ module.exports = [
       },
       {
         title: "OnePlus Full HD Smart LED TV",
-        desc: "Popular 32-inch and 43-inch OnePlus models widely installed in Dindigul residences. Voltage spikes during power outages frequently damage the SMPS board, while internal Dolby Audio speakers can develop rattles.",
-        searchIntent: "Looking for trusted <strong>OnePlus TV technician near me</strong> in Dindigul? We repair power supply units, replace backlight strips, and service speakers on-site.",
+        desc: "Popular 32-inch and 43-inch OnePlus models widely installed in Karur residences. Voltage spikes during power outages frequently damage the SMPS board, while internal Dolby Audio speakers can develop rattles.",
+        searchIntent: "Looking for trusted <strong>OnePlus TV technician near me</strong> in Karur? We repair power supply units, replace backlight strips, and service speakers on-site.",
         problems: "TV completely dead with unlit standby light, speaker rattling on dialogue, HDMI port not detected.",
         checks: "Tests 12V and 24V power supply outputs, checks speaker coil impedance, and inspects HDMI switch IC.",
         parts: "SMPS power unit, Dolby Audio speaker pair, HDMI connector, LVDS flex cable.",
@@ -571,10 +571,10 @@ module.exports = [
       }
     ],
     customerExperiences: [
-      { locality: "RM Colony, Dindigul", issue: "OnePlus 43Y1S Pro dark screen with clear serial audio", resolution: "Replaced direct-lit backlight diode array on-site and verified uniform luminance.", time: "Fixed in 2.5 hours" },
-      { locality: "Palani Road, Dindigul", issue: "OnePlus TV stuck on spinning dots boot animation", resolution: "Cleared partition cache and restored OxygenPlay firmware via service mode.", time: "Resolved in 2 hours" },
-      { locality: "Nagal Nagar, Dindigul", issue: "OnePlus TV dead after thunderstorm power outage", resolution: "Repaired input varistor and bridge rectifier on SMPS power supply directly at residence.", time: "Serviced same day" },
-      { locality: "Begampur, Dindigul", issue: "OnePlus Bluetooth remote failing to pair with TV", resolution: "Reset Bluetooth subsystem and calibrated internal transceiver antenna on-site.", time: "Completed in 1 hour" }
+      { locality: "Pasupathipalayam, Karur", issue: "OnePlus 43Y1S Pro dark screen with clear serial audio", resolution: "Replaced direct-lit backlight diode array on-site and verified uniform luminance.", time: "Fixed in 2.5 hours" },
+      { locality: "Kovai Road, Karur", issue: "OnePlus TV stuck on spinning dots boot animation", resolution: "Cleared partition cache and restored OxygenPlay firmware via service mode.", time: "Resolved in 2 hours" },
+      { locality: "Kagithapuramam, Karur", issue: "OnePlus TV dead after thunderstorm power outage", resolution: "Repaired input varistor and bridge rectifier on SMPS power supply directly at residence.", time: "Serviced same day" },
+      { locality: "Thanthonimalai, Karur", issue: "OnePlus Bluetooth remote failing to pair with TV", resolution: "Reset Bluetooth subsystem and calibrated internal transceiver antenna on-site.", time: "Completed in 1 hour" }
     ]
   }
 ];

@@ -8,7 +8,7 @@ const b3 = require('./tv_brands_21_to_31.js');
 const allBrands = [...b1, ...b2, ...b3];
 
 const filesToTest = [
-  { filePath: path.join(rootDir, 'tv-repair-service-in-dindigul.html'), relDir: rootDir, name: 'tv-repair-service-in-dindigul.html' },
+  { filePath: path.join(rootDir, 'tv-repair-service-in-karur.html'), relDir: rootDir, name: 'tv-repair-service-in-karur.html' },
   ...allBrands.map(b => ({
     filePath: path.join(tvDir, b.slug),
     relDir: tvDir,

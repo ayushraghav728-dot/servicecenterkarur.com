@@ -1,5 +1,5 @@
 const fs = require('fs');
-const fridge = fs.readFileSync('fridge/refrigerator-repair-service-in-dindigul.html', 'utf8');
+const fridge = fs.readFileSync('fridge/refrigerator-repair-service-in-karur.html', 'utf8');
 
 // Find all headings
 const h2s = [...fridge.matchAll(/<h2[^>]*>(.*?)<\/h2>/g)].map(m => m[1].replace(/<[^>]+>/g, '').trim());

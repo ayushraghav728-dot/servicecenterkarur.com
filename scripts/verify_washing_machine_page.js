@@ -3,7 +3,7 @@ const path = require('path');
 
 console.log("=== COMMENCING VERIFICATION OF WASHING MACHINE PAGE ===");
 
-const filePath = path.join(__dirname, '..', 'washing-machine-repair-service-in-dindigul.html');
+const filePath = path.join(__dirname, '..', 'washing-machine-repair-service-in-karur.html');
 const content = fs.readFileSync(filePath, 'utf8');
 
 const errors = [];
@@ -17,13 +17,13 @@ forbiddenCities.forEach(city => {
     errors.push(`Contains forbidden city: "${city}"`);
   }
 });
-// Madurai is only allowed as part of the approved Dindigul locality "Madurai Road"
+// Madurai is only allowed as part of the approved Karur locality "South Highway Corridor"
 const maduraiMatches = [...content.matchAll(/\bMadurai\b(?!\s*Road)/gi)];
 if (maduraiMatches.length > 0) {
-  errors.push(`Contains forbidden city: "Madurai" (outside "Madurai Road")`);
+  errors.push(`Contains forbidden city: "Madurai" (outside "South Highway Corridor")`);
 }
-if (!content.includes('Dindigul')) {
-  errors.push("Missing target city 'Dindigul'");
+if (!content.includes('Karur')) {
+  errors.push("Missing target city 'Karur'");
 }
 
 // 2. Headings & Title
@@ -32,16 +32,16 @@ if (h1Matches.length !== 1) {
   errors.push(`Expected exactly 1 H1, found ${h1Matches.length}`);
 } else {
   const h1Text = h1Matches[0][1].replace(/<[^>]*>/g, '').trim();
-  if (h1Text !== 'Washing Machine Repair Service in Dindigul') {
+  if (h1Text !== 'Washing Machine Repair Service in Karur') {
     errors.push(`H1 text mismatch: "${h1Text}"`);
   }
 }
 
 // 3. Meta Title & Description
-if (!content.includes('<title>Washing Machine Repair Service in Dindigul | Washing Machine Service</title>')) {
+if (!content.includes('<title>Washing Machine Repair Service in Karur | Washing Machine Service</title>')) {
   errors.push("Meta title mismatch");
 }
-if (!content.includes('https://servicecenterdindigul.com/washing-machine-repair-service-in-dindigul.html')) {
+if (!content.includes('https://servicecenterkarur.com/washing-machine-repair-service-in-karur.html')) {
   errors.push("Canonical URL mismatch");
 }
 
@@ -101,11 +101,11 @@ if (locMatches.length < 50) {
 // 9. Pricing Tables Presence
 const pricingTables = [
   "Installation, Uninstallation & Checkup Charges",
-  "Washing Machine Wash Problem Repair Charges in Dindigul",
-  "Washing Machine Water Leakage Repair Charges in Dindigul",
-  "Washing Machine Power Problem Repair Charges in Dindigul",
-  "Washing Machine Spin Repair Charges in Dindigul",
-  "Washing Machine Noise Repair Charges in Dindigul"
+  "Washing Machine Wash Problem Repair Charges in Karur",
+  "Washing Machine Water Leakage Repair Charges in Karur",
+  "Washing Machine Power Problem Repair Charges in Karur",
+  "Washing Machine Spin Repair Charges in Karur",
+  "Washing Machine Noise Repair Charges in Karur"
 ];
 pricingTables.forEach(t => {
   if (!content.includes(t)) {

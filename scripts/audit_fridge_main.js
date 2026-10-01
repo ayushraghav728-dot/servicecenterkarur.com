@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const mainHtml = fs.readFileSync('fridge/refrigerator-repair-service-in-dindigul.html', 'utf8');
+const mainHtml = fs.readFileSync('fridge/refrigerator-repair-service-in-karur.html', 'utf8');
 
 console.log('=== AUDITING MAIN REFRIGERATOR PAGE ===');
 console.log('File size:', mainHtml.length);

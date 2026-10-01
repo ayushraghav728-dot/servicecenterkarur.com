@@ -151,9 +151,9 @@ code = code.replace(/const hdmiAnswers = brands\.map[\s\S]*?;\nconst linesAnswer
 );
 
 // Fix the 3 duplicate questions in bookQ
-code = code.replace('"What is the easiest way to book OnePlus TV repair in Dindigul?",', '"What is the simplest way to book OnePlus TV repair in Dindigul?",');
-code = code.replace('"What is the procedure to book Acer TV repair in Dindigul?",', '"What steps are required to book Acer TV repair in Dindigul?",');
-code = code.replace('"How can I schedule a Hisense TV technician visit in Dindigul?",', '"What is the procedure to schedule a Hisense TV technician visit in Dindigul?",');
+code = code.replace('"What is the easiest way to book OnePlus TV repair in Karur?",', '"What is the simplest way to book OnePlus TV repair in Karur?",');
+code = code.replace('"What is the procedure to book Acer TV repair in Karur?",', '"What steps are required to book Acer TV repair in Karur?",');
+code = code.replace('"How can I schedule a Hisense TV technician visit in Karur?",', '"What is the procedure to schedule a Hisense TV technician visit in Karur?",');
 
 fs.writeFileSync('scripts/generate_perfect_faqs.js', code, 'utf8');
 console.log('Successfully patched generate_perfect_faqs.js!');

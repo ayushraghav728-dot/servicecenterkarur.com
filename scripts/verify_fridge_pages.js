@@ -17,7 +17,7 @@ console.log('=== VERIFYING REFRIGERATOR SUITE ===');
 // 1. Check directory contents
 const filesInFridge = fs.readdirSync(fridgeDir).filter(f => f.endsWith('.html'));
 console.log(`HTML files in /fridge/: ${filesInFridge.length}`);
-const brandFiles = filesInFridge.filter(f => f !== 'refrigerator-repair-service-in-dindigul.html');
+const brandFiles = filesInFridge.filter(f => f !== 'refrigerator-repair-service-in-karur.html');
 console.log(`Brand HTML files: ${brandFiles.length} (Expected: 24)`);
 
 if (brandFiles.length !== 24) {
@@ -27,7 +27,7 @@ if (brandFiles.length !== 24) {
 // 2. Check each approved brand file exists
 let missingFiles = 0;
 approvedBrands.forEach(b => {
-  const expectedFile = b.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-dindigul.html';
+  const expectedFile = b.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-karur.html';
   if (!fs.existsSync(path.join(fridgeDir, expectedFile))) {
     console.error(`ERROR: Missing brand file: ${expectedFile}`);
     missingFiles++;
@@ -38,12 +38,12 @@ if (missingFiles === 0) {
 }
 
 // 3. Inspect main refrigerator page
-const mainFridgePath = path.join(fridgeDir, 'refrigerator-repair-service-in-dindigul.html');
+const mainFridgePath = path.join(fridgeDir, 'refrigerator-repair-service-in-karur.html');
 const mainFridgeHtml = fs.readFileSync(mainFridgePath, 'utf8');
 
 let missingLinksOnMain = 0;
 approvedBrands.forEach(b => {
-  const expectedFile = b.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-dindigul.html';
+  const expectedFile = b.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-karur.html';
   if (!mainFridgeHtml.includes(expectedFile)) {
     console.error(`ERROR: Main fridge page does not link to ${expectedFile}`);
     missingLinksOnMain++;
@@ -85,20 +85,20 @@ brandFiles.forEach(f => {
   if (!h1Match) {
     console.error(`ERROR in ${f}: Missing H1`);
     errorCount++;
-  } else if (!h1Match[1].includes('Refrigerator Repair Service in Dindigul')) {
+  } else if (!h1Match[1].includes('Refrigerator Repair Service in Karur')) {
     console.error(`ERROR in ${f}: Unexpected H1: ${h1Match[1]}`);
     errorCount++;
   }
 
   // Check Canonical
-  const expectedCanonical = `https://servicecenterdindigul.com/fridge/${f}`;
+  const expectedCanonical = `https://servicecenterkarur.com/fridge/${f}`;
   if (!html.includes(`<link rel="canonical" href="${expectedCanonical}">`)) {
     console.error(`ERROR in ${f}: Incorrect canonical URL`);
     errorCount++;
   }
 
   // Check Link back to Main Fridge Page
-  if (!html.includes('href="refrigerator-repair-service-in-dindigul.html"')) {
+  if (!html.includes('href="refrigerator-repair-service-in-karur.html"')) {
     console.error(`ERROR in ${f}: Missing back link to main fridge repair page`);
     errorCount++;
   }
@@ -147,8 +147,8 @@ const sitemapPath = path.join(rootDir, 'sitemap.xml');
 const sitemapHtml = fs.readFileSync(sitemapPath, 'utf8');
 let missingInSitemap = 0;
 approvedBrands.forEach(b => {
-  const expectedFile = b.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-dindigul.html';
-  const expectedUrl = `https://servicecenterdindigul.com/fridge/${expectedFile}`;
+  const expectedFile = b.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-karur.html';
+  const expectedUrl = `https://servicecenterkarur.com/fridge/${expectedFile}`;
   if (!sitemapHtml.includes(expectedUrl)) {
     console.error(`ERROR in sitemap: Missing ${expectedUrl}`);
     missingInSitemap++;

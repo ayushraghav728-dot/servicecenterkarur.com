@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const rawLocalities = JSON.parse(fs.readFileSync('scripts/dindigul_localities.json', 'utf8'));
+const rawLocalities = JSON.parse(fs.readFileSync('scripts/karur_localities.json', 'utf8'));
 
 const prohibited = ['indirapuram', 'ghaziabad', 'delhi', 'noida', 'madurai', 'tirupur', 'tirunelveli', 'karur', 'nagercoil'];
 
@@ -17,9 +17,9 @@ const filtered = rawLocalities.filter(loc => {
 
 console.log(`Original: ${rawLocalities.length}, Filtered: ${filtered.length}`);
 
-// Let's also check if any other verified Dindigul locations from the project can be included without inventing:
+// Let's also check if any other verified Karur locations from the project can be included without inventing:
 // From wm 60 localities:
-const wmZones = require('./dindigul_wm_60_localities.js');
+const wmZones = require('./karur_wm_60_localities.js');
 const allWmLocs = [];
 wmZones.forEach(z => {
   z.localities.forEach(l => {

@@ -9,28 +9,28 @@ const allFaqs = {};
 brands.forEach(b => {
   const list = [];
 
-  // 1. Service Center in Dindigul
+  // 1. Service Center in Karur
   list.push({
-    q: `Where is the ${b.name} Service Center located in Dindigul?`,
-    a: `We provide local doorstep service for ${b.name} home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances.`
+    q: `Where is the ${b.name} Service Center located in Karur?`,
+    a: `We provide local doorstep service for ${b.name} home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances.`
   });
 
   // 2. Near me
   list.push({
-    q: `How quickly can a technician visit for ${b.name} Service Near Me in Dindigul?`,
-    a: `Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood.`
+    q: `How quickly can a technician visit for ${b.name} Service Near Me in Karur?`,
+    a: `Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood.`
   });
 
   // 3. Appliances serviced
   list.push({
-    q: `What ${b.name} appliances do you service in Dindigul?`,
+    q: `What ${b.name} appliances do you service in Karur?`,
     a: `We service verified ${b.name} home appliances including ${b.verifiedAppliances.join(', ')}.`
   });
 
   // AC specific FAQs
   if (b.hasAC) {
     list.push({
-      q: `Do you repair ${b.name} inverter split air conditioners in Dindigul?`,
+      q: `Do you repair ${b.name} inverter split air conditioners in Karur?`,
       a: `Yes, our technicians inspect and repair ${b.name} inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage.`
     });
     list.push({
@@ -42,8 +42,8 @@ brands.forEach(b => {
   // Refrigerator specific FAQs
   if (b.hasFridge) {
     list.push({
-      q: `Do you provide doorstep repair for ${b.name} refrigerators in Dindigul?`,
-      a: `Yes, we service ${b.name} single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems.`
+      q: `Do you provide doorstep repair for ${b.name} refrigerators in Karur?`,
+      a: `Yes, we service ${b.name} single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems.`
     });
     list.push({
       q: `What causes cooling to drop in the lower compartment of a ${b.name} frost-free fridge?`,
@@ -66,7 +66,7 @@ brands.forEach(b => {
   // TV specific FAQs
   if (b.hasTV) {
     list.push({
-      q: `Do you repair ${b.name} smart LED and 4K TVs in Dindigul?`,
+      q: `Do you repair ${b.name} smart LED and 4K TVs in Karur?`,
       a: `Yes, our technicians inspect ${b.name} LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures.`
     });
     list.push({
@@ -77,7 +77,7 @@ brands.forEach(b => {
 
   // Cost
   list.push({
-    q: `How is the repair cost estimated for ${b.name} appliances in Dindigul?`,
+    q: `How is the repair cost estimated for ${b.name} appliances in Karur?`,
     a: `The technician first inspects the ${b.name} appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate.`
   });
 
@@ -95,14 +95,14 @@ brands.forEach(b => {
 
   // Localities
   list.push({
-    q: `Which areas in Dindigul do you cover for ${b.name} home appliance repair?`,
-    a: `We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities.`
+    q: `Which areas in Karur do you cover for ${b.name} home appliance repair?`,
+    a: `We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities.`
   });
 
   // Booking process
   list.push({
-    q: `How do I book a technician visit for ${b.name} service in Dindigul?`,
-    a: `You can call our support number directly or send a message on WhatsApp with your ${b.name} appliance model and address in Dindigul to schedule a convenient visit.`
+    q: `How do I book a technician visit for ${b.name} service in Karur?`,
+    a: `You can call our support number directly or send a message on WhatsApp with your ${b.name} appliance model and address in Karur to schedule a convenient visit.`
   });
 
   allFaqs[b.slug] = list;

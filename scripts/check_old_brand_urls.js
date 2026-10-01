@@ -22,7 +22,7 @@ function scanDir(dir) {
         const regexes = [
           new RegExp('href=["\']' + slug + '["\']', 'g'),
           new RegExp('href=["\']/' + slug + '["\']', 'g'),
-          new RegExp('servicecenterdindigul\\.com/' + slug, 'g')
+          new RegExp('servicecenterkarur\\.com/' + slug, 'g')
         ];
         regexes.forEach((r, idx) => {
           if (r.test(content)) {

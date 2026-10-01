@@ -29,7 +29,7 @@ const sectionRegexes = [
 const duplicatesList = [];
 
 files.forEach(file => {
-  const brandName = file.replace('-tv-repair-service-in-dindigul.html', '');
+  const brandName = file.replace('-tv-repair-service-in-karur.html', '');
   const html = fs.readFileSync(path.join(tvDir, file), 'utf8');
 
   sectionRegexes.forEach(sec => {

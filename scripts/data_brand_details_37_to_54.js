@@ -3,11 +3,11 @@
 
 module.exports = {
   redmi: {
-    searchIntentHeading: "Searching for Redmi TV Repair in Dindigul?",
-    searchIntentText: "Looking for Redmi TV Service Center in Dindigul? If your Redmi smart LED TV or 4K Android TV has sound but no picture, will not turn on from standby, or has display flicker, our local Dindigul technicians provide quick doorstep visits.",
-    whyMatters: "Redmi smart televisions deliver big-screen 4K entertainment, PatchWall smart integration, and Dolby Audio at affordable pricing. Dindigul families enjoy Redmi TVs for everyday television serials, movies, and sports.",
+    searchIntentHeading: "Searching for Redmi TV Repair in Karur?",
+    searchIntentText: "Looking for Redmi TV Service Center in Karur? If your Redmi smart LED TV or 4K Android TV has sound but no picture, will not turn on from standby, or has display flicker, our local Karur technicians provide quick doorstep visits.",
+    whyMatters: "Redmi smart televisions deliver big-screen 4K entertainment, PatchWall smart integration, and Dolby Audio at affordable pricing. Karur families enjoy Redmi TVs for everyday television serials, movies, and sports.",
     cleaningMatters: "Dust settling around bottom speaker vents and rear ports can affect heat dissipation. Gently wiping the panel with a dry microfiber cloth and keeping rear vents clear protects Redmi display panels.",
-    nearMeText: "Searching for Redmi TV Repair Near Me or Redmi Service Center in Dindigul? We provide doorstep inspection, LED backlight repairs, and circuit board servicing across all Dindigul neighborhoods.",
+    nearMeText: "Searching for Redmi TV Repair Near Me or Redmi Service Center in Karur? We provide doorstep inspection, LED backlight repairs, and circuit board servicing across all Karur neighborhoods.",
     tv: {
       types: ["Redmi Smart TV X Series 4K", "Fire TV Edition", "Android Smart LED TV", "HD Ready Series"],
       tech: "Redmi televisions feature Vivid Picture Engine, Android TV or Fire TV operating systems, 30W stereo speakers with Dolby Audio, and dual-band Wi-Fi, depending on model.",
@@ -23,11 +23,11 @@ module.exports = {
   },
 
   samsung: {
-    searchIntentHeading: "Looking for Samsung Appliance Service in Dindigul?",
-    searchIntentText: "Searching for Samsung Service Center in Dindigul? If your Samsung Digital Inverter refrigerator is not cooling, your Samsung EcoBubble washing machine has spin faults, your Samsung WindFree AC is blowing warm air, or your Samsung Crystal 4K TV screen went blank, our local Dindigul technicians visit your doorstep.",
-    whyMatters: "Samsung is a global technology leader and one of India's most trusted household brands. Families across Dindigul rely on Samsung appliances for smart cooling, gentle fabric cleaning, summer comfort, and living-room entertainment.",
-    cleaningMatters: "Dindigul's hard water can build scale in washing machine drums, while dust on AC filters slows cooling. Periodic filter rinsing and tub cleaning maintains Samsung's Digital Inverter efficiency and quiet operation.",
-    nearMeText: "Searching for Samsung Service Center Near Me or Samsung Appliance Repair in Dindigul? We provide local doorstep technician assistance, genuine compatible spare replacements, and clear estimates across Dindigul.",
+    searchIntentHeading: "Looking for Samsung Appliance Service in Karur?",
+    searchIntentText: "Searching for Samsung Service Center in Karur? If your Samsung Digital Inverter refrigerator is not cooling, your Samsung EcoBubble washing machine has spin faults, your Samsung WindFree AC is blowing warm air, or your Samsung Crystal 4K TV screen went blank, our local Karur technicians visit your doorstep.",
+    whyMatters: "Samsung is a global technology leader and one of India's most trusted household brands. Families across Karur rely on Samsung appliances for smart cooling, gentle fabric cleaning, summer comfort, and living-room entertainment.",
+    cleaningMatters: "Karur's hard water can build scale in washing machine drums, while dust on AC filters slows cooling. Periodic filter rinsing and tub cleaning maintains Samsung's Digital Inverter efficiency and quiet operation.",
+    nearMeText: "Searching for Samsung Service Center Near Me or Samsung Appliance Repair in Karur? We provide local doorstep technician assistance, genuine compatible spare replacements, and clear estimates across Karur.",
     ac: {
       types: ["WindFree Inverter Split AC", "Convertible 5-in-1 AC", "Digital Inverter Split AC", "Window AC"],
       tech: "Samsung air conditioners feature WindFree cooling with micro-holes that disperse air gently, Digital Inverter Boost compressors, and copper coils with Durafin Ultra anti-corrosion coating, depending on model.",
@@ -79,11 +79,11 @@ module.exports = {
   },
 
   sansui: {
-    searchIntentHeading: "Need Sansui Service Center in Dindigul?",
-    searchIntentText: "Searching for Sansui AC or TV repair near me in Dindigul? If your Sansui split air conditioner is blowing warm air or your Sansui smart LED TV has a dark screen, our local Dindigul technicians provide fast doorstep inspection.",
-    whyMatters: "Sansui is a well-known Japanese brand in India delivering reliable home entertainment and cooling appliances. Families in Dindigul rely on Sansui TVs and air conditioners for budget-friendly daily comfort.",
+    searchIntentHeading: "Need Sansui Service Center in Karur?",
+    searchIntentText: "Searching for Sansui AC or TV repair near me in Karur? If your Sansui split air conditioner is blowing warm air or your Sansui smart LED TV has a dark screen, our local Karur technicians provide fast doorstep inspection.",
+    whyMatters: "Sansui is a well-known Japanese brand in India delivering reliable home entertainment and cooling appliances. Families in Karur rely on Sansui TVs and air conditioners for budget-friendly daily comfort.",
     cleaningMatters: "Dust accumulation on AC cooling filters and TV ventilation slots reduces efficiency. Regular cleaning ensures quiet operation and extends appliance lifespan.",
-    nearMeText: "Searching for Sansui Service Center Near Me or Sansui TV Repair in Dindigul? We provide local doorstep technician assistance for Sansui ACs and smart televisions across Dindigul.",
+    nearMeText: "Searching for Sansui Service Center Near Me or Sansui TV Repair in Karur? We provide local doorstep technician assistance for Sansui ACs and smart televisions across Karur.",
     ac: {
       types: ["Inverter Split AC", "Fixed Speed Split AC"],
       tech: "Sansui air conditioners feature rotary compressors, copper condenser coils, and rapid cooling turbo modes, depending on model. Selected units include PM2.5 dust filtration.",
@@ -111,11 +111,11 @@ module.exports = {
   },
 
   sanyo: {
-    searchIntentHeading: "Looking for Sanyo TV Service Center in Dindigul?",
-    searchIntentText: "Need Sanyo TV repair near me in Dindigul? If your Sanyo Kaizen smart Android TV screen went black, has sound without picture, or will not turn on from standby, our local Dindigul technicians can inspect the television at your home.",
-    whyMatters: "Sanyo, backed by Panasonic, has delivered dependable Japanese-engineered smart LED televisions with certified Android TV software across India. Dindigul families enjoy Sanyo TVs for clear picture quality and streaming serials.",
+    searchIntentHeading: "Looking for Sanyo TV Service Center in Karur?",
+    searchIntentText: "Need Sanyo TV repair near me in Karur? If your Sanyo Kaizen smart Android TV screen went black, has sound without picture, or will not turn on from standby, our local Karur technicians can inspect the television at your home.",
+    whyMatters: "Sanyo, backed by Panasonic, has delivered dependable Japanese-engineered smart LED televisions with certified Android TV software across India. Karur families enjoy Sanyo TVs for clear picture quality and streaming serials.",
     cleaningMatters: "Keeping the rear ventilation openings free from dust prevents the internal power board and motherboard from overheating during long operation hours.",
-    nearMeText: "Searching for Sanyo TV Repair Near Me or Sanyo Service Center in Dindigul? We provide doorstep television inspection, LED backlight repairs, and circuit board servicing across all Dindigul neighborhoods.",
+    nearMeText: "Searching for Sanyo TV Repair Near Me or Sanyo Service Center in Karur? We provide doorstep television inspection, LED backlight repairs, and circuit board servicing across all Karur neighborhoods.",
     tv: {
       types: ["Kaizen Series 4K UHD Android TV", "Smart LED Android TV", "Full HD IPS Series"],
       tech: "Sanyo televisions feature IPS grade LED panels, certified Android TV operating software, Dolby Audio with box speakers, and built-in Chromecast, depending on model.",
@@ -131,11 +131,11 @@ module.exports = {
   },
 
   sharp: {
-    searchIntentHeading: "Searching for Sharp Appliance Service in Dindigul?",
-    searchIntentText: "Looking for Sharp Service Center in Dindigul? If your Sharp Plasmacluster AC is not cooling, your Sharp J-Tech inverter refrigerator is warm, your Sharp washer has spin faults, or your Sharp Aquos TV screen went dark, our local Dindigul technicians visit your home.",
-    whyMatters: "Sharp is celebrated worldwide for Japanese technological innovations like Plasmacluster ion air purification, J-Tech Inverter refrigeration, and Aquos television displays. Dindigul households count on Sharp for durable, high-performance home appliances.",
+    searchIntentHeading: "Searching for Sharp Appliance Service in Karur?",
+    searchIntentText: "Looking for Sharp Service Center in Karur? If your Sharp Plasmacluster AC is not cooling, your Sharp J-Tech inverter refrigerator is warm, your Sharp washer has spin faults, or your Sharp Aquos TV screen went dark, our local Karur technicians visit your home.",
+    whyMatters: "Sharp is celebrated worldwide for Japanese technological innovations like Plasmacluster ion air purification, J-Tech Inverter refrigeration, and Aquos television displays. Karur households count on Sharp for durable, high-performance home appliances.",
     cleaningMatters: "Dust accumulation on Plasmacluster AC filters and refrigerator air ducts reduces cooling speed. Regular cleaning keeps Sharp appliances working efficiently.",
-    nearMeText: "Searching for Sharp Service Center Near Me or Sharp Appliance Repair in Dindigul? We provide local doorstep technician assistance, genuine compatible spare replacements, and clear estimates across Dindigul.",
+    nearMeText: "Searching for Sharp Service Center Near Me or Sharp Appliance Repair in Karur? We provide local doorstep technician assistance, genuine compatible spare replacements, and clear estimates across Karur.",
     ac: {
       types: ["Plasmacluster Inverter Split AC", "J-Tech Inverter AC"],
       tech: "Sharp air conditioners feature Plasmacluster ion technology for air purification, J-Tech Inverter compressors with fine 0.5-degree temperature steps, and 100% copper heat exchangers, depending on model.",
@@ -187,11 +187,11 @@ module.exports = {
   },
 
   siemens: {
-    searchIntentHeading: "Looking for Siemens Appliance Service in Dindigul?",
-    searchIntentText: "Searching for Siemens Service Center in Dindigul? If your Siemens front load washing machine shows an error code, will not spin, or your Siemens iQ500 refrigerator has stopped chilling, our trained Dindigul technicians visit your doorstep.",
-    whyMatters: "Siemens appliances stand for German precision engineering, iQdrive quiet motors, and premium build quality. Families in Dindigul depend on Siemens washers and refrigerators for gentle fabric care and reliable food preservation.",
+    searchIntentHeading: "Looking for Siemens Appliance Service in Karur?",
+    searchIntentText: "Searching for Siemens Service Center in Karur? If your Siemens front load washing machine shows an error code, will not spin, or your Siemens iQ500 refrigerator has stopped chilling, our trained Karur technicians visit your doorstep.",
+    whyMatters: "Siemens appliances stand for German precision engineering, iQdrive quiet motors, and premium build quality. Families in Karur depend on Siemens washers and refrigerators for gentle fabric care and reliable food preservation.",
     cleaningMatters: "Hard water scale can build up on Siemens heating elements and water valves. Routine descaling and cleaning the drain coin trap prevents cycle interruptions and maintains quiet washing.",
-    nearMeText: "Searching for Siemens Service Center Near Me or Siemens Washing Machine Repair in Dindigul? We provide doorstep inspection across Dindigul for Siemens front load washers and frost-free refrigerators.",
+    nearMeText: "Searching for Siemens Service Center Near Me or Siemens Washing Machine Repair in Karur? We provide doorstep inspection across Karur for Siemens front load washers and frost-free refrigerators.",
     wm: {
       types: ["iQ300 Front Load Washer", "iQ500 Front Load Washer", "iQ700 Front Load Washer", "Washer Dryer Combination"],
       tech: "Siemens washing machines feature iQdrive brushless inverter motors, waveDrum gentle fabric paddles, speedPack quick washing options, and waterPerfect Plus intelligent water management, depending on model.",
@@ -219,11 +219,11 @@ module.exports = {
   },
 
   sony: {
-    searchIntentHeading: "Need Sony Bravia TV Repair in Dindigul?",
-    searchIntentText: "Searching for Sony Bravia TV Service Center in Dindigul? If your Sony Bravia LED TV or OLED TV has sound but no picture, the red standby indicator is blinking in codes, or will not power up, our experienced Dindigul technicians provide prompt doorstep visits.",
-    whyMatters: "Sony Bravia is the gold standard in Indian homes for picture quality, Cognitive Processor XR image processing, Triluminos color realism, and premium build quality. Dindigul families cherish Sony Bravia TVs for sports and cinema.",
+    searchIntentHeading: "Need Sony Bravia TV Repair in Karur?",
+    searchIntentText: "Searching for Sony Bravia TV Service Center in Karur? If your Sony Bravia LED TV or OLED TV has sound but no picture, the red standby indicator is blinking in codes, or will not power up, our experienced Karur technicians provide prompt doorstep visits.",
+    whyMatters: "Sony Bravia is the gold standard in Indian homes for picture quality, Cognitive Processor XR image processing, Triluminos color realism, and premium build quality. Karur families cherish Sony Bravia TVs for sports and cinema.",
     cleaningMatters: "Dust accumulation around rear cooling grills can cause heat buildup on processor boards. Wiping the display with a dry microfiber cloth and avoiding liquid chemical sprays protects Sony Bravia panels.",
-    nearMeText: "Searching for Sony TV Repair Near Me or Sony Bravia Service Center in Dindigul? Our local technicians provide doorstep inspection, LED backlight repairs, motherboard checks, and power supply servicing across Dindigul.",
+    nearMeText: "Searching for Sony TV Repair Near Me or Sony Bravia Service Center in Karur? Our local technicians provide doorstep inspection, LED backlight repairs, motherboard checks, and power supply servicing across Karur.",
     tv: {
       types: ["Bravia XR OLED TV", "Bravia 4K HDR Google TV", "Full Array LED TV", "Triluminos Smart TV"],
       tech: "Sony Bravia televisions feature Cognitive Processor XR / X1 4K HDR processing, Triluminos Pro displays, Google TV platforms, Acoustic Surface Audio, and Dolby Vision, depending on model.",
@@ -239,11 +239,11 @@ module.exports = {
   },
 
   tcl: {
-    searchIntentHeading: "Looking for TCL Service Center in Dindigul?",
-    searchIntentText: "Searching for TCL appliance repair near me in Dindigul? If your TCL QLED TV screen went blank, your TCL air conditioner is blowing warm air, or your TCL washing machine has spin faults, our local Dindigul technicians provide fast doorstep inspection.",
-    whyMatters: "TCL is a global display giant and home appliance maker popular for Mini-LED and QLED Google TVs, AI inverter air conditioners, and front load washers. Households in Dindigul trust TCL for modern smart home features.",
+    searchIntentHeading: "Looking for TCL Service Center in Karur?",
+    searchIntentText: "Searching for TCL appliance repair near me in Karur? If your TCL QLED TV screen went blank, your TCL air conditioner is blowing warm air, or your TCL washing machine has spin faults, our local Karur technicians provide fast doorstep inspection.",
+    whyMatters: "TCL is a global display giant and home appliance maker popular for Mini-LED and QLED Google TVs, AI inverter air conditioners, and front load washers. Households in Karur trust TCL for modern smart home features.",
     cleaningMatters: "Dust on AC cooling filters and washing machine coin traps can lower performance over time. Regular cleaning keeps TCL smart appliances running smoothly.",
-    nearMeText: "Searching for TCL Service Center Near Me or TCL TV Repair in Dindigul? We provide local doorstep technician assistance for TCL TVs, air conditioners, and washing machines across Dindigul.",
+    nearMeText: "Searching for TCL Service Center Near Me or TCL TV Repair in Karur? We provide local doorstep technician assistance for TCL TVs, air conditioners, and washing machines across Karur.",
     ac: {
       types: ["AI Inverter Split AC", "Gentle Cool Split AC", "Smart Inverter AC"],
       tech: "TCL air conditioners feature AI Ultra-Inverter technology for rapid 30-second cooling, Gentle Cool micro-hole air louvers that eliminate cold drafts, and Titan Gold anti-corrosive coil coatings, depending on model.",
@@ -283,11 +283,11 @@ module.exports = {
   },
 
   thomson: {
-    searchIntentHeading: "Need Thomson Washing Machine Service in Dindigul?",
-    searchIntentText: "Looking for Thomson washing machine repair near me in Dindigul? If your Thomson top load or semi-automatic washer is not spinning, making a grinding noise, or refusing to drain water, our Dindigul technicians can inspect it at your residence.",
-    whyMatters: "Thomson washing machines are admired in Indian homes for affordable European styling, durable pulsator motors, and easy-to-use wash programs. Families across Dindigul rely on Thomson washers for routine laundry cleaning.",
+    searchIntentHeading: "Need Thomson Washing Machine Service in Karur?",
+    searchIntentText: "Looking for Thomson washing machine repair near me in Karur? If your Thomson top load or semi-automatic washer is not spinning, making a grinding noise, or refusing to drain water, our Karur technicians can inspect it at your residence.",
+    whyMatters: "Thomson washing machines are admired in Indian homes for affordable European styling, durable pulsator motors, and easy-to-use wash programs. Families across Karur rely on Thomson washers for routine laundry cleaning.",
     cleaningMatters: "Hard water scale and detergent buildup can clog Thomson water inlet valves and drain pipes. Cleaning lint traps and running periodic tub washes maintains peak cleaning power.",
-    nearMeText: "Searching for Thomson Service Center Near Me or Thomson Washing Machine Repair in Dindigul? We provide local doorstep technician visits, fault checking, and spare part repairs across Dindigul.",
+    nearMeText: "Searching for Thomson Service Center Near Me or Thomson Washing Machine Repair in Karur? We provide local doorstep technician visits, fault checking, and spare part repairs across Karur.",
     wm: {
       types: ["Aqua Smart Semi-Automatic Washer", "Fully Automatic Top Load Washer", "Front Load Washer"],
       tech: "Thomson washing machines feature Aqua Smart water conservation, stainless steel diamond drums, 3D waterfall wash technology, and rust-proof fiber cabinets, depending on model.",
@@ -303,11 +303,11 @@ module.exports = {
   },
 
   toshiba: {
-    searchIntentHeading: "Searching for Toshiba Appliance Service in Dindigul?",
-    searchIntentText: "Looking for Toshiba home appliance repair near me in Dindigul? If your Toshiba Origin Inverter refrigerator is not cooling, your Toshiba washing machine has spin faults, or your Toshiba REGZA TV screen went dark, our local Dindigul technicians visit your home.",
-    whyMatters: "Toshiba is a legendary Japanese brand celebrated for engineering excellence, Origin Inverter motors, GreatWaves washing technology, and REGZA television processors. Dindigul families trust Toshiba for dependable home performance.",
+    searchIntentHeading: "Searching for Toshiba Appliance Service in Karur?",
+    searchIntentText: "Looking for Toshiba home appliance repair near me in Karur? If your Toshiba Origin Inverter refrigerator is not cooling, your Toshiba washing machine has spin faults, or your Toshiba REGZA TV screen went dark, our local Karur technicians visit your home.",
+    whyMatters: "Toshiba is a legendary Japanese brand celebrated for engineering excellence, Origin Inverter motors, GreatWaves washing technology, and REGZA television processors. Karur families trust Toshiba for dependable home performance.",
     cleaningMatters: "Dust on refrigerator condenser coils and lint in washing machine filters can decrease operating efficiency. Regular cleaning keeps Toshiba appliances running smoothly.",
-    nearMeText: "Searching for Toshiba Service Center Near Me or Toshiba Appliance Repair in Dindigul? We provide local doorstep technician assistance for Toshiba refrigerators, washers, and TVs across Dindigul.",
+    nearMeText: "Searching for Toshiba Service Center Near Me or Toshiba Appliance Repair in Karur? We provide local doorstep technician assistance for Toshiba refrigerators, washers, and TVs across Karur.",
     fridge: {
       types: ["Origin Inverter Double Door", "Multi-Door Refrigerator", "PureBIO Frost Free Refrigerator"],
       tech: "Toshiba refrigerators feature Origin Inverter compressors and fans, PureBIO ceramic honeycomb deodorizers that eliminate bacteria, and moisture crisper zones, where fitted.",
@@ -347,11 +347,11 @@ module.exports = {
   },
 
   videocon: {
-    searchIntentHeading: "Looking for Videocon Service Center in Dindigul?",
-    searchIntentText: "Searching for Videocon appliance repair near me in Dindigul? Whether your Videocon refrigerator has stopped cooling, your Videocon washing machine has spin faults, or your Videocon LED TV screen has gone dark, our local Dindigul technicians are ready to visit.",
-    whyMatters: "Videocon was a pioneer in bringing affordable color televisions, direct cool refrigerators, and twin-tub washing machines to millions of Indian homes. In Dindigul, many families continue to rely on their trusted Videocon appliances.",
+    searchIntentHeading: "Looking for Videocon Service Center in Karur?",
+    searchIntentText: "Searching for Videocon appliance repair near me in Karur? Whether your Videocon refrigerator has stopped cooling, your Videocon washing machine has spin faults, or your Videocon LED TV screen has gone dark, our local Karur technicians are ready to visit.",
+    whyMatters: "Videocon was a pioneer in bringing affordable color televisions, direct cool refrigerators, and twin-tub washing machines to millions of Indian homes. In Karur, many families continue to rely on their trusted Videocon appliances.",
     cleaningMatters: "Dust accumulation on refrigerator condenser coils and washer lint trap clogging can lower efficiency over time. Regular filter maintenance and cleaning keeps Videocon appliances operating reliably.",
-    nearMeText: "Searching for Videocon Service Center Near Me or Videocon Appliance Repair in Dindigul? Our local team provides verified doorstep service with transparent problem explanations across all Dindigul neighborhoods.",
+    nearMeText: "Searching for Videocon Service Center Near Me or Videocon Appliance Repair in Karur? Our local team provides verified doorstep service with transparent problem explanations across all Karur neighborhoods.",
     fridge: {
       types: ["Direct Cool Single Door", "Frost Free Double Door"],
       tech: "Videocon refrigerators feature durable reciprocating compressors, wire shelves, and deep vegetable crispers, where fitted.",
@@ -391,11 +391,11 @@ module.exports = {
   },
 
   voltas: {
-    searchIntentHeading: "Searching for Voltas AC Service Center in Dindigul?",
-    searchIntentText: "Looking for Voltas AC or washing machine repair near me in Dindigul? If your Voltas Maha Adjustable Inverter AC is not cooling or your Voltas washing machine has spin faults, our local Dindigul technicians provide fast doorstep visits.",
-    whyMatters: "Voltas, from the Tata Group, is India's most popular air conditioning brand, engineered specifically for high Indian ambient temperatures. Homes, offices, and retail stores across Dindigul depend on Voltas for reliable summer cooling.",
-    cleaningMatters: "Dindigul's dry summer dust coats Voltas condenser coils quickly, lowering heat exchange. Regular filter washing and pre-season coil jet cleaning ensures high cooling power with low electricity consumption.",
-    nearMeText: "Searching for Voltas Service Center Near Me or Voltas AC Repair in Dindigul? Our local technicians provide doorstep inspection, gas charging, capacitor replacement, and PCB repairs across Dindigul.",
+    searchIntentHeading: "Searching for Voltas AC Service Center in Karur?",
+    searchIntentText: "Looking for Voltas AC or washing machine repair near me in Karur? If your Voltas Maha Adjustable Inverter AC is not cooling or your Voltas washing machine has spin faults, our local Karur technicians provide fast doorstep visits.",
+    whyMatters: "Voltas, from the Tata Group, is India's most popular air conditioning brand, engineered specifically for high Indian ambient temperatures. Homes, offices, and retail stores across Karur depend on Voltas for reliable summer cooling.",
+    cleaningMatters: "Karur's dry summer dust coats Voltas condenser coils quickly, lowering heat exchange. Regular filter washing and pre-season coil jet cleaning ensures high cooling power with low electricity consumption.",
+    nearMeText: "Searching for Voltas Service Center Near Me or Voltas AC Repair in Karur? Our local technicians provide doorstep inspection, gas charging, capacitor replacement, and PCB repairs across Karur.",
     ac: {
       types: ["Maha Adjustable Inverter Split AC", "Fixed Speed Split AC", "Window AC", "Cassette AC"],
       tech: "Voltas air conditioners feature Maha Adjustable multi-stage tonnage modes, Superdry dehumidification, 100% copper condenser coils with Blue Fin protection, and high-ambient cooling up to 52 degrees, depending on model.",
@@ -423,11 +423,11 @@ module.exports = {
   },
 
   "voltas-beko": {
-    searchIntentHeading: "Looking for Voltas Beko Service Center in Dindigul?",
-    searchIntentText: "Searching for Voltas Beko appliance repair near me in Dindigul? If your Voltas Beko refrigerator has stopped cooling or your Voltas Beko washing machine has drum or drainage issues, our local Dindigul technicians are ready for home visits.",
-    whyMatters: "Voltas Beko combines Tata's trusted Indian heritage with European appliance engineering from Arcelik. In Dindigul, families rely on Voltas Beko refrigerators and washing machines for fresh food storage and gentle laundry care.",
+    searchIntentHeading: "Looking for Voltas Beko Service Center in Karur?",
+    searchIntentText: "Searching for Voltas Beko appliance repair near me in Karur? If your Voltas Beko refrigerator has stopped cooling or your Voltas Beko washing machine has drum or drainage issues, our local Karur technicians are ready for home visits.",
+    whyMatters: "Voltas Beko combines Tata's trusted Indian heritage with European appliance engineering from Arcelik. In Karur, families rely on Voltas Beko refrigerators and washing machines for fresh food storage and gentle laundry care.",
     cleaningMatters: "Hard water scaling can choke washing machine valves, while dust on refrigerator coils slows cooling. Periodic filter cleaning keeps Voltas Beko appliances working at peak performance.",
-    nearMeText: "Searching for Voltas Beko Service Center Near Me or Voltas Beko Refrigerator Repair in Dindigul? We provide doorstep inspection across Dindigul for Voltas Beko fridges and washers.",
+    nearMeText: "Searching for Voltas Beko Service Center Near Me or Voltas Beko Refrigerator Repair in Karur? We provide doorstep inspection across Karur for Voltas Beko fridges and washers.",
     fridge: {
       types: ["NeoFrost Dual Cooling Double Door", "ProSmart Inverter Refrigerator", "Direct Cool Single Door", "Bottom Mount Refrigerator"],
       tech: "Voltas Beko refrigerators feature NeoFrost dual cooling circuits that prevent odor mixing, ProSmart Inverter compressors for quiet efficiency, and HarvestFresh 3-color light technology, where fitted.",
@@ -455,11 +455,11 @@ module.exports = {
   },
 
   vu: {
-    searchIntentHeading: "Need Vu TV Service Center in Dindigul?",
-    searchIntentText: "Searching for Vu TV repair near me in Dindigul? If your Vu GloLED TV, Masterpiece QLED TV, or 4K Smart Android TV has sound but no picture, will not turn on, or has screen lines, our local Dindigul technicians provide fast doorstep visits.",
-    whyMatters: "Vu televisions are celebrated for high-brightness GloLED panels, cinema sound tuning, and smart Google TV features. Dindigul households count on Vu TVs for daily movies, serials, and sporting broadcasts.",
+    searchIntentHeading: "Need Vu TV Service Center in Karur?",
+    searchIntentText: "Searching for Vu TV repair near me in Karur? If your Vu GloLED TV, Masterpiece QLED TV, or 4K Smart Android TV has sound but no picture, will not turn on, or has screen lines, our local Karur technicians provide fast doorstep visits.",
+    whyMatters: "Vu televisions are celebrated for high-brightness GloLED panels, cinema sound tuning, and smart Google TV features. Karur households count on Vu TVs for daily movies, serials, and sporting broadcasts.",
     cleaningMatters: "Dust accumulation around rear ports and ventilation slots can affect heat dissipation. Gently dusting the frame and screen with a dry cloth keeps Vu TVs running reliably.",
-    nearMeText: "Searching for Vu TV Repair Near Me or Vu Service Center in Dindigul? Our local technicians provide doorstep inspection, LED backlight repairs, and circuit board servicing across all Dindigul localities.",
+    nearMeText: "Searching for Vu TV Repair Near Me or Vu Service Center in Karur? Our local technicians provide doorstep inspection, LED backlight repairs, and circuit board servicing across all Karur localities.",
     tv: {
       types: ["Vu GloLED TV 4K", "Masterpiece QLED TV", "Cinema 4K Smart TV", "Android Smart LED TV"],
       tech: "Vu televisions feature GloLED high-lumen panels with 400-nits brightness, Glo AI processor, built-in subwoofer sound systems, and Google TV platforms, depending on model.",
@@ -475,11 +475,11 @@ module.exports = {
   },
 
   vw: {
-    searchIntentHeading: "Looking for VW Appliance Service in Dindigul?",
-    searchIntentText: "Searching for VW TV or washing machine repair near me in Dindigul? If your VW frameless smart LED TV screen went blank or your VW washing machine will not spin, our local Dindigul technicians are ready for home visits.",
-    whyMatters: "VW (Visio World) provides modern frameless LED smart televisions and practical washing machines at budget-friendly prices. Dindigul families rely on VW appliances for everyday home entertainment and laundry.",
+    searchIntentHeading: "Looking for VW Appliance Service in Karur?",
+    searchIntentText: "Searching for VW TV or washing machine repair near me in Karur? If your VW frameless smart LED TV screen went blank or your VW washing machine will not spin, our local Karur technicians are ready for home visits.",
+    whyMatters: "VW (Visio World) provides modern frameless LED smart televisions and practical washing machines at budget-friendly prices. Karur families rely on VW appliances for everyday home entertainment and laundry.",
     cleaningMatters: "Dust on TV vents can cause internal boards to overheat, while lint in washing machines can choke drain pipes. Simple regular cleaning keeps VW appliances operating smoothly.",
-    nearMeText: "Searching for VW Service Center Near Me or VW TV Repair in Dindigul? We provide local doorstep technician assistance for VW TVs and washing machines across all neighborhoods in Dindigul.",
+    nearMeText: "Searching for VW Service Center Near Me or VW TV Repair in Karur? We provide local doorstep technician assistance for VW TVs and washing machines across all neighborhoods in Karur.",
     wm: {
       types: ["Semi-Automatic Twin Tub Washer", "Top Load Fully Automatic Washer"],
       tech: "VW washing machines feature durable rust-proof cabinets, powerful wash agitators, and high-spin extraction speeds, depending on model.",
@@ -507,11 +507,11 @@ module.exports = {
   },
 
   whirlpool: {
-    searchIntentHeading: "Searching for Whirlpool Service Center in Dindigul?",
-    searchIntentText: "Looking for Whirlpool appliance repair near me in Dindigul? If your Whirlpool IntelliFresh refrigerator is not cooling, your Whirlpool washing machine drum will not rotate, or your Whirlpool Magicool AC is blowing warm air, our local Dindigul technicians visit your doorstep.",
-    whyMatters: "Whirlpool is one of India's most trusted home appliance brands, known for 6th Sense smart sensing technology, deep freeze refrigeration, and durable washing machines. Families across Dindigul rely on Whirlpool for daily family convenience.",
-    cleaningMatters: "Dindigul's hard water can build scale in Whirlpool washing machine tubs, while dust on AC filters slows cooling. Periodic filter rinsing and tub cleaning maintains Whirlpool's 6th Sense performance.",
-    nearMeText: "Searching for Whirlpool Service Center Near Me or Whirlpool Refrigerator Repair in Dindigul? We provide local doorstep technician assistance, genuine compatible spare replacements, and clear estimates across Dindigul.",
+    searchIntentHeading: "Searching for Whirlpool Service Center in Karur?",
+    searchIntentText: "Looking for Whirlpool appliance repair near me in Karur? If your Whirlpool IntelliFresh refrigerator is not cooling, your Whirlpool washing machine drum will not rotate, or your Whirlpool Magicool AC is blowing warm air, our local Karur technicians visit your doorstep.",
+    whyMatters: "Whirlpool is one of India's most trusted home appliance brands, known for 6th Sense smart sensing technology, deep freeze refrigeration, and durable washing machines. Families across Karur rely on Whirlpool for daily family convenience.",
+    cleaningMatters: "Karur's hard water can build scale in Whirlpool washing machine tubs, while dust on AC filters slows cooling. Periodic filter rinsing and tub cleaning maintains Whirlpool's 6th Sense performance.",
+    nearMeText: "Searching for Whirlpool Service Center Near Me or Whirlpool Refrigerator Repair in Karur? We provide local doorstep technician assistance, genuine compatible spare replacements, and clear estimates across Karur.",
     ac: {
       types: ["3D Cool Inverter Split AC", "Magicool Window AC", "Convertible Inverter AC"],
       tech: "Whirlpool air conditioners feature 3D Cool technology with multi-directional air vents, 6th Sense IntelliComfort sensors that balance temperature and humidity, and 100% copper coils, depending on model.",
@@ -551,11 +551,11 @@ module.exports = {
   },
 
   "white-westinghouse": {
-    searchIntentHeading: "Need White Westinghouse Washer Service in Dindigul?",
-    searchIntentText: "Looking for White Westinghouse washing machine repair near me in Dindigul? If your White Westinghouse washer is not spinning, making loud noises, or refusing to drain water, our local Dindigul technicians can inspect it at your home.",
-    whyMatters: "White Westinghouse is an American legacy brand that brings heavy-duty washing machines with durable drums and powerful motors to Indian homes. Dindigul households count on White Westinghouse for handling heavy laundry loads.",
+    searchIntentHeading: "Need White Westinghouse Washer Service in Karur?",
+    searchIntentText: "Looking for White Westinghouse washing machine repair near me in Karur? If your White Westinghouse washer is not spinning, making loud noises, or refusing to drain water, our local Karur technicians can inspect it at your home.",
+    whyMatters: "White Westinghouse is an American legacy brand that brings heavy-duty washing machines with durable drums and powerful motors to Indian homes. Karur households count on White Westinghouse for handling heavy laundry loads.",
     cleaningMatters: "Hard water scale and detergent residue can build up in washing machine tubs and drain pumps. Cleaning the lint filter and running periodic tub cleans keeps White Westinghouse washers working properly.",
-    nearMeText: "Searching for White Westinghouse Service Center Near Me or White Westinghouse Washing Machine Repair in Dindigul? We provide local doorstep technician visits, fault checking, and spare part repairs across Dindigul.",
+    nearMeText: "Searching for White Westinghouse Service Center Near Me or White Westinghouse Washing Machine Repair in Karur? We provide local doorstep technician visits, fault checking, and spare part repairs across Karur.",
     wm: {
       types: ["Semi-Automatic Twin Tub Washer", "Fully Automatic Top Load Washer", "Front Load Washer"],
       tech: "White Westinghouse washing machines feature heavy-duty wash motors, stainless steel wash tubs, multi-waterfall circulation, and rust-resistant fiber bodies, depending on model.",
@@ -571,11 +571,11 @@ module.exports = {
   },
 
   xiaomi: {
-    searchIntentHeading: "Searching for Xiaomi TV Service Center in Dindigul?",
-    searchIntentText: "Looking for Xiaomi TV repair near me in Dindigul? If your Xiaomi OLED Vision or 4K Smart Google TV has sound but no picture, is stuck on the boot logo, or will not turn on from standby, our local Dindigul technicians provide fast doorstep visits.",
-    whyMatters: "Xiaomi smart televisions represent cutting-edge display technology with OLED and QLED panels, Dolby Vision IQ, and Google TV integration. Dindigul households rely on Xiaomi TVs for premium family entertainment and gaming.",
+    searchIntentHeading: "Searching for Xiaomi TV Service Center in Karur?",
+    searchIntentText: "Looking for Xiaomi TV repair near me in Karur? If your Xiaomi OLED Vision or 4K Smart Google TV has sound but no picture, is stuck on the boot logo, or will not turn on from standby, our local Karur technicians provide fast doorstep visits.",
+    whyMatters: "Xiaomi smart televisions represent cutting-edge display technology with OLED and QLED panels, Dolby Vision IQ, and Google TV integration. Karur households rely on Xiaomi TVs for premium family entertainment and gaming.",
     cleaningMatters: "Dust settling around bottom speaker vents and rear ports can affect heat dissipation. Gently wiping the panel with a dry microfiber cloth and keeping rear vents clear protects Xiaomi display panels.",
-    nearMeText: "Searching for Xiaomi TV Repair Near Me or Xiaomi Service Center in Dindigul? We provide doorstep inspection, LED backlight repairs, and circuit board servicing across all Dindigul neighborhoods.",
+    nearMeText: "Searching for Xiaomi TV Repair Near Me or Xiaomi Service Center in Karur? We provide doorstep inspection, LED backlight repairs, and circuit board servicing across all Karur neighborhoods.",
     tv: {
       types: ["Xiaomi Smart TV X Series 4K", "OLED Vision Series", "Google TV Smart LED TV", "QLED 4K TV"],
       tech: "Xiaomi televisions feature OLED and QLED panels, Vivid Picture Engine 2, Dolby Vision IQ and Atmos, 30W speaker systems, and Google TV platforms, depending on model.",

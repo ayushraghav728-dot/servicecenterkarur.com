@@ -1,6 +1,6 @@
 // Full 31-brand clean data builder with automated uniqueness verification
 // Ensures 0 duplicated sentences across all 31 brands
-// Dindigul only, no AI buzzwords, no prompt words
+// Karur only, no AI buzzwords, no prompt words
 
 const fs = require('fs');
 const path = require('path');

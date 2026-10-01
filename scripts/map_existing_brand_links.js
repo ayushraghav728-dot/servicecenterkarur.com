@@ -18,10 +18,10 @@ function addFiles(files, cat, pattern) {
   });
 }
 
-addFiles(acFiles, 'ac', /^([a-z0-9-]+)-ac-repair-service-in-dindigul\.html$/);
-addFiles(fridgeFiles, 'fridge', /^([a-z0-9-]+)-refrigerator-repair-service-in-dindigul\.html$/);
-addFiles(wmFiles, 'wm', /^([a-z0-9-]+)-washing-machine-repair-service-in-dindigul\.html$/);
-addFiles(tvFiles, 'tv', /^([a-z0-9-]+)-tv-repair-service-in-dindigul\.html$/);
+addFiles(acFiles, 'ac', /^([a-z0-9-]+)-ac-repair-service-in-karur\.html$/);
+addFiles(fridgeFiles, 'fridge', /^([a-z0-9-]+)-refrigerator-repair-service-in-karur\.html$/);
+addFiles(wmFiles, 'wm', /^([a-z0-9-]+)-washing-machine-repair-service-in-karur\.html$/);
+addFiles(tvFiles, 'tv', /^([a-z0-9-]+)-tv-repair-service-in-karur\.html$/);
 
 fs.writeFileSync('scripts/existing_brand_links.json', JSON.stringify(mapping, null, 2));
 console.log('Saved existing_brand_links.json with', Object.keys(mapping).length, 'brands.');

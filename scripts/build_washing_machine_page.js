@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Read 60 localities
-const localitiesList = JSON.parse(fs.readFileSync(path.join(__dirname, 'dindigul_localities.json'), 'utf8'));
+const localitiesList = JSON.parse(fs.readFileSync(path.join(__dirname, 'karur_localities.json'), 'utf8'));
 
 function getPreposition(locName) {
   return (locName.includes('Road') || locName.includes('Salai')) ? 'on' : 'in';
@@ -11,10 +11,10 @@ function getPreposition(locName) {
 // 60 Washing Machine Locality Cards
 function generateWmLocalitiesHtml() {
   const keywordTemplates = [
-    (loc, prep) => `Washing Machine Repair ${prep} ${loc}, Dindigul`,
-    (loc, prep) => `Washing Machine Service ${prep} ${loc}, Dindigul`,
+    (loc, prep) => `Washing Machine Repair ${prep} ${loc}, Karur`,
+    (loc, prep) => `Washing Machine Service ${prep} ${loc}, Karur`,
     (loc, prep) => `Washing Machine Repair Near Me in ${loc}`,
-    (loc, prep) => `Washing Machine Technician in ${loc}, Dindigul`,
+    (loc, prep) => `Washing Machine Technician in ${loc}, Karur`,
     (loc, prep) => `Washing Machine Service Center near ${loc}`,
     (loc, prep) => `Front Load Washing Machine Repair ${prep} ${loc}`,
     (loc, prep) => `Top Load Washing Machine Service ${prep} ${loc}`,
@@ -23,9 +23,9 @@ function generateWmLocalitiesHtml() {
 
   const descTemplates = [
     (loc) => `Need washing machine repair near ${loc}? We provide doorstep checking for water draining, spinning, motor, and PCB problems across this area.`,
-    (loc) => `Looking for washing machine service in ${loc}, Dindigul? Our local technicians inspect front load, top load, and semi-automatic machines at your home.`,
+    (loc) => `Looking for washing machine service in ${loc}, Karur? Our local technicians inspect front load, top load, and semi-automatic machines at your home.`,
     (loc) => `Washing machine not spinning or leaking water near ${loc}? Get your machine inspected by an experienced local technician with upfront price estimates.`,
-    (loc) => `Doorstep washing machine repair is available for homes and residential apartments across ${loc}, Dindigul.`,
+    (loc) => `Doorstep washing machine repair is available for homes and residential apartments across ${loc}, Karur.`,
     (loc) => `Washing machine technician available near ${loc} for drain pump replacement, motor capacitor check, door lock repair, and drum noise fixing.`,
     (loc) => `Washing machine not starting or showing an error code in ${loc}? Contact us for quick inspection and genuine compatible spare parts replacement.`
   ];
@@ -51,15 +51,15 @@ const html = `<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Washing Machine Repair Service in Dindigul | Washing Machine Service</title>
-  <meta name="description" content="Looking for washing machine repair in Dindigul? Doorstep service for front load, top load & semi automatic machines. Drain problems, spin, error codes, noise & motor issues. Call local technician.">
-  <link rel="canonical" href="https://servicecenterdindigul.com/washing-machine-repair-service-in-dindigul.html">
+  <title>Washing Machine Repair Service in Karur | Washing Machine Service</title>
+  <meta name="description" content="Looking for washing machine repair in Karur? Doorstep service for front load, top load & semi automatic machines. Drain problems, spin, error codes, noise & motor issues. Call local technician.">
+  <link rel="canonical" href="https://servicecenterkarur.com/washing-machine-repair-service-in-karur.html">
   
   <meta property="og:type" content="article">
-  <meta property="og:url" content="https://servicecenterdindigul.com/washing-machine-repair-service-in-dindigul.html">
-  <meta property="og:title" content="Washing Machine Repair Service in Dindigul | Washing Machine Service">
-  <meta property="og:description" content="Doorstep washing machine repair in Dindigul for front load, top load & semi-automatic models. Water drain, spin, noise, door lock, PCB & motor repair. Call local technician.">
-  <meta property="og:site_name" content="Service Center Dindigul">
+  <meta property="og:url" content="https://servicecenterkarur.com/washing-machine-repair-service-in-karur.html">
+  <meta property="og:title" content="Washing Machine Repair Service in Karur | Washing Machine Service">
+  <meta property="og:description" content="Doorstep washing machine repair in Karur for front load, top load & semi-automatic models. Water drain, spin, noise, door lock, PCB & motor repair. Call local technician.">
+  <meta property="og:site_name" content="Service Center Karur">
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -71,26 +71,26 @@ const html = `<!DOCTYPE html>
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Washing Machine Repair Service in Dindigul",
+    "name": "Washing Machine Repair Service in Karur",
     "serviceType": "Washing Machine Repair & Service",
     "provider": {
       "@type": "HomeAndConstructionBusiness",
-      "name": "Service Center Dindigul",
+      "name": "Service Center Karur",
       "telephone": "+919442054321",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Road, Near Nagal Nagar & RM Colony",
-        "addressLocality": "Dindigul",
+        "streetAddress": "Jawahar Bazaar, Kovai Road, Near Bus Stand",
+        "addressLocality": "Karur",
         "addressRegion": "Tamil Nadu",
-        "postalCode": "624001",
+        "postalCode": "639001",
         "addressCountry": "IN"
       }
     },
     "areaServed": {
       "@type": "City",
-      "name": "Dindigul"
+      "name": "Karur"
     },
-    "description": "Doorstep inspection and repair for front load, top load, and semi-automatic washing machines across Dindigul."
+    "description": "Doorstep inspection and repair for front load, top load, and semi-automatic washing machines across Karur."
   }
   </script>
 </head>
@@ -99,25 +99,25 @@ const html = `<!DOCTYPE html>
   <!-- Site Header -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="index.html" class="brand-logo" title="Service Center Dindigul Homepage">
+      <a href="index.html" class="brand-logo" title="Service Center Karur Homepage">
         <div class="brand-icon">
           <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
           </svg>
         </div>
         <div class="brand-title">
-          <span class="brand-name">Service Center Dindigul</span>
+          <span class="brand-name">Service Center Karur</span>
           <span class="brand-loc">Local Appliance Care</span>
         </div>
       </a>
 
       <nav class="main-nav" id="mainNav" aria-label="Main Navigation">
         <a href="index.html">Home</a>
-        <a href="ac-repair-service-in-dindigul.html">AC Repair</a>
-        <a href="refrigerator-repair-service-in-dindigul.html">Fridge Repair</a>
-        <a href="washing-machine-repair-service-in-dindigul.html" class="active">Washing Machine</a>
-        <a href="tv-repair-service-in-dindigul.html">TV Repair</a>
-        <a href="microwave-repair-service-in-dindigul.html">Microwave</a>
+        <a href="ac-repair-service-in-karur.html">AC Repair</a>
+        <a href="refrigerator-repair-service-in-karur.html">Fridge Repair</a>
+        <a href="washing-machine-repair-service-in-karur.html" class="active">Washing Machine</a>
+        <a href="tv-repair-service-in-karur.html">TV Repair</a>
+        <a href="microwave-repair-service-in-karur.html">Microwave</a>
       </nav>
 
       <div class="header-actions">
@@ -140,7 +140,7 @@ const html = `<!DOCTYPE html>
     <div class="container">
       <ol>
         <li><a href="index.html">Home</a></li>
-        <li aria-current="page">Washing Machine Repair Service in Dindigul</li>
+        <li aria-current="page">Washing Machine Repair Service in Karur</li>
       </ol>
     </div>
   </div>
@@ -151,16 +151,16 @@ const html = `<!DOCTYPE html>
       <div class="hero-content">
         <div class="hero-badge">
           <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/></svg>
-          <span>Doorstep Washing Machine Service in Dindigul</span>
+          <span>Doorstep Washing Machine Service in Karur</span>
         </div>
-        <h1>Washing Machine Repair Service in Dindigul</h1>
+        <h1>Washing Machine Repair Service in Karur</h1>
         
         <p class="hero-lead">
-          Searching for washing machine repair in Dindigul or washing machine repair near me? You came to the right place. If your washing machine is not starting, not draining water, making loud noise, not spinning or showing an error code, the machine can be checked at your home and the actual problem can be found before starting any repair.
+          Searching for washing machine repair in Karur or washing machine repair near me? You came to the right place. If your washing machine is not starting, not draining water, making loud noise, not spinning or showing an error code, the machine can be checked at your home and the actual problem can be found before starting any repair.
         </p>
 
         <p style="font-size: 0.95rem; color: #475569; margin-bottom: 1.25rem;">
-          Looking for washing machine service in Dindigul? Our technicians inspect front load, top load, and semi-automatic machines across all major residential areas. The technician checks the exact fault, explains the spare part requirement, and gives an upfront estimate before work begins.
+          Looking for washing machine service in Karur? Our technicians inspect front load, top load, and semi-automatic machines across all major residential areas. The technician checks the exact fault, explains the spare part requirement, and gives an upfront estimate before work begins.
         </p>
 
         <div class="hero-highlights">
@@ -178,12 +178,12 @@ const html = `<!DOCTYPE html>
           </div>
           <div class="highlight-item">
             <svg viewBox="0 0 24 24" width="16" height="16" fill="#16a34a"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-            <span>Fast Scheduling Across 60 Dindigul Localities</span>
+            <span>Fast Scheduling Across 60 Karur Localities</span>
           </div>
         </div>
 
         <div class="hero-cta-group">
-          <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Dindigul.%20Please%20share%20technician%20visit%20details." class="btn-whatsapp-cta sync-whatsapp" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Karur.%20Please%20share%20technician%20visit%20details." class="btn-whatsapp-cta sync-whatsapp" target="_blank" rel="noopener noreferrer">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 15 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M9.11 7.03C8.95 7.03 8.7 7.09 8.5 7.33C8.28 7.57 7.69 8.12 7.69 9.23C7.69 10.34 8.5 11.41 8.62 11.57C8.73 11.72 10.24 14.05 12.56 15.05C14.5 15.88 14.89 15.71 15.31 15.67C15.73 15.63 16.68 15.11 16.88 14.56C17.07 14 17.07 13.53 17.01 13.43C16.95 13.33 16.8 13.27 16.57 13.16C16.35 13.05 15.26 12.51 15.05 12.44C14.85 12.36 14.71 12.32 14.56 12.54C14.41 12.77 14 13.27 13.86 13.43C13.73 13.58 13.6 13.6 13.38 13.49C13.15 13.38 12.43 13.14 11.58 12.38C10.92 11.79 10.47 11.06 10.34 10.84C10.22 10.62 10.33 10.5 10.44 10.39C10.55 10.28 10.68 10.11 10.8 9.97C10.92 9.83 10.95 9.72 11.03 9.57C11.11 9.42 11.07 9.29 11.01 9.17C10.95 9.06 10.5 7.95 10.31 7.5C10.13 7.06 9.94 7.12 9.8 7.11C9.66 7.11 9.5 7.1 9.35 7.1L9.11 7.03Z"/></svg>
             <span>Book via WhatsApp</span>
           </a>
@@ -197,7 +197,7 @@ const html = `<!DOCTYPE html>
       <!-- Quick Booking Form Card -->
       <div class="hero-card-box">
         <h2>Schedule Machine Inspection</h2>
-        <p>Local technician visits your home in Dindigul.</p>
+        <p>Local technician visits your home in Karur.</p>
         <form class="quick-booking-form">
           <input type="hidden" name="appliance" value="Washing Machine Repair & Service">
           <div class="form-group">
@@ -210,18 +210,18 @@ const html = `<!DOCTYPE html>
             </select>
           </div>
           <div class="form-group">
-            <label for="localitySelect">Your Locality in Dindigul</label>
+            <label for="localitySelect">Your Locality in Karur</label>
             <select id="localitySelect" name="locality" class="form-control" required>
-              <option value="Dindigul Town">Dindigul Town</option>
-              <option value="Nagal Nagar">Nagal Nagar</option>
-              <option value="RM Colony">RM Colony</option>
-              <option value="Begampur">Begampur</option>
-              <option value="Seelapadi">Seelapadi</option>
-              <option value="Balakrishnapuram">Balakrishnapuram</option>
-              <option value="Palani Road">Palani Road</option>
+              <option value="Karur Town">Karur Town</option>
+              <option value="Kagithapuramam">Kagithapuramam</option>
+              <option value="Pasupathipalayam">Pasupathipalayam</option>
+              <option value="Thanthonimalai">Thanthonimalai</option>
+              <option value="Vengamedu">Vengamedu</option>
+              <option value="Inam Karur">Inam Karur</option>
+              <option value="Kovai Road">Kovai Road</option>
               <option value="Trichy Road">Trichy Road</option>
-              <option value="Madurai Road">Madurai Road</option>
-              <option value="Other Area">Other Locality in Dindigul</option>
+              <option value="South Highway Corridor">South Highway Corridor</option>
+              <option value="Other Area">Other Locality in Karur</option>
             </select>
           </div>
           <div class="form-group">
@@ -245,7 +245,7 @@ const html = `<!DOCTYPE html>
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Common Washing Machine Problems We Check in Dindigul</h2>
+        <h2>Common Washing Machine Problems We Check in Karur</h2>
         <p>If your washing machine shows any of these common issues, our technicians inspect the components to find the actual fault:</p>
       </div>
 
@@ -301,11 +301,11 @@ const html = `<!DOCTYPE html>
     </div>
   </section>
 
-  <!-- 3. Types of Washing Machines We Repair in Dindigul -->
+  <!-- 3. Types of Washing Machines We Repair in Karur -->
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Types of Washing Machines We Repair in Dindigul</h2>
+        <h2>Types of Washing Machines We Repair in Karur</h2>
         <p>Doorstep service is available for all common domestic washing machine designs and configurations:</p>
       </div>
 
@@ -315,7 +315,7 @@ const html = `<!DOCTYPE html>
         <div class="service-card">
           <h3 style="color: var(--primary-color); font-size: 1.25rem; margin-bottom: 0.75rem;">Semi Automatic Washing Machine</h3>
           <p style="font-size: 0.92rem; color: #475569; margin-bottom: 1rem;">
-            Searching for semi automatic washing machine repair in Dindigul? You came to the right place. Twin-tub machines use separate wash and spin tubs with individual electric motors and mechanical timers.
+            Searching for semi automatic washing machine repair in Karur? You came to the right place. Twin-tub machines use separate wash and spin tubs with individual electric motors and mechanical timers.
           </p>
           <div style="background: #f8fafc; padding: 0.75rem; border-radius: 6px; margin-bottom: 0.75rem; font-size: 0.85rem; color: #334155;">
             <strong>Common Problems:</strong> Wash motor not turning, spin motor dead, mechanical timer stuck, spin tub vibration, drain valve rubber leak, lid switch failure, and worn V-belts.
@@ -329,7 +329,7 @@ const html = `<!DOCTYPE html>
         <div class="service-card">
           <h3 style="color: var(--primary-color); font-size: 1.25rem; margin-bottom: 0.75rem;">Top Load Washing Machine</h3>
           <p style="font-size: 0.92rem; color: #475569; margin-bottom: 1rem;">
-            Searching for top load washing machine repair in Dindigul or top load service near me? Top load fully automatic machines use an upright vertical drum, digital control board, and water level pressure sensor.
+            Searching for top load washing machine repair in Karur or top load service near me? Top load fully automatic machines use an upright vertical drum, digital control board, and water level pressure sensor.
           </p>
           <div style="background: #f8fafc; padding: 0.75rem; border-radius: 6px; margin-bottom: 0.75rem; font-size: 0.85rem; color: #334155;">
             <strong>Common Problems:</strong> Water not filling, drum shaking violently on spin, water not draining, pulsator loose, OE / dE error codes, and machine stopping mid-cycle.
@@ -343,7 +343,7 @@ const html = `<!DOCTYPE html>
         <div class="service-card">
           <h3 style="color: var(--primary-color); font-size: 1.25rem; margin-bottom: 0.75rem;">Front Load Washing Machine</h3>
           <p style="font-size: 0.92rem; color: #475569; margin-bottom: 1rem;">
-            Searching for front load washing machine repair in Dindigul? You came to the right place. Front load washers provide high efficiency tumble washing but use sensitive electronic boards, door interlocks, and water heating elements.
+            Searching for front load washing machine repair in Karur? You came to the right place. Front load washers provide high efficiency tumble washing but use sensitive electronic boards, door interlocks, and water heating elements.
           </p>
           <div style="background: #f8fafc; padding: 0.75rem; border-radius: 6px; margin-bottom: 0.75rem; font-size: 0.85rem; color: #334155;">
             <strong>Common Problems:</strong> Door locked stuck, water leaking from front rubber gasket, drum bearing roaring noise, water not draining, heating element failure, and vibration.
@@ -361,7 +361,7 @@ const html = `<!DOCTYPE html>
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Washing Machine Spare Parts and Charges in Dindigul</h2>
+        <h2>Washing Machine Spare Parts and Charges in Karur</h2>
         <p>Technicians inspect faulty components at your home and provide transparent pricing before replacement. Compatible replacement parts include:</p>
       </div>
 
@@ -406,9 +406,9 @@ const html = `<!DOCTYPE html>
   <section class="section" id="pricingSection">
     <div class="container">
       <div class="section-header">
-        <h2>Estimated Washing Machine Service & Repair Charges in Dindigul</h2>
+        <h2>Estimated Washing Machine Service & Repair Charges in Karur</h2>
         <p>
-          Transparent, upfront repair rates for washing machines in Dindigul. Our service prices are positioned approximately 20% lower than typical market reference rates:
+          Transparent, upfront repair rates for washing machines in Karur. Our service prices are positioned approximately 20% lower than typical market reference rates:
         </p>
       </div>
 
@@ -450,7 +450,7 @@ const html = `<!DOCTYPE html>
 
       <!-- Wash Cycle Problem Pricing -->
       <div class="pricing-table-wrap" style="margin-bottom: 2.5rem;">
-        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">2. Washing Machine Wash Problem Repair Charges in Dindigul</h3>
+        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">2. Washing Machine Wash Problem Repair Charges in Karur</h3>
         <table class="table-pricing">
           <thead>
             <tr>
@@ -521,7 +521,7 @@ const html = `<!DOCTYPE html>
 
       <!-- Water Leakage Pricing -->
       <div class="pricing-table-wrap" style="margin-bottom: 2.5rem;">
-        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">3. Washing Machine Water Leakage Repair Charges in Dindigul</h3>
+        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">3. Washing Machine Water Leakage Repair Charges in Karur</h3>
         <table class="table-pricing">
           <thead>
             <tr>
@@ -577,7 +577,7 @@ const html = `<!DOCTYPE html>
 
       <!-- Power / Electrical Problem Pricing -->
       <div class="pricing-table-wrap" style="margin-bottom: 2.5rem;">
-        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">4. Washing Machine Power Problem Repair Charges in Dindigul</h3>
+        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">4. Washing Machine Power Problem Repair Charges in Karur</h3>
         <table class="table-pricing">
           <thead>
             <tr>
@@ -618,7 +618,7 @@ const html = `<!DOCTYPE html>
 
       <!-- Spin Problem Pricing -->
       <div class="pricing-table-wrap" style="margin-bottom: 2.5rem;">
-        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">5. Washing Machine Spin Repair Charges in Dindigul</h3>
+        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">5. Washing Machine Spin Repair Charges in Karur</h3>
         <table class="table-pricing">
           <thead>
             <tr>
@@ -664,7 +664,7 @@ const html = `<!DOCTYPE html>
 
       <!-- Noise Problem Pricing -->
       <div class="pricing-table-wrap">
-        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">6. Washing Machine Noise Repair Charges in Dindigul</h3>
+        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">6. Washing Machine Noise Repair Charges in Karur</h3>
         <table class="table-pricing">
           <thead>
             <tr>
@@ -713,7 +713,7 @@ const html = `<!DOCTYPE html>
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Factors Affecting Washing Machine Repair & Service Charges in Dindigul</h2>
+        <h2>Factors Affecting Washing Machine Repair & Service Charges in Karur</h2>
         <p>Repair costs vary depending on the technical nature of the work. Key factors include:</p>
       </div>
 
@@ -732,7 +732,7 @@ const html = `<!DOCTYPE html>
         </div>
         <div class="service-card" style="padding: 1.25rem;">
           <h4 style="color: var(--primary-color); margin-bottom: 0.35rem;">4. Machine Age & Part Availability</h4>
-          <p style="font-size: 0.88rem; color: #475569;">Standard models have readily available compatible parts in Dindigul, while imported or older discontinued units may require special part sourcing.</p>
+          <p style="font-size: 0.88rem; color: #475569;">Standard models have readily available compatible parts in Karur, while imported or older discontinued units may require special part sourcing.</p>
         </div>
       </div>
     </div>
@@ -742,7 +742,7 @@ const html = `<!DOCTYPE html>
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Why Regular Washing Machine Service Is Important in Dindigul</h2>
+        <h2>Why Regular Washing Machine Service Is Important in Karur</h2>
         <p>Periodic maintenance helps keep your machine running smoothly and avoids sudden breakdowns:</p>
       </div>
 
@@ -761,14 +761,14 @@ const html = `<!DOCTYPE html>
         </div>
         <div class="feature-card">
           <h4>Clears Soap Scum & Hard Water Scale</h4>
-          <p>Dindigul groundwater hard water scale can choke tub holes. Periodic descaling protects heating elements and sensors.</p>
+          <p>Karur groundwater hard water scale can choke tub holes. Periodic descaling protects heating elements and sensors.</p>
         </div>
       </div>
 
       <div style="margin-top: 3rem;">
         <div class="section-header">
           <h2>Signs Your Washing Machine May Need Service</h2>
-          <p>Contact our Dindigul service desk if you notice any of these warning signs:</p>
+          <p>Contact our Karur service desk if you notice any of these warning signs:</p>
         </div>
 
         <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
@@ -799,19 +799,19 @@ const html = `<!DOCTYPE html>
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Common Washing Machine Problems Customers Face in Dindigul</h2>
-        <p>Real-life problem situations commonly reported by Dindigul residents across different settings:</p>
+        <h2>Common Washing Machine Problems Customers Face in Karur</h2>
+        <p>Real-life problem situations commonly reported by Karur residents across different settings:</p>
       </div>
 
       <div class="experiences-grid">
-        <!-- 1. Homemaker in RM Colony -->
+        <!-- 1. Homemaker in Pasupathipalayam -->
         <div class="experience-card">
           <div class="experience-quote">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="#f59e0b"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
             <span>"Spin cycle-la clothes full-ah soak aagi water sottudhu"</span>
           </div>
           <p class="experience-body">
-            "A homemaker near RM Colony noticed that their top load washing machine was completing the wash cycle, but the clothes remained soaking wet. Intha situation-la spin capacitor, drain pump motor, illana lid switch sensor check panna vendiyirukkalam. The technician inspected the machine and explained the required repair clearly."
+            "A homemaker near Pasupathipalayam noticed that their top load washing machine was completing the wash cycle, but the clothes remained soaking wet. Intha situation-la spin capacitor, drain pump motor, illana lid switch sensor check panna vendiyirukkalam. The technician inspected the machine and explained the required repair clearly."
           </p>
         </div>
 
@@ -826,47 +826,47 @@ const html = `<!DOCTYPE html>
           </p>
         </div>
 
-        <!-- 3. Healthcare facility on Palani Road -->
+        <!-- 3. Healthcare facility on Kovai Road -->
         <div class="experience-card">
           <div class="experience-quote">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="#f59e0b"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
             <span>"Heavy vibration and drum knocking sound during high speed spin"</span>
           </div>
           <p class="experience-body">
-            "A healthcare facility on Palani Road noticed excessive shaking and banging noise whenever their washing machine entered the high-speed spin cycle. Worn-out drum shock absorbers and an unlevel floor base were identified during the visit. The technician replaced the shock dampers and balanced the machine to prevent further cabinet damage."
+            "A healthcare facility on Kovai Road noticed excessive shaking and banging noise whenever their washing machine entered the high-speed spin cycle. Worn-out drum shock absorbers and an unlevel floor base were identified during the visit. The technician replaced the shock dampers and balanced the machine to prevent further cabinet damage."
           </p>
         </div>
 
-        <!-- 4. Family in Nagal Nagar -->
+        <!-- 4. Family in Kagithapuramam -->
         <div class="experience-card">
           <div class="experience-quote">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="#f59e0b"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
             <span>"Washing machine-la water drain aagama error code kaatudhu"</span>
           </div>
           <p class="experience-body">
-            "A family home in Nagal Nagar faced an issue where their fully automatic machine showed an E2 error and refused to drain dirty water. Coins and lint hair choked the drain pump filter. The technician opened the bottom drain chamber, removed the blockage, and verified normal drainage flow."
+            "A family home in Kagithapuramam faced an issue where their fully automatic machine showed an E2 error and refused to drain dirty water. Coins and lint hair choked the drain pump filter. The technician opened the bottom drain chamber, removed the blockage, and verified normal drainage flow."
           </p>
         </div>
 
-        <!-- 5. Apartment near Round Road -->
+        <!-- 5. Apartment near Sengunthapuram -->
         <div class="experience-card">
           <div class="experience-quote">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="#f59e0b"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
             <span>"Machine keela continuous-aa water leak aagi balcony nanayudhu"</span>
           </div>
           <p class="experience-body">
-            "An apartment resident near Round Road noticed water leaking continuously from under their front load washing machine during rinse cycles. Inspection showed that the rubber door gasket seal had a small coin cut. The technician explained the seal price and replaced the door bellow to stop water leakage completely."
+            "An apartment resident near Sengunthapuram noticed water leaking continuously from under their front load washing machine during rinse cycles. Inspection showed that the rubber door gasket seal had a small coin cut. The technician explained the seal price and replaced the door bellow to stop water leakage completely."
           </p>
         </div>
 
-        <!-- 6. Student hostel near GTN Salai -->
+        <!-- 6. Student hostel near Kovai Road -->
         <div class="experience-card">
           <div class="experience-quote">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="#f59e0b"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
             <span>"Machine on aagudhu, aana wash pulsator rotate aagala"</span>
           </div>
           <p class="experience-body">
-            "A student hostel warden near GTN Salai contacted us because the semi-automatic washing machine hummed loudly, but the wash pulsator refused to turn with clothes inside. A worn-out motor drive belt and weak capacitor caused the problem. The technician fitted a fresh belt and capacitor after upfront price confirmation."
+            "A student hostel warden near Kovai Road contacted us because the semi-automatic washing machine hummed loudly, but the wash pulsator refused to turn with clothes inside. A worn-out motor drive belt and weak capacitor caused the problem. The technician fitted a fresh belt and capacitor after upfront price confirmation."
           </p>
         </div>
       </div>
@@ -877,7 +877,7 @@ const html = `<!DOCTYPE html>
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Washing Machine Brands We Service in Dindigul</h2>
+        <h2>Washing Machine Brands We Service in Karur</h2>
         <p>Technicians service compatible parts for all major domestic washing machine brands:</p>
       </div>
 
@@ -897,7 +897,7 @@ const html = `<!DOCTYPE html>
       </div>
 
       <div style="background: #ffffff; padding: 1.25rem; border-radius: 8px; font-size: 0.85rem; color: #64748b; text-align: center; max-width: 720px; margin: 0 auto; box-shadow: var(--shadow-sm);">
-        <em>Disclaimer:</em> All brand names and trademarks belong to their respective owners and are mentioned strictly for appliance model compatibility and repair identification. We are an independent local appliance repair service in Dindigul.
+        <em>Disclaimer:</em> All brand names and trademarks belong to their respective owners and are mentioned strictly for appliance model compatibility and repair identification. We are an independent local appliance repair service in Karur.
       </div>
     </div>
   </section>
@@ -906,8 +906,8 @@ const html = `<!DOCTYPE html>
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Washing Machine Repair Coverage Across Dindigul Areas (60 Localities)</h2>
-        <p>Technician visits for front load, top load, and semi-automatic washing machines are available across these Dindigul localities:</p>
+        <h2>Washing Machine Repair Coverage Across Karur areas (60 Localities)</h2>
+        <p>Technician visits for front load, top load, and semi-automatic washing machines are available across these Karur localities:</p>
       </div>
 
       <div class="localities-grid-expanded">
@@ -920,14 +920,14 @@ ${wmLocalitiesHtml}
   <section class="section section-bg-muted" id="faqSection">
     <div class="container">
       <div class="section-header">
-        <h2>Frequently Asked Questions — Washing Machine Repair in Dindigul</h2>
+        <h2>Frequently Asked Questions — Washing Machine Repair in Karur</h2>
         <p>Clear, direct answers to common questions about washing machine repair charges, parts, and doorstep visits:</p>
       </div>
 
       <div class="faq-list">
         <div class="faq-item">
           <button class="faq-question" aria-expanded="false">
-            <span>How much does washing machine repair cost in Dindigul?</span>
+            <span>How much does washing machine repair cost in Karur?</span>
             <span class="faq-icon" aria-hidden="true"></span>
           </button>
           <div class="faq-answer">
@@ -941,7 +941,7 @@ ${wmLocalitiesHtml}
             <span class="faq-icon" aria-hidden="true"></span>
           </button>
           <div class="faq-answer">
-            Doorstep checkup is ₹249. A qualified technician visits your home in Dindigul, inspects the motor, electronic control board, drain system, and water valves, and provides a clear written estimate.
+            Doorstep checkup is ₹249. A qualified technician visits your home in Karur, inspects the motor, electronic control board, drain system, and water valves, and provides a clear written estimate.
           </div>
         </div>
 
@@ -1052,27 +1052,27 @@ ${wmLocalitiesHtml}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Explore Other Appliance Services in Dindigul</h2>
+        <h2>Explore Other Appliance Services in Karur</h2>
         <p>In addition to washing machine repairs, our technicians assist with other major home appliances:</p>
       </div>
 
       <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
-        <a href="ac-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="ac-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.5rem;">AC Repair & Service</h3>
-          <p style="font-size: 0.88rem; color: #475569; margin-bottom: 0.75rem;">Split & window AC doorstep repair, cooling issues, jet wash cleaning, and gas charging across Dindigul.</p>
+          <p style="font-size: 0.88rem; color: #475569; margin-bottom: 0.75rem;">Split & window AC doorstep repair, cooling issues, jet wash cleaning, and gas charging across Karur.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue);">View AC Service →</span>
         </a>
-        <a href="refrigerator-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="refrigerator-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.5rem;">Refrigerator Repair</h3>
           <p style="font-size: 0.88rem; color: #475569; margin-bottom: 0.75rem;">Single door, double door & inverter fridge cooling troubleshooting, compressor repair, and gas filling.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue);">View Fridge Service →</span>
         </a>
-        <a href="tv-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="tv-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.5rem;">TV Repair & Service</h3>
           <p style="font-size: 0.88rem; color: #475569; margin-bottom: 0.75rem;">LED, LCD & Smart TV screen backlighting repair, no sound, power board repair, and motherboard service.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue);">View TV Service →</span>
         </a>
-        <a href="microwave-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="microwave-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.5rem;">Microwave Oven Repair</h3>
           <p style="font-size: 0.88rem; color: #475569; margin-bottom: 0.75rem;">Solo, grill & convection microwave oven not heating, sparking, turntable motor, and keypad touch repair.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue);">View Microwave Service →</span>
@@ -1084,12 +1084,12 @@ ${wmLocalitiesHtml}
   <!-- Final CTA Section -->
   <section class="section" style="background: linear-gradient(135deg, var(--primary-color) 0%, #0f172a 100%); color: #ffffff; text-align: center; padding: 3.5rem 1rem;">
     <div class="container" style="max-width: 720px;">
-      <h2 style="color: #ffffff; font-size: 2rem; margin-bottom: 1rem;">Book Doorstep Washing Machine Service in Dindigul</h2>
+      <h2 style="color: #ffffff; font-size: 2rem; margin-bottom: 1rem;">Book Doorstep Washing Machine Service in Karur</h2>
       <p style="color: #cbd5e1; font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
-        Get your washing machine checked by a local technician in Dindigul. Upfront price estimates, genuine parts, and reliable service at your doorstep.
+        Get your washing machine checked by a local technician in Karur. Upfront price estimates, genuine parts, and reliable service at your doorstep.
       </p>
       <div class="final-cta-buttons">
-        <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Dindigul.%20Please%20share%20technician%20visit%20details." class="btn-whatsapp-cta sync-whatsapp" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Karur.%20Please%20share%20technician%20visit%20details." class="btn-whatsapp-cta sync-whatsapp" target="_blank" rel="noopener noreferrer">
           <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 15 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M9.11 7.03C8.95 7.03 8.7 7.09 8.5 7.33C8.28 7.57 7.69 8.12 7.69 9.23C7.69 10.34 8.5 11.41 8.62 11.57C8.73 11.72 10.24 14.05 12.56 15.05C14.5 15.88 14.89 15.71 15.31 15.67C15.73 15.63 16.68 15.11 16.88 14.56C17.07 14 17.07 13.53 17.01 13.43C16.95 13.33 16.8 13.27 16.57 13.16C16.35 13.05 15.26 12.51 15.05 12.44C14.85 12.36 14.71 12.32 14.56 12.54C14.41 12.77 14 13.27 13.86 13.43C13.73 13.58 13.6 13.6 13.38 13.49C13.15 13.38 12.43 13.14 11.58 12.38C10.92 11.79 10.47 11.06 10.34 10.84C10.22 10.62 10.33 10.5 10.44 10.39C10.55 10.28 10.68 10.11 10.8 9.97C10.92 9.83 10.95 9.72 11.03 9.57C11.11 9.42 11.07 9.29 11.01 9.17C10.95 9.06 10.5 7.95 10.31 7.5C10.13 7.06 9.94 7.12 9.8 7.11C9.66 7.11 9.5 7.1 9.35 7.1L9.11 7.03Z"/></svg>
           <span>Chat on WhatsApp</span>
         </a>
@@ -1113,23 +1113,23 @@ ${wmLocalitiesHtml}
               </svg>
             </div>
             <div class="brand-title">
-              <span class="brand-name">Service Center Dindigul</span>
+              <span class="brand-name">Service Center Karur</span>
               <span class="brand-loc">Local Appliance Care</span>
             </div>
           </div>
           <p class="footer-desc">
-            Independent local doorstep appliance repair service in Dindigul, Tamil Nadu. Fast technician inspection for washing machines, air conditioners, refrigerators, LED TVs, and microwaves.
+            Independent local doorstep appliance repair service in Karur, Tamil Nadu. Fast technician inspection for washing machines, air conditioners, refrigerators, LED TVs, and microwaves.
           </p>
         </div>
 
         <div class="footer-col">
           <h4 class="footer-heading">Appliance Services</h4>
           <ul class="footer-links">
-            <li><a href="ac-repair-service-in-dindigul.html">AC Repair Service</a></li>
-            <li><a href="refrigerator-repair-service-in-dindigul.html">Refrigerator Repair Service</a></li>
-            <li><a href="washing-machine-repair-service-in-dindigul.html">Washing Machine Repair</a></li>
-            <li><a href="tv-repair-service-in-dindigul.html">TV Repair Service</a></li>
-            <li><a href="microwave-repair-service-in-dindigul.html">Microwave Oven Repair</a></li>
+            <li><a href="ac-repair-service-in-karur.html">AC Repair Service</a></li>
+            <li><a href="refrigerator-repair-service-in-karur.html">Refrigerator Repair Service</a></li>
+            <li><a href="washing-machine-repair-service-in-karur.html">Washing Machine Repair</a></li>
+            <li><a href="tv-repair-service-in-karur.html">TV Repair Service</a></li>
+            <li><a href="microwave-repair-service-in-karur.html">Microwave Oven Repair</a></li>
           </ul>
         </div>
 
@@ -1138,15 +1138,15 @@ ${wmLocalitiesHtml}
           <ul class="footer-links">
             <li><a href="#pricingSection">Washing Machine Pricing</a></li>
             <li><a href="#faqSection">Washing Machine FAQs</a></li>
-            <li><a href="index.html">All Service Areas in Dindigul</a></li>
-            <li><a href="tel:+919442054321">Call Dindigul Desk: 94420 54321</a></li>
+            <li><a href="index.html">All Service Areas in Karur</a></li>
+            <li><a href="tel:+919442054321">Call Karur Desk: 94420 54321</a></li>
           </ul>
         </div>
 
         <div class="footer-col">
           <h4 class="footer-heading">Service Hub</h4>
           <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.6; margin-bottom: 0.75rem;">
-            📍 Main Road, Nagal Nagar & RM Colony, Dindigul, Tamil Nadu 624001
+            📍 Main Road, Kagithapuramam & Pasupathipalayam, Karur, Tamil Nadu 639001
           </p>
           <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.6;">
             📞 <a href="tel:+919442054321" class="sync-call" style="color: #cbd5e1; text-decoration: none;">+91 94420 54321</a>
@@ -1160,7 +1160,7 @@ ${wmLocalitiesHtml}
       </div>
 
       <div class="footer-copy">
-        <div>© 2026 servicecenterdindigul.com — Local Home Appliance Repair in Dindigul.</div>
+        <div>© 2026 servicecenterkarur.com — Local Home Appliance Repair in Karur.</div>
         <div>All rights reserved.</div>
       </div>
     </div>
@@ -1168,7 +1168,7 @@ ${wmLocalitiesHtml}
 
   <!-- Viewport Floating CTA (Fixed at ~55vh from page load - Left: WhatsApp, Right: Call Now) -->
   <div class="scroll-floating-cta" id="scrollFloatingCTA">
-    <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Dindigul.%20Please%20share%20technician%20visit%20details." class="floating-left-whatsapp sync-whatsapp" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp">
+    <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Karur.%20Please%20share%20technician%20visit%20details." class="floating-left-whatsapp sync-whatsapp" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 15 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M9.11 7.03C8.95 7.03 8.7 7.09 8.5 7.33C8.28 7.57 7.69 8.12 7.69 9.23C7.69 10.34 8.5 11.41 8.62 11.57C8.73 11.72 10.24 14.05 12.56 15.05C14.5 15.88 14.89 15.71 15.31 15.67C15.73 15.63 16.68 15.11 16.88 14.56C17.07 14 17.07 13.53 17.01 13.43C16.95 13.33 16.8 13.27 16.57 13.16C16.35 13.05 15.26 12.51 15.05 12.44C14.85 12.36 14.71 12.32 14.56 12.54C14.41 12.77 14 13.27 13.86 13.43C13.73 13.58 13.6 13.6 13.38 13.49C13.15 13.38 12.43 13.14 11.58 12.38C10.92 11.79 10.47 11.06 10.34 10.84C10.22 10.62 10.33 10.5 10.44 10.39C10.55 10.28 10.68 10.11 10.8 9.97C10.92 9.83 10.95 9.72 11.03 9.57C11.11 9.42 11.07 9.29 11.01 9.17C10.95 9.06 10.5 7.95 10.31 7.5C10.13 7.06 9.94 7.12 9.8 7.11C9.66 7.11 9.5 7.1 9.35 7.1L9.11 7.03Z"/></svg>
       <span>WhatsApp</span>
     </a>
@@ -1180,7 +1180,7 @@ ${wmLocalitiesHtml}
 
   <!-- Mobile Fixed Bottom Bar (Rule 1: LEFT = WhatsApp | RIGHT = Call Now) -->
   <div class="mobile-bottom-bar">
-    <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Dindigul.%20Please%20share%20technician%20visit%20details." class="bottom-bar-btn bottom-bar-whatsapp sync-whatsapp" target="_blank" rel="noopener noreferrer">
+    <a href="https://wa.me/919442054321?text=Hello%2C%20I%20need%20washing%20machine%20repair%20service%20in%20Karur.%20Please%20share%20technician%20visit%20details." class="bottom-bar-btn bottom-bar-whatsapp sync-whatsapp" target="_blank" rel="noopener noreferrer">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 15 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M9.11 7.03C8.95 7.03 8.7 7.09 8.5 7.33C8.28 7.57 7.69 8.12 7.69 9.23C7.69 10.34 8.5 11.41 8.62 11.57C8.73 11.72 10.24 14.05 12.56 15.05C14.5 15.88 14.89 15.71 15.31 15.67C15.73 15.63 16.68 15.11 16.88 14.56C17.07 14 17.07 13.53 17.01 13.43C16.95 13.33 16.8 13.27 16.57 13.16C16.35 13.05 15.26 12.51 15.05 12.44C14.85 12.36 14.71 12.32 14.56 12.54C14.41 12.77 14 13.27 13.86 13.43C13.73 13.58 13.6 13.6 13.38 13.49C13.15 13.38 12.43 13.14 11.58 12.38C10.92 11.79 10.47 11.06 10.34 10.84C10.22 10.62 10.33 10.5 10.44 10.39C10.55 10.28 10.68 10.11 10.8 9.97C10.92 9.83 10.95 9.72 11.03 9.57C11.11 9.42 11.07 9.29 11.01 9.17C10.95 9.06 10.5 7.95 10.31 7.5C10.13 7.06 9.94 7.12 9.8 7.11C9.66 7.11 9.5 7.1 9.35 7.1L9.11 7.03Z"/></svg>
       <span>WhatsApp</span>
     </a>
@@ -1196,6 +1196,6 @@ ${wmLocalitiesHtml}
 </html>
 `;
 
-const targetPath = path.join(__dirname, '..', 'washing-machine-repair-service-in-dindigul.html');
+const targetPath = path.join(__dirname, '..', 'washing-machine-repair-service-in-karur.html');
 fs.writeFileSync(targetPath, html, 'utf8');
-console.log("Successfully built and saved washing-machine-repair-service-in-dindigul.html");
+console.log("Successfully built and saved washing-machine-repair-service-in-karur.html");

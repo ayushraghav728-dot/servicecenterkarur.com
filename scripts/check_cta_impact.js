@@ -8,7 +8,7 @@ async function checkBottomBarImpact() {
     '--headless=new',
     '--disable-gpu',
     `--remote-debugging-port=${PORT}`,
-    '--user-data-dir=d:/servicecenterdindigul.com/temp_browser_profile2'
+    '--user-data-dir=d:/servicecenterkarur.com/temp_browser_profile2'
   ], { stdio: 'ignore' });
 
   for (let i = 0; i < 20; i++) {
@@ -19,7 +19,7 @@ async function checkBottomBarImpact() {
     } catch (e) {}
   }
 
-  const tabRes = await fetch(`http://localhost:${PORT}/json/new?http://localhost:3000/fridge/refrigerator-repair-service-in-dindigul.html`, { method: 'PUT' });
+  const tabRes = await fetch(`http://localhost:${PORT}/json/new?http://localhost:3000/fridge/refrigerator-repair-service-in-karur.html`, { method: 'PUT' });
   const tab = await tabRes.json();
   const ws = new WebSocket(tab.webSocketDebuggerUrl);
 
@@ -50,7 +50,7 @@ async function checkBottomBarImpact() {
     mobile: true
   });
 
-  await sendCommand('Page.navigate', { url: 'http://localhost:3000/fridge/refrigerator-repair-service-in-dindigul.html' });
+  await sendCommand('Page.navigate', { url: 'http://localhost:3000/fridge/refrigerator-repair-service-in-karur.html' });
   await new Promise(r => setTimeout(r, 600));
 
   // 1. Measure with Bottom Bar and Floating CTA enabled

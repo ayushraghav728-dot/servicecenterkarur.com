@@ -81,15 +81,15 @@ console.log(`4b. File service-center/index.html exists on disk: ${oldIndexExists
 if (oldIndexExists) errors.push('service-center/index.html still exists on disk!');
 
 // 5. Renamed Main Service Center Page Verification
-const newMainPage = path.join(rootDir, 'service-center', 'home-appliance-service-center-dindigul.html');
+const newMainPage = path.join(rootDir, 'service-center', 'home-appliance-service-center-karur.html');
 const newMainExists = fs.existsSync(newMainPage);
-console.log(`5. File service-center/home-appliance-service-center-dindigul.html exists: ${newMainExists}`);
+console.log(`5. File service-center/home-appliance-service-center-karur.html exists: ${newMainExists}`);
 if (newMainExists) {
   const c = fs.readFileSync(newMainPage, 'utf8');
-  const hasCanonical = c.includes('<link rel="canonical" href="https://servicecenterdindigul.com/service-center/home-appliance-service-center-dindigul.html">');
-  const hasTitle = c.includes('<title>Home Appliance Service Center Dindigul | Multi-Brand Appliance Repair</title>');
-  const hasH1 = c.includes('<h1 class="brand-h1">Home Appliance Service Center in Dindigul</h1>');
-  const hasBreadcrumb = c.includes('<li aria-current="page">Home Appliance Service Center Dindigul</li>');
+  const hasCanonical = c.includes('<link rel="canonical" href="https://servicecenterkarur.com/service-center/home-appliance-service-center-karur.html">');
+  const hasTitle = c.includes('<title>Home Appliance Service Center Karur | Multi-Brand Appliance Repair</title>');
+  const hasH1 = c.includes('<h1 class="brand-h1">Home Appliance Service Center in Karur</h1>');
+  const hasBreadcrumb = c.includes('<li aria-current="page">Home Appliance Service Center Karur</li>');
   console.log(`   - Canonical updated: ${hasCanonical}`);
   console.log(`   - Title updated: ${hasTitle}`);
   console.log(`   - H1 updated: ${hasH1}`);
@@ -105,7 +105,7 @@ if (newMainExists) {
 let navPassed = 0;
 allHtml.forEach(f => {
   const c = fs.readFileSync(f, 'utf8');
-  const hasScLink = c.includes('/service-center/home-appliance-service-center-dindigul.html');
+  const hasScLink = c.includes('/service-center/home-appliance-service-center-karur.html');
   const hasSitemapLink = c.includes('/sitemap.html');
   const hasDesktopSpan = c.includes('nav-desktop-text');
   const hasMobileSpan = c.includes('nav-mobile-text');
@@ -131,7 +131,7 @@ console.log(`7. Footer Sitemap Link: ${footerSitemapCount} / ${allHtml.length} p
 
 // 8. Official Brand Manufacturer Contacts Check
 // Verify sample official brands have their toll-free numbers intact
-const samsungFile = path.join(rootDir, 'service-center', 'samsung-service-center-dindigul.html');
+const samsungFile = path.join(rootDir, 'service-center', 'samsung-service-center-karur.html');
 if (fs.existsSync(samsungFile)) {
   const sc = fs.readFileSync(samsungFile, 'utf8');
   const hasOfficialSamsung = sc.includes('1800 40 7267864') || sc.includes('1800-40-7267864') || sc.includes('1800 5 7267864');

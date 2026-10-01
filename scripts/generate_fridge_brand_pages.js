@@ -1,4 +1,4 @@
-// Comprehensive Generator Script for 24 Dindigul Refrigerator Brand Pages
+// Comprehensive Generator Script for 24 Karur Refrigerator Brand Pages
 // Enhanced with 100% Mobile Responsive Layout Engine
 const fs = require('fs');
 const path = require('path');
@@ -26,14 +26,14 @@ function escapeHtml(str) {
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-// Generate Locality Cards (Authentic Dindigul localities)
+// Generate Locality Cards (Authentic Karur localities)
 function generateLocalityCards(brandName) {
   return localities.map((loc, idx) => {
     let serviceTitle, descText;
     const mod = idx % 5;
     if (mod === 0) {
       serviceTitle = `${brandName} Refrigerator Repair in ${loc.title}`;
-      descText = `Doorstep ${brandName} single door, double door, and inverter fridge inspection across ${loc.title}, Dindigul.`;
+      descText = `Doorstep ${brandName} single door, double door, and inverter fridge inspection across ${loc.title}, Karur.`;
     } else if (mod === 1) {
       serviceTitle = `${brandName} Fridge Cooling Service in ${loc.title}`;
       descText = `Technician visit for cooling failure, ice buildup, and starter relay replacement for ${brandName} fridges in ${loc.title}.`;
@@ -42,7 +42,7 @@ function generateLocalityCards(brandName) {
       descText = `Local technician doorstep diagnosis for ${brandName} compressor clicking, fan motor, and thermostat problems in ${loc.title}.`;
     } else if (mod === 3) {
       serviceTitle = `${brandName} Inverter Fridge Service in ${loc.title}`;
-      descText = `Doorstep check for ${brandName} inverter PCB, temperature sensors, and defrost drainage around ${loc.title}, Dindigul.`;
+      descText = `Doorstep check for ${brandName} inverter PCB, temperature sensors, and defrost drainage around ${loc.title}, Karur.`;
     } else {
       serviceTitle = `${brandName} Refrigerator Technician in ${loc.title}`;
       descText = `Reliable home visits for ${brandName} sealed line gas recharging, door gasket fitting, and water leak fixes in ${loc.title}.`;
@@ -64,12 +64,12 @@ function generateBrandNavGrid(currentSlug) {
       return `        <div class="service-card" style="border: 2px solid var(--accent-blue); background: rgba(30, 58, 138, 0.04); padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--accent-blue); margin-bottom: 0.35rem;">${escapeHtml(b.name)} Fridge Repair</h3>
           <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Current Service Page</p>
-          <span style="font-size: 0.82rem; font-weight: 700; color: var(--primary-color);">Dindigul Doorstep Service ✓</span>
+          <span style="font-size: 0.82rem; font-weight: 700; color: var(--primary-color);">Karur Doorstep Service ✓</span>
         </div>`;
     }
     return `        <a href="${b.slug}" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">${escapeHtml(b.name)} Fridge Repair</h3>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${escapeHtml(b.name)} refrigerator repair across Dindigul.</p>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${escapeHtml(b.name)} refrigerator repair across Karur.</p>
           <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent-blue); margin-top: auto;">View Service →</span>
         </a>`;
   }).join('\n');
@@ -78,8 +78,8 @@ function generateBrandNavGrid(currentSlug) {
 // Generate Brand Page HTML
 function generateBrandPageHtml(brand) {
   const currentSlug = brand.slug;
-  const canonicalUrl = `https://servicecenterdindigul.com/fridge/${currentSlug}`;
-  const whatsappUrl = `https://wa.me/919442054321?text=Hello%2C%20I%20need%20${encodeURIComponent(brand.name)}%20refrigerator%20repair%20service%20in%20Dindigul.%20Please%20share%20technician%20visit%20details.`;
+  const canonicalUrl = `https://servicecenterkarur.com/fridge/${currentSlug}`;
+  const whatsappUrl = `https://wa.me/919442054321?text=Hello%2C%20I%20need%20${encodeURIComponent(brand.name)}%20refrigerator%20repair%20service%20in%20Karur.%20Please%20share%20technician%20visit%20details.`;
 
   const pricing = pricingData[brand.name] || pricingData['Samsung'];
   const parts = getBrandParts(brand.name);
@@ -207,25 +207,25 @@ function generateBrandPageHtml(brand) {
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "${escapeHtml(brand.name)} Refrigerator Repair & Service in Dindigul",
+    "name": "${escapeHtml(brand.name)} Refrigerator Repair & Service in Karur",
     "serviceType": "Refrigerator Repair Service",
     "url": "${canonicalUrl}",
     "provider": {
       "@type": "HomeAndConstructionBusiness",
-      "name": "Service Center Dindigul",
+      "name": "Service Center Karur",
       "telephone": "+919442054321",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Road, Near Nagal Nagar & RM Colony",
-        "addressLocality": "Dindigul",
+        "streetAddress": "Jawahar Bazaar, Kovai Road, Near Bus Stand",
+        "addressLocality": "Karur",
         "addressRegion": "Tamil Nadu",
-        "postalCode": "624001",
+        "postalCode": "639001",
         "addressCountry": "IN"
       }
     },
     "areaServed": {
       "@type": "City",
-      "name": "Dindigul"
+      "name": "Karur"
     },
     "description": "${escapeHtml(brand.metaDesc)}"
   }
@@ -236,7 +236,7 @@ function generateBrandPageHtml(brand) {
   <!-- Top Information Bar -->
   <div class="top-bar">
     <div class="container top-bar-inner">
-      <span>📍 Doorstep Refrigerator Repair in Dindigul, Tamil Nadu</span>
+      <span>📍 Doorstep Refrigerator Repair in Karur, Tamil Nadu</span>
       <span>⏰ Mon–Sun: 8:00 AM – 8:00 PM | Fast Technician Visit</span>
       <a href="tel:+919442054321">📞 Call Support: +91 94420 54321</a>
     </div>
@@ -245,14 +245,14 @@ function generateBrandPageHtml(brand) {
   <!-- Site Header -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="../index.html" class="brand-logo" title="Service Center Dindigul Homepage">
+      <a href="../index.html" class="brand-logo" title="Service Center Karur Homepage">
         <div class="brand-icon">
           <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
           </svg>
         </div>
         <div class="brand-title">
-          <span class="brand-name">Service Center Dindigul</span>
+          <span class="brand-name">Service Center Karur</span>
           <span class="brand-loc">Local Appliance Care</span>
         </div>
       </a>
@@ -260,10 +260,10 @@ function generateBrandPageHtml(brand) {
       <!-- Desktop Nav -->
       <nav class="main-nav" id="mainNav" aria-label="Main Navigation">
         <a href="../index.html">Home</a>
-        <a href="../ac/ac-repair-service-in-dindigul.html">AC Repair</a>
-        <a href="refrigerator-repair-service-in-dindigul.html" class="active">Fridge Repair</a>
-        <a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine</a>
-        <a href="../tv/tv-repair-service-in-dindigul.html">TV Repair</a>
+        <a href="../ac/ac-repair-service-in-karur.html">AC Repair</a>
+        <a href="refrigerator-repair-service-in-karur.html" class="active">Fridge Repair</a>
+        <a href="../washing-machine/washing-machine-repair-service-in-karur.html">Washing Machine</a>
+        <a href="../tv/tv-repair-service-in-karur.html">TV Repair</a>
       </nav>
 
       <div class="header-actions">
@@ -286,7 +286,7 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <ol>
         <li><a href="../index.html">Home</a></li>
-        <li><a href="refrigerator-repair-service-in-dindigul.html">Fridge Repair</a></li>
+        <li><a href="refrigerator-repair-service-in-karur.html">Fridge Repair</a></li>
         <li aria-current="page">${escapeHtml(brand.name)} Refrigerator Repair</li>
       </ol>
     </div>
@@ -298,7 +298,7 @@ function generateBrandPageHtml(brand) {
       <div class="hero-content">
         <div class="hero-badge">
           <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-          <span>Doorstep ${escapeHtml(brand.name)} Refrigerator Service in Dindigul</span>
+          <span>Doorstep ${escapeHtml(brand.name)} Refrigerator Service in Karur</span>
         </div>
         <h1 class="brand-h1">${escapeHtml(brand.h1)}</h1>
         <p class="hero-copy">
@@ -309,7 +309,7 @@ function generateBrandPageHtml(brand) {
         <div class="tanglish-intro-box">
           <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2z"/></svg>
           <div>
-            <strong>Dindigul Customer Support:</strong><br>
+            <strong>Karur Customer Support:</strong><br>
             ${escapeHtml(brand.tanglishIntroBox)}
           </div>
         </div>
@@ -329,7 +329,7 @@ function generateBrandPageHtml(brand) {
       <!-- Quick Request Card -->
       <div class="hero-card-box">
         <h2>Schedule ${escapeHtml(brand.name)} Inspection</h2>
-        <p>Doorstep checking across Dindigul for ${escapeHtml(brand.name)} refrigerators.</p>
+        <p>Doorstep checking across Karur for ${escapeHtml(brand.name)} refrigerators.</p>
         <div style="display: flex; flex-direction: column; gap: 0.85rem; margin: 1.25rem 0;">
           <div style="display: flex; align-items: center; gap: 0.65rem; font-size: 0.92rem; color: var(--text-color);">
             <span style="color: var(--accent-blue); font-size: 1.1rem; font-weight: bold;">✓</span> Doorstep inspection at your convenient slot
@@ -356,7 +356,7 @@ function generateBrandPageHtml(brand) {
   <section class="section" style="background: #f8fafc;">
     <div class="container">
       <div class="section-header">
-        <h2>Looking for ${escapeHtml(brand.name)} Refrigerator Repair in Dindigul?</h2>
+        <h2>Looking for ${escapeHtml(brand.name)} Refrigerator Repair in Karur?</h2>
         <p>Reliable troubleshooting, component testing, and doorstep repair guidance for ${escapeHtml(brand.name)} refrigerators.</p>
       </div>
       <div style="max-width: 860px; margin: 0 auto; background: #fff; border: 1px solid var(--border-color); border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.04); font-size: 0.96rem; line-height: 1.7; color: var(--text-color); box-sizing: border-box;">
@@ -375,7 +375,7 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <div class="section-header">
         <h2>${escapeHtml(brand.name)} Refrigerator Types We Repair</h2>
-        <p>Doorstep inspection and component replacement across ${escapeHtml(brand.name)} refrigerator configurations in Dindigul.</p>
+        <p>Doorstep inspection and component replacement across ${escapeHtml(brand.name)} refrigerator configurations in Karur.</p>
       </div>
 
       <div class="fridge-types-grid">
@@ -389,7 +389,7 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <div class="section-header">
         <h2>Common ${escapeHtml(brand.name)} Refrigerator Problems We Check</h2>
-        <p>Systematic diagnosis and doorstep repair for frequent cooling and electrical complaints in Dindigul homes.</p>
+        <p>Systematic diagnosis and doorstep repair for frequent cooling and electrical complaints in Karur homes.</p>
       </div>
 
       <div class="fridge-problems-grid">
@@ -403,7 +403,7 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <div class="section-header">
         <h2>${escapeHtml(brand.name)} Refrigerator Parts We Check or Replace</h2>
-        <p>Simple explanations of essential components tested during our doorstep service visits in Dindigul.</p>
+        <p>Simple explanations of essential components tested during our doorstep service visits in Karur.</p>
       </div>
 
       <div class="fridge-parts-grid">
@@ -416,8 +416,8 @@ function generateBrandPageHtml(brand) {
   <section class="section section-muted">
     <div class="container">
       <div class="section-header">
-        <h2>${escapeHtml(brand.name)} Refrigerator Parts Price in Dindigul</h2>
-        <p>Indicative market price ranges for common replacement components in Dindigul.</p>
+        <h2>${escapeHtml(brand.name)} Refrigerator Parts Price in Karur</h2>
+        <p>Indicative market price ranges for common replacement components in Karur.</p>
       </div>
 
       <div style="background: rgba(30, 58, 138, 0.05); border-left: 4px solid var(--accent-blue); padding: 1rem 1.25rem; border-radius: 6px; margin-bottom: 1.5rem; font-size: 0.94rem; color: var(--primary-color); line-height: 1.6; box-sizing: border-box;">
@@ -442,7 +442,7 @@ function generateBrandPageHtml(brand) {
       </div>
 
       <div style="background: #fff; border: 1px solid var(--border-color); border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.04); box-sizing: border-box;">
-        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">How Much Does ${escapeHtml(brand.name)} Refrigerator Repair Cost in Dindigul?</h3>
+        <h3 style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">How Much Does ${escapeHtml(brand.name)} Refrigerator Repair Cost in Karur?</h3>
         <p style="font-size: 0.94rem; line-height: 1.65; color: var(--text-color); margin-bottom: 0.75rem;">
           ${escapeHtml(pricing.costFactorsText)}
         </p>
@@ -457,21 +457,21 @@ function generateBrandPageHtml(brand) {
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>How ${escapeHtml(brand.name)} Refrigerator Repair Works in Dindigul</h2>
-        <p>Simple 6-step service process for doorstep appliance repair across Dindigul.</p>
+        <h2>How ${escapeHtml(brand.name)} Refrigerator Repair Works in Karur</h2>
+        <p>Simple 6-step service process for doorstep appliance repair across Karur.</p>
       </div>
 
       <div class="fridge-process-grid">
         <div class="process-card" style="background: #fff; border: 1px solid var(--border-color); border-radius: 8px; padding: 1.25rem; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
           <div style="font-size: 1.25rem; font-weight: 800; color: var(--accent-blue); margin-bottom: 0.35rem;">Step 1</div>
           <h4 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">Customer Calls or Messages</h4>
-          <p style="font-size: 0.88rem; color: var(--text-color); line-height: 1.5; margin: 0;">Share your ${escapeHtml(brand.name)} fridge model, problem details, and Dindigul address via phone or WhatsApp.</p>
+          <p style="font-size: 0.88rem; color: var(--text-color); line-height: 1.5; margin: 0;">Share your ${escapeHtml(brand.name)} fridge model, problem details, and Karur address via phone or WhatsApp.</p>
         </div>
 
         <div class="process-card" style="background: #fff; border: 1px solid var(--border-color); border-radius: 8px; padding: 1.25rem; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
           <div style="font-size: 1.25rem; font-weight: 800; color: var(--accent-blue); margin-bottom: 0.35rem;">Step 2</div>
           <h4 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">Technician Visits Location</h4>
-          <p style="font-size: 0.88rem; color: var(--text-color); line-height: 1.5; margin: 0;">Our local technician arrives at your Dindigul residence with testing multimeters and replacement spares.</p>
+          <p style="font-size: 0.88rem; color: var(--text-color); line-height: 1.5; margin: 0;">Our local technician arrives at your Karur residence with testing multimeters and replacement spares.</p>
         </div>
 
         <div class="process-card" style="background: #fff; border: 1px solid var(--border-color); border-radius: 8px; padding: 1.25rem; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
@@ -527,8 +527,8 @@ function generateBrandPageHtml(brand) {
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Recent ${escapeHtml(brand.name)} Refrigerator Repair Experiences in Dindigul</h2>
-        <p>Illustrative examples of common refrigerator repair situations across Dindigul households.</p>
+        <h2>Recent ${escapeHtml(brand.name)} Refrigerator Repair Experiences in Karur</h2>
+        <p>Illustrative examples of common refrigerator repair situations across Karur households.</p>
       </div>
 
       <div class="experiences-grid">
@@ -541,7 +541,7 @@ function generateBrandPageHtml(brand) {
   <section class="section section-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Why Choose Us for ${escapeHtml(brand.name)} Refrigerator Repair in Dindigul</h2>
+        <h2>Why Choose Us for ${escapeHtml(brand.name)} Refrigerator Repair in Karur</h2>
         <p>Trusted doorstep appliance repair service with local technicians and transparent pricing.</p>
       </div>
 
@@ -551,12 +551,12 @@ function generateBrandPageHtml(brand) {
     </div>
   </section>
 
-  <!-- Dindigul Local SEO Grid -->
+  <!-- Karur Local SEO Grid -->
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>${escapeHtml(brand.name)} Refrigerator Repair Near Me in Dindigul</h2>
-        <p>Doorstep technician visits available across residential colonies and town centers in Dindigul.</p>
+        <h2>${escapeHtml(brand.name)} Refrigerator Repair Near Me in Karur</h2>
+        <p>Doorstep technician visits available across residential colonies and town centers in Karur.</p>
       </div>
 
       <div class="localities-grid-expanded">
@@ -569,7 +569,7 @@ function generateBrandPageHtml(brand) {
   <section class="section section-muted" id="faqSection">
     <div class="container">
       <div class="section-header">
-        <h2>Frequently Asked Questions — ${escapeHtml(brand.name)} Refrigerator Repair in Dindigul</h2>
+        <h2>Frequently Asked Questions — ${escapeHtml(brand.name)} Refrigerator Repair in Karur</h2>
         <p>Clear answers to common questions about ${escapeHtml(brand.name)} fridge repairs and service visits.</p>
       </div>
 
@@ -583,7 +583,7 @@ function generateBrandPageHtml(brand) {
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Refrigerator Brands We Repair in Dindigul</h2>
+        <h2>Refrigerator Brands We Repair in Karur</h2>
         <p>Doorstep component checking and repair support across all 24 approved refrigerator brands:</p>
       </div>
 
@@ -597,32 +597,32 @@ function generateBrandPageHtml(brand) {
   <section class="section section-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Other Home Appliance Repair Services in Dindigul</h2>
-        <p>Complete doorstep repair solutions across all essential home appliances in Dindigul.</p>
+        <h2>Other Home Appliance Repair Services in Karur</h2>
+        <p>Complete doorstep repair solutions across all essential home appliances in Karur.</p>
       </div>
 
       <div class="fridge-other-services-grid">
-        <a href="../ac/ac-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="../ac/ac-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.4rem;">AC Repair Service</h3>
-          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">Split & window AC service, gas charging, coil leak repair, and PCB fixes in Dindigul.</p>
+          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">Split & window AC service, gas charging, coil leak repair, and PCB fixes in Karur.</p>
           <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-blue);">View AC Service →</span>
         </a>
 
-        <a href="refrigerator-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="refrigerator-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.4rem;">Main Fridge Repair</h3>
-          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">Single door, double door, inverter & side-by-side refrigerator repair across Dindigul.</p>
+          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">Single door, double door, inverter & side-by-side refrigerator repair across Karur.</p>
           <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-blue);">View All Fridge Services →</span>
         </a>
 
-        <a href="../washing-machine/washing-machine-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="../washing-machine/washing-machine-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.4rem;">Washing Machine Repair</h3>
-          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">Front load, top load, semi-automatic motor, drum, inlet valve, and PCB repair in Dindigul.</p>
+          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">Front load, top load, semi-automatic motor, drum, inlet valve, and PCB repair in Karur.</p>
           <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-blue);">View Washing Machine Service →</span>
         </a>
 
-        <a href="../tv/tv-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
+        <a href="../tv/tv-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.5rem;">
           <h3 style="color: var(--primary-color); font-size: 1.15rem; margin-bottom: 0.4rem;">TV Repair Service</h3>
-          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">LED, Smart TV, 4K display, backlight replacement, power board, and audio repair in Dindigul.</p>
+          <p style="font-size: 0.9rem; color: var(--text-color); margin-bottom: 0.75rem;">LED, Smart TV, 4K display, backlight replacement, power board, and audio repair in Karur.</p>
           <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-blue);">View TV Service →</span>
         </a>
       </div>
@@ -632,8 +632,8 @@ function generateBrandPageHtml(brand) {
   <!-- CTA Banner Section -->
   <section class="cta-banner-section">
     <div class="container cta-banner-inner">
-      <h2>Need ${escapeHtml(brand.name)} Refrigerator Repair in Dindigul?</h2>
-      <p>Contact our local Dindigul technician coordination desk. On-site inspection, clear upfront estimate, and verified repair service across Dindigul.</p>
+      <h2>Need ${escapeHtml(brand.name)} Refrigerator Repair in Karur?</h2>
+      <p>Contact our local Karur technician coordination desk. On-site inspection, clear upfront estimate, and verified repair service across Karur.</p>
       <div class="cta-banner-actions">
         <a href="tel:+919442054321" class="btn-primary-call sync-call">
           <svg viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
@@ -652,13 +652,13 @@ function generateBrandPageHtml(brand) {
     <div class="container">
       <div class="footer-grid">
         <div class="footer-col">
-          <h4>Service Center Dindigul</h4>
+          <h4>Service Center Karur</h4>
           <p>
-            Local doorstep repair and inspection service for home appliances across Dindigul, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
+            Local doorstep repair and inspection service for home appliances across Karur, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
           </p>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-            <span>Main Road, Nagal Nagar & RM Colony, Dindigul, Tamil Nadu 624001</span>
+            <span>Main Road, Kagithapuramam & Pasupathipalayam, Karur, Tamil Nadu 639001</span>
           </div>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
@@ -669,21 +669,21 @@ function generateBrandPageHtml(brand) {
         <div class="footer-col">
           <h4>Repair Services</h4>
           <ul class="footer-links">
-            <li><a href="../ac/ac-repair-service-in-dindigul.html">AC Repair & Service</a></li>
-            <li><a href="refrigerator-repair-service-in-dindigul.html">Refrigerator / Fridge Repair</a></li>
-            <li><a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine Repair</a></li>
-            <li><a href="../tv/tv-repair-service-in-dindigul.html">TV Repair & Service</a></li>
+            <li><a href="../ac/ac-repair-service-in-karur.html">AC Repair & Service</a></li>
+            <li><a href="refrigerator-repair-service-in-karur.html">Refrigerator / Fridge Repair</a></li>
+            <li><a href="../washing-machine/washing-machine-repair-service-in-karur.html">Washing Machine Repair</a></li>
+            <li><a href="../tv/tv-repair-service-in-karur.html">TV Repair & Service</a></li>
           </ul>
         </div>
 
         <div class="footer-col">
-          <h4>Dindigul Coverage</h4>
+          <h4>Karur Coverage</h4>
           <ul class="footer-links">
-            <li><a href="../index.html#localitiesSection">Nagal Nagar & RM Colony</a></li>
-            <li><a href="../index.html#localitiesSection">Begampur & Town Center</a></li>
-            <li><a href="../index.html#localitiesSection">Seelapadi & Balakrishnapuram</a></li>
-            <li><a href="../index.html#localitiesSection">Palani Road & Adiyanuthu</a></li>
-            <li><a href="../index.html#localitiesSection">Batlagundu, Natham & Oddanchatram</a></li>
+            <li><a href="../index.html#localitiesSection">Kagithapuramam & Pasupathipalayam</a></li>
+            <li><a href="../index.html#localitiesSection">Thanthonimalai & Town Center</a></li>
+            <li><a href="../index.html#localitiesSection">Vengamedu & Inam Karur</a></li>
+            <li><a href="../index.html#localitiesSection">Kovai Road & Sanapiratti</a></li>
+            <li><a href="../index.html#localitiesSection">Velayuthampalayam, Pugalur & Aravakurichi</a></li>
           </ul>
         </div>
 
@@ -705,7 +705,7 @@ function generateBrandPageHtml(brand) {
       </div>
 
       <div class="footer-copy">
-        <div>© 2026 servicecenterdindigul.com — Local Home Appliance Repair in Dindigul.</div>
+        <div>© 2026 servicecenterkarur.com — Local Home Appliance Repair in Karur.</div>
         <div>All rights reserved.</div>
       </div>
     </div>
@@ -750,9 +750,9 @@ allBrands.forEach(brand => {
   console.log(`Generated: ${brand.slug} (${html.length} bytes)`);
 });
 
-// Update Main Refrigerator Page: /fridge/refrigerator-repair-service-in-dindigul.html
+// Update Main Refrigerator Page: /fridge/refrigerator-repair-service-in-karur.html
 console.log('\n=== UPDATING MAIN REFRIGERATOR PAGE ===');
-const mainFridgePath = path.join(fridgeDir, 'refrigerator-repair-service-in-dindigul.html');
+const mainFridgePath = path.join(fridgeDir, 'refrigerator-repair-service-in-karur.html');
 if (fs.existsSync(mainFridgePath)) {
   let mainHtml = fs.readFileSync(mainFridgePath, 'utf8');
 
@@ -760,7 +760,7 @@ if (fs.existsSync(mainFridgePath)) {
   const brandCardsHtml = allBrands.map(b => {
     return `        <a href="${b.slug}" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.35rem;">${escapeHtml(b.name)} Fridge Repair</h3>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${escapeHtml(b.name)} refrigerator repair in Dindigul.</p>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">Doorstep ${escapeHtml(b.name)} refrigerator repair in Karur.</p>
           <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent-blue); margin-top: auto;">View Service →</span>
         </a>`;
   }).join('\n');
@@ -768,8 +768,8 @@ if (fs.existsSync(mainFridgePath)) {
   const newBrandSection = `<section class="section" id="refrigeratorBrandsSection">
     <div class="container">
       <div class="section-header">
-        <h2>Refrigerator Brands We Repair in Dindigul</h2>
-        <p>Doorstep troubleshooting, component testing, and repair support for all 24 approved refrigerator brands across Dindigul homes:</p>
+        <h2>Refrigerator Brands We Repair in Karur</h2>
+        <p>Doorstep troubleshooting, component testing, and repair support for all 24 approved refrigerator brands across Karur homes:</p>
       </div>
 
       <div class="fridge-brand-grid">
@@ -779,7 +779,7 @@ ${brandCardsHtml}
   </section>`;
 
   // Replace existing brand section
-  const brandSectionRegex = /<section class="section"[^>]*>[\s\S]*?<h2>Refrigerator Brands We Repair in Dindigul<\/h2>[\s\S]*?<\/section>/;
+  const brandSectionRegex = /<section class="section"[^>]*>[\s\S]*?<h2>Refrigerator Brands We Repair in Karur<\/h2>[\s\S]*?<\/section>/;
   if (brandSectionRegex.test(mainHtml)) {
     mainHtml = mainHtml.replace(brandSectionRegex, newBrandSection);
     fs.writeFileSync(mainFridgePath, mainHtml, 'utf8');

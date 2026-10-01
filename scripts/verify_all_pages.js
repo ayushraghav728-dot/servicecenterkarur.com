@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const allBrands = require('./brand_data');
 
-console.log("=== COMMENCING COMPLETE AUDIT OF DINDIGUL AC PAGES ===");
+console.log("=== COMMENCING COMPLETE AUDIT OF KARUR AC PAGES ===");
 
 let passed = true;
 const errors = [];
@@ -33,7 +33,7 @@ console.log("Root directory checked for duplicates.");
 
 // 3. Verify main AC page brand links & locality SEO
 console.log("\n--- 3. Checking Main AC Page ---");
-const mainAcPath = path.join(__dirname, '..', 'ac-repair-service-in-dindigul.html');
+const mainAcPath = path.join(__dirname, '..', 'ac-repair-service-in-karur.html');
 const mainAcHtml = fs.readFileSync(mainAcPath, 'utf8');
 
 allBrands.forEach(b => {
@@ -80,7 +80,7 @@ console.log("\n--- 5. Checking Sitemap.xml ---");
 const sitemapPath = path.join(__dirname, '..', 'sitemap.xml');
 const sitemapHtml = fs.readFileSync(sitemapPath, 'utf8');
 allBrands.forEach(b => {
-  const expectedUrl = `https://servicecenterdindigul.com/ac/${b.slug}`;
+  const expectedUrl = `https://servicecenterkarur.com/ac/${b.slug}`;
   if (!sitemapHtml.includes(expectedUrl)) {
     errors.push(`Sitemap missing URL: ${expectedUrl}`);
     passed = false;
@@ -141,10 +141,10 @@ allBrands.forEach(b => {
   if (!content.includes('src="../js/main.js"')) {
     errors.push(`${b.slug}: Missing or broken relative JS link ../js/main.js`);
   }
-  if (!content.includes('href="../ac-repair-service-in-dindigul.html"')) {
-    errors.push(`${b.slug}: Missing link to ../ac-repair-service-in-dindigul.html`);
+  if (!content.includes('href="../ac-repair-service-in-karur.html"')) {
+    errors.push(`${b.slug}: Missing link to ../ac-repair-service-in-karur.html`);
   }
-  if (!content.includes(`https://servicecenterdindigul.com/ac/${b.slug}`)) {
+  if (!content.includes(`https://servicecenterkarur.com/ac/${b.slug}`)) {
     errors.push(`${b.slug}: Canonical URL mismatch`);
   }
 

@@ -1,18 +1,18 @@
 module.exports = [
   {
     "name": "Samsung",
-    "slug": "samsung-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Samsung EcoBubble, Wobble & Top/Front Load Washing Machine Service in Dindigul",
-    "intro": "Samsung washing machine problem-ah? If your Samsung washing machine displays 4C or 5E error, does not drain water, makes loud noise during spin, or will not start, our local technician can inspect the machine at your home in Dindigul. Samsung EcoBubble, digital inverter front load, Wobble top load, and semi-automatic machines can be checked with proper tools to identify the exact fault before replacing any part.",
+    "slug": "samsung-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Samsung EcoBubble, Wobble & Top/Front Load Washing Machine Service in Karur",
+    "intro": "Samsung washing machine problem-ah? If your Samsung washing machine displays 4C or 5E error, does not drain water, makes loud noise during spin, or will not start, our local technician can inspect the machine at your home in Karur. Samsung EcoBubble, digital inverter front load, Wobble top load, and semi-automatic machines can be checked with proper tools to identify the exact fault before replacing any part.",
     "types": [
       {
-        "title": "Samsung Front Load Washing Machine Repair in Dindigul",
+        "title": "Samsung Front Load Washing Machine Repair in Karur",
         "desc": "Samsung front load machines with EcoBubble and digital inverter motor offer clean wash cycles. Common issues include 4C water inlet fault, 5E drain pump blockage, dE door lock failure, and drum bearing noise during 1200 RPM high spin.",
         "keywords": [
-          "Samsung Front Load Repair Dindigul",
+          "Samsung Front Load Repair Karur",
           "Samsung EcoBubble Drum Service",
           "Samsung 5E Drain Error Fix",
-          "Samsung Door Gasket Leak Dindigul"
+          "Samsung Door Gasket Leak Karur"
         ],
         "commonProblems": "4C water intake error, 5E drain pump error, door not opening after cycle, water leaking from detergent drawer or rubber gasket.",
         "commonParts": "Drain pump motor, door latch interlock switch, rubber bellow gasket, water inlet double valve, motor hall sensor.",
@@ -24,10 +24,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Samsung Top Load Washing Machine Repair in Dindigul",
+        "title": "Samsung Top Load Washing Machine Repair in Karur",
         "desc": "Samsung top load fully automatic washers with Wobble pulsator and diamond drum face common problems like dC unbalanced error, slow water filling, 1E water level sensor issue, and pulsator slipping during agitation.",
         "keywords": [
-          "Samsung Top Load Repair Dindigul",
+          "Samsung Top Load Repair Karur",
           "Samsung Wobble Pulsator Repair",
           "Samsung dC Error Fix",
           "Samsung Water Level Sensor Service"
@@ -42,10 +42,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Samsung Semi Automatic Washing Machine Repair in Dindigul",
+        "title": "Samsung Semi Automatic Washing Machine Repair in Karur",
         "desc": "Samsung semi-automatic twin-tub washers with Air Turbo drying system often need service for spin tub not rotating, wash timer knob slipping, drain knob jammed, or water leaking from tub base.",
         "keywords": [
-          "Samsung Semi Automatic Repair Dindigul",
+          "Samsung Semi Automatic Repair Karur",
           "Samsung Twin Tub Motor Fix",
           "Samsung Spin Dryer Repair",
           "Samsung Wash Timer Replacement"
@@ -142,19 +142,19 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Samsung washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection charge is ₹249 across Dindigul. If you approve the repair estimate, the visiting fee is adjusted in the overall service bill."
+        "q": "How much is the visiting charge for Samsung washing machine repair in Karur?",
+        "a": "Our doorstep inspection charge is ₹249 across Karur. If you approve the repair estimate, the visiting fee is adjusted in the overall service bill."
       },
       {
         "q": "What does 5E error mean on my Samsung front load machine?",
         "a": "5E (or 5C) indicates a drain fault. It happens when the drain filter is choked with lint or coins, or the drain pump motor is stuck. Our technician can clean the filter and test the pump."
       },
       {
-        "q": "Can you fix Samsung washing machine shaking heavily during spin in Begampur?",
+        "q": "Can you fix Samsung washing machine shaking heavily during spin in Thanthonimalai?",
         "a": "Yes. Heavy shaking usually happens when suspension rods in top load or shock absorbers in front load wear out. Our technician can inspect and replace worn dampers at your home."
       },
       {
-        "q": "Do you repair Samsung inverter PCB boards in Dindigul?",
+        "q": "Do you repair Samsung inverter PCB boards in Karur?",
         "a": "Yes, our technicians handle component-level PCB repair for Samsung digital inverter boards to save replacement cost."
       },
       {
@@ -162,11 +162,11 @@ module.exports = [
         "a": "Do not pull the handle with force as the latch might break. The door interlock safety delay or switch may be faulty. Our technician will safely release the lock and check the switch."
       },
       {
-        "q": "How long does a Samsung washing machine repair visit take in Dindigul?",
+        "q": "How long does a Samsung washing machine repair visit take in Karur?",
         "a": "Most minor repairs, pump cleaning, and part replacements take 45 to 90 minutes right at your doorstep."
       },
       {
-        "q": "Do you service Samsung semi automatic twin-tub machines near Oddanchatram?",
+        "q": "Do you service Samsung semi automatic twin-tub machines near Aravakurichi?",
         "a": "Yes, we repair Samsung semi-automatic machines including wash timer, spin motor, buffer seal, and capacitor replacements."
       },
       {
@@ -178,38 +178,38 @@ module.exports = [
         "a": "Yes, we use brand-compatible genuine spare parts with warranty for motors, pumps, valves, and electronic switches."
       },
       {
-        "q": "Can I schedule a same-day technician visit in Dindigul Town?",
+        "q": "Can I schedule a same-day technician visit in Karur Town?",
         "a": "Yes, we arrange same-day doorstep inspection when you call or message our team via WhatsApp before 4 PM."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur Family Home — 5E Drain Error",
-        "text": "Begampur side-la oru customer veetla Samsung front load wash mudinjathukku apram water full-ah drum-la nikkama irundhadhu, 5E error vandhuchu. Technician visit panni front bottom drain filter check pannapo coin maati pump stuck aagirundhadhu. Filter clean pannitu pump test panni drain cycle complete aaguradha confirm panni kuduthaanga."
+        "scenario": "Thanthonimalai Family Home — 5E Drain Error",
+        "text": "Thanthonimalai side-la oru customer veetla Samsung front load wash mudinjathukku apram water full-ah drum-la nikkama irundhadhu, 5E error vandhuchu. Technician visit panni front bottom drain filter check pannapo coin maati pump stuck aagirundhadhu. Filter clean pannitu pump test panni drain cycle complete aaguradha confirm panni kuduthaanga."
       },
       {
-        "scenario": "Oddanchatram Apartment — Heavy Shaking During Spin",
-        "text": "Oddanchatram apartment-la Samsung Wobble top load machine spin cycle appo romba satham pottu adichikittu irundhadhu. Display-la dC error vandhadhu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Puthiya damper rods maathunathum machine balance aagi drum romba smooth-ah silent-ah spin aaga aaramichiduchu."
+        "scenario": "Aravakurichi Apartment — Heavy Shaking During Spin",
+        "text": "Aravakurichi apartment-la Samsung Wobble top load machine spin cycle appo romba satham pottu adichikittu irundhadhu. Display-la dC error vandhadhu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Puthiya damper rods maathunathum machine balance aagi drum romba smooth-ah silent-ah spin aaga aaramichiduchu."
       },
       {
-        "scenario": "Dindigul Town House — Water Not Filling Issue",
+        "scenario": "Karur Town House — Water Not Filling Issue",
         "text": "Town Nellaiappar temple pakkam irukkura veetla Samsung fully automatic machine-la water flow romba slow-ah irundhadhu, 4C error kaatuchu. Technician inlet valve filter-la hard water salt adachirundhadhai remove panni valve replace pannanga. Water intake speed normal aagi wash program thadangal illama smooth-ah run aachu."
       },
       {
-        "scenario": "Batlagundu Clinic — Door Latch Stuck",
-        "text": "Batlagundu area-la Samsung front load wash mudinju door lock aagi thirakka mudiyala. Customer handle pottu ilukkaamal call pannanga. Technician vandhu emergency door release latch use panni open pannitu, faulty bi-metal door switch maathi door smooth-ah lock and open aagura maadhiri ready pannanga."
+        "scenario": "Velayuthampalayam Clinic — Door Latch Stuck",
+        "text": "Velayuthampalayam area-la Samsung front load wash mudinju door lock aagi thirakka mudiyala. Customer handle pottu ilukkaamal call pannanga. Technician vandhu emergency door release latch use panni open pannitu, faulty bi-metal door switch maathi door smooth-ah lock and open aagura maadhiri ready pannanga."
       },
       {
-        "scenario": "Round Road Residence — Spin Tub Not Working",
-        "text": "Round Road-la Samsung semi-automatic twin tub machine-la wash nallaa aachu aana spin dryer rotate aagala. Technician check pannapo spin safety lid switch cut aagi run capacitor weak-ah irundhadhu. Switch re-wire panni puthiya capacitor maathunadhum spin motor full speed-la fast-ah run aaga aaramichiduchu."
+        "scenario": "Sengunthapuram Residence — Spin Tub Not Working",
+        "text": "Sengunthapuram-la Samsung semi-automatic twin tub machine-la wash nallaa aachu aana spin dryer rotate aagala. Technician check pannapo spin safety lid switch cut aagi run capacitor weak-ah irundhadhu. Switch re-wire panni puthiya capacitor maathunadhum spin motor full speed-la fast-ah run aaga aaramichiduchu."
       },
       {
-        "scenario": "GTN Nagar Home — PCB Display Dead",
-        "text": "GTN Nagar veetla Samsung digital inverter machine-la power on aagala, display full-ah blank-ah irundhadhu. Technician power socket check pannitu PCB board power section-la capacitor burn aagirundhadhai identify panni component level repair panni board restore pannanga. Machine thirumba normal condition-ku vandhadhu."
+        "scenario": "Rayanur Home — PCB Display Dead",
+        "text": "Rayanur veetla Samsung digital inverter machine-la power on aagala, display full-ah blank-ah irundhadhu. Technician power socket check pannitu PCB board power section-la capacitor burn aagirundhadhai identify panni component level repair panni board restore pannanga. Machine thirumba normal condition-ku vandhadhu."
       }
     ],
     "whyChooseUs": [
-      "Experienced Samsung washing machine technicians in Dindigul",
+      "Experienced Samsung washing machine technicians in Karur",
       "Doorstep inspection with upfront estimate before any repair",
       "Genuine replacement parts for EcoBubble, Wobble & Inverter series",
       "Transparent visiting fee of ₹249 adjusted in final service bill"
@@ -217,18 +217,18 @@ module.exports = [
   },
   {
     "name": "Whirlpool",
-    "slug": "whirlpool-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Whirlpool 360 BloomWash, Stainwash & Semi/Fully Automatic Service in Dindigul",
-    "intro": "Whirlpool washing machine problem-ah? If your Whirlpool washer is not spinning, clothes stay wet, water keeps draining out, or the 6th Sense control shows an error, our local technician can inspect the machine at your home in Dindigul. Whirlpool BloomWash, Stainwash top load, Supreme Care front load, and Ace semi-automatic models can be checked thoroughly to fix the actual issue before part replacement.",
+    "slug": "whirlpool-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Whirlpool 360 BloomWash, Stainwash & Semi/Fully Automatic Service in Karur",
+    "intro": "Whirlpool washing machine problem-ah? If your Whirlpool washer is not spinning, clothes stay wet, water keeps draining out, or the 6th Sense control shows an error, our local technician can inspect the machine at your home in Karur. Whirlpool BloomWash, Stainwash top load, Supreme Care front load, and Ace semi-automatic models can be checked thoroughly to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "Whirlpool Top Load Washing Machine Repair in Dindigul",
+        "title": "Whirlpool Top Load Washing Machine Repair in Karur",
         "desc": "Whirlpool top load machines with 6th Sense technology and 360 BloomWash feature specially shaped pulsators and hard water wash programs. Common problems include drum not agitating, spin basket vibrating loudly, and water inlet valve chokes.",
         "keywords": [
-          "Whirlpool Top Load Repair Dindigul",
+          "Whirlpool Top Load Repair Karur",
           "Whirlpool BloomWash Service",
           "Whirlpool 6th Sense Washer Fix",
-          "Whirlpool Spin Problem Dindigul"
+          "Whirlpool Spin Problem Karur"
         ],
         "commonProblems": "Agitator pulsator teeth slipping, drum banging on sides, water not stopping at set level, drain motor not pulling flap.",
         "commonParts": "Agitator coupling dogs, suspension spring rods, pressure sensor switch, drain valve assembly, drive belt.",
@@ -240,10 +240,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Whirlpool Front Load Washing Machine Repair in Dindigul",
+        "title": "Whirlpool Front Load Washing Machine Repair in Karur",
         "desc": "Whirlpool front load washing machines offer gentle tumble washing with ozone air refresh and heater cycles. Common repairs involve E02 inlet error, F06 motor tacho fault, door lock delays, and drum bearing noise.",
         "keywords": [
-          "Whirlpool Front Load Repair Dindigul",
+          "Whirlpool Front Load Repair Karur",
           "Whirlpool Supreme Care Service",
           "Whirlpool F06 Error Fix",
           "Whirlpool Drum Bearing Service"
@@ -258,10 +258,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Whirlpool Semi Automatic Washing Machine Repair in Dindigul",
-        "desc": "Whirlpool Ace and Superb Atom semi-automatic washers with multi-utility trays are widely used in Dindigul homes. Frequent issues include spin motor hum without rotation, drain knob thread break, and wash motor belt slippage.",
+        "title": "Whirlpool Semi Automatic Washing Machine Repair in Karur",
+        "desc": "Whirlpool Ace and Superb Atom semi-automatic washers with multi-utility trays are widely used in Karur homes. Frequent issues include spin motor hum without rotation, drain knob thread break, and wash motor belt slippage.",
         "keywords": [
-          "Whirlpool Semi Automatic Repair Dindigul",
+          "Whirlpool Semi Automatic Repair Karur",
           "Whirlpool Ace Twin Tub Fix",
           "Whirlpool Spin Tub Noise",
           "Whirlpool Wash Motor Repair"
@@ -358,28 +358,28 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Whirlpool washing machine repair in Dindigul?",
-        "a": "Our inspection fee is ₹249 anywhere in Dindigul. Once you approve the repair work, this charge is adjusted into the final invoice."
+        "q": "How much is the visiting charge for Whirlpool washing machine repair in Karur?",
+        "a": "Our inspection fee is ₹249 anywhere in Karur. Once you approve the repair work, this charge is adjusted into the final invoice."
       },
       {
         "q": "Why is water continuously leaking out of my Whirlpool washing machine drain pipe?",
         "a": "This happens when dirt, coins, or lint get trapped under the rubber drain flap. Our technician can open the drain housing, clean debris, and replace the seal if worn."
       },
       {
-        "q": "Can you fix a Whirlpool Ace semi-automatic spin motor in Chettinaickenpatti?",
-        "a": "Yes, we service Whirlpool semi-automatic models in Chettinaickenpatti including spin buffer seal replacement, motor testing, and capacitor changes."
+        "q": "Can you fix a Whirlpool Ace semi-automatic spin motor in Chinna Andankovil?",
+        "a": "Yes, we service Whirlpool semi-automatic models in Chinna Andankovil including spin buffer seal replacement, motor testing, and capacitor changes."
       },
       {
         "q": "What causes heavy vibration in Whirlpool 360 BloomWash top load?",
         "a": "Worn-out suspension damper rods or an unlevel floor are the usual causes. Our technician will test each rod and replace the set if damping is lost."
       },
       {
-        "q": "Do you have original Whirlpool replacement spare parts in Dindigul?",
+        "q": "Do you have original Whirlpool replacement spare parts in Karur?",
         "a": "Yes, we supply genuine Whirlpool compatible components including timers, pumps, inlet valves, belts, and control boards."
       },
       {
-        "q": "How quickly can a Whirlpool technician visit in Oddanchatram?",
-        "a": "Technician visits are generally arranged within 2 to 4 hours across Oddanchatram and neighboring Dindigul localities."
+        "q": "How quickly can a Whirlpool technician visit in Aravakurichi?",
+        "a": "Technician visits are generally arranged within 2 to 4 hours across Aravakurichi and neighboring Karur localities."
       },
       {
         "q": "Why does my Whirlpool washer wash cycle stop mid-way with beeping?",
@@ -400,48 +400,48 @@ module.exports = [
     ],
     "experiences": [
       {
-        "scenario": "Begampur House — Water Draining Continuously",
-        "text": "Begampur area-la Whirlpool top load machine-la water tap on panna podhum, drum-la water nikkama drain pipe vazhiya veliye poiduchu. Technician visit panni drain valve open pannapo coin stuck aagirundhadhai eduthu, damaged rubber flap maathunadhum water hold aagi wash cycle smooth-ah start aachu nalla speed-la."
+        "scenario": "Thanthonimalai House — Water Draining Continuously",
+        "text": "Thanthonimalai area-la Whirlpool top load machine-la water tap on panna podhum, drum-la water nikkama drain pipe vazhiya veliye poiduchu. Technician visit panni drain valve open pannapo coin stuck aagirundhadhai eduthu, damaged rubber flap maathunadhum water hold aagi wash cycle smooth-ah start aachu nalla speed-la."
       },
       {
-        "scenario": "Dindigul Nagal Nagar Home — Spin Motor Hum Without Running",
-        "text": "Nagal Nagar railway station pakkam Whirlpool Ace semi automatic machine-la wash nallaa aachu aana spin podumbodhu motor hum sound mattum vandhadhu. Technician buffer seal check panni loose contact sari panni, weak capacitor-ai puthidhaaga maathi spin function-ai instant-ah ready panni nallaa run aaguradha check panni kuduthaanga."
+        "scenario": "Karur Kagithapuramam Home — Spin Motor Hum Without Running",
+        "text": "Kagithapuramam railway station pakkam Whirlpool Ace semi automatic machine-la wash nallaa aachu aana spin podumbodhu motor hum sound mattum vandhadhu. Technician buffer seal check panni loose contact sari panni, weak capacitor-ai puthidhaaga maathi spin function-ai instant-ah ready panni nallaa run aaguradha check panni kuduthaanga."
       },
       {
-        "scenario": "Batlagundu Residence — 360 BloomWash Vibration",
-        "text": "Batlagundu veetla Whirlpool BloomWash machine spin aagumbodhu periya satham pottu cabinet side walls-la adichikittu irundhadhu. Technician inspect panni 4 suspension springs tension loss aagirundhadhai kandupidichu, puthiya set maathi machine leveling perfectly set panni complete-ah vibration-ai reduce panni silent-ah run aaga vechaanga nalla balance-oda."
+        "scenario": "Velayuthampalayam Residence — 360 BloomWash Vibration",
+        "text": "Velayuthampalayam veetla Whirlpool BloomWash machine spin aagumbodhu periya satham pottu cabinet side walls-la adichikittu irundhadhu. Technician inspect panni 4 suspension springs tension loss aagirundhadhai kandupidichu, puthiya set maathi machine leveling perfectly set panni complete-ah vibration-ai reduce panni silent-ah run aaga vechaanga nalla balance-oda."
       },
       {
-        "scenario": "Seelapadi Family — Water Not Filling",
-        "text": "Seelapadi bazaar pakkam Whirlpool machine-la water romba slow-ah fill aagi cycle stop aagirundhadhu. Technician inlet solenoid valve-la hard water salt scaling clean panni check pannanga. Valve coil weak aana nala puthiya valve maathunadhum water inlet speed sari aagi wash function restored aaiduchu nalla flow-oda."
+        "scenario": "Vengamedu Family — Water Not Filling",
+        "text": "Vengamedu bazaar pakkam Whirlpool machine-la water romba slow-ah fill aagi cycle stop aagirundhadhu. Technician inlet solenoid valve-la hard water salt scaling clean panni check pannanga. Valve coil weak aana nala puthiya valve maathunadhum water inlet speed sari aagi wash function restored aaiduchu nalla flow-oda."
       },
       {
         "scenario": "Rahmath Nagar Apartment — Pulsator Stripped Spline",
         "text": "Rahmath Nagar-la Whirlpool washer motor satham kekkudhu aana center pulsator plate thirumbala, clothes wash aagala. Technician check panni pulsator teeth theinju poiduchu-nu sonnaanga. Original pulsator assembly replace panni agitation function restore pannathum wash cycle clean-ah thuni thovaikka aaramichu nalla super-ah mudinjadhu."
       },
       {
-        "scenario": "Nilakottai Home — PCB Beeping Mid-Cycle",
-        "text": "Nilakottai collectorate area-la Whirlpool machine wash aagumbodhu paadhila beep sound pottu ninnuduchu. Technician control board and water level pressure pipe check panni, pipe-la lint block irundhadhai clear panni sensor line clean pannathum machine smooth-ah error illama full wash cycle run aagi mudinjadhu."
+        "scenario": "Puliyur Home — PCB Beeping Mid-Cycle",
+        "text": "Puliyur collectorate area-la Whirlpool machine wash aagumbodhu paadhila beep sound pottu ninnuduchu. Technician control board and water level pressure pipe check panni, pipe-la lint block irundhadhai clear panni sensor line clean pannathum machine smooth-ah error illama full wash cycle run aagi mudinjadhu."
       }
     ],
     "whyChooseUs": [
-      "Skilled Whirlpool washing machine specialists in Dindigul",
+      "Skilled Whirlpool washing machine specialists in Karur",
       "Doorstep inspection with honest upfront price quote",
       "Genuine spare parts for BloomWash, Stainwash & Ace series",
-      "Fast same-day technician visit across all 16 Dindigul areas"
+      "Fast same-day technician visit across all 16 Karur areas"
     ]
   },
   {
     "name": "Bosch",
-    "slug": "bosch-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Bosch Series 4, 6, 8 & Front/Top Load Washing Machine Service in Dindigul",
-    "intro": "Bosch washing machine problem-ah? If your Bosch front load or top load washer shows E18 drain error, E17 water supply fault, door lock stuck, or loud drum bearing noise during spin, our local technician can inspect the machine at your home in Dindigul. Bosch EcoSilence Drive machines, Series 4, Series 6, and Series 8 washers can be tested thoroughly to fix the actual issue before part replacement.",
+    "slug": "bosch-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Bosch Series 4, 6, 8 & Front/Top Load Washing Machine Service in Karur",
+    "intro": "Bosch washing machine problem-ah? If your Bosch front load or top load washer shows E18 drain error, E17 water supply fault, door lock stuck, or loud drum bearing noise during spin, our local technician can inspect the machine at your home in Karur. Bosch EcoSilence Drive machines, Series 4, Series 6, and Series 8 washers can be tested thoroughly to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "Bosch Front Load Washing Machine Repair in Dindigul",
+        "title": "Bosch Front Load Washing Machine Repair in Karur",
         "desc": "Bosch front load washers with EcoSilence Drive and AntiVibration design are renowned for silent washing. Common issues include E18 drain pump block, E23 aqua-stop leak sensor trigger, door seal rubber tearing, and drum bearing wear.",
         "keywords": [
-          "Bosch Front Load Repair Dindigul",
+          "Bosch Front Load Repair Karur",
           "Bosch EcoSilence Drive Service",
           "Bosch E18 Error Fix",
           "Bosch Series 6 Washing Machine Repair"
@@ -456,10 +456,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Bosch Top Load Washing Machine Repair in Dindigul",
+        "title": "Bosch Top Load Washing Machine Repair in Karur",
         "desc": "Bosch ExpertCare top load washers feature soft-closing glass lids and dynamic wash paddles. Typical issues include unbalanced spin error, slow water intake from overhead tanks, and drain pump humming.",
         "keywords": [
-          "Bosch Top Load Repair Dindigul",
+          "Bosch Top Load Repair Karur",
           "Bosch ExpertCare Service",
           "Bosch Top Load Spin Vibration",
           "Bosch Inlet Valve Service"
@@ -474,10 +474,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Bosch Washer Dryer Combo Repair in Dindigul",
+        "title": "Bosch Washer Dryer Combo Repair in Karur",
         "desc": "Bosch combination washer dryer combos provide complete wash and moisture drying. Common service requirements involve drying cycle not heating, lint clogging inside condenser canal, and NTC sensor errors.",
         "keywords": [
-          "Bosch Washer Dryer Repair Dindigul",
+          "Bosch Washer Dryer Repair Karur",
           "Bosch Dryer Heating Problem",
           "Bosch Condenser Duct Cleaning",
           "Bosch Series 8 Washer Dryer Service"
@@ -574,16 +574,16 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Bosch washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection fee for Bosch washing machines is ₹249 across Dindigul. This amount is adjusted into the final bill if you proceed with repair."
+        "q": "How much is the visiting charge for Bosch washing machine repair in Karur?",
+        "a": "Our doorstep inspection fee for Bosch washing machines is ₹249 across Karur. This amount is adjusted into the final bill if you proceed with repair."
       },
       {
         "q": "How can I fix E18 error on my Bosch front load machine?",
         "a": "E18 indicates the pump cannot drain water. Open the circular access flap at the bottom right, unscrew the drain filter cap, and clear any trapped coins or threads. Our technician can assist if the pump is jammed."
       },
       {
-        "q": "Do you repair Bosch washing machines in Begampur?",
-        "a": "Yes, our technicians cover all areas of Begampur, Oddanchatram, Town, and surrounding localities for Bosch doorstep service."
+        "q": "Do you repair Bosch washing machines in Thanthonimalai?",
+        "a": "Yes, our technicians cover all areas of Thanthonimalai, Aravakurichi, Town, and surrounding localities for Bosch doorstep service."
       },
       {
         "q": "Why is my Bosch washer making a jet engine sound on spin cycle?",
@@ -602,7 +602,7 @@ module.exports = [
         "a": "Yes, we use brand-matched OEM quality parts backed by replacement warranty on all functional components."
       },
       {
-        "q": "Do you service Bosch washer dryer combos in Dindigul?",
+        "q": "Do you service Bosch washer dryer combos in Karur?",
         "a": "Yes, we service Bosch combination washer dryers including heating coil check, condenser duct descaling, and lint clearing."
       },
       {
@@ -610,34 +610,34 @@ module.exports = [
         "a": "Worn tub shock absorbers or uneven leveling feet cause excessive movement. Our technician inspects dampers and levels the appliance properly."
       },
       {
-        "q": "How quickly can a technician visit my home in Dindigul?",
+        "q": "How quickly can a technician visit my home in Karur?",
         "a": "We provide same-day doorstep service, usually within 2 to 4 hours of your booking."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur Villa — E18 Drain Pump Choked",
-        "text": "Begampur main road-la oru customer veetla Bosch Series 6 front load machine E18 error kaati water drain aagama ninuduchu. Technician visit panni bottom drain pump filter open pannapo hairpin and safety pin maati impeller locked aagirundhadhu. Debris eduthu clean pannathum drain cycle perfectly work aachu."
+        "scenario": "Thanthonimalai Villa — E18 Drain Pump Choked",
+        "text": "Thanthonimalai main road-la oru customer veetla Bosch Series 6 front load machine E18 error kaati water drain aagama ninuduchu. Technician visit panni bottom drain pump filter open pannapo hairpin and safety pin maati impeller locked aagirundhadhu. Debris eduthu clean pannathum drain cycle perfectly work aachu."
       },
       {
-        "scenario": "Oddanchatram Residence — Roaring Bearing Noise",
-        "text": "Oddanchatram flyover pakkam irukkura veetla Bosch front load 1200 RPM spin aagumbodhu flight take-off maadhiri bayangarama sound vandhadhu. Technician check panni rear drum bearings and oil seal theinjirundhadhai confirm panni, heavy duty bearing set maathi sound-ai complete-ah silent aakkinaanga. Wash cycle super-ah mudinjadhu."
+        "scenario": "Aravakurichi Residence — Roaring Bearing Noise",
+        "text": "Aravakurichi flyover pakkam irukkura veetla Bosch front load 1200 RPM spin aagumbodhu flight take-off maadhiri bayangarama sound vandhadhu. Technician check panni rear drum bearings and oil seal theinjirundhadhai confirm panni, heavy duty bearing set maathi sound-ai complete-ah silent aakkinaanga. Wash cycle super-ah mudinjadhu."
       },
       {
-        "scenario": "Batlagundu House — Door Gasket Water Leakage",
-        "text": "Batlagundu-la Bosch washing machine wash cycle run aagumbodhu front door vazhiya floor-la water leak aachu. Technician inspect panni door rubber gasket-la chinna keeral irundhadhai kandupidichu, puthiya genuine rubber bellow gasket replace panni water leak problem-ai completely arrest panni solve pannanga."
+        "scenario": "Velayuthampalayam House — Door Gasket Water Leakage",
+        "text": "Velayuthampalayam-la Bosch washing machine wash cycle run aagumbodhu front door vazhiya floor-la water leak aachu. Technician inspect panni door rubber gasket-la chinna keeral irundhadhai kandupidichu, puthiya genuine rubber bellow gasket replace panni water leak problem-ai completely arrest panni solve pannanga."
       },
       {
-        "scenario": "Dindigul Town Home — E17 Slow Water Intake",
+        "scenario": "Karur Town Home — E17 Slow Water Intake",
         "text": "Town West Car Street veetla Bosch washer-la water fill aaga romba neram aagi E17 error code vandhudhu. Technician inlet valve check panni overhead tank sediment adachirundhadhai remove panni, weak solenoid coil maathi normal water flow restore panni wash cycle ready pannanga."
       },
       {
-        "scenario": "Round Road Residence — Drum Shaking Heavy",
-        "text": "Round Road-la Bosch top load machine spin cycle appo heavy-ah vibrate aagi sound vandhadhu. Technician drum balance check panni suspension rods tension balance poiduchu-nu sonnaanga. Original damper set maathi leveling perfectly set pannathum machine vibration illama romba smooth-ah silent-ah run aachu."
+        "scenario": "Sengunthapuram Residence — Drum Shaking Heavy",
+        "text": "Sengunthapuram-la Bosch top load machine spin cycle appo heavy-ah vibrate aagi sound vandhadhu. Technician drum balance check panni suspension rods tension balance poiduchu-nu sonnaanga. Original damper set maathi leveling perfectly set pannathum machine vibration illama romba smooth-ah silent-ah run aachu."
       },
       {
-        "scenario": "GTN Nagar Home — Washer Dryer Not Heating",
-        "text": "GTN Nagar veetla Bosch washer dryer clothes wash pannudhu aana drying cycle-la heat aagala, clothes eerapadhama irundhadhu. Technician heating element coil test panni open circuit aana coil replace panni, lint condenser duct clean panni drying function-ai super-ah ready panni clothes dry aaga vechu kuduthaanga."
+        "scenario": "Rayanur Home — Washer Dryer Not Heating",
+        "text": "Rayanur veetla Bosch washer dryer clothes wash pannudhu aana drying cycle-la heat aagala, clothes eerapadhama irundhadhu. Technician heating element coil test panni open circuit aana coil replace panni, lint condenser duct clean panni drying function-ai super-ah ready panni clothes dry aaga vechu kuduthaanga."
       }
     ],
     "whyChooseUs": [
@@ -649,15 +649,15 @@ module.exports = [
   },
   {
     "name": "IFB",
-    "slug": "ifb-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep IFB Senator, Executive & Top/Front Load Washing Machine Service in Dindigul",
-    "intro": "IFB washing machine problem-ah? If your IFB front load or top load machine shows tAP water error, drn drain fault, door dO error, drum not turning, or leaves white detergent marks on clothes, our local technician can inspect the machine at your home in Dindigul. IFB Senator, Executive, Elena, and Power Steam machines can be checked with proper testing methods to fix the actual issue before part replacement.",
+    "slug": "ifb-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep IFB Senator, Executive & Top/Front Load Washing Machine Service in Karur",
+    "intro": "IFB washing machine problem-ah? If your IFB front load or top load machine shows tAP water error, drn drain fault, door dO error, drum not turning, or leaves white detergent marks on clothes, our local technician can inspect the machine at your home in Karur. IFB Senator, Executive, Elena, and Power Steam machines can be checked with proper testing methods to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "IFB Front Load Washing Machine Repair in Dindigul",
-        "desc": "IFB front load washers with Aqua Energie hard water treatment and 4D wash system are common in Dindigul homes. Common faults include drn drain pump choke, tAP water inlet timeout, dO door latch error, and drum bearing squeal.",
+        "title": "IFB Front Load Washing Machine Repair in Karur",
+        "desc": "IFB front load washers with Aqua Energie hard water treatment and 4D wash system are common in Karur homes. Common faults include drn drain pump choke, tAP water inlet timeout, dO door latch error, and drum bearing squeal.",
         "keywords": [
-          "IFB Front Load Repair Dindigul",
+          "IFB Front Load Repair Karur",
           "IFB Senator Washing Machine Service",
           "IFB drn Error Fix",
           "IFB Door Lock dO Problem"
@@ -672,10 +672,10 @@ module.exports = [
         ]
       },
       {
-        "title": "IFB Top Load Washing Machine Repair in Dindigul",
+        "title": "IFB Top Load Washing Machine Repair in Karur",
         "desc": "IFB top load machines with deep clean pulsators and bi-axial 360 wash mechanisms provide powerful dirt removal. Typical issues include unbalanced spin error, pulsator slipping on wash stroke, and water overflowing.",
         "keywords": [
-          "IFB Top Load Repair Dindigul",
+          "IFB Top Load Repair Karur",
           "IFB Power Steam Top Load Service",
           "IFB Top Load Spin Problem",
           "IFB Water Level Sensor Fix"
@@ -690,10 +690,10 @@ module.exports = [
         ]
       },
       {
-        "title": "IFB Washer Dryer & Steam Washer Repair in Dindigul",
+        "title": "IFB Washer Dryer & Steam Washer Repair in Karur",
         "desc": "IFB washer dryer combos and steam refresh washing machines offer hot water sanitization and drying. Frequent repairs involve steam generator heater failure, NTC sensor open circuit, and drying fan motor jam.",
         "keywords": [
-          "IFB Washer Dryer Repair Dindigul",
+          "IFB Washer Dryer Repair Karur",
           "IFB Steam Wash Service",
           "IFB Heater Coil Replacement",
           "IFB NTC Sensor Repair"
@@ -790,16 +790,16 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for IFB washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection charge is ₹249 across Dindigul. When you approve the repair estimate, the visiting fee is adjusted in the overall service bill."
+        "q": "How much is the visiting charge for IFB washing machine repair in Karur?",
+        "a": "Our doorstep inspection charge is ₹249 across Karur. When you approve the repair estimate, the visiting fee is adjusted in the overall service bill."
       },
       {
         "q": "What does drn error mean on an IFB front load washer?",
         "a": "drn means the machine is unable to drain water. Open the bottom coin filter and remove any trapped coins, hairpins, or lint. If the pump is still stuck, our technician will test and replace it."
       },
       {
-        "q": "Do you repair IFB washing machines in Oddanchatram and Begampur?",
-        "a": "Yes, our technicians provide doorstep repair service across Oddanchatram, Begampur, Town, Batlagundu, and all Dindigul areas."
+        "q": "Do you repair IFB washing machines in Aravakurichi and Thanthonimalai?",
+        "a": "Yes, our technicians provide doorstep repair service across Aravakurichi, Thanthonimalai, Town, Velayuthampalayam, and all Karur areas."
       },
       {
         "q": "Why is water leaking from my IFB front load door?",
@@ -827,33 +827,33 @@ module.exports = [
       },
       {
         "q": "Can I book an IFB technician visit online or via WhatsApp?",
-        "a": "Yes, click our WhatsApp button or call us directly to book an appointment with our local Dindigul technician."
+        "a": "Yes, click our WhatsApp button or call us directly to book an appointment with our local Karur technician."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur Residence — drn Drain Error Blockage",
-        "text": "Begampur bus stand pakkam IFB Elena front load machine-la wash cycle mudinjathukku apram water drum-la apdiye irundhadhu, drn error kaatuchu. Technician vandhu bottom filter open panni coin and lint block clear pannanga. Drain pump test panni cycle complete aaguradha check panni clean-ah kuduthaanga."
+        "scenario": "Thanthonimalai Residence — drn Drain Error Blockage",
+        "text": "Thanthonimalai bus stand pakkam IFB Elena front load machine-la wash cycle mudinjathukku apram water drum-la apdiye irundhadhu, drn error kaatuchu. Technician vandhu bottom filter open panni coin and lint block clear pannanga. Drain pump test panni cycle complete aaguradha check panni clean-ah kuduthaanga."
       },
       {
-        "scenario": "Oddanchatram Home — Door Latch dO Error",
-        "text": "Oddanchatram area-la IFB Senator machine door close pannalum start aagala, dO error blink aagitte irundhadhu. Customer handle check pannanga. Technician inspect panni bi-metal door lock switch burnt aagirundhadhai identify panni puthiya interlock maathunadhum door latch aagi machine thadangal illama run aachu."
+        "scenario": "Aravakurichi Home — Door Latch dO Error",
+        "text": "Aravakurichi area-la IFB Senator machine door close pannalum start aagala, dO error blink aagitte irundhadhu. Customer handle check pannanga. Technician inspect panni bi-metal door lock switch burnt aagirundhadhai identify panni puthiya interlock maathunadhum door latch aagi machine thadangal illama run aachu."
       },
       {
-        "scenario": "Dindigul Town House — Water Leak Under Door",
+        "scenario": "Karur Town House — Water Leak Under Door",
         "text": "Town Nellaiappar temple street-la IFB front load wash cycle appo front door rubber vazhiya floor-la water leak aagi room full-ah aachu. Technician check panni rubber bellow gasket-la cut irundhadhai kandupidichu, original IFB gasket maathi water leak issue-ai complete-ah arrest panni solve pannanga."
       },
       {
-        "scenario": "Batlagundu Residence — Water Not Heating Err3",
-        "text": "Batlagundu veetla IFB front load hot wash cycle-la water soodagala, Err3 error vandhadhu. Technician heater coil resistance multimeter-la test pannapo coil burnt aagirundhadhu. New tubular heating element and NTC thermistor replace pannathum hot wash program perfectly work aagi normal temperature vandhadhu."
+        "scenario": "Velayuthampalayam Residence — Water Not Heating Err3",
+        "text": "Velayuthampalayam veetla IFB front load hot wash cycle-la water soodagala, Err3 error vandhadhu. Technician heater coil resistance multimeter-la test pannapo coil burnt aagirundhadhu. New tubular heating element and NTC thermistor replace pannathum hot wash program perfectly work aagi normal temperature vandhadhu."
       },
       {
-        "scenario": "Round Road Home — Roaring High Spin Sound",
-        "text": "Round Road-la IFB machine 1000 RPM spin-la pogumbodhu veede adhirara alavukku periya grinding satham vandhadhu. Technician tub open panni water seal poyi bearings rusted aagirundhadhai kaatinaanga. Puthiya heavy duty bearings set maathunathum machine sound complete-ah ninnu romba silent-ah super-ah aaiduchu nalla balance-la."
+        "scenario": "Sengunthapuram Home — Roaring High Spin Sound",
+        "text": "Sengunthapuram-la IFB machine 1000 RPM spin-la pogumbodhu veede adhirara alavukku periya grinding satham vandhadhu. Technician tub open panni water seal poyi bearings rusted aagirundhadhai kaatinaanga. Puthiya heavy duty bearings set maathunathum machine sound complete-ah ninnu romba silent-ah super-ah aaiduchu nalla balance-la."
       },
       {
-        "scenario": "Seelapadi House — Top Load Agitation Stopped",
-        "text": "Seelapadi area-la IFB top load machine motor satham kekkudhu aana drum rotate aagala, clothes soak aagitte irundhadhu. Technician drive belt loose aagi pulsator coupling wear out aagirundhadhai fix panni, puthiya belt maathi agitation function-ai normal panna vechu cycle mudichu kuduthaanga."
+        "scenario": "Vengamedu House — Top Load Agitation Stopped",
+        "text": "Vengamedu area-la IFB top load machine motor satham kekkudhu aana drum rotate aagala, clothes soak aagitte irundhadhu. Technician drive belt loose aagi pulsator coupling wear out aagirundhadhai fix panni, puthiya belt maathi agitation function-ai normal panna vechu cycle mudichu kuduthaanga."
       }
     ],
     "whyChooseUs": [
@@ -865,15 +865,15 @@ module.exports = [
   },
   {
     "name": "Haier",
-    "slug": "haier-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Haier Direct Motion, PuriCool & Fully/Semi Automatic Service in Dindigul",
-    "intro": "Haier washing machine problem-ah? If your Haier washer is showing E1 water inlet error, E2 drain problem, E4 unbalanced spin fault, or the Direct Motion motor is not rotating, our local technician can inspect the machine at your home in Dindigul. Haier front load, Oceanus Wave top load, and twin-tub semi-automatic models can be checked thoroughly to find the exact fault before replacing any part.",
+    "slug": "haier-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Haier Direct Motion, PuriCool & Fully/Semi Automatic Service in Karur",
+    "intro": "Haier washing machine problem-ah? If your Haier washer is showing E1 water inlet error, E2 drain problem, E4 unbalanced spin fault, or the Direct Motion motor is not rotating, our local technician can inspect the machine at your home in Karur. Haier front load, Oceanus Wave top load, and twin-tub semi-automatic models can be checked thoroughly to find the exact fault before replacing any part.",
     "types": [
       {
-        "title": "Haier Front Load Washing Machine Repair in Dindigul",
+        "title": "Haier Front Load Washing Machine Repair in Karur",
         "desc": "Haier front load washers equipped with Direct Motion inverter motors and dual spray hygiene seals provide quiet performance. Common issues include E2 drain error, door seal mildew leaks, and electronic display errors.",
         "keywords": [
-          "Haier Front Load Repair Dindigul",
+          "Haier Front Load Repair Karur",
           "Haier Direct Motion Service",
           "Haier E2 Drain Error Fix",
           "Haier Front Load Gasket Leak"
@@ -888,10 +888,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Haier Top Load Washing Machine Repair in Dindigul",
+        "title": "Haier Top Load Washing Machine Repair in Karur",
         "desc": "Haier Oceanus Wave top load washers with pillow drum design operate well even under low water pressure. Common issues include E1 slow water intake, E4 unbalance error, and pulsator slipping.",
         "keywords": [
-          "Haier Top Load Repair Dindigul",
+          "Haier Top Load Repair Karur",
           "Haier Oceanus Wave Service",
           "Haier E4 Error Fix",
           "Haier Low Water Pressure Problem"
@@ -906,10 +906,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Haier Semi Automatic Washing Machine Repair in Dindigul",
+        "title": "Haier Semi Automatic Washing Machine Repair in Karur",
         "desc": "Haier twin-tub semi-automatic washers with Vortex pulsators and toughened glass lids are popular for rough use. Frequent faults include spin motor not turning, drain knob slipping, and wash timer failure.",
         "keywords": [
-          "Haier Semi Automatic Repair Dindigul",
+          "Haier Semi Automatic Repair Karur",
           "Haier Twin Tub Service",
           "Haier Spin Motor Replacement",
           "Haier Wash Timer Fix"
@@ -1006,15 +1006,15 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Haier washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection charge is ₹249 anywhere in Dindigul. This fee is adjusted into your total bill if you approve the repair work."
+        "q": "How much is the visiting charge for Haier washing machine repair in Karur?",
+        "a": "Our doorstep inspection charge is ₹249 anywhere in Karur. This fee is adjusted into your total bill if you approve the repair work."
       },
       {
         "q": "What does E2 error code mean on a Haier washing machine?",
         "a": "E2 indicates a drain fault. It means water could not be drained out within the timeout period. Checking and clearing the drain filter or pump usually fixes it."
       },
       {
-        "q": "Can you fix Haier washing machine E4 error in Begampur?",
+        "q": "Can you fix Haier washing machine E4 error in Thanthonimalai?",
         "a": "Yes. E4 is an unbalance error caused by uneven clothes or worn suspension damping rods. Our technician can inspect and replace worn rods right at your home."
       },
       {
@@ -1026,8 +1026,8 @@ module.exports = [
         "a": "Sediment blocking the water inlet filter screen or low pressure in the overhead tank line is the usual cause. Cleaning or replacing the inlet valve restores normal flow."
       },
       {
-        "q": "Can I get a same-day Haier technician visit in Oddanchatram?",
-        "a": "Yes, we arrange same-day doorstep inspection across Oddanchatram, Town, Batlagundu, and nearby areas."
+        "q": "Can I get a same-day Haier technician visit in Aravakurichi?",
+        "a": "Yes, we arrange same-day doorstep inspection across Aravakurichi, Town, Velayuthampalayam, and nearby areas."
       },
       {
         "q": "Why is my Haier semi automatic spin tub not spinning?",
@@ -1042,34 +1042,34 @@ module.exports = [
         "a": "Keep the door slightly ajar after wash cycles to dry moisture and regularly clean lint. If the gasket is torn, our technician can replace it."
       },
       {
-        "q": "How do I book a Haier service visit in Dindigul?",
+        "q": "How do I book a Haier service visit in Karur?",
         "a": "Call us on our service number or tap the WhatsApp button to book an appointment with our local technician."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur House — E2 Drain Pump Jam",
-        "text": "Begampur South area-la Haier fully automatic machine-la wash cycle mudinju water veliye pogama E2 error kaatuchu. Technician visit panni front bottom drain filter open pannapo chinna coin pump fan-la maati locked aagirundhadhu. Filter clean panni pump restart pannathum drain cycle thadangal illama smooth-ah aachu."
+        "scenario": "Thanthonimalai House — E2 Drain Pump Jam",
+        "text": "Thanthonimalai South area-la Haier fully automatic machine-la wash cycle mudinju water veliye pogama E2 error kaatuchu. Technician visit panni front bottom drain filter open pannapo chinna coin pump fan-la maati locked aagirundhadhu. Filter clean panni pump restart pannathum drain cycle thadangal illama smooth-ah aachu."
       },
       {
-        "scenario": "Oddanchatram Residence — E4 Heavy Spin Vibration",
-        "text": "Oddanchatram apartment-la Haier Oceanus Wave top load spin aagumbodhu periya satham pottu adichikittu E4 error vandhadhu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Original damper set maathi level set pannathum spin completely silent aagi vibration illama clean-ah odiduchu."
+        "scenario": "Aravakurichi Residence — E4 Heavy Spin Vibration",
+        "text": "Aravakurichi apartment-la Haier Oceanus Wave top load spin aagumbodhu periya satham pottu adichikittu E4 error vandhadhu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Original damper set maathi level set pannathum spin completely silent aagi vibration illama clean-ah odiduchu."
       },
       {
-        "scenario": "Dindigul Nagal Nagar Home — E1 Slow Water Filling",
-        "text": "Nagal Nagar central market pakkam irukkura veetla Haier washer-la water fill aaga 30 minutes eduthu E1 error code kaatuchu. Technician inlet valve filter-la hard water salt scaling clean panni, weak valve coil replace pannanga. Water speed normal aagi wash cycle super-ah time-ku mudinjadhu."
+        "scenario": "Karur Kagithapuramam Home — E1 Slow Water Filling",
+        "text": "Kagithapuramam central market pakkam irukkura veetla Haier washer-la water fill aaga 30 minutes eduthu E1 error code kaatuchu. Technician inlet valve filter-la hard water salt scaling clean panni, weak valve coil replace pannanga. Water speed normal aagi wash cycle super-ah time-ku mudinjadhu."
       },
       {
-        "scenario": "Batlagundu House — Door Lock Switch Jammed",
-        "text": "Batlagundu-la Haier front load wash mudinju door latch release aagala. Customer force pannaamal call pannanga. Technician emergency release use panni door open pannitu, faulty bi-metal door lock switch maathi proper-ah close and open aagura maadhiri safe-ah fix panni nallaa check panni kuduthaanga."
+        "scenario": "Velayuthampalayam House — Door Lock Switch Jammed",
+        "text": "Velayuthampalayam-la Haier front load wash mudinju door latch release aagala. Customer force pannaamal call pannanga. Technician emergency release use panni door open pannitu, faulty bi-metal door lock switch maathi proper-ah close and open aagura maadhiri safe-ah fix panni nallaa check panni kuduthaanga."
       },
       {
-        "scenario": "Seelapadi Home — Semi Automatic Spin Tub Silent",
-        "text": "Seelapadi bazaar road-la Haier twin tub machine-la wash nallaa aachu aana spin tub-la clothes potta motor rotate aagala. Technician check panni spin motor capacitor weak aagirundhadhai identify panni, puthiya capacitor maathunadhum spin motor fast-ah rotate aagi dry function super-ah aachu."
+        "scenario": "Vengamedu Home — Semi Automatic Spin Tub Silent",
+        "text": "Vengamedu bazaar road-la Haier twin tub machine-la wash nallaa aachu aana spin tub-la clothes potta motor rotate aagala. Technician check panni spin motor capacitor weak aagirundhadhai identify panni, puthiya capacitor maathunadhum spin motor fast-ah rotate aagi dry function super-ah aachu."
       },
       {
-        "scenario": "Round Road Residence — Continuous Water Drainage",
-        "text": "Round Road-la Haier machine tap on panna podhum water drum-la nikkama direct-ah drain pipe vazhiya poiduchu. Technician drain valve open panni rubber flap-la maatiyirundha debris clear panni, new spring maathunadhum water drum-la perfectly hold aagi wash cycle smooth-ah start aachu."
+        "scenario": "Sengunthapuram Residence — Continuous Water Drainage",
+        "text": "Sengunthapuram-la Haier machine tap on panna podhum water drum-la nikkama direct-ah drain pipe vazhiya poiduchu. Technician drain valve open panni rubber flap-la maatiyirundha debris clear panni, new spring maathunadhum water drum-la perfectly hold aagi wash cycle smooth-ah start aachu."
       }
     ],
     "whyChooseUs": [
@@ -1081,15 +1081,15 @@ module.exports = [
   },
   {
     "name": "Videocon",
-    "slug": "videocon-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Videocon Semi & Fully Automatic Washing Machine Service in Dindigul",
-    "intro": "Videocon washing machine problem-ah? If your Videocon washer is not spinning, making buzzing noise, water is leaking from the bottom, or the timer is stuck, our local technician can inspect the machine at your home in Dindigul. Videocon semi-automatic twin-tub and Digi Gracia fully automatic top load washers can be checked with proper tools to fix the actual issue before part replacement.",
+    "slug": "videocon-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Videocon Semi & Fully Automatic Washing Machine Service in Karur",
+    "intro": "Videocon washing machine problem-ah? If your Videocon washer is not spinning, making buzzing noise, water is leaking from the bottom, or the timer is stuck, our local technician can inspect the machine at your home in Karur. Videocon semi-automatic twin-tub and Digi Gracia fully automatic top load washers can be checked with proper tools to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "Videocon Semi Automatic Washing Machine Repair in Dindigul",
-        "desc": "Videocon semi-automatic washers with heavy duty wash tubs are found in many long-standing homes across Dindigul. Frequent issues include spin motor jamming, wash timer slipping, and drain flap leaks.",
+        "title": "Videocon Semi Automatic Washing Machine Repair in Karur",
+        "desc": "Videocon semi-automatic washers with heavy duty wash tubs are found in many long-standing homes across Karur. Frequent issues include spin motor jamming, wash timer slipping, and drain flap leaks.",
         "keywords": [
-          "Videocon Semi Automatic Repair Dindigul",
+          "Videocon Semi Automatic Repair Karur",
           "Videocon Twin Tub Service",
           "Videocon Spin Motor Repair",
           "Videocon Wash Timer Replacement"
@@ -1104,10 +1104,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Videocon Fully Automatic Top Load Repair in Dindigul",
+        "title": "Videocon Fully Automatic Top Load Repair in Karur",
         "desc": "Videocon Digi Gracia and fully automatic top load washers feature microprocessor wash controllers. Common faults include water not draining, drum not spinning during rinse, and water inlet valve failure.",
         "keywords": [
-          "Videocon Top Load Repair Dindigul",
+          "Videocon Top Load Repair Karur",
           "Videocon Digi Gracia Service",
           "Videocon Drain Motor Problem",
           "Videocon Top Load Vibration"
@@ -1200,8 +1200,8 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Videocon washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection charge is ₹249 across Dindigul. If you approve the repair, the visiting fee is adjusted in your final bill."
+        "q": "How much is the visiting charge for Videocon washing machine repair in Karur?",
+        "a": "Our doorstep inspection charge is ₹249 across Karur. If you approve the repair, the visiting fee is adjusted in your final bill."
       },
       {
         "q": "Can you still get spare parts for Videocon washing machines?",
@@ -1212,8 +1212,8 @@ module.exports = [
         "a": "A worn capacitor, jammed spin shaft buffer, or stuck safety brake wire usually causes this. Our technician will inspect and get it spinning smoothly."
       },
       {
-        "q": "Do you repair Videocon washing machines in Dindigul Town and Nagal Nagar?",
-        "a": "Yes, our technicians provide doorstep repair service across Town, Nagal Nagar, Begampur, Oddanchatram, and all surrounding areas."
+        "q": "Do you repair Videocon washing machines in Karur Town and Kagithapuramam?",
+        "a": "Yes, our technicians provide doorstep repair service across Town, Kagithapuramam, Thanthonimalai, Aravakurichi, and all surrounding areas."
       },
       {
         "q": "Why does my Videocon washer wash timer knob tick without motor movement?",
@@ -1236,54 +1236,54 @@ module.exports = [
         "a": "Yes, all functional spare parts replaced by our technicians come with our service warranty."
       },
       {
-        "q": "How do I schedule a Videocon repair visit in Dindigul?",
+        "q": "How do I schedule a Videocon repair visit in Karur?",
         "a": "Simply call our phone number or message us via WhatsApp to book a technician visit at a time convenient for you."
       }
     ],
     "experiences": [
       {
-        "scenario": "Dindigul Town Home — Spin Motor Hum Without Spin",
+        "scenario": "Karur Town Home — Spin Motor Hum Without Spin",
         "text": "Town Nellaiappar temple street-la oru periyavanga veetla Videocon twin tub machine-la wash nallaa aachu aana spin podumbodhu motor satham kekkudhu aana drum rotate aagala. Technician check panni buffer seal leak sari panni, capacitor maathi spin motor-ai fast-ah run aaga ready pannanga."
       },
       {
-        "scenario": "Begampur House — Drain Valve Water Leakage",
-        "text": "Begampur side-la Videocon semi automatic washer-la water fill panna udane drain hose vazhiya veliye oodiduchu. Technician visit panni bottom drain valve open pannapo safety pin and coin maati rubber flap bend aagirundhadhai eduthu, puthiya drain flap pottu leak complete-ah arrest pannanga."
+        "scenario": "Thanthonimalai House — Drain Valve Water Leakage",
+        "text": "Thanthonimalai side-la Videocon semi automatic washer-la water fill panna udane drain hose vazhiya veliye oodiduchu. Technician visit panni bottom drain valve open pannapo safety pin and coin maati rubber flap bend aagirundhadhai eduthu, puthiya drain flap pottu leak complete-ah arrest pannanga."
       },
       {
-        "scenario": "Oddanchatram Residence — Wash Timer Sticking",
-        "text": "Oddanchatram area-la Videocon washer wash timer 15 minutes set panna oru idathula stuck aagi motor continue-ah odikitte irundhadhu. Timer cutoff aagala. Technician mechanical timer inspect panni internal gears worn out aagirundhadhai kaatti, new 4-wire timer replace panni normal cycle restore pannanga."
+        "scenario": "Aravakurichi Residence — Wash Timer Sticking",
+        "text": "Aravakurichi area-la Videocon washer wash timer 15 minutes set panna oru idathula stuck aagi motor continue-ah odikitte irundhadhu. Timer cutoff aagala. Technician mechanical timer inspect panni internal gears worn out aagirundhadhai kaatti, new 4-wire timer replace panni normal cycle restore pannanga."
       },
       {
-        "scenario": "Chettinaickenpatti Home — Wash Pulsator Weak Rotation",
-        "text": "Chettinaickenpatti bypass pakkam Videocon machine-la motor sound nallaa kekkudhu aana drum-la thuni potta pulsator rotate aaga theriyala. Technician back panel open panni drive belt romba loose aagi slip aagirundhadhai paarthu, puthiya V-belt maathi tension adjust panni wash power thirumba nallaa restore panni ready pannanga."
+        "scenario": "Chinna Andankovil Home — Wash Pulsator Weak Rotation",
+        "text": "Chinna Andankovil bypass pakkam Videocon machine-la motor sound nallaa kekkudhu aana drum-la thuni potta pulsator rotate aaga theriyala. Technician back panel open panni drive belt romba loose aagi slip aagirundhadhai paarthu, puthiya V-belt maathi tension adjust panni wash power thirumba nallaa restore panni ready pannanga."
       },
       {
-        "scenario": "Adiyanuthu Industrial Area — Spin Tub Banging Heavily",
-        "text": "Adiyanuthu area-la Videocon semi-automatic machine-la spin cycle start panna drum outer wall-la bayangarama adichikittu irundhadhu. Technician motor base rubber mounting springs loose aagirundhadhai kandupidichu, mounting bushes replace panni smooth spin balance set panni sound illama super-ah run panna vechaanga nalla balance-la."
+        "scenario": "Sanapiratti Industrial Area — Spin Tub Banging Heavily",
+        "text": "Sanapiratti area-la Videocon semi-automatic machine-la spin cycle start panna drum outer wall-la bayangarama adichikittu irundhadhu. Technician motor base rubber mounting springs loose aagirundhadhai kandupidichu, mounting bushes replace panni smooth spin balance set panni sound illama super-ah run panna vechaanga nalla balance-la."
       },
       {
-        "scenario": "Batlagundu Home — Top Load Drain Motor Fault",
-        "text": "Batlagundu veetla Videocon Digi Gracia fully automatic washer-la wash mudinju water veliye pogama beep sound vandhadhu. Technician drain valve motor test pannapo coil cut aagirundhadhu. New drain tractor motor install pannathum water normal-ah drain aagi wash cycle thadangal illama complete aaiduchu super-ah."
+        "scenario": "Velayuthampalayam Home — Top Load Drain Motor Fault",
+        "text": "Velayuthampalayam veetla Videocon Digi Gracia fully automatic washer-la wash mudinju water veliye pogama beep sound vandhadhu. Technician drain valve motor test pannapo coil cut aagirundhadhu. New drain tractor motor install pannathum water normal-ah drain aagi wash cycle thadangal illama complete aaiduchu super-ah."
       }
     ],
     "whyChooseUs": [
       "Experienced with legacy and modern Videocon washing machine models",
       "Doorstep service with verified compatible spare parts",
-      "Quick turnaround time across all 16 Dindigul localities",
+      "Quick turnaround time across all 16 Karur localities",
       "Affordable ₹249 inspection charge adjusted against final repair"
     ]
   },
   {
     "name": "Godrej",
-    "slug": "godrej-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Godrej Eon, Allure & Top/Semi Automatic Washing Machine Service in Dindigul",
-    "intro": "Godrej washing machine problem-ah? If your Godrej washer displays E1 water error, E2 drain problem, E3 unbalance error, or the pulsator is not spinning clothes properly, our local technician can inspect the machine at your home in Dindigul. Godrej Eon, Edge, Allure fully automatic top load and semi-automatic twin-tub machines can be checked with proper care to fix the actual issue before part replacement.",
+    "slug": "godrej-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Godrej Eon, Allure & Top/Semi Automatic Washing Machine Service in Karur",
+    "intro": "Godrej washing machine problem-ah? If your Godrej washer displays E1 water error, E2 drain problem, E3 unbalance error, or the pulsator is not spinning clothes properly, our local technician can inspect the machine at your home in Karur. Godrej Eon, Edge, Allure fully automatic top load and semi-automatic twin-tub machines can be checked with proper care to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "Godrej Top Load Washing Machine Repair in Dindigul",
-        "desc": "Godrej Eon and Allure top load washers with roller coaster wash technology and germ shield programs are widely used in Dindigul. Common faults include E1 water intake delay, E3 spin unbalance, and pulsator slip.",
+        "title": "Godrej Top Load Washing Machine Repair in Karur",
+        "desc": "Godrej Eon and Allure top load washers with roller coaster wash technology and germ shield programs are widely used in Karur. Common faults include E1 water intake delay, E3 spin unbalance, and pulsator slip.",
         "keywords": [
-          "Godrej Top Load Repair Dindigul",
+          "Godrej Top Load Repair Karur",
           "Godrej Eon Washer Service",
           "Godrej E3 Error Fix",
           "Godrej Water Intake Problem"
@@ -1298,10 +1298,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Godrej Semi Automatic Washing Machine Repair in Dindigul",
+        "title": "Godrej Semi Automatic Washing Machine Repair in Karur",
         "desc": "Godrej Edge and classic semi-automatic twin-tub washers with rust-free poly-propylene bodies are reliable workhorses. Common repairs include spin motor not turning, drain valve leaks, and wash timer failure.",
         "keywords": [
-          "Godrej Semi Automatic Repair Dindigul",
+          "Godrej Semi Automatic Repair Karur",
           "Godrej Edge Twin Tub Service",
           "Godrej Spin Tub Repair",
           "Godrej Wash Timer Replacement"
@@ -1316,10 +1316,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Godrej Front Load Washing Machine Repair in Dindigul",
+        "title": "Godrej Front Load Washing Machine Repair in Karur",
         "desc": "Godrej front load washers with allergy protect and smart inverter drive technology provide high-efficiency washing. Common repairs involve door interlock delays, drain pump blockages, and high spin vibration.",
         "keywords": [
-          "Godrej Front Load Repair Dindigul",
+          "Godrej Front Load Repair Karur",
           "Godrej Inverter Front Load Service",
           "Godrej Door Lock Repair",
           "Godrej Drain Pump Fix"
@@ -1416,15 +1416,15 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Godrej washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection fee is ₹249 anywhere in Dindigul. This fee is adjusted into your total bill if you approve the repair work."
+        "q": "How much is the visiting charge for Godrej washing machine repair in Karur?",
+        "a": "Our doorstep inspection fee is ₹249 anywhere in Karur. This fee is adjusted into your total bill if you approve the repair work."
       },
       {
         "q": "What does E1 error mean on a Godrej top load machine?",
         "a": "E1 indicates that water is not entering the machine within the expected time. Clearing borewell sediment from the inlet filter or replacing the inlet valve solves this."
       },
       {
-        "q": "Can you fix Godrej E3 unbalance error in Begampur?",
+        "q": "Can you fix Godrej E3 unbalance error in Thanthonimalai?",
         "a": "Yes, E3 happens when the drum shakes during spin due to worn suspension rods or an unlevel base. Our technician can balance the machine and replace worn rods."
       },
       {
@@ -1436,8 +1436,8 @@ module.exports = [
         "a": "Coins or lint stuck under the rubber drain flap prevent it from sealing shut. Our technician will open the drain housing and clear the blockage."
       },
       {
-        "q": "How quickly can a Godrej technician visit my home in Oddanchatram?",
-        "a": "Technicians are typically dispatched within 2 to 4 hours of your booking across Oddanchatram and surrounding Dindigul localities."
+        "q": "How quickly can a Godrej technician visit my home in Aravakurichi?",
+        "a": "Technicians are typically dispatched within 2 to 4 hours of your booking across Aravakurichi and surrounding Karur localities."
       },
       {
         "q": "Can Godrej PCB control boards be repaired?",
@@ -1453,33 +1453,33 @@ module.exports = [
       },
       {
         "q": "How do I book a Godrej washing machine repair visit?",
-        "a": "Call our service phone number or click the WhatsApp button to book an appointment with our local Dindigul technician."
+        "a": "Call our service phone number or click the WhatsApp button to book an appointment with our local Karur technician."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur House — E1 Water Inlet Salt Choke",
-        "text": "Begampur area-la Godrej Eon top load machine-la water romba slow-ah fill aagi E1 error kaati cycle stop aachu. Technician visit panni inlet valve filter-la hard water salt scaling irundhadhai clean panni, weak solenoid valve maathunadhum water flow speed-ah aagi wash cycle perfectly mudinjadhu."
+        "scenario": "Thanthonimalai House — E1 Water Inlet Salt Choke",
+        "text": "Thanthonimalai area-la Godrej Eon top load machine-la water romba slow-ah fill aagi E1 error kaati cycle stop aachu. Technician visit panni inlet valve filter-la hard water salt scaling irundhadhai clean panni, weak solenoid valve maathunadhum water flow speed-ah aagi wash cycle perfectly mudinjadhu."
       },
       {
-        "scenario": "Oddanchatram Apartment — E3 Spin Heavy Vibration",
-        "text": "Oddanchatram apartment-la Godrej fully automatic machine spin podumbodhu bayangarama satham pottu adichikittu E3 error vandhadhu. Technician inspect panni 4 suspension damper springs tension balance poiduchu-nu sonnaanga. New damper set maathi level set pannathum machine smooth-ah silent-ah spin aaga aaramichiduchu nalla balance-la."
+        "scenario": "Aravakurichi Apartment — E3 Spin Heavy Vibration",
+        "text": "Aravakurichi apartment-la Godrej fully automatic machine spin podumbodhu bayangarama satham pottu adichikittu E3 error vandhadhu. Technician inspect panni 4 suspension damper springs tension balance poiduchu-nu sonnaanga. New damper set maathi level set pannathum machine smooth-ah silent-ah spin aaga aaramichiduchu nalla balance-la."
       },
       {
-        "scenario": "Dindigul Nagal Nagar Residence — Spin Tub Dead",
-        "text": "Nagal Nagar pakkam Godrej Edge semi automatic machine-la wash nallaa aachu aana spin tub-la clothes potta spin motor rotate aagala, hum sound mattum vandhadhu. Technician buffer seal check panni weak motor capacitor replace pannathum spin dryer full speed-la fast-ah rotate aagi ready aaiduchu."
+        "scenario": "Karur Kagithapuramam Residence — Spin Tub Dead",
+        "text": "Kagithapuramam pakkam Godrej Edge semi automatic machine-la wash nallaa aachu aana spin tub-la clothes potta spin motor rotate aagala, hum sound mattum vandhadhu. Technician buffer seal check panni weak motor capacitor replace pannathum spin dryer full speed-la fast-ah rotate aagi ready aaiduchu."
       },
       {
-        "scenario": "Batlagundu Home — Pulsator Stripped Spline",
-        "text": "Batlagundu veetla Godrej machine motor satham kekkudhu aana center pulsator thirumbala, clothes wash aagala. Technician check panni pulsator center gear teeth theinju poiduchu-nu sonnaanga. Original Godrej roller coaster pulsator maathi wash function restore pannathum thuni romba clean-ah wash aachu nalla speed-la."
+        "scenario": "Velayuthampalayam Home — Pulsator Stripped Spline",
+        "text": "Velayuthampalayam veetla Godrej machine motor satham kekkudhu aana center pulsator thirumbala, clothes wash aagala. Technician check panni pulsator center gear teeth theinju poiduchu-nu sonnaanga. Original Godrej roller coaster pulsator maathi wash function restore pannathum thuni romba clean-ah wash aachu nalla speed-la."
       },
       {
         "scenario": "Rahmath Nagar House — Drain Valve Continuous Leak",
         "text": "Rahmath Nagar-la Godrej washer tap on panna podhum water drum-la nikkama direct-ah drain hose vazhiya veliye poiduchu. Technician drain valve chamber open panni maatiyirundha safety pin eduthu, puthiya rubber flap maathunadhum water perfectly hold aagi washing program smooth-ah run aachu."
       },
       {
-        "scenario": "Round Road Residence — Wash Timer Sticking",
-        "text": "Round Road-la Godrej twin tub wash timer oru point-la stuck aagi switch off aagala, continuous-ah wash aagitte irundhadhu. Technician mechanical timer inspect panni burnt contacts irundhadhai kandupidichu, new original timer install panni cycle perfectly time-ku stop aagura maadhiri ready pannanga."
+        "scenario": "Sengunthapuram Residence — Wash Timer Sticking",
+        "text": "Sengunthapuram-la Godrej twin tub wash timer oru point-la stuck aagi switch off aagala, continuous-ah wash aagitte irundhadhu. Technician mechanical timer inspect panni burnt contacts irundhadhai kandupidichu, new original timer install panni cycle perfectly time-ku stop aagura maadhiri ready pannanga."
       }
     ],
     "whyChooseUs": [
@@ -1491,15 +1491,15 @@ module.exports = [
   },
   {
     "name": "Panasonic",
-    "slug": "panasonic-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Panasonic StainMaster, Econavi & Top/Front Load Service in Dindigul",
-    "intro": "Panasonic washing machine problem-ah? If your Panasonic washer shows U11 drain error, U12 lid open error, U13 unbalance fault, or the StainMaster heater is not working, our local technician can inspect the machine at your home in Dindigul. Panasonic Econavi front load, ActiveFoam top load, and semi-automatic twin-tub machines can be tested thoroughly to fix the actual issue before part replacement.",
+    "slug": "panasonic-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Panasonic StainMaster, Econavi & Top/Front Load Service in Karur",
+    "intro": "Panasonic washing machine problem-ah? If your Panasonic washer shows U11 drain error, U12 lid open error, U13 unbalance fault, or the StainMaster heater is not working, our local technician can inspect the machine at your home in Karur. Panasonic Econavi front load, ActiveFoam top load, and semi-automatic twin-tub machines can be tested thoroughly to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "Panasonic Top Load Washing Machine Repair in Dindigul",
+        "title": "Panasonic Top Load Washing Machine Repair in Karur",
         "desc": "Panasonic top load washers with ActiveFoam system and StainMaster hot wash programs provide deep stain removal. Common issues include U11 drain block, U12 lid switch error, U13 spin unbalance, and slow water filling.",
         "keywords": [
-          "Panasonic Top Load Repair Dindigul",
+          "Panasonic Top Load Repair Karur",
           "Panasonic StainMaster Service",
           "Panasonic U11 Error Fix",
           "Panasonic ActiveFoam Washer Repair"
@@ -1514,10 +1514,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Panasonic Front Load Washing Machine Repair in Dindigul",
+        "title": "Panasonic Front Load Washing Machine Repair in Karur",
         "desc": "Panasonic front load machines with Econavi sensors and inverter drives offer quiet and energy-efficient washing. Typical issues include U14 water supply error, door interlock sticking, and drum bearing noise during high spin.",
         "keywords": [
-          "Panasonic Front Load Repair Dindigul",
+          "Panasonic Front Load Repair Karur",
           "Panasonic Econavi Service",
           "Panasonic U14 Water Error",
           "Panasonic Front Load Bearing Fix"
@@ -1532,10 +1532,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Panasonic Semi Automatic Washing Machine Repair in Dindigul",
+        "title": "Panasonic Semi Automatic Washing Machine Repair in Karur",
         "desc": "Panasonic semi-automatic washers with rust-free bodies and air dry lids are workhorses in many homes. Frequent issues include spin motor humming without rotation, wash timer knob broken, and water leaking from tub base.",
         "keywords": [
-          "Panasonic Semi Automatic Repair Dindigul",
+          "Panasonic Semi Automatic Repair Karur",
           "Panasonic Twin Tub Service",
           "Panasonic Spin Motor Replacement",
           "Panasonic Wash Timer Repair"
@@ -1632,15 +1632,15 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Panasonic washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection fee is ₹249 anywhere in Dindigul. This amount is adjusted into your final bill if you approve the repair."
+        "q": "How much is the visiting charge for Panasonic washing machine repair in Karur?",
+        "a": "Our doorstep inspection fee is ₹249 anywhere in Karur. This amount is adjusted into your final bill if you approve the repair."
       },
       {
         "q": "What does U11 error mean on my Panasonic washing machine?",
         "a": "U11 indicates a drain fault. It means water could not be drained out within the timeout period. Checking and clearing the drain filter or pump usually fixes it."
       },
       {
-        "q": "Can you fix Panasonic U13 unbalance error in Begampur?",
+        "q": "Can you fix Panasonic U13 unbalance error in Thanthonimalai?",
         "a": "Yes, U13 happens when the drum shakes during spin due to worn suspension rods or an unlevel base. Our technician can balance the machine and replace worn rods."
       },
       {
@@ -1652,8 +1652,8 @@ module.exports = [
         "a": "Yes, we service Panasonic StainMaster models including heater coil testing, temperature sensors, and ActiveFoam generator repairs."
       },
       {
-        "q": "How quickly can a Panasonic technician visit my home in Oddanchatram?",
-        "a": "Technicians are typically dispatched within 2 to 4 hours of your booking across Oddanchatram and surrounding Dindigul localities."
+        "q": "How quickly can a Panasonic technician visit my home in Aravakurichi?",
+        "a": "Technicians are typically dispatched within 2 to 4 hours of your booking across Aravakurichi and surrounding Karur localities."
       },
       {
         "q": "Are genuine spare parts used for Panasonic washing machine repairs?",
@@ -1669,33 +1669,33 @@ module.exports = [
       },
       {
         "q": "How do I book a Panasonic washing machine repair visit?",
-        "a": "Call our service phone number or click the WhatsApp button to book an appointment with our local Dindigul technician."
+        "a": "Call our service phone number or click the WhatsApp button to book an appointment with our local Karur technician."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur House — U11 Drain Error Clearance",
-        "text": "Begampur side-la oru customer veetla Panasonic top load machine-la wash cycle mudinjathukku apram water veliye pogama U11 error kaatuchu. Technician visit panni bottom drain valve open pannapo coin and threads maatiyirundhadhai clean panni, drain motor test panni cycle complete aaguradha confirm pannanga."
+        "scenario": "Thanthonimalai House — U11 Drain Error Clearance",
+        "text": "Thanthonimalai side-la oru customer veetla Panasonic top load machine-la wash cycle mudinjathukku apram water veliye pogama U11 error kaatuchu. Technician visit panni bottom drain valve open pannapo coin and threads maatiyirundhadhai clean panni, drain motor test panni cycle complete aaguradha confirm pannanga."
       },
       {
-        "scenario": "Oddanchatram Apartment — U13 Heavy Spin Shaking",
-        "text": "Oddanchatram area-la Panasonic ActiveFoam machine spin aagumbodhu periya satham pottu adichikittu U13 error kaatuchu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Original damper set maathi level perfectly set pannathum spin completely smooth aagi sound illama silent-ah odiduchu nalla balance-la."
+        "scenario": "Aravakurichi Apartment — U13 Heavy Spin Shaking",
+        "text": "Aravakurichi area-la Panasonic ActiveFoam machine spin aagumbodhu periya satham pottu adichikittu U13 error kaatuchu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Original damper set maathi level perfectly set pannathum spin completely smooth aagi sound illama silent-ah odiduchu nalla balance-la."
       },
       {
-        "scenario": "Dindigul Nagal Nagar Home — U12 Lid Switch Failure",
-        "text": "Nagal Nagar central market pakkam Panasonic washer lid close pannalum U12 error blink aagi spin aagala. Technician check panni lid safety magnetic switch faulty aagirundhadhai identify panni, puthiya lid switch replace panni spin function-ai instant-ah ready panni wash cycle-ai complete panna vechaanga."
+        "scenario": "Karur Kagithapuramam Home — U12 Lid Switch Failure",
+        "text": "Kagithapuramam central market pakkam Panasonic washer lid close pannalum U12 error blink aagi spin aagala. Technician check panni lid safety magnetic switch faulty aagirundhadhai identify panni, puthiya lid switch replace panni spin function-ai instant-ah ready panni wash cycle-ai complete panna vechaanga."
       },
       {
-        "scenario": "Batlagundu Residence — U14 Slow Water Filling",
-        "text": "Batlagundu veetla Panasonic front load machine-la water fill aaga romba neram aagi U14 error code vandhudhu. Technician inlet solenoid valve-la hard water salt scaling clean panni, weak valve coil maathi normal water flow restore panni wash cycle-ai speed aakkinaanga thadangal illama super-ah."
+        "scenario": "Velayuthampalayam Residence — U14 Slow Water Filling",
+        "text": "Velayuthampalayam veetla Panasonic front load machine-la water fill aaga romba neram aagi U14 error code vandhudhu. Technician inlet solenoid valve-la hard water salt scaling clean panni, weak valve coil maathi normal water flow restore panni wash cycle-ai speed aakkinaanga thadangal illama super-ah."
       },
       {
-        "scenario": "Round Road Home — Semi Automatic Spin Motor Silent",
-        "text": "Round Road-la Panasonic twin tub machine-la wash nallaa aachu aana spin dryer rotate aagala, hum sound mattum vandhadhu. Technician buffer seal check panni weak motor capacitor replace pannathum spin dryer fast-ah rotate aagi clothes dry panna aaramichiduchu super-ah nalla speed-la."
+        "scenario": "Sengunthapuram Home — Semi Automatic Spin Motor Silent",
+        "text": "Sengunthapuram-la Panasonic twin tub machine-la wash nallaa aachu aana spin dryer rotate aagala, hum sound mattum vandhadhu. Technician buffer seal check panni weak motor capacitor replace pannathum spin dryer fast-ah rotate aagi clothes dry panna aaramichiduchu super-ah nalla speed-la."
       },
       {
-        "scenario": "Seelapadi House — Continuous Water Drainage",
-        "text": "Seelapadi-la Panasonic machine tap on panna podhum water drum-la nikkama direct-ah drain hose vazhiya veliye poiduchu. Technician drain valve chamber open panni maatiyirundha safety pin eduthu, new rubber flap maathunadhum water drum-la perfectly hold aagi wash program smooth-ah mudinjadhu thadangal illama."
+        "scenario": "Vengamedu House — Continuous Water Drainage",
+        "text": "Vengamedu-la Panasonic machine tap on panna podhum water drum-la nikkama direct-ah drain hose vazhiya veliye poiduchu. Technician drain valve chamber open panni maatiyirundha safety pin eduthu, new rubber flap maathunadhum water drum-la perfectly hold aagi wash program smooth-ah mudinjadhu thadangal illama."
       }
     ],
     "whyChooseUs": [
@@ -1707,15 +1707,15 @@ module.exports = [
   },
   {
     "name": "Onida",
-    "slug": "onida-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Onida Hydrofall, Crystal & Semi/Fully Automatic Service in Dindigul",
-    "intro": "Onida washing machine problem-ah? If your Onida washer is not spinning, making loud grinding noise, water is leaking from the bottom, or the timer is not working, our local technician can inspect the machine at your home in Dindigul. Onida Hydrofall top load, Crystal series, and classic semi-automatic twin-tub machines can be checked with proper care to fix the actual issue before part replacement.",
+    "slug": "onida-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Onida Hydrofall, Crystal & Semi/Fully Automatic Service in Karur",
+    "intro": "Onida washing machine problem-ah? If your Onida washer is not spinning, making loud grinding noise, water is leaking from the bottom, or the timer is not working, our local technician can inspect the machine at your home in Karur. Onida Hydrofall top load, Crystal series, and classic semi-automatic twin-tub machines can be checked with proper care to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "Onida Semi Automatic Washing Machine Repair in Dindigul",
-        "desc": "Onida semi-automatic twin-tub washers with Hydrofall wash technology and rust-free cabinets are common in many Dindigul residences. Common issues include spin motor jamming, wash timer sticking, and drain valve leaks.",
+        "title": "Onida Semi Automatic Washing Machine Repair in Karur",
+        "desc": "Onida semi-automatic twin-tub washers with Hydrofall wash technology and rust-free cabinets are common in many Karur residences. Common issues include spin motor jamming, wash timer sticking, and drain valve leaks.",
         "keywords": [
-          "Onida Semi Automatic Repair Dindigul",
+          "Onida Semi Automatic Repair Karur",
           "Onida Twin Tub Service",
           "Onida Spin Motor Repair",
           "Onida Wash Timer Replacement"
@@ -1730,10 +1730,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Onida Fully Automatic Top Load Repair in Dindigul",
+        "title": "Onida Fully Automatic Top Load Repair in Karur",
         "desc": "Onida fully automatic top load washers feature digital LED panels and multiple wash programs. Common faults include water not draining, drum not spinning during rinse, and water inlet valve failure.",
         "keywords": [
-          "Onida Top Load Repair Dindigul",
+          "Onida Top Load Repair Karur",
           "Onida Crystal Washer Service",
           "Onida Drain Motor Problem",
           "Onida Top Load Vibration"
@@ -1826,8 +1826,8 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Onida washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection charge is ₹249 across Dindigul. If you approve the repair, the visiting fee is adjusted in your final bill."
+        "q": "How much is the visiting charge for Onida washing machine repair in Karur?",
+        "a": "Our doorstep inspection charge is ₹249 across Karur. If you approve the repair, the visiting fee is adjusted in your final bill."
       },
       {
         "q": "Can you still get spare parts for Onida washing machines?",
@@ -1838,8 +1838,8 @@ module.exports = [
         "a": "A worn capacitor, jammed spin shaft buffer, or stuck safety brake wire usually causes this. Our technician will inspect and get it spinning smoothly."
       },
       {
-        "q": "Do you repair Onida washing machines in Dindigul Town and Nagal Nagar?",
-        "a": "Yes, our technicians provide doorstep repair service across Town, Nagal Nagar, Begampur, Oddanchatram, and all surrounding areas."
+        "q": "Do you repair Onida washing machines in Karur Town and Kagithapuramam?",
+        "a": "Yes, our technicians provide doorstep repair service across Town, Kagithapuramam, Thanthonimalai, Aravakurichi, and all surrounding areas."
       },
       {
         "q": "Why does my Onida washer wash timer knob tick without motor movement?",
@@ -1862,54 +1862,54 @@ module.exports = [
         "a": "Yes, all functional spare parts replaced by our technicians come with our service warranty."
       },
       {
-        "q": "How do I schedule an Onida repair visit in Dindigul?",
+        "q": "How do I schedule an Onida repair visit in Karur?",
         "a": "Simply call our phone number or message us via WhatsApp to book a technician visit at a time convenient for you."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur House — Spin Motor Hum Without Spin",
-        "text": "Begampur bus stand pakkam Onida twin tub machine-la wash nallaa aachu aana spin podumbodhu motor satham kekkudhu aana drum rotate aagala. Technician check panni buffer seal leak aagi brake lock aana nala release panni, capacitor maathi spin ready panni kuduthaanga."
+        "scenario": "Thanthonimalai House — Spin Motor Hum Without Spin",
+        "text": "Thanthonimalai bus stand pakkam Onida twin tub machine-la wash nallaa aachu aana spin podumbodhu motor satham kekkudhu aana drum rotate aagala. Technician check panni buffer seal leak aagi brake lock aana nala release panni, capacitor maathi spin ready panni kuduthaanga."
       },
       {
-        "scenario": "Oddanchatram Residence — Drain Valve Water Leakage",
-        "text": "Oddanchatram flyover pakkam Onida semi automatic washer-la water fill panna udane drain hose vazhiya veliye oodiduchu. Technician visit panni bottom drain valve open pannapo safety pin and coin maati rubber flap bend aagirundhadhai eduthu, puthiya drain flap pottu leak complete-ah arrest pannanga."
+        "scenario": "Aravakurichi Residence — Drain Valve Water Leakage",
+        "text": "Aravakurichi flyover pakkam Onida semi automatic washer-la water fill panna udane drain hose vazhiya veliye oodiduchu. Technician visit panni bottom drain valve open pannapo safety pin and coin maati rubber flap bend aagirundhadhai eduthu, puthiya drain flap pottu leak complete-ah arrest pannanga."
       },
       {
-        "scenario": "Dindigul Town Home — Wash Timer Sticking",
+        "scenario": "Karur Town Home — Wash Timer Sticking",
         "text": "Town West Car Street-la Onida washer wash timer 15 minutes set panna oru idathula stuck aagi motor continue-ah odikitte irundhadhu. Timer cutoff aagala. Technician mechanical timer inspect panni internal gears worn out aagirundhadhai kaatti, new timer replace panni normal wash cycle restore pannanga."
       },
       {
-        "scenario": "Chettinaickenpatti Home — Wash Pulsator Weak Rotation",
-        "text": "Chettinaickenpatti-la Onida machine-la motor sound nallaa kekkudhu aana drum-la thuni potta pulsator rotate aaga theriyala. Technician back panel open panni drive belt romba loose aagi slip aagirundhadhai paarthu, puthiya V-belt maathi tension adjust panni wash rotation nalla speed-la restore panni kuduthaanga."
+        "scenario": "Chinna Andankovil Home — Wash Pulsator Weak Rotation",
+        "text": "Chinna Andankovil-la Onida machine-la motor sound nallaa kekkudhu aana drum-la thuni potta pulsator rotate aaga theriyala. Technician back panel open panni drive belt romba loose aagi slip aagirundhadhai paarthu, puthiya V-belt maathi tension adjust panni wash rotation nalla speed-la restore panni kuduthaanga."
       },
       {
-        "scenario": "Adiyanuthu Industrial Area — Spin Tub Banging Heavily",
-        "text": "Adiyanuthu-la Onida semi-automatic machine-la spin cycle start panna drum outer wall-la bayangarama adichikittu irundhadhu. Technician motor base rubber mounting springs loose aagirundhadhai kandupidichu, mounting bushes replace panni smooth spin balance set panni vibration illama silent-ah odavaithaanga nalla result-oda super-ah nallaa."
+        "scenario": "Sanapiratti Industrial Area — Spin Tub Banging Heavily",
+        "text": "Sanapiratti-la Onida semi-automatic machine-la spin cycle start panna drum outer wall-la bayangarama adichikittu irundhadhu. Technician motor base rubber mounting springs loose aagirundhadhai kandupidichu, mounting bushes replace panni smooth spin balance set panni vibration illama silent-ah odavaithaanga nalla result-oda super-ah nallaa."
       },
       {
-        "scenario": "Batlagundu Home — Top Load Drain Motor Fault",
-        "text": "Batlagundu veetla Onida Crystal fully automatic washer-la wash mudinju water veliye pogama beep sound vandhadhu. Technician drain valve motor test pannapo coil cut aagirundhadhu. New drain tractor motor install pannathum water normal-ah drain aagi wash cycle smooth-ah mudinjadhu thadangal illama nallaa."
+        "scenario": "Velayuthampalayam Home — Top Load Drain Motor Fault",
+        "text": "Velayuthampalayam veetla Onida Crystal fully automatic washer-la wash mudinju water veliye pogama beep sound vandhadhu. Technician drain valve motor test pannapo coil cut aagirundhadhu. New drain tractor motor install pannathum water normal-ah drain aagi wash cycle smooth-ah mudinjadhu thadangal illama nallaa."
       }
     ],
     "whyChooseUs": [
       "Experienced with legacy and modern Onida washing machine models",
       "Doorstep service with verified compatible spare parts",
-      "Quick turnaround time across all 16 Dindigul localities",
+      "Quick turnaround time across all 16 Karur localities",
       "Affordable ₹249 inspection charge adjusted against final repair"
     ]
   },
   {
     "name": "Hitachi",
-    "slug": "hitachi-washing-machine-repair-service-in-dindigul.html",
-    "tagline": "Doorstep Hitachi Big Drum, Dynamic Stream & Inverter Washing Machine Service in Dindigul",
-    "intro": "Hitachi washing machine problem-ah? If your Hitachi washer is showing C01 water error, C02 drain problem, C04 unbalance error, or the Big Drum motor is making grinding noise, our local technician can inspect the machine at your home in Dindigul. Hitachi front load Big Drum, Dynamic Stream top load, and inverter machines can be tested thoroughly to fix the actual issue before part replacement.",
+    "slug": "hitachi-washing-machine-repair-service-in-karur.html",
+    "tagline": "Doorstep Hitachi Big Drum, Dynamic Stream & Inverter Washing Machine Service in Karur",
+    "intro": "Hitachi washing machine problem-ah? If your Hitachi washer is showing C01 water error, C02 drain problem, C04 unbalance error, or the Big Drum motor is making grinding noise, our local technician can inspect the machine at your home in Karur. Hitachi front load Big Drum, Dynamic Stream top load, and inverter machines can be tested thoroughly to fix the actual issue before part replacement.",
     "types": [
       {
-        "title": "Hitachi Front Load Washing Machine Repair in Dindigul",
+        "title": "Hitachi Front Load Washing Machine Repair in Karur",
         "desc": "Hitachi Big Drum front load washers with dual vibration absorbers and auto self-clean technology provide premium washing performance. Common issues include C02 drain timeout, door lock delays, and high spin bearing rumbling.",
         "keywords": [
-          "Hitachi Front Load Repair Dindigul",
+          "Hitachi Front Load Repair Karur",
           "Hitachi Big Drum Service",
           "Hitachi C02 Error Fix",
           "Hitachi Front Load Bearing Repair"
@@ -1924,10 +1924,10 @@ module.exports = [
         ]
       },
       {
-        "title": "Hitachi Top Load Washing Machine Repair in Dindigul",
+        "title": "Hitachi Top Load Washing Machine Repair in Karur",
         "desc": "Hitachi top load washers with Dynamic-Stream Wash and 4-step penetrating wash technology dissolve detergent thoroughly. Common repairs include C01 water supply error, C04 spin unbalance, and pulsator slip.",
         "keywords": [
-          "Hitachi Top Load Repair Dindigul",
+          "Hitachi Top Load Repair Karur",
           "Hitachi Dynamic Stream Service",
           "Hitachi C01 Error Fix",
           "Hitachi Top Load Shaking Problem"
@@ -2024,15 +2024,15 @@ module.exports = [
     ],
     "faqs": [
       {
-        "q": "How much is the visiting charge for Hitachi washing machine repair in Dindigul?",
-        "a": "Our doorstep inspection fee for Hitachi washing machines is ₹249 across Dindigul. This amount is adjusted into the final bill if you proceed with repair."
+        "q": "How much is the visiting charge for Hitachi washing machine repair in Karur?",
+        "a": "Our doorstep inspection fee for Hitachi washing machines is ₹249 across Karur. This amount is adjusted into the final bill if you proceed with repair."
       },
       {
         "q": "What does C02 error mean on my Hitachi washing machine?",
         "a": "C02 indicates a drain fault. It means water could not be drained out within the timeout period. Checking and clearing the drain filter or pump usually fixes it."
       },
       {
-        "q": "Can you fix Hitachi C04 unbalance error in Begampur?",
+        "q": "Can you fix Hitachi C04 unbalance error in Thanthonimalai?",
         "a": "Yes, C04 happens when the drum shakes during spin due to worn suspension rods or an unlevel base. Our technician can balance the machine and replace worn rods."
       },
       {
@@ -2040,12 +2040,12 @@ module.exports = [
         "a": "A loud rumbling noise on spin cycle points to worn drum bearings or loose shock absorbers. Our technician can replace bearings and restore quiet operation."
       },
       {
-        "q": "Do you repair Hitachi Big Drum washing machines in Dindigul?",
+        "q": "Do you repair Hitachi Big Drum washing machines in Karur?",
         "a": "Yes, our technicians are trained to service Hitachi Big Drum front load models including inverter motor testing and electronic control board repairs."
       },
       {
-        "q": "How quickly can a Hitachi technician visit my home in Oddanchatram?",
-        "a": "Technicians are typically dispatched within 2 to 4 hours of your booking across Oddanchatram and surrounding Dindigul localities."
+        "q": "How quickly can a Hitachi technician visit my home in Aravakurichi?",
+        "a": "Technicians are typically dispatched within 2 to 4 hours of your booking across Aravakurichi and surrounding Karur localities."
       },
       {
         "q": "Are genuine spare parts used for Hitachi washing machine repairs?",
@@ -2061,33 +2061,33 @@ module.exports = [
       },
       {
         "q": "How do I book a Hitachi washing machine repair visit?",
-        "a": "Call our service phone number or click the WhatsApp button to book an appointment with our local Dindigul technician."
+        "a": "Call our service phone number or click the WhatsApp button to book an appointment with our local Karur technician."
       }
     ],
     "experiences": [
       {
-        "scenario": "Begampur House — C02 Drain Pump Choke",
-        "text": "Begampur side-la oru customer veetla Hitachi Big Drum front load machine-la wash cycle mudinju water veliye pogama C02 error kaatuchu. Technician visit panni front bottom drain filter open pannapo chinna coin pump fan-la maati locked aagirundhadhu. Filter clean panni pump restart pannathum drain smooth-ah aachu."
+        "scenario": "Thanthonimalai House — C02 Drain Pump Choke",
+        "text": "Thanthonimalai side-la oru customer veetla Hitachi Big Drum front load machine-la wash cycle mudinju water veliye pogama C02 error kaatuchu. Technician visit panni front bottom drain filter open pannapo chinna coin pump fan-la maati locked aagirundhadhu. Filter clean panni pump restart pannathum drain smooth-ah aachu."
       },
       {
-        "scenario": "Oddanchatram Apartment — C04 Heavy Spin Vibration",
-        "text": "Oddanchatram apartment-la Hitachi top load spin aagumbodhu periya satham pottu adichikittu C04 error vandhadhu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Original damper set maathi level set pannathum spin completely silent aagi drum smooth-ah odiduchu vibration illama nalla balance-la."
+        "scenario": "Aravakurichi Apartment — C04 Heavy Spin Vibration",
+        "text": "Aravakurichi apartment-la Hitachi top load spin aagumbodhu periya satham pottu adichikittu C04 error vandhadhu. Technician check panni 4 suspension rods tension poiduchu-nu sonnaanga. Original damper set maathi level set pannathum spin completely silent aagi drum smooth-ah odiduchu vibration illama nalla balance-la."
       },
       {
-        "scenario": "Dindigul Nagal Nagar Home — C01 Slow Water Intake",
-        "text": "Nagal Nagar central market pakkam irukkura veetla Hitachi washer-la water fill aaga 30 minutes eduthu C01 error code kaatuchu. Technician inlet valve filter-la hard water salt scaling clean panni, weak valve coil replace pannanga. Water speed normal aagi wash cycle time-ku mudinjadhu."
+        "scenario": "Karur Kagithapuramam Home — C01 Slow Water Intake",
+        "text": "Kagithapuramam central market pakkam irukkura veetla Hitachi washer-la water fill aaga 30 minutes eduthu C01 error code kaatuchu. Technician inlet valve filter-la hard water salt scaling clean panni, weak valve coil replace pannanga. Water speed normal aagi wash cycle time-ku mudinjadhu."
       },
       {
-        "scenario": "Batlagundu House — Door Lock Switch Jammed",
-        "text": "Batlagundu-la Hitachi front load wash mudinju door latch release aagala. Customer force pannaamal call pannanga. Technician emergency release use panni door open pannitu, faulty bi-metal door lock switch maathi proper-ah close and open aagura maadhiri safe-ah fix panni ready aakki kuduthaanga nalla condition-la."
+        "scenario": "Velayuthampalayam House — Door Lock Switch Jammed",
+        "text": "Velayuthampalayam-la Hitachi front load wash mudinju door latch release aagala. Customer force pannaamal call pannanga. Technician emergency release use panni door open pannitu, faulty bi-metal door lock switch maathi proper-ah close and open aagura maadhiri safe-ah fix panni ready aakki kuduthaanga nalla condition-la."
       },
       {
-        "scenario": "Round Road Residence — Roaring Bearing Noise",
-        "text": "Round Road-la Hitachi front load 1200 RPM spin-la pogumbodhu veede adhirara alavukku periya grinding satham vandhadhu. Technician tub open panni water seal poyi bearings rusted aagirundhadhai kaatinaanga. Puthiya heavy duty bearings set maathunathum machine sound ninnu romba silent-ah super-ah aaiduchu nalla spin speed-la."
+        "scenario": "Sengunthapuram Residence — Roaring Bearing Noise",
+        "text": "Sengunthapuram-la Hitachi front load 1200 RPM spin-la pogumbodhu veede adhirara alavukku periya grinding satham vandhadhu. Technician tub open panni water seal poyi bearings rusted aagirundhadhai kaatinaanga. Puthiya heavy duty bearings set maathunathum machine sound ninnu romba silent-ah super-ah aaiduchu nalla spin speed-la."
       },
       {
-        "scenario": "GTN Nagar Home — Continuous Water Drainage",
-        "text": "GTN Nagar-la Hitachi machine tap on panna podhum water drum-la nikkama direct-ah drain pipe vazhiya veliye poiduchu. Technician drain valve open panni rubber flap-la maatiyirundha debris clear panni, new spring maathi water hold aagura maadhiri perfectly ready panni kuduthaanga thadangal illama."
+        "scenario": "Rayanur Home — Continuous Water Drainage",
+        "text": "Rayanur-la Hitachi machine tap on panna podhum water drum-la nikkama direct-ah drain pipe vazhiya veliye poiduchu. Technician drain valve open panni rubber flap-la maatiyirundha debris clear panni, new spring maathi water hold aagura maadhiri perfectly ready panni kuduthaanga thadangal illama."
       }
     ],
     "whyChooseUs": [

@@ -10,7 +10,7 @@ async function runBrowserTest() {
     '--headless=new',
     '--disable-gpu',
     `--remote-debugging-port=${PORT}`,
-    '--user-data-dir=d:/servicecenterdindigul.com/temp_browser_profile'
+    '--user-data-dir=d:/servicecenterkarur.com/temp_browser_profile'
   ], { stdio: 'ignore' });
 
   // Wait for browser to be ready
@@ -35,7 +35,7 @@ async function runBrowserTest() {
   console.log('Connected to Edge:', versionData.Browser);
 
   // Create a new target/tab
-  const newTabRes = await fetch(`http://localhost:${PORT}/json/new?http://localhost:3000/fridge/refrigerator-repair-service-in-dindigul.html`, { method: 'PUT' });
+  const newTabRes = await fetch(`http://localhost:${PORT}/json/new?http://localhost:3000/fridge/refrigerator-repair-service-in-karur.html`, { method: 'PUT' });
   const tab = await newTabRes.json();
   const ws = new WebSocket(tab.webSocketDebuggerUrl);
 
@@ -77,12 +77,12 @@ async function runBrowserTest() {
   ];
 
   const testPages = [
-    'http://localhost:3000/fridge/refrigerator-repair-service-in-dindigul.html',
-    'http://localhost:3000/fridge/liebherr-refrigerator-repair-service-in-dindigul.html',
-    'http://localhost:3000/fridge/samsung-refrigerator-repair-service-in-dindigul.html',
-    'http://localhost:3000/fridge/whirlpool-refrigerator-repair-service-in-dindigul.html',
-    'http://localhost:3000/fridge/bosch-refrigerator-repair-service-in-dindigul.html',
-    'http://localhost:3000/fridge/hisense-refrigerator-repair-service-in-dindigul.html'
+    'http://localhost:3000/fridge/refrigerator-repair-service-in-karur.html',
+    'http://localhost:3000/fridge/liebherr-refrigerator-repair-service-in-karur.html',
+    'http://localhost:3000/fridge/samsung-refrigerator-repair-service-in-karur.html',
+    'http://localhost:3000/fridge/whirlpool-refrigerator-repair-service-in-karur.html',
+    'http://localhost:3000/fridge/bosch-refrigerator-repair-service-in-karur.html',
+    'http://localhost:3000/fridge/hisense-refrigerator-repair-service-in-karur.html'
   ];
 
   let totalErrors = 0;

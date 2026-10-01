@@ -37,7 +37,7 @@ if (!brandMismatch) {
 
 // 2. Verify Slugs
 allBrands.forEach(b => {
-  const expectedSlug = b.name.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-dindigul.html';
+  const expectedSlug = b.name.toLowerCase().replace(/\s+/g, '-') + '-refrigerator-repair-service-in-karur.html';
   if (b.slug !== expectedSlug) {
     console.error(`Slug mismatch for ${b.name}: expected ${expectedSlug}, got ${b.slug}`);
   }

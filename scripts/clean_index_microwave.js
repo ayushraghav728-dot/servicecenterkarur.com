@@ -14,8 +14,8 @@ if (startIdx !== -1) {
   }
 }
 
-// Ensure TV link is tv/tv-repair-service-in-dindigul.html
-html = html.replace('href="tv-repair-service-in-dindigul.html"', 'href="tv/tv-repair-service-in-dindigul.html"');
+// Ensure TV link is tv/tv-repair-service-in-karur.html
+html = html.replace('href="tv-repair-service-in-karur.html"', 'href="tv/tv-repair-service-in-karur.html"');
 
 fs.writeFileSync('index.html', html, 'utf8');
 console.log('Saved index.html');

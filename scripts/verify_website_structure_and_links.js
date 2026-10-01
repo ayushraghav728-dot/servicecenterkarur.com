@@ -52,7 +52,7 @@ htmlFiles.forEach(file => {
     totalCheckedLinks++;
 
     // Check for old root appliance paths
-    if (rawUrl.includes('microwave-repair-service-in-dindigul.html')) {
+    if (rawUrl.includes('microwave-repair-service-in-karur.html')) {
       console.log(`[MICROWAVE LINK] in ${path.relative(rootDir, file)}: ${rawUrl}`);
       microwaveLinks++;
     }
@@ -78,7 +78,7 @@ console.log(`Microwave links: ${microwaveLinks}`);
 // 2. Check sitemap.xml
 console.log(`\nAuditing sitemap.xml...`);
 const sitemapContent = fs.readFileSync(path.join(rootDir, 'sitemap.xml'), 'utf8');
-const locMatches = sitemapContent.matchAll(/<loc>https:\/\/servicecenterdindigul\.com\/([^<]+)<\/loc>/g);
+const locMatches = sitemapContent.matchAll(/<loc>https:\/\/servicecenterkarur\.com\/([^<]+)<\/loc>/g);
 let sitemapBroken = 0;
 let sitemapTotal = 0;
 for (const match of locMatches) {
@@ -94,8 +94,8 @@ console.log(`Sitemap entries checked: ${sitemapTotal}`);
 console.log(`Sitemap 404 entries: ${sitemapBroken}`);
 
 // 3. Deep Scan of the new Fridge Page
-console.log(`\nAuditing fridge/refrigerator-repair-service-in-dindigul.html...`);
-const fridgeHtml = fs.readFileSync(path.join(rootDir, 'fridge', 'refrigerator-repair-service-in-dindigul.html'), 'utf8');
+console.log(`\nAuditing fridge/refrigerator-repair-service-in-karur.html...`);
+const fridgeHtml = fs.readFileSync(path.join(rootDir, 'fridge', 'refrigerator-repair-service-in-karur.html'), 'utf8');
 
 // Foreign cities
 const foreignCities = [

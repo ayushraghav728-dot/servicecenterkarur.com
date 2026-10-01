@@ -3,7 +3,7 @@ const path = require('path');
 
 console.log("=== COMPREHENSIVE UI AUDIT FOR WASHING MACHINE PAGE ===");
 
-const htmlPath = path.join(__dirname, '..', 'washing-machine-repair-service-in-dindigul.html');
+const htmlPath = path.join(__dirname, '..', 'washing-machine-repair-service-in-karur.html');
 const cssPath = path.join(__dirname, '..', 'css', 'style.css');
 const jsPath = path.join(__dirname, '..', 'js', 'main.js');
 

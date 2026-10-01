@@ -3,7 +3,7 @@ const path = require('path');
 const wmBrands = require('./wm_all_brands');
 
 console.log("==================================================");
-console.log("RUNNING COMPREHENSIVE AUDIT ON DINDIGUL WASHING MACHINE PAGES");
+console.log("RUNNING COMPREHENSIVE AUDIT ON KARUR WASHING MACHINE PAGES");
 console.log("==================================================");
 
 const wmDir = path.join(__dirname, '..', 'washing-machine');
@@ -17,7 +17,7 @@ if (!fs.existsSync(wmDir)) {
 console.log("PASS: washing-machine/ directory exists and is lowercase.");
 
 // 2. Check all files exist
-const mainLandingFile = 'washing-machine-repair-service-in-dindigul.html';
+const mainLandingFile = 'washing-machine-repair-service-in-karur.html';
 const mainLandingPath = path.join(wmDir, mainLandingFile);
 if (!fs.existsSync(mainLandingPath)) {
   console.error(`FAIL: Main page ${mainLandingFile} missing!`);
@@ -43,7 +43,7 @@ if (missingBrandPages === 0) {
 // All 31 files to audit
 const allFiles = [mainLandingFile, ...wmBrands.map(b => b.slug)];
 
-// Forbidden cities (Dindigul is the ONLY allowed city)
+// Forbidden cities (Karur is the ONLY allowed city)
 const forbiddenCities = [
   'Tirunelveli',
   'TIRUNELVELI',
@@ -121,30 +121,30 @@ allFiles.forEach(file => {
     console.error(`FAIL in ${file}: Must have exactly one H1, found ${h1Matches ? h1Matches.length : 0}`);
     totalErrors++;
   } else {
-    // Check that H1 mentions Dindigul
-    if (!h1Matches[0].includes('Dindigul')) {
-      console.error(`FAIL in ${file}: H1 does not contain "Dindigul" -> ${h1Matches[0]}`);
+    // Check that H1 mentions Karur
+    if (!h1Matches[0].includes('Karur')) {
+      console.error(`FAIL in ${file}: H1 does not contain "Karur" -> ${h1Matches[0]}`);
       totalErrors++;
     }
   }
 
   // Check Title
   const titleMatch = content.match(/<title>([^<]+)<\/title>/i);
-  if (!titleMatch || !titleMatch[1].includes('Dindigul')) {
-    console.error(`FAIL in ${file}: Title does not contain Dindigul`);
+  if (!titleMatch || !titleMatch[1].includes('Karur')) {
+    console.error(`FAIL in ${file}: Title does not contain Karur`);
     totalErrors++;
   }
 
   // Check Meta Description
   const metaDescMatch = content.match(/<meta name="description" content="([^"]+)"/i);
-  if (!metaDescMatch || !metaDescMatch[1].includes('Dindigul')) {
-    console.error(`FAIL in ${file}: Meta description does not contain Dindigul`);
+  if (!metaDescMatch || !metaDescMatch[1].includes('Karur')) {
+    console.error(`FAIL in ${file}: Meta description does not contain Karur`);
     totalErrors++;
   }
 
   // Check Canonical URL
   const canonicalMatch = content.match(/<link rel="canonical" href="([^"]+)"/i);
-  if (!canonicalMatch || !canonicalMatch[1].includes(`https://servicecenterdindigul.com/washing-machine/${file}`)) {
+  if (!canonicalMatch || !canonicalMatch[1].includes(`https://servicecenterkarur.com/washing-machine/${file}`)) {
     console.error(`FAIL in ${file}: Canonical URL incorrect: ${canonicalMatch ? canonicalMatch[1] : 'none'}`);
     totalErrors++;
   }
@@ -164,8 +164,8 @@ allFiles.forEach(file => {
           console.error(`FAIL in ${file}: Schema contains Tirunelveli`);
           totalErrors++;
         }
-        if (!jsonStr.includes('Dindigul')) {
-          console.error(`FAIL in ${file}: Schema missing Dindigul`);
+        if (!jsonStr.includes('Karur')) {
+          console.error(`FAIL in ${file}: Schema missing Karur`);
           totalErrors++;
         }
       } catch (err) {
@@ -218,7 +218,7 @@ allFiles.forEach(file => {
   }
 
   // Check 5 Zones and 60 Localities
-  const zones = ['Central Dindigul', 'North Dindigul', 'South Dindigul', 'East Dindigul', 'West Dindigul'];
+  const zones = ['Central Karur', 'North Karur', 'South Karur', 'East Karur', 'West Karur'];
   zones.forEach(z => {
     if (!content.includes(z)) {
       console.error(`FAIL in ${file}: Missing zone heading "${z}"`);
@@ -237,7 +237,7 @@ allFiles.forEach(file => {
   // Check Locality Keywords
   if (file === mainLandingFile) {
     // Main page should have generic washing machine keywords
-    if (!content.includes('Washing Machine Repair in Dindigul Town')) {
+    if (!content.includes('Washing Machine Repair in Karur Town')) {
       console.error(`FAIL in ${file}: Main page missing generic locality keyword`);
       totalErrors++;
     }
@@ -256,7 +256,7 @@ allFiles.forEach(file => {
 
 console.log("--------------------------------------------------");
 if (totalErrors === 0) {
-  console.log("SUCCESS: ALL 31 DINDIGUL WASHING MACHINE PAGES PASSED TECHNICAL, SEO, AND CONTENT AUDIT!");
+  console.log("SUCCESS: ALL 31 KARUR WASHING MACHINE PAGES PASSED TECHNICAL, SEO, AND CONTENT AUDIT!");
 } else {
   console.error(`FAILED: Total errors found: ${totalErrors}`);
   process.exit(1);

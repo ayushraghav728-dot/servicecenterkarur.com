@@ -1,5 +1,5 @@
 // Script to generate all required favicon assets using headless Edge
-// Project: servicecenterdindigul.com
+// Project: servicecenterkarur.com
 
 const fs = require('fs');
 const path = require('path');
@@ -42,7 +42,7 @@ const svgContent = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512
 
   <!-- SCD Monogram Badge -->
   <rect x="146" y="360" width="220" height="64" rx="20" fill="#0284c7" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.4))"/>
-  <text x="256" y="405" font-family="'Inter', -apple-system, sans-serif" font-size="34" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="4">DINDIGUL</text>
+  <text x="256" y="405" font-family="'Inter', -apple-system, sans-serif" font-size="34" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="4">KARUR</text>
 </svg>`;
 
 fs.writeFileSync(path.join(rootDir, 'favicon.svg'), svgContent, 'utf8');

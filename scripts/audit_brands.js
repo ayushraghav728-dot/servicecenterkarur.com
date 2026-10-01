@@ -14,10 +14,10 @@ function inspectDir(dir, pattern) {
   return map;
 }
 
-const ac = inspectDir('ac', /^([a-z0-9-]+)-ac-repair-service-in-dindigul\.html$/);
-const fridge = inspectDir('fridge', /^([a-z0-9-]+)-refrigerator-repair-service-in-dindigul\.html$/);
-const wm = inspectDir('washing-machine', /^([a-z0-9-]+)-washing-machine-repair-service-in-dindigul\.html$/);
-const tv = inspectDir('tv', /^([a-z0-9-]+)-tv-repair-service-in-dindigul\.html$/);
+const ac = inspectDir('ac', /^([a-z0-9-]+)-ac-repair-service-in-karur\.html$/);
+const fridge = inspectDir('fridge', /^([a-z0-9-]+)-refrigerator-repair-service-in-karur\.html$/);
+const wm = inspectDir('washing-machine', /^([a-z0-9-]+)-washing-machine-repair-service-in-karur\.html$/);
+const tv = inspectDir('tv', /^([a-z0-9-]+)-tv-repair-service-in-karur\.html$/);
 
 const allSlugs = Array.from(new Set([
   ...Object.keys(ac),
@@ -29,6 +29,6 @@ const allSlugs = Array.from(new Set([
 console.log('Total unique brands found:', allSlugs.length);
 allSlugs.forEach((s, idx) => {
   const brandName = (ac[s] || fridge[s] || wm[s] || tv[s] || '')
-    .replace(/ (AC|Refrigerator|Washing Machine|TV) Repair Service in Dindigul/i, '');
+    .replace(/ (AC|Refrigerator|Washing Machine|TV) Repair Service in Karur/i, '');
   console.log(`${idx + 1}. [${s}] => "${brandName}" (AC: ${!!ac[s]}, FR: ${!!fridge[s]}, WM: ${!!wm[s]}, TV: ${!!tv[s]})`);
 });

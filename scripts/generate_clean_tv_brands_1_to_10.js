@@ -5,23 +5,23 @@ const brands = [
   // 1. SAMSUNG
   {
     name: "Samsung",
-    slug: "samsung-tv-repair-service-in-dindigul.html",
-    h1: "Samsung TV Repair Service in Dindigul",
-    metaTitle: "Samsung TV Repair Service in Dindigul | LED & Smart TV Repair",
-    metaDesc: "Looking for Samsung TV repair in Dindigul? Doorstep inspection for Samsung Crystal 4K, QLED, OLED & Smart LED TVs. Backlight, power board & display repair.",
-    introHeading: "Looking for Samsung TV Repair in Dindigul?",
+    slug: "samsung-tv-repair-service-in-karur.html",
+    h1: "Samsung TV Repair Service in Karur",
+    metaTitle: "Samsung TV Repair Service in Karur | LED & Smart TV Repair",
+    metaDesc: "Looking for Samsung TV repair in Karur? Doorstep inspection for Samsung Crystal 4K, QLED, OLED & Smart LED TVs. Backlight, power board & display repair.",
+    introHeading: "Looking for Samsung TV Repair in Karur?",
     introTamil: "Samsung TV-la red light rendu thadava blink aagudha? Relay click aagi on aagala?",
-    introTanglish: "Samsung TV on aagumbodhu sound mattum vandhu screen dark-aa irukka? <strong>Samsung TV repair in Dindigul</strong> thedureengalana, unga veetukke local technician inspection book pannalaam. Crystal 4K, QLED, and Tizen Smart TV problems spot-laye check pannuvom.",
+    introTanglish: "Samsung TV on aagumbodhu sound mattum vandhu screen dark-aa irukka? <strong>Samsung TV repair in Karur</strong> thedureengalana, unga veetukke local technician inspection book pannalaam. Crystal 4K, QLED, and Tizen Smart TV problems spot-laye check pannuvom.",
     introText: [
-      "Is your Samsung television showing a blinking red standby light, clicking repeatedly without powering on, or playing channel sound with a pitch-black screen? Samsung televisions are widely used across Dindigul living rooms for their high clarity, but SMPS power board trips and burnt LED backlight strips are common after a few years of regular viewing.",
-      "If you are searching for dependable <strong>Samsung Smart TV repair in Dindigul</strong> around RM Colony, quick <strong>Samsung LED TV repair near me</strong> in Nagal Nagar, or an experienced <strong>Samsung TV technician near me</strong> near Palani Road, our local service desk arranges doorstep inspection visits across all residential areas in Dindigul.",
+      "Is your Samsung television showing a blinking red standby light, clicking repeatedly without powering on, or playing channel sound with a pitch-black screen? Samsung televisions are widely used across Karur living rooms for their high clarity, but SMPS power board trips and burnt LED backlight strips are common after a few years of regular viewing.",
+      "If you are searching for dependable <strong>Samsung Smart TV repair in Karur</strong> around Pasupathipalayam, quick <strong>Samsung LED TV repair near me</strong> in Kagithapuramam, or an experienced <strong>Samsung TV technician near me</strong> near Kovai Road, our local service desk arranges doorstep inspection visits across all residential areas in Karur.",
       "Our technician tests Samsung BN44 power supply units, Tizen OS logic motherboards, LED backlight strips, and T-Con display circuits right at your home, explaining the fault clearly and confirming the repair cost before doing any work."
     ],
     tvTypes: [
       {
         title: "Samsung Crystal 4K UHD TV Repair",
         desc: "Samsung Crystal 4K televisions (AU7700, BU8000, CU7700, DU7000 series) deliver Ultra HD resolution powered by the Crystal Processor 4K. Over continuous daily running, backlight LED diodes heat up and burn out, causing sound to play without any picture.",
-        searchIntent: "Searching for <strong>Samsung Smart TV repair near me</strong> in Dindigul? We diagnose Crystal 4K screen blackout, HDMI no signal errors, and restarting problems at your doorstep.",
+        searchIntent: "Searching for <strong>Samsung Smart TV repair near me</strong> in Karur? We diagnose Crystal 4K screen blackout, HDMI no signal errors, and restarting problems at your doorstep.",
         problems: "Sound playing clearly while display is black, red standby light blinking 2 or 5 times, HDMI port failing to detect set-top box.",
         checks: "Measures forward voltage across each backlight strip, inspects BN44 SMPS standby rails, and tests HDMI switch IC.",
         parts: "Crystal 4K LED backlight strips, BN44 power supply board, main logic board, HDMI connector.",
@@ -30,7 +30,7 @@ const brands = [
       {
         title: "Samsung QLED & Neo QLED TV Repair",
         desc: "Samsung QLED (Q60, Q70, Q80) and Neo QLED televisions feature Quantum Dot backlights for extreme brightness and high color volume. Power surges or driver heating can cause one side of the panel to turn dim or trigger protection shutdown.",
-        searchIntent: "Need reliable <strong>Samsung 4K TV repair in Dindigul</strong>? Our technicians service QLED edge-lit backlights and multi-zone driver boards across Dindigul homes.",
+        searchIntent: "Need reliable <strong>Samsung 4K TV repair in Karur</strong>? Our technicians service QLED edge-lit backlights and multi-zone driver boards across Karur homes.",
         problems: "Uneven screen brightness, screen flickering during bright scenes, television tripping off after 10 minutes.",
         checks: "Tests Quantum Dot LED driver boost voltages, MOSFET regulators, and multi-zone dimming control lines.",
         parts: "QLED backlight diode strips, LED driver board, T-Con timing controller, thermal heat pads.",
@@ -39,7 +39,7 @@ const brands = [
       {
         title: "Samsung Tizen Smart TV Repair",
         desc: "Samsung Smart TVs run the Tizen operating system for OTT streaming and screen sharing. Software update interruptions or failing memory chips on the motherboard can freeze the TV on the startup logo or prevent Wi-Fi from turning on.",
-        searchIntent: "Looking for <strong>Samsung Smart TV service in Dindigul</strong>? We resolve Tizen OS boot loops, app freezing, and Wi-Fi disconnect issues on-site.",
+        searchIntent: "Looking for <strong>Samsung Smart TV service in Karur</strong>? We resolve Tizen OS boot loops, app freezing, and Wi-Fi disconnect issues on-site.",
         problems: "Frozen on 'Samsung Smart TV' logo screen, continuous reboot every 5 seconds, Wi-Fi toggle grayed out.",
         checks: "Inspects motherboard eMMC flash memory, Wi-Fi module power rails, and Tizen OS firmware stability.",
         parts: "Tizen motherboard, internal Wi-Fi/Bluetooth module, eMMC flash memory chip, remote sensor board.",
@@ -47,8 +47,8 @@ const brands = [
       },
       {
         title: "Samsung Series 4 & Series 5 Full HD LED TV",
-        desc: "Popular 32-inch and 43-inch Samsung LED televisions widely installed in bedrooms and living rooms across Dindigul. Voltage spikes during power cuts frequently affect the input power supply, while speaker cones degrade over time.",
-        searchIntent: "Need quick <strong>Samsung LED TV repair in Dindigul</strong>? We carry out power board component servicing and speaker replacement across all 60 localities.",
+        desc: "Popular 32-inch and 43-inch Samsung LED televisions widely installed in bedrooms and living rooms across Karur. Voltage spikes during power cuts frequently affect the input power supply, while speaker cones degrade over time.",
+        searchIntent: "Need quick <strong>Samsung LED TV repair in Karur</strong>? We carry out power board component servicing and speaker replacement across all 60 localities.",
         problems: "Television completely dead with no red indicator light, distorted buzzing speaker sound, colored vertical lines.",
         checks: "Tests 13V DC power supply line, checks speaker coil impedance with multimeter, and inspects T-Con gamma voltages.",
         parts: "BN44 power board, internal stereo speaker pair, T-Con board, LVDS ribbon cable.",
@@ -120,19 +120,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Samsung 43-inch Crystal 4K Backlight Repair",
-        text: "A resident near Nagal Nagar Railway Station noticed their 43-inch Samsung Crystal 4K playing serial audio clearly while the screen remained totally dark. Our technician visited their residence, opened the panel with proper suction tools, and replaced the complete set of LED backlight strips with matched spares. Picture clarity and brightness were verified before completing the call."
+        text: "A resident near Kagithapuramam Railway Station noticed their 43-inch Samsung Crystal 4K playing serial audio clearly while the screen remained totally dark. Our technician visited their residence, opened the panel with proper suction tools, and replaced the complete set of LED backlight strips with matched spares. Picture clarity and brightness were verified before completing the call."
       },
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Samsung 55-inch QLED Boot Loop Recovery",
-        text: "A customer in RM Colony reported their Samsung 55-inch QLED TV restarting repeatedly on the Smart Hub logo. Our technician checked the motherboard voltages, identified corrupted cache data on the eMMC flash chip, and performed a firmware recovery on-site. Streaming apps and Wi-Fi were fully tested after the repair."
+        text: "A customer in Pasupathipalayam reported their Samsung 55-inch QLED TV restarting repeatedly on the Smart Hub logo. Our technician checked the motherboard voltages, identified corrupted cache data on the eMMC flash chip, and performed a firmware recovery on-site. Streaming apps and Wi-Fi were fully tested after the repair."
       },
       {
-        locality: "Dindigul Town",
+        locality: "Karur Town",
         title: "Samsung 32-inch LED Power Board Servicing",
-        text: "A family near Dindigul Clock Tower had a 32-inch Samsung TV that would not turn on after voltage fluctuations during rain. The red standby light was dead. The technician tested the BN44 power board, replaced a blown fuse and shorted bridge rectifier diode on-site, restoring power without needing a costly whole-board replacement."
+        text: "A family near Karur Clock Tower had a 32-inch Samsung TV that would not turn on after voltage fluctuations during rain. The red standby light was dead. The technician tested the BN44 power board, replaced a blown fuse and shorted bridge rectifier diode on-site, restoring power without needing a costly whole-board replacement."
       }
     ]
   },
@@ -140,23 +140,23 @@ const brands = [
   // 2. SONY
   {
     name: "Sony",
-    slug: "sony-tv-repair-service-in-dindigul.html",
-    h1: "Sony TV Repair Service in Dindigul",
-    metaTitle: "Sony TV Repair Service in Dindigul | Bravia LED & 4K Repair",
-    metaDesc: "Need Sony TV repair in Dindigul? Doorstep inspection for Sony Bravia 4K, OLED, Triluminos & Google TVs. Fix 6-blink error, backlight & power board issues.",
-    introHeading: "Need Sony TV Repair in Dindigul?",
+    slug: "sony-tv-repair-service-in-karur.html",
+    h1: "Sony TV Repair Service in Karur",
+    metaTitle: "Sony TV Repair Service in Karur | Bravia LED & 4K Repair",
+    metaDesc: "Need Sony TV repair in Karur? Doorstep inspection for Sony Bravia 4K, OLED, Triluminos & Google TVs. Fix 6-blink error, backlight & power board issues.",
+    introHeading: "Need Sony TV Repair in Karur?",
     introTamil: "Sony Bravia TV-la red light 6 thadava blink aagudha? Power on aagi udane off aagudha?",
-    introTanglish: "Sony TV switch-on panna logo vandhu off aagudha or sound mattum varudha? <strong>Sony TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Bravia XR, Triluminos 4K, and Google TV problems spot-laye check pannuvom.",
+    introTanglish: "Sony TV switch-on panna logo vandhu off aagudha or sound mattum varudha? <strong>Sony TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Bravia XR, Triluminos 4K, and Google TV problems spot-laye check pannuvom.",
     introText: [
-      "Is your Sony Bravia television showing a blinking red light, shutting down right after the Sony logo appears, or playing audio with zero display? Sony televisions are celebrated across Dindigul households for natural color reproduction and durable build, but safety shutdown blinks and backlight diode failures require skilled diagnosis.",
-      "If you need dependable <strong>Sony Smart TV repair in Dindigul</strong> around Nagal Nagar, quick <strong>Sony LED TV repair near me</strong> in RM Colony, or an experienced <strong>Sony TV technician near me</strong> near Palani Road, our local service desk arranges doorstep visits across all Dindigul localities.",
+      "Is your Sony Bravia television showing a blinking red light, shutting down right after the Sony logo appears, or playing audio with zero display? Sony televisions are celebrated across Karur households for natural color reproduction and durable build, but safety shutdown blinks and backlight diode failures require skilled diagnosis.",
+      "If you need dependable <strong>Sony Smart TV repair in Karur</strong> around Kagithapuramam, quick <strong>Sony LED TV repair near me</strong> in Pasupathipalayam, or an experienced <strong>Sony TV technician near me</strong> near Kovai Road, our local service desk arranges doorstep visits across all Karur localities.",
       "Our technician decodes Sony red LED blink error codes, tests G-Board power supplies, checks XR Cognitive logic boards, and inspects Triluminos backlight arrays directly at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Sony Bravia XR Cognitive 4K TV Repair",
         desc: "Sony Bravia XR series (X80, X85, X90 series) uses the Cognitive Processor XR to control contrast and multi-zone backlighting. If backlight current fluctuates or an HDMI port shorts, the TV enters a safety standby shutdown.",
-        searchIntent: "Looking for <strong>Sony Smart TV repair near me</strong> in Dindigul? We diagnose 6-blink backlight faults, Bravia XR board issues, and HDMI eARC errors at your residence.",
+        searchIntent: "Looking for <strong>Sony Smart TV repair near me</strong> in Karur? We diagnose 6-blink backlight faults, Bravia XR board issues, and HDMI eARC errors at your residence.",
         problems: "Red LED blinking 6 times repeatedly, screen going dark after 3 seconds of video, soundbar eARC connection lost.",
         checks: "Measures backlight inverter current feedback, tests G-board standby voltages, and inspects XR processor power rails.",
         parts: "Triluminos backlight strip array, Sony G-Board power supply, XR logic board, HDMI eARC connector.",
@@ -165,7 +165,7 @@ const brands = [
       {
         title: "Sony Triluminos OLED & 4K TV Repair",
         desc: "Premium Sony OLED (A80, A90 series) and Triluminos display models feature individually controlled lighting and Acoustic Surface audio. Component handling requires specialized care during power board or timing controller servicing.",
-        searchIntent: "Searching for <strong>Sony 4K TV repair in Dindigul</strong>? Our technicians provide careful on-site inspection for Triluminos and OLED panels.",
+        searchIntent: "Searching for <strong>Sony 4K TV repair in Karur</strong>? Our technicians provide careful on-site inspection for Triluminos and OLED panels.",
         problems: "Red LED blinking 4 times (panel voltage protect), uneven screen brightness, TV turning off during action scenes.",
         checks: "Tests 12V and 24V panel supply rails, checks T-Con timing controller signals, and tests Acoustic Surface sound exciters.",
         parts: "OLED power control board, T-Con controller board, Acoustic Surface drivers, LVDS harness.",
@@ -174,7 +174,7 @@ const brands = [
       {
         title: "Sony Bravia Google TV & Android Smart TV",
         desc: "Sony Google TVs provide smart streaming through Google TV interface and voice remote. Memory corruption or power supply instability can cause the TV to freeze on the spinning Android animation or disconnect from Wi-Fi.",
-        searchIntent: "Need quick <strong>Sony Smart TV service in Dindigul</strong>? We resolve Android boot loops, Wi-Fi errors, and voice remote pairing issues at your home.",
+        searchIntent: "Need quick <strong>Sony Smart TV service in Karur</strong>? We resolve Android boot loops, Wi-Fi errors, and voice remote pairing issues at your home.",
         problems: "Stuck on Android spinning balls or Google TV logo, remote voice search failing, Wi-Fi connection dropping.",
         checks: "Accesses Sony service recovery mode, verifies 3.3V standby line, and tests internal Bluetooth/Wi-Fi combo card.",
         parts: "Sony smart logic board, Bluetooth voice remote receiver, eMMC memory IC, Wi-Fi module.",
@@ -182,8 +182,8 @@ const brands = [
       },
       {
         title: "Sony Bravia W-Series Full HD LED TV",
-        desc: "Widely used 32-inch and 40-inch Sony Bravia Full HD LED televisions installed in Dindigul homes. Voltage surges frequently blow the input circuit on the external 19.5V adapter or internal G-board power module.",
-        searchIntent: "Looking for <strong>Sony LED TV repair near me</strong> in Dindigul? We fix dead power supply, backlight burnout, and distorted sound on-site.",
+        desc: "Widely used 32-inch and 40-inch Sony Bravia Full HD LED televisions installed in Karur homes. Voltage surges frequently blow the input circuit on the external 19.5V adapter or internal G-board power module.",
+        searchIntent: "Looking for <strong>Sony LED TV repair near me</strong> in Karur? We fix dead power supply, backlight burnout, and distorted sound on-site.",
         problems: "Television dead with no indicator light, dialogue vibrating in speakers, red light blinking 2 or 8 times.",
         checks: "Tests 19.5V DC input adapter, inspects G-board secondary diodes, and tests speaker cone impedance.",
         parts: "19.5V DC power adapter, internal G-Board SMPS, bass reflex speaker drivers, backlight strips.",
@@ -255,19 +255,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Palani Road",
+        locality: "Kovai Road",
         title: "Sony 55-inch Bravia 6-Blink Backlight Repair",
-        text: "A customer living near Palani Road reported their 55-inch Sony Bravia shutting down with a 6-blink red indicator. Our technician visited their residence, decoded the backlight error, and opened the panel to replace the burned-out LED strip set. The protection circuit cleared, and the TV displayed full Triluminos color once again."
+        text: "A customer living near Kovai Road reported their 55-inch Sony Bravia shutting down with a 6-blink red indicator. Our technician visited their residence, decoded the backlight error, and opened the panel to replace the burned-out LED strip set. The protection circuit cleared, and the TV displayed full Triluminos color once again."
       },
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Sony 43-inch Android TV Boot Loop Fix",
-        text: "A family in Nagal Nagar had a 43-inch Sony Google TV that kept looping on the colorful Android circles. The technician connected diagnostic tools, entered recovery mode, and cleared corrupted system update files on-site. The television returned to normal operation without replacing the expensive mainboard."
+        text: "A family in Kagithapuramam had a 43-inch Sony Google TV that kept looping on the colorful Android circles. The technician connected diagnostic tools, entered recovery mode, and cleared corrupted system update files on-site. The television returned to normal operation without replacing the expensive mainboard."
       },
       {
-        locality: "Begampur",
+        locality: "Thanthonimalai",
         title: "Sony 32-inch LED G-Board Power Repair",
-        text: "A resident in Begampur contacted us when their Sony 32-inch TV refused to turn on after an evening thunderstorm. The red standby light blinked 2 times. The technician inspected the internal G-board power supply, replaced a shorted rectifier diode and filter capacitor on-site, restoring power safely."
+        text: "A resident in Thanthonimalai contacted us when their Sony 32-inch TV refused to turn on after an evening thunderstorm. The red standby light blinked 2 times. The technician inspected the internal G-board power supply, replaced a shorted rectifier diode and filter capacitor on-site, restoring power safely."
       }
     ]
   },
@@ -275,23 +275,23 @@ const brands = [
   // 3. PANASONIC
   {
     name: "Panasonic",
-    slug: "panasonic-tv-repair-service-in-dindigul.html",
-    h1: "Panasonic TV Repair Service in Dindigul",
-    metaTitle: "Panasonic TV Repair Service in Dindigul | Viera LED & 4K Repair",
-    metaDesc: "Need Panasonic TV repair in Dindigul? Doorstep inspection for Panasonic Viera LED, 4K & Smart TVs. Backlight strip replacement, TNPA power board repair.",
-    introHeading: "Need Panasonic TV Repair in Dindigul?",
+    slug: "panasonic-tv-repair-service-in-karur.html",
+    h1: "Panasonic TV Repair Service in Karur",
+    metaTitle: "Panasonic TV Repair Service in Karur | Viera LED & 4K Repair",
+    metaDesc: "Need Panasonic TV repair in Karur? Doorstep inspection for Panasonic Viera LED, 4K & Smart TVs. Backlight strip replacement, TNPA power board repair.",
+    introHeading: "Need Panasonic TV Repair in Karur?",
     introTamil: "Panasonic Viera TV-la sound varudhu aana picture varalaiya? Power LED on aagala?",
-    introTanglish: "Panasonic TV on pannumbodhu red light blink aagi standby-la nikkudha? <strong>Panasonic TV repair in Dindigul</strong> thedureengalana, unga veetukke local technician visit arrange pannuvom. Viera 4K, Hexa Chroma, and Android TV problems spot-laye check pannuvom.",
+    introTanglish: "Panasonic TV on pannumbodhu red light blink aagi standby-la nikkudha? <strong>Panasonic TV repair in Karur</strong> thedureengalana, unga veetukke local technician visit arrange pannuvom. Viera 4K, Hexa Chroma, and Android TV problems spot-laye check pannuvom.",
     introText: [
       "Is your Panasonic Viera television playing channel audio with a completely black screen, refusing to turn on, or stuck in standby? Panasonic televisions are known for durable Japanese engineering and natural Hexa Chroma color reproduction, but after years of service, LED backlights and TNPA power supply boards need skilled repair.",
-      "Whether you are looking for reliable <strong>Panasonic LED TV repair near me</strong> in Nagal Nagar, quick <strong>Panasonic Smart TV repair in Dindigul</strong> around RM Colony, or an experienced <strong>Panasonic TV technician near me</strong> near Palani Road, our local desk organizes timely home visits across Dindigul town.",
+      "Whether you are looking for reliable <strong>Panasonic LED TV repair near me</strong> in Kagithapuramam, quick <strong>Panasonic Smart TV repair in Karur</strong> around Pasupathipalayam, or an experienced <strong>Panasonic TV technician near me</strong> near Kovai Road, our local desk organizes timely home visits across Karur town.",
       "Our technician tests Panasonic TNPA power boards, Hexa Chroma display logic, LED backlight strips, and T-Con boards right at your home, providing an honest explanation and upfront repair quote."
     ],
     tvTypes: [
       {
         title: "Panasonic Hexa Chroma 4K LED TV Repair",
         desc: "Panasonic 4K models feature Hexa Chroma Drive for 6-color reproduction and high dynamic range. If high-current LED backlight strips burn out over time, the display stays dark while the audio circuit continues playing.",
-        searchIntent: "Searching for <strong>Panasonic Smart TV repair in Dindigul</strong>? We diagnose Hexa Chroma display blackout, backlight failure, and HDMI no signal issues on-site.",
+        searchIntent: "Searching for <strong>Panasonic Smart TV repair in Karur</strong>? We diagnose Hexa Chroma display blackout, backlight failure, and HDMI no signal issues on-site.",
         problems: "Sound playing clearly while display is dark, red indicator blinking 1 or 7 times, HDMI ports failing to connect.",
         checks: "Tests forward voltages across backlight strip circuits, measures TNPA standby lines, and tests HDMI switch IC.",
         parts: "Hexa Chroma LED backlight strips, TNPA power supply board, mainboard, HDMI connector.",
@@ -299,8 +299,8 @@ const brands = [
       },
       {
         title: "Panasonic Viera Full HD & Smart TV Repair",
-        desc: "Popular 32-inch and 43-inch Panasonic Viera LED televisions widely used across Dindigul homes. Voltage fluctuations frequently damage the input power supply, or the TV gets stuck on the Viera startup screen.",
-        searchIntent: "Need dependable <strong>Panasonic LED TV repair near me</strong> in Dindigul? Our technician inspects power boards, backlights, and speakers at your doorstep.",
+        desc: "Popular 32-inch and 43-inch Panasonic Viera LED televisions widely used across Karur homes. Voltage fluctuations frequently damage the input power supply, or the TV gets stuck on the Viera startup screen.",
+        searchIntent: "Need dependable <strong>Panasonic LED TV repair near me</strong> in Karur? Our technician inspects power boards, backlights, and speakers at your doorstep.",
         problems: "TV completely dead with no standby light, stuck on Viera logo screen, speaker sound crackling.",
         checks: "Tests 300V primary filter capacitor, measures 12V and 24V secondary rails, and tests speaker coil impedance.",
         parts: "TNPA power board, internal stereo speakers, T-Con board, LVDS ribbon cable.",
@@ -309,7 +309,7 @@ const brands = [
       {
         title: "Panasonic Android Smart TV Repair",
         desc: "Panasonic Smart TVs powered by Android TV OS support OTT streaming apps and Google Assistant. Software update interruptions or memory wear can cause boot loops or prevent Wi-Fi from connecting.",
-        searchIntent: "Looking for <strong>Panasonic TV technician near me</strong> in Dindigul? We fix Android boot loop, Wi-Fi disconnect, and remote pairing issues at home.",
+        searchIntent: "Looking for <strong>Panasonic TV technician near me</strong> in Karur? We fix Android boot loop, Wi-Fi disconnect, and remote pairing issues at home.",
         problems: "Viera television stuck on Android boot animation, home Wi-Fi failing to authenticate, remote mic unresponsive.",
         checks: "Enters Panasonic service bootloader, clears system partition cache, and tests 3.3V power to internal Wi-Fi card.",
         parts: "Panasonic Android logic board, internal Wi-Fi transceiver, flash memory chip, IR sensor assembly.",
@@ -381,19 +381,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Begampur",
+        locality: "Thanthonimalai",
         title: "Panasonic 43-inch Viera Backlight Replacement",
-        text: "A customer in Begampur noticed their 43-inch Panasonic TV playing channel audio clearly while the screen remained completely black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Uniform brightness was restored on-site."
+        text: "A customer in Thanthonimalai noticed their 43-inch Panasonic TV playing channel audio clearly while the screen remained completely black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Uniform brightness was restored on-site."
       },
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Panasonic 32-inch LED Power Board Servicing",
-        text: "A household in RM Colony had a 32-inch Panasonic Viera television that went dead following voltage fluctuations during rain. The technician diagnosed the TNPA power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
+        text: "A household in Pasupathipalayam had a 32-inch Panasonic Viera television that went dead following voltage fluctuations during rain. The technician diagnosed the TNPA power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
       },
       {
-        locality: "Dindigul Town",
+        locality: "Karur Town",
         title: "Panasonic 55-inch 4K Android TV Boot Fix",
-        text: "A customer near Dindigul Bus Stand reported their 55-inch Panasonic 4K TV getting stuck on the Android boot logo. The technician accessed recovery mode, cleared corrupted system cache, and updated system settings on-site, restoring normal streaming app operation."
+        text: "A customer near Karur Bus Stand reported their 55-inch Panasonic 4K TV getting stuck on the Android boot logo. The technician accessed recovery mode, cleared corrupted system cache, and updated system settings on-site, restoring normal streaming app operation."
       }
     ]
   },
@@ -401,23 +401,23 @@ const brands = [
   // 4. PHILIPS
   {
     name: "Philips",
-    slug: "philips-tv-repair-service-in-dindigul.html",
-    h1: "Philips TV Repair Service in Dindigul",
-    metaTitle: "Philips TV Repair Service in Dindigul | Ambilight & LED TV Repair",
-    metaDesc: "Need Philips TV repair in Dindigul? Doorstep inspection for Philips Ambilight 4K, Smart & LED TVs. Backlight strip replacement, SMPS power & board repair.",
-    introHeading: "Need Philips TV Repair in Dindigul?",
+    slug: "philips-tv-repair-service-in-karur.html",
+    h1: "Philips TV Repair Service in Karur",
+    metaTitle: "Philips TV Repair Service in Karur | Ambilight & LED TV Repair",
+    metaDesc: "Need Philips TV repair in Karur? Doorstep inspection for Philips Ambilight 4K, Smart & LED TVs. Backlight strip replacement, SMPS power & board repair.",
+    introHeading: "Need Philips TV Repair in Karur?",
     introTamil: "Philips TV-la Ambilight light eriyudha aana screen dark-aa irukka? Power on aagala?",
-    introTanglish: "Philips TV switch on panna sound mattum varudhu display varalaiya? <strong>Philips TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Ambilight 4K, Saphi OS, and LED TV problems spot-laye check pannuvom.",
+    introTanglish: "Philips TV switch on panna sound mattum varudhu display varalaiya? <strong>Philips TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Ambilight 4K, Saphi OS, and LED TV problems spot-laye check pannuvom.",
     introText: [
-      "Is your Philips television playing audio with a pitch-black screen, failing to power on, or showing Ambilight rear lighting without picture? Philips televisions are appreciated across Dindigul for immersive Ambilight projection and European styling, but power supply surges and backlight diode burnout happen with years of use.",
-      "If you need dependable <strong>Philips Smart TV repair in Dindigul</strong> around Nagal Nagar, quick <strong>Philips LED TV repair near me</strong> in RM Colony, or an experienced <strong>Philips TV technician near me</strong> near Palani Road, our local desk organizes timely doorstep visits across all Dindigul localities.",
+      "Is your Philips television playing audio with a pitch-black screen, failing to power on, or showing Ambilight rear lighting without picture? Philips televisions are appreciated across Karur for immersive Ambilight projection and European styling, but power supply surges and backlight diode burnout happen with years of use.",
+      "If you need dependable <strong>Philips Smart TV repair in Karur</strong> around Kagithapuramam, quick <strong>Philips LED TV repair near me</strong> in Pasupathipalayam, or an experienced <strong>Philips TV technician near me</strong> near Kovai Road, our local desk organizes timely doorstep visits across all Karur localities.",
       "Our technician tests Philips SMPS power boards, Ambilight controller circuits, LED backlight arrays, and Saphi/Android logic boards right at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Philips Ambilight 4K UHD TV Repair",
         desc: "Philips Ambilight 4K models project ambient wall lighting synchronized with on-screen action. If the display LED strips burn out, Ambilight may continue to glow while the front screen stays pitch black.",
-        searchIntent: "Searching for <strong>Philips 4K TV repair in Dindigul</strong>? We diagnose Ambilight synchronization faults, backlight blackout, and HDMI eARC errors at your residence.",
+        searchIntent: "Searching for <strong>Philips 4K TV repair in Karur</strong>? We diagnose Ambilight synchronization faults, backlight blackout, and HDMI eARC errors at your residence.",
         problems: "Sound and Ambilight working but front display totally black, Ambilight flickering, HDMI eARC audio drops.",
         checks: "Measures front backlight strip current draw, inspects Ambilight driver controller, and tests HDMI 2.1 switch.",
         parts: "4K LED backlight strips, Ambilight LED strips, SMPS power supply, main logic board.",
@@ -426,7 +426,7 @@ const brands = [
       {
         title: "Philips Saphi OS & Android Smart TV",
         desc: "Philips Smart TVs running Saphi OS or Android TV OS feature built-in streaming apps and screen mirroring. Corrupted system firmware can cause the television to freeze on the Philips shield logo.",
-        searchIntent: "Need quick <strong>Philips Smart TV service in Dindigul</strong>? We fix Saphi boot loops, Wi-Fi disconnect, and app freezing problems at your doorstep.",
+        searchIntent: "Need quick <strong>Philips Smart TV service in Karur</strong>? We fix Saphi boot loops, Wi-Fi disconnect, and app freezing problems at your doorstep.",
         problems: "Stuck on Philips shield startup logo, Wi-Fi failing to connect to router, remote control lag.",
         checks: "Inspects motherboard flash memory IC, checks Wi-Fi module power rails, and reflashes Saphi firmware.",
         parts: "Saphi/Android motherboard, internal Wi-Fi card, eMMC flash memory, remote sensor.",
@@ -434,8 +434,8 @@ const brands = [
       },
       {
         title: "Philips Full HD & HD Ready LED TV",
-        desc: "Standard 32-inch and 43-inch Philips LED televisions widely installed in Dindigul homes. Voltage surges frequently affect the input power supply, or speakers develop rattling noises.",
-        searchIntent: "Looking for <strong>Philips LED TV repair near me</strong> in Dindigul? We repair power supply boards, replace backlight strips, and service speakers on-site.",
+        desc: "Standard 32-inch and 43-inch Philips LED televisions widely installed in Karur homes. Voltage surges frequently affect the input power supply, or speakers develop rattling noises.",
+        searchIntent: "Looking for <strong>Philips LED TV repair near me</strong> in Karur? We repair power supply boards, replace backlight strips, and service speakers on-site.",
         problems: "Standby light dead following thunderstorm, Ambilight switch error, speaker buzzing during dialogue.",
         checks: "Measures 12V SMPS main rail, tests power filter capacitors, and checks audio amplifier impedance.",
         parts: "Philips power supply unit, Ambilight switch module, stereo speaker pair, LVDS cable.",
@@ -507,19 +507,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Philips 50-inch Ambilight Backlight Repair",
-        text: "A customer in Nagal Nagar had a 50-inch Philips Ambilight TV where rear lights worked and audio played, but the front screen was pitch black. Our technician diagnosed burned backlight diodes, replaced the complete LED strip set, and verified both front display and Ambilight sync on-site."
+        text: "A customer in Kagithapuramam had a 50-inch Philips Ambilight TV where rear lights worked and audio played, but the front screen was pitch black. Our technician diagnosed burned backlight diodes, replaced the complete LED strip set, and verified both front display and Ambilight sync on-site."
       },
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Philips 43-inch Saphi OS Boot Loop Fix",
-        text: "A resident in RM Colony reported their Philips Smart TV stuck on the shield logo and restarting continuously. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
+        text: "A resident in Pasupathipalayam reported their Philips Smart TV stuck on the shield logo and restarting continuously. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
       },
       {
-        locality: "Dindigul Town",
+        locality: "Karur Town",
         title: "Philips 32-inch LED Power Board Servicing",
-        text: "A family near Dindigul Clock Tower contacted us when their 32-inch Philips TV went dead following lightning. The technician checked the SMPS power supply, replaced a blown fuse and shorted primary switching IC on-site, restoring power safely."
+        text: "A family near Karur Clock Tower contacted us when their 32-inch Philips TV went dead following lightning. The technician checked the SMPS power supply, replaced a blown fuse and shorted primary switching IC on-site, restoring power safely."
       }
     ]
   },
@@ -527,23 +527,23 @@ const brands = [
   // 5. TOSHIBA
   {
     name: "Toshiba",
-    slug: "toshiba-tv-repair-service-in-dindigul.html",
-    h1: "Toshiba TV Repair Service in Dindigul",
-    metaTitle: "Toshiba TV Repair Service in Dindigul | REGZA 4K & LED TV Repair",
-    metaDesc: "Need Toshiba TV repair in Dindigul? Doorstep inspection for Toshiba REGZA 4K, VIDAA OS & LED TVs. Backlight strip replacement, SMPS power & board repair.",
-    introHeading: "Need Toshiba TV Repair in Dindigul?",
+    slug: "toshiba-tv-repair-service-in-karur.html",
+    h1: "Toshiba TV Repair Service in Karur",
+    metaTitle: "Toshiba TV Repair Service in Karur | REGZA 4K & LED TV Repair",
+    metaDesc: "Need Toshiba TV repair in Karur? Doorstep inspection for Toshiba REGZA 4K, VIDAA OS & LED TVs. Backlight strip replacement, SMPS power & board repair.",
+    introHeading: "Need Toshiba TV Repair in Karur?",
     introTamil: "Toshiba REGZA TV-la sound varudhu display black-aa irukka? Power on aagala?",
-    introTanglish: "Toshiba TV switch-on pannumbodhu red light blink aagudha or display dark-aa irukka? <strong>Toshiba TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit arrange pannuvom. REGZA 4K, VIDAA OS, and Full HD LED problems spot-laye check pannuvom.",
+    introTanglish: "Toshiba TV switch-on pannumbodhu red light blink aagudha or display dark-aa irukka? <strong>Toshiba TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit arrange pannuvom. REGZA 4K, VIDAA OS, and Full HD LED problems spot-laye check pannuvom.",
     introText: [
-      "Is your Toshiba television playing channel audio with a dark screen, refusing to turn on, or stuck on the REGZA startup logo? Toshiba televisions are popular across Dindigul households for REGZA picture processing and sturdy build, but power supply fluctuations and backlight diode burnout happen over time.",
-      "If you need dependable <strong>Toshiba Smart TV repair in Dindigul</strong> around RM Colony, quick <strong>Toshiba LED TV repair near me</strong> in Nagal Nagar, or an experienced <strong>Toshiba TV technician near me</strong> near Palani Road, our local desk organizes timely home visits across all Dindigul localities.",
+      "Is your Toshiba television playing channel audio with a dark screen, refusing to turn on, or stuck on the REGZA startup logo? Toshiba televisions are popular across Karur households for REGZA picture processing and sturdy build, but power supply fluctuations and backlight diode burnout happen over time.",
+      "If you need dependable <strong>Toshiba Smart TV repair in Karur</strong> around Pasupathipalayam, quick <strong>Toshiba LED TV repair near me</strong> in Kagithapuramam, or an experienced <strong>Toshiba TV technician near me</strong> near Kovai Road, our local desk organizes timely home visits across all Karur localities.",
       "Our technician tests Toshiba REGZA motherboards, SMPS power supplies, LED backlight strips, and T-Con display boards directly at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Toshiba REGZA 4K UHD TV Repair",
         desc: "Toshiba REGZA 4K televisions (C350, M550, Z770 series) utilize the REGZA Engine 4K for enhanced contrast and sharpness. When high-brightness backlight strips burn out over years of use, sound plays normally while the display remains completely black.",
-        searchIntent: "Searching for <strong>Toshiba Smart TV repair near me</strong> in Dindigul? We diagnose REGZA 4K screen blackout, HDMI no signal errors, and power board faults on-site.",
+        searchIntent: "Searching for <strong>Toshiba Smart TV repair near me</strong> in Karur? We diagnose REGZA 4K screen blackout, HDMI no signal errors, and power board faults on-site.",
         problems: "Dialogue audible but REGZA screen stays black, power LED blinks, HDMI port not recognizing cable box.",
         checks: "Measures LED booster forward voltage, checks REGZA Engine standby rail, and inspects HDMI controller.",
         parts: "REGZA 4K LED backlight array, REGZA SMPS power module, mainboard, HDMI port.",
@@ -552,7 +552,7 @@ const brands = [
       {
         title: "Toshiba VIDAA OS & Google Smart TV",
         desc: "Toshiba Smart TVs running VIDAA OS or Google TV provide fast streaming and screen casting. Firmware update failures or memory degradation on the motherboard can freeze the television on the opening logo.",
-        searchIntent: "Need quick <strong>Toshiba Smart TV service in Dindigul</strong>? We resolve VIDAA boot loops, Wi-Fi disconnect, and app freezing issues at your home.",
+        searchIntent: "Need quick <strong>Toshiba Smart TV service in Karur</strong>? We resolve VIDAA boot loops, Wi-Fi disconnect, and app freezing issues at your home.",
         problems: "Stuck on Toshiba or VIDAA startup logo, Wi-Fi failing to connect to broadband, remote voice search dead.",
         checks: "Enters VIDAA factory diagnostic mode, tests eMMC flash sectors, and verifies 3.3V wireless module line.",
         parts: "VIDAA/Google TV motherboard, wireless receiver card, flash storage IC, remote sensor.",
@@ -560,8 +560,8 @@ const brands = [
       },
       {
         title: "Toshiba Full HD & HD Ready LED TV",
-        desc: "Standard 32-inch and 43-inch Toshiba LED televisions widely used in bedrooms and living rooms across Dindigul. Voltage surges frequently affect the input power supply, or internal speakers develop rattling noises.",
-        searchIntent: "Looking for <strong>Toshiba LED TV repair in Dindigul</strong>? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
+        desc: "Standard 32-inch and 43-inch Toshiba LED televisions widely used in bedrooms and living rooms across Karur. Voltage surges frequently affect the input power supply, or internal speakers develop rattling noises.",
+        searchIntent: "Looking for <strong>Toshiba LED TV repair in Karur</strong>? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
         problems: "TV will not power on from remote, red indicator blinks in pairs, dark vertical bands on display.",
         checks: "Tests standby 5V rail on REGZA power board, checks backlight driver voltage booster.",
         parts: "REGZA power supply PCB, direct-lit LED strips, audio driver units, LVDS cable.",
@@ -633,19 +633,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Toshiba 50-inch REGZA 4K Backlight Repair",
-        text: "A customer in RM Colony reported their 50-inch Toshiba REGZA TV playing channel audio clearly while the screen remained totally black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
+        text: "A customer in Pasupathipalayam reported their 50-inch Toshiba REGZA TV playing channel audio clearly while the screen remained totally black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
       },
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Toshiba 43-inch VIDAA OS Boot Loop Fix",
-        text: "A family in Nagal Nagar had a 43-inch Toshiba Smart TV stuck on the VIDAA logo and restarting continuously. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
+        text: "A family in Kagithapuramam had a 43-inch Toshiba Smart TV stuck on the VIDAA logo and restarting continuously. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
       },
       {
-        locality: "Palani Road",
+        locality: "Kovai Road",
         title: "Toshiba 32-inch LED Power Board Servicing",
-        text: "A resident near Palani Road contacted us when their 32-inch Toshiba TV went dead following lightning. The technician checked the SMPS power supply, replaced a blown fuse and shorted primary switching IC on-site, restoring power safely."
+        text: "A resident near Kovai Road contacted us when their 32-inch Toshiba TV went dead following lightning. The technician checked the SMPS power supply, replaced a blown fuse and shorted primary switching IC on-site, restoring power safely."
       }
     ]
   },
@@ -653,23 +653,23 @@ const brands = [
   // 6. SHARP
   {
     name: "Sharp",
-    slug: "sharp-tv-repair-service-in-dindigul.html",
-    h1: "Sharp TV Repair Service in Dindigul",
-    metaTitle: "Sharp TV Repair Service in Dindigul | Aquos LED & 4K TV Repair",
-    metaDesc: "Need Sharp TV repair in Dindigul? Doorstep inspection for Sharp Aquos 4K, Smart & LED TVs. Backlight strip replacement, SMPS power & panel circuit repair.",
-    introHeading: "Need Sharp TV Repair in Dindigul?",
+    slug: "sharp-tv-repair-service-in-karur.html",
+    h1: "Sharp TV Repair Service in Karur",
+    metaTitle: "Sharp TV Repair Service in Karur | Aquos LED & 4K TV Repair",
+    metaDesc: "Need Sharp TV repair in Karur? Doorstep inspection for Sharp Aquos 4K, Smart & LED TVs. Backlight strip replacement, SMPS power & panel circuit repair.",
+    introHeading: "Need Sharp TV Repair in Karur?",
     introTamil: "Sharp Aquos TV-la sound varudhu display varalaiya? Power light blink aagudha?",
-    introTanglish: "Sharp Aquos TV on pannumbodhu screen dark-aa irukka or power supply cut-off aagudha? <strong>Sharp TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Aquos 4K, Japanese panel, and Full HD LED problems spot-laye check pannuvom.",
+    introTanglish: "Sharp Aquos TV on pannumbodhu screen dark-aa irukka or power supply cut-off aagudha? <strong>Sharp TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Aquos 4K, Japanese panel, and Full HD LED problems spot-laye check pannuvom.",
     introText: [
       "Is your Sharp Aquos television showing a dark screen while sound plays, failing to turn on, or flashing its power indicator in error? Sharp Aquos televisions are recognized for precision Japanese LCD panel engineering and rich color contrast, but after years of use, power supply capacitors and LED backlight strips need experienced repair.",
-      "If you are searching for dependable <strong>Sharp LED TV repair near me</strong> in Nagal Nagar, quick <strong>Sharp Smart TV repair in Dindigul</strong> around RM Colony, or an experienced <strong>Sharp TV technician near me</strong> near Palani Road, our local service desk arranges doorstep visits across all Dindigul localities.",
+      "If you are searching for dependable <strong>Sharp LED TV repair near me</strong> in Kagithapuramam, quick <strong>Sharp Smart TV repair in Karur</strong> around Pasupathipalayam, or an experienced <strong>Sharp TV technician near me</strong> near Kovai Road, our local service desk arranges doorstep visits across all Karur localities.",
       "Our technician tests Sharp Aquos SMPS power boards, UV2A panel timing circuits, LED backlight arrays, and main motherboards directly at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Sharp Aquos 4K Ultra HD TV Repair",
         desc: "Sharp Aquos 4K models feature high-resolution Japanese UV2A display panels and advanced picture upscaling. If backlight strips burn out or power rails drop, the TV shuts down into standby protection.",
-        searchIntent: "Searching for <strong>Sharp 4K TV repair in Dindigul</strong>? We diagnose Aquos 4K display blackout, backlight failure, and HDMI no signal issues on-site.",
+        searchIntent: "Searching for <strong>Sharp 4K TV repair in Karur</strong>? We diagnose Aquos 4K display blackout, backlight failure, and HDMI no signal issues on-site.",
         problems: "Sound playing clearly while display is dark, power indicator blinking red/green, HDMI port failing to detect set-top box.",
         checks: "Tests Japanese UV2A backlight forward voltages, measures Aquos standby rails, and inspects HDMI switch.",
         parts: "Aquos 4K LED backlight strips, Sharp SMPS board, logic motherboard, HDMI socket.",
@@ -678,7 +678,7 @@ const brands = [
       {
         title: "Sharp Aquos Android Smart TV Repair",
         desc: "Sharp Smart TVs powered by Android TV OS provide streaming apps and voice remote control. Software update interruptions or memory wear can cause boot loops or prevent Wi-Fi from connecting.",
-        searchIntent: "Looking for <strong>Sharp Smart TV repair near me</strong> in Dindigul? We fix Android boot loop, Wi-Fi disconnect, and remote pairing issues at home.",
+        searchIntent: "Looking for <strong>Sharp Smart TV repair near me</strong> in Karur? We fix Android boot loop, Wi-Fi disconnect, and remote pairing issues at home.",
         problems: "Television stuck on Android boot animation, Wi-Fi failing to connect to broadband, remote voice search dead.",
         checks: "Accesses Android recovery mode, clears system partition cache, and tests internal Wi-Fi/Bluetooth module.",
         parts: "Android logic motherboard, internal Wi-Fi module, flash memory chip, remote sensor board.",
@@ -686,8 +686,8 @@ const brands = [
       },
       {
         title: "Sharp Full HD & HD Ready LED TV",
-        desc: "Standard 32-inch and 40-inch Sharp LED televisions widely used in bedrooms and living rooms across Dindigul. Voltage surges frequently affect the input power supply, or internal speakers develop rattling noises.",
-        searchIntent: "Need quick <strong>Sharp LED TV repair in Dindigul</strong>? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
+        desc: "Standard 32-inch and 40-inch Sharp LED televisions widely used in bedrooms and living rooms across Karur. Voltage surges frequently affect the input power supply, or internal speakers develop rattling noises.",
+        searchIntent: "Need quick <strong>Sharp LED TV repair in Karur</strong>? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
         problems: "UV2A screen image ghosting, power LED blinking alternating red and green, no audio.",
         checks: "Tests UV2A timing controller VGH/VGL voltages and inspects power inverter feedback.",
         parts: "Sharp SMPS board, UV2A panel driver, speaker set, LVDS harness.",
@@ -759,19 +759,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Sharp 50-inch Aquos 4K Backlight Repair",
-        text: "A customer in Nagal Nagar had a 50-inch Sharp Aquos TV where audio played clearly but the display remained dark. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
+        text: "A customer in Kagithapuramam had a 50-inch Sharp Aquos TV where audio played clearly but the display remained dark. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
       },
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Sharp 40-inch LED Power Board Servicing",
-        text: "A household in RM Colony had a 40-inch Sharp TV that went dead following voltage fluctuations during rain. The technician diagnosed the power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
+        text: "A household in Pasupathipalayam had a 40-inch Sharp TV that went dead following voltage fluctuations during rain. The technician diagnosed the power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
       },
       {
-        locality: "Begampur",
+        locality: "Thanthonimalai",
         title: "Sharp 32-inch Smart TV Boot Loop Fix",
-        text: "A resident in Begampur reported their Sharp Smart TV stuck on the Aquos boot logo. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
+        text: "A resident in Thanthonimalai reported their Sharp Smart TV stuck on the Aquos boot logo. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
       }
     ]
   },
@@ -779,23 +779,23 @@ const brands = [
   // 7. HAIER
   {
     name: "Haier",
-    slug: "haier-tv-repair-service-in-dindigul.html",
-    h1: "Haier TV Repair Service in Dindigul",
-    metaTitle: "Haier TV Repair Service in Dindigul | Google TV & LED TV Repair",
-    metaDesc: "Need Haier TV repair in Dindigul? Doorstep inspection for Haier Google TV, Bezel-Less 4K & Smart LED TVs. Backlight strip replacement & power board repair.",
-    introHeading: "Need Haier TV Repair in Dindigul?",
+    slug: "haier-tv-repair-service-in-karur.html",
+    h1: "Haier TV Repair Service in Karur",
+    metaTitle: "Haier TV Repair Service in Karur | Google TV & LED TV Repair",
+    metaDesc: "Need Haier TV repair in Karur? Doorstep inspection for Haier Google TV, Bezel-Less 4K & Smart LED TVs. Backlight strip replacement & power board repair.",
+    introHeading: "Need Haier TV Repair in Karur?",
     introTamil: "Haier TV-la sound varudhu screen black-aa irukka? Google TV logo-la freeze aagudha?",
-    introTanglish: "Haier TV switch-on panna picture varalaiya or remote connect aagala? <strong>Haier TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Google TV, Bezel-Less 4K, and Smart LED problems spot-laye check pannuvom.",
+    introTanglish: "Haier TV switch-on panna picture varalaiya or remote connect aagala? <strong>Haier TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Google TV, Bezel-Less 4K, and Smart LED problems spot-laye check pannuvom.",
     introText: [
-      "Is your Haier television playing audio with a completely dark screen, failing to power on, or stuck in an endless Google TV boot loop? Haier televisions are popular across Dindigul homes for bezel-less screens and built-in Google TV features, but high-temperature LED diode burn and combo power board failures happen with extended daily viewing.",
-      "If you need dependable <strong>Haier Smart TV repair in Dindigul</strong> around Begampur, quick <strong>Haier LED TV repair near me</strong> in Nagal Nagar, or an experienced <strong>Haier TV technician near me</strong> near Palani Road, our local desk organizes timely home visits across all Dindigul localities.",
+      "Is your Haier television playing audio with a completely dark screen, failing to power on, or stuck in an endless Google TV boot loop? Haier televisions are popular across Karur homes for bezel-less screens and built-in Google TV features, but high-temperature LED diode burn and combo power board failures happen with extended daily viewing.",
+      "If you need dependable <strong>Haier Smart TV repair in Karur</strong> around Thanthonimalai, quick <strong>Haier LED TV repair near me</strong> in Kagithapuramam, or an experienced <strong>Haier TV technician near me</strong> near Kovai Road, our local desk organizes timely home visits across all Karur localities.",
       "Our technician tests Haier combo mainboards, Google TV firmware, direct-lit LED backlight arrays, and internal speaker circuits right at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Haier Bezel-Less Google TV 4K Repair",
         desc: "Haier 4K Google TVs (P7GT, C11, S800QT series) feature frameless display panels and Google TV with Far Field voice control. When direct-lit backlight diodes burn out, the display goes completely dark while dialogue continues.",
-        searchIntent: "Searching for <strong>Haier Smart TV repair near me</strong> in Dindigul? We diagnose Google TV boot loops, backlight burnout, and Wi-Fi disconnect issues on-site.",
+        searchIntent: "Searching for <strong>Haier Smart TV repair near me</strong> in Karur? We diagnose Google TV boot loops, backlight burnout, and Wi-Fi disconnect issues on-site.",
         problems: "Sound working but screen pitch black, stuck on Google TV logo, remote voice search failing.",
         checks: "Tests 4K LED backlight strip forward voltages, checks Google TV board standby lines, and tests Bluetooth module.",
         parts: "4K LED backlight array, Google TV logic board, Wi-Fi/Bluetooth module, HDMI connector.",
@@ -803,8 +803,8 @@ const brands = [
       },
       {
         title: "Haier Smart Android LED TV Repair",
-        desc: "Haier 32-inch and 43-inch Android Smart televisions widely installed in bedrooms and living rooms across Dindigul. Voltage surges frequently affect the combo power supply board, or apps freeze during video playback.",
-        searchIntent: "Need quick <strong>Haier LED TV repair in Dindigul</strong>? We repair combo motherboards, replace backlight strips, and service speakers at your doorstep.",
+        desc: "Haier 32-inch and 43-inch Android Smart televisions widely installed in bedrooms and living rooms across Karur. Voltage surges frequently affect the combo power supply board, or apps freeze during video playback.",
+        searchIntent: "Need quick <strong>Haier LED TV repair in Karur</strong>? We repair combo motherboards, replace backlight strips, and service speakers at your doorstep.",
         problems: "Television completely dead with no red standby light, Android apps crashing, distorted speaker sound.",
         checks: "Tests AC bridge rectifier on combo board, checks IR photodiode voltages, and measures 24V backlight driver line.",
         parts: "Haier combo motherboard, IR receiver module, direct-lit LED bars, LVDS cable.",
@@ -813,7 +813,7 @@ const brands = [
       {
         title: "Haier Full HD & HD Ready LED TV",
         desc: "Standard Haier LED televisions popular for reliable daily cable viewing. Common issues include power failure after voltage spikes, dark screen corners, or remote sensor failure.",
-        searchIntent: "Looking for <strong>Haier TV technician near me</strong> in Dindigul? We fix power supply, backlight diode, and remote sensor faults at your home.",
+        searchIntent: "Looking for <strong>Haier TV technician near me</strong> in Karur? We fix power supply, backlight diode, and remote sensor faults at your home.",
         problems: "Television dead with no indicator light, uneven dark patches on screen, remote control not responding.",
         checks: "Tests AC input fuse, checks primary filter capacitor charge, and tests IR receiver sensor photodiode.",
         parts: "SMPS power supply board, LED backlight strips, IR receiver sensor board, LVDS cable.",
@@ -885,19 +885,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Begampur",
+        locality: "Thanthonimalai",
         title: "Haier 43-inch Google TV Backlight Repair",
-        text: "A customer in Begampur noticed their 43-inch Haier Google TV playing serial audio clearly while the screen remained totally black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
+        text: "A customer in Thanthonimalai noticed their 43-inch Haier Google TV playing serial audio clearly while the screen remained totally black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
       },
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Haier 50-inch 4K Smart TV Boot Loop Fix",
-        text: "A family in Nagal Nagar had a 50-inch Haier Smart TV stuck on the Google TV logo and restarting continuously. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
+        text: "A family in Kagithapuramam had a 50-inch Haier Smart TV stuck on the Google TV logo and restarting continuously. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
       },
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Haier 32-inch LED Power Board Servicing",
-        text: "A resident in RM Colony contacted us when their 32-inch Haier TV went dead following voltage fluctuations during rain. The technician checked the combo power supply, replaced a blown fuse and shorted rectifier diode on-site, restoring power safely."
+        text: "A resident in Pasupathipalayam contacted us when their 32-inch Haier TV went dead following voltage fluctuations during rain. The technician checked the combo power supply, replaced a blown fuse and shorted rectifier diode on-site, restoring power safely."
       }
     ]
   },
@@ -905,23 +905,23 @@ const brands = [
   // 8. SANSUI
   {
     name: "Sansui",
-    slug: "sansui-tv-repair-service-in-dindigul.html",
-    h1: "Sansui TV Repair Service in Dindigul",
-    metaTitle: "Sansui TV Repair Service in Dindigul | LED & Smart TV Repair",
-    metaDesc: "Need Sansui TV repair in Dindigul? Doorstep inspection for Sansui 4K Pro, DLED & Smart TVs. Backlight strip replacement, SMPS power & board repair.",
-    introHeading: "Need Sansui TV Repair in Dindigul?",
+    slug: "sansui-tv-repair-service-in-karur.html",
+    h1: "Sansui TV Repair Service in Karur",
+    metaTitle: "Sansui TV Repair Service in Karur | LED & Smart TV Repair",
+    metaDesc: "Need Sansui TV repair in Karur? Doorstep inspection for Sansui 4K Pro, DLED & Smart TVs. Backlight strip replacement, SMPS power & board repair.",
+    introHeading: "Need Sansui TV Repair in Karur?",
     introTamil: "Sansui TV-la sound varudhu picture black-aa irukka? Power standby light eriyala?",
-    introTanglish: "Sansui TV on aagala or sound mattum vandhu display dark-aa irukka? <strong>Sansui TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. 4K Pro, DLED Smart, and HD Ready problems spot-laye check pannuvom.",
+    introTanglish: "Sansui TV on aagala or sound mattum vandhu display dark-aa irukka? <strong>Sansui TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. 4K Pro, DLED Smart, and HD Ready problems spot-laye check pannuvom.",
     introText: [
-      "Is your Sansui television playing channel sound with a pitch-black screen, failing to power on, or stuck in standby? Sansui televisions have a long presence in Dindigul households for value and reliable display, but power board failures and burnt LED backlight strips are common after years of continuous use.",
-      "If you need dependable <strong>Sansui Smart TV repair in Dindigul</strong> around RM Colony, quick <strong>Sansui LED TV repair near me</strong> in Nagal Nagar, or an experienced <strong>Sansui TV technician near me</strong> near Palani Road, our local desk organizes timely home visits across all Dindigul localities.",
+      "Is your Sansui television playing channel sound with a pitch-black screen, failing to power on, or stuck in standby? Sansui televisions have a long presence in Karur households for value and reliable display, but power board failures and burnt LED backlight strips are common after years of continuous use.",
+      "If you need dependable <strong>Sansui Smart TV repair in Karur</strong> around Pasupathipalayam, quick <strong>Sansui LED TV repair near me</strong> in Kagithapuramam, or an experienced <strong>Sansui TV technician near me</strong> near Kovai Road, our local desk organizes timely home visits across all Karur localities.",
       "Our technician tests Sansui SMPS power boards, DLED backlight arrays, Android motherboards, and speaker modules directly at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Sansui 4K Ultra HD Smart TV Repair",
         desc: "Sansui 4K Pro series models deliver sharp Ultra HD resolution with built-in streaming apps. When high-brightness backlight strips burn out over years of use, sound plays normally while the display remains completely black.",
-        searchIntent: "Searching for <strong>Sansui Smart TV repair near me</strong> in Dindigul? We diagnose 4K screen blackout, HDMI no signal errors, and power board faults on-site.",
+        searchIntent: "Searching for <strong>Sansui Smart TV repair near me</strong> in Karur? We diagnose 4K screen blackout, HDMI no signal errors, and power board faults on-site.",
         problems: "Sound playing clearly while display is black, red indicator light blinking, HDMI port failing to detect DTH box.",
         checks: "Measures DLED forward voltage per strip, inspects 4K Pro SMPS standby rail, and tests HDMI switch.",
         parts: "Sansui 4K LED backlight array, 4K Pro SMPS power board, main logic board, HDMI socket.",
@@ -930,7 +930,7 @@ const brands = [
       {
         title: "Sansui DLED Smart Android TV Repair",
         desc: "Sansui DLED Smart TVs running Android OS support OTT streaming apps and screen mirroring. Corrupted system firmware can cause the television to freeze on the Sansui startup logo or disconnect from Wi-Fi.",
-        searchIntent: "Need quick <strong>Sansui Smart TV service in Dindigul</strong>? We resolve Android boot loops, Wi-Fi disconnect, and app freezing issues at your home.",
+        searchIntent: "Need quick <strong>Sansui Smart TV service in Karur</strong>? We resolve Android boot loops, Wi-Fi disconnect, and app freezing issues at your home.",
         problems: "Stuck on Sansui startup logo, Wi-Fi failing to connect to broadband, remote voice search dead.",
         checks: "Enters Sansui recovery console, wipes cache partition, and checks 3.3V Wi-Fi card supply.",
         parts: "Sansui Android motherboard, internal Wi-Fi module, eMMC flash memory, remote sensor.",
@@ -938,8 +938,8 @@ const brands = [
       },
       {
         title: "Sansui Full HD & HD Ready LED TV",
-        desc: "Affordable 32-inch and 40-inch Sansui DLED televisions popular in bedrooms across Dindigul. Electrical spikes frequently damage the input power supply, or internal speakers develop rattling noises.",
-        searchIntent: "Searching for reliable <strong>Sansui LED TV repair in Dindigul</strong>? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
+        desc: "Affordable 32-inch and 40-inch Sansui DLED televisions popular in bedrooms across Karur. Electrical spikes frequently damage the input power supply, or internal speakers develop rattling noises.",
+        searchIntent: "Searching for reliable <strong>Sansui LED TV repair in Karur</strong>? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
         problems: "DLED screen dim with dark patches, TV not turning on, tinny audio from speakers.",
         checks: "Measures DLED strip current draw, tests standby transformer output, and checks speaker voice coils.",
         parts: "Sansui power supply board, DLED backlight array, internal speaker pair, LVDS cable.",
@@ -1011,19 +1011,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Sansui 43-inch 4K Pro Backlight Repair",
-        text: "A customer in Nagal Nagar noticed their 43-inch Sansui TV playing channel audio clearly while the screen remained totally black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
+        text: "A customer in Kagithapuramam noticed their 43-inch Sansui TV playing channel audio clearly while the screen remained totally black. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
       },
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Sansui 32-inch LED Power Board Servicing",
-        text: "A household in RM Colony had a 32-inch Sansui TV that went dead following voltage fluctuations during rain. The technician diagnosed the power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
+        text: "A household in Pasupathipalayam had a 32-inch Sansui TV that went dead following voltage fluctuations during rain. The technician diagnosed the power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
       },
       {
-        locality: "Dindigul Town",
+        locality: "Karur Town",
         title: "Sansui 50-inch Smart TV Boot Loop Fix",
-        text: "A resident near Dindigul Clock Tower reported their 50-inch Sansui Smart TV stuck on the startup logo. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
+        text: "A resident near Karur Clock Tower reported their 50-inch Sansui Smart TV stuck on the startup logo. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
       }
     ]
   },
@@ -1031,23 +1031,23 @@ const brands = [
   // 9. VIDEOCON
   {
     name: "Videocon",
-    slug: "videocon-tv-repair-service-in-dindigul.html",
-    h1: "Videocon TV Repair Service in Dindigul",
-    metaTitle: "Videocon TV Repair Service in Dindigul | DDB & LED TV Repair",
-    metaDesc: "Need Videocon TV repair in Dindigul? Doorstep inspection for Videocon DDB, Liquid Luminous & LED TVs. Backlight strip replacement, SMPS power & board repair.",
-    introHeading: "Need Videocon TV Repair in Dindigul?",
+    slug: "videocon-tv-repair-service-in-karur.html",
+    h1: "Videocon TV Repair Service in Karur",
+    metaTitle: "Videocon TV Repair Service in Karur | DDB & LED TV Repair",
+    metaDesc: "Need Videocon TV repair in Karur? Doorstep inspection for Videocon DDB, Liquid Luminous & LED TVs. Backlight strip replacement, SMPS power & board repair.",
+    introHeading: "Need Videocon TV Repair in Karur?",
     introTamil: "Videocon DDB TV-la sound varudhu screen dark-aa irukka? Power on aagala?",
-    introTanglish: "Videocon TV on pannumbodhu red light blink aagi standby-la nikkudha or display varalaiya? <strong>Videocon TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. DDB Series, Liquid Luminous, and Smart Lit problems spot-laye check pannuvom.",
+    introTanglish: "Videocon TV on pannumbodhu red light blink aagi standby-la nikkudha or display varalaiya? <strong>Videocon TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. DDB Series, Liquid Luminous, and Smart Lit problems spot-laye check pannuvom.",
     introText: [
-      "Is your Videocon television playing audio with a completely dark screen, failing to power on, or showing lines across the picture? Videocon televisions and DDB models are widely installed in homes across Dindigul, but after years of operation, backlight LED strips and SMPS power boards require experienced attention.",
-      "If you need dependable <strong>Videocon LED TV repair near me</strong> in Nagal Nagar, quick <strong>Videocon Smart TV repair in Dindigul</strong> around RM Colony, or an experienced <strong>Videocon TV technician near me</strong> near Palani Road, our local desk organizes timely home visits across all Dindigul localities.",
+      "Is your Videocon television playing audio with a completely dark screen, failing to power on, or showing lines across the picture? Videocon televisions and DDB models are widely installed in homes across Karur, but after years of operation, backlight LED strips and SMPS power boards require experienced attention.",
+      "If you need dependable <strong>Videocon LED TV repair near me</strong> in Kagithapuramam, quick <strong>Videocon Smart TV repair in Karur</strong> around Pasupathipalayam, or an experienced <strong>Videocon TV technician near me</strong> near Kovai Road, our local desk organizes timely home visits across all Karur localities.",
       "Our technician tests Videocon power boards, DDB tuner cards, LED backlight strips, and audio circuits right at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Videocon DDB (Direct Digital Broadcast) TV Repair",
         desc: "Videocon DDB televisions feature built-in DTH satellite tuner cards eliminating the need for an external set-top box. Power surges frequently affect the integrated tuner card or the main SMPS power supply.",
-        searchIntent: "Searching for <strong>Videocon TV repair near me</strong> in Dindigul? We diagnose DDB tuner faults, dead power supply, and backlight blackout on-site.",
+        searchIntent: "Searching for <strong>Videocon TV repair near me</strong> in Karur? We diagnose DDB tuner faults, dead power supply, and backlight blackout on-site.",
         problems: "No signal from built-in satellite dish, TV not turning on, sound playing with dark screen.",
         checks: "Measures LNB power output from tuner card, tests 12V and 24V SMPS rails, and inspects backlight diode strips.",
         parts: "DDB satellite tuner board, SMPS power supply board, LED backlight strips, remote sensor.",
@@ -1056,7 +1056,7 @@ const brands = [
       {
         title: "Videocon Liquid Luminous LED TV Repair",
         desc: "Videocon Liquid Luminous models utilize specialized color enhancement filters and direct LED backlights. If backlight diodes overheat and burn out, the display goes black while sound continues.",
-        searchIntent: "Looking for <strong>Videocon LED TV repair in Dindigul</strong>? We replace backlight strips and repair power boards across all Dindigul homes.",
+        searchIntent: "Looking for <strong>Videocon LED TV repair in Karur</strong>? We replace backlight strips and repair power boards across all Karur homes.",
         problems: "Sound audible but screen pitch black, dim picture in one corner, screen flickering.",
         checks: "Tests forward voltages across backlight strip circuits, measures LED driver DC booster voltage.",
         parts: "Liquid Luminous LED backlight array, LED driver board, T-Con timing controller.",
@@ -1064,8 +1064,8 @@ const brands = [
       },
       {
         title: "Videocon Smart Lit & Full HD LED TV",
-        desc: "Standard 32-inch and 40-inch Videocon LED televisions widely used in bedrooms across Dindigul. Voltage surges frequently damage input power capacitors or cause speaker audio distortion.",
-        searchIntent: "Need quick <strong>Videocon TV technician near me</strong> in Dindigul? We repair power boards and replace speakers at your doorstep.",
+        desc: "Standard 32-inch and 40-inch Videocon LED televisions widely used in bedrooms across Karur. Voltage surges frequently damage input power capacitors or cause speaker audio distortion.",
+        searchIntent: "Need quick <strong>Videocon TV technician near me</strong> in Karur? We repair power boards and replace speakers at your doorstep.",
         problems: "Television completely dead with no red indicator light, buzzing sound from speakers, colored vertical lines.",
         checks: "Tests AC line fuse, 300V primary filter capacitor, and checks speaker coil impedance.",
         parts: "SMPS power supply board, internal speaker pair, T-Con board, LVDS cable.",
@@ -1137,19 +1137,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "Palani Road",
+        locality: "Kovai Road",
         title: "Videocon 40-inch Liquid Luminous Backlight Fix",
-        text: "A customer near Palani Road had a 40-inch Videocon TV where channel sound was audible but the display was dark. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
+        text: "A customer near Kovai Road had a 40-inch Videocon TV where channel sound was audible but the display was dark. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
       },
       {
-        locality: "Begampur",
+        locality: "Thanthonimalai",
         title: "Videocon 32-inch DDB Satellite Power Repair",
-        text: "A household in Begampur had a 32-inch Videocon DDB TV that went dead following lightning. The technician diagnosed the power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
+        text: "A household in Thanthonimalai had a 32-inch Videocon DDB TV that went dead following lightning. The technician diagnosed the power board, replaced a blown fuse and shorted rectifier diode on-site, restoring power without needing a costly whole-board replacement."
       },
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Videocon 32-inch LED Speaker Replacement",
-        text: "A resident in Nagal Nagar contacted us when their Videocon TV speaker developed severe rattling during dialogue. The technician tested the speakers, found torn paper cone surrounds, and installed a matched replacement stereo speaker pair on-site."
+        text: "A resident in Kagithapuramam contacted us when their Videocon TV speaker developed severe rattling during dialogue. The technician tested the speakers, found torn paper cone surrounds, and installed a matched replacement stereo speaker pair on-site."
       }
     ]
   },
@@ -1157,23 +1157,23 @@ const brands = [
   // 10. XIAOMI
   {
     name: "Xiaomi",
-    slug: "xiaomi-tv-repair-service-in-dindigul.html",
-    h1: "Xiaomi TV Repair Service in Dindigul",
-    metaTitle: "Xiaomi TV Repair Service in Dindigul | Mi Smart TV & 4K Repair",
-    metaDesc: "Need Xiaomi TV repair in Dindigul? Doorstep inspection for Mi TV 4A, 4X, 5X, QLED & PatchWall Smart TVs. Backlight strip replacement & boot loop repair.",
-    introHeading: "Need Xiaomi TV Repair in Dindigul?",
+    slug: "xiaomi-tv-repair-service-in-karur.html",
+    h1: "Xiaomi TV Repair Service in Karur",
+    metaTitle: "Xiaomi TV Repair Service in Karur | Mi Smart TV & 4K Repair",
+    metaDesc: "Need Xiaomi TV repair in Karur? Doorstep inspection for Mi TV 4A, 4X, 5X, QLED & PatchWall Smart TVs. Backlight strip replacement & boot loop repair.",
+    introHeading: "Need Xiaomi TV Repair in Karur?",
     introTamil: "Xiaomi Mi TV-la 'Mi' logo-laye freeze aagudha? Sound varudhu display dark-aa irukka?",
-    introTanglish: "Mi TV on pannumbodhu boot loop aagudha or remote connect aagala? <strong>Xiaomi TV repair in Dindigul</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Mi 4A, 4X, Horizon Edition, and QLED problems spot-laye check pannuvom.",
+    introTanglish: "Mi TV on pannumbodhu boot loop aagudha or remote connect aagala? <strong>Xiaomi TV repair in Karur</strong> thedureengalana, unga area-kku direct technician visit book pannalaam. Mi 4A, 4X, Horizon Edition, and QLED problems spot-laye check pannuvom.",
     introText: [
-      "Is your Xiaomi Mi television stuck in a continuous boot loop on the 'Mi' startup logo, playing sound with a dark screen, or failing to pair with its Bluetooth remote? Xiaomi televisions are immensely popular across Dindigul for rich PatchWall features and sleek design, but eMMC memory wear and backlight diode failures require skilled attention.",
-      "If you need dependable <strong>Xiaomi Smart TV repair in Dindigul</strong> around RM Colony, quick <strong>Xiaomi LED TV repair near me</strong> in Nagal Nagar, or an experienced <strong>Xiaomi TV technician near me</strong> near Palani Road, our local desk organizes timely home visits across all Dindigul localities.",
+      "Is your Xiaomi Mi television stuck in a continuous boot loop on the 'Mi' startup logo, playing sound with a dark screen, or failing to pair with its Bluetooth remote? Xiaomi televisions are immensely popular across Karur for rich PatchWall features and sleek design, but eMMC memory wear and backlight diode failures require skilled attention.",
+      "If you need dependable <strong>Xiaomi Smart TV repair in Karur</strong> around Pasupathipalayam, quick <strong>Xiaomi LED TV repair near me</strong> in Kagithapuramam, or an experienced <strong>Xiaomi TV technician near me</strong> near Kovai Road, our local desk organizes timely home visits across all Karur localities.",
       "Our technician tests Xiaomi combo motherboards, PatchWall OS firmware, direct-lit LED backlight arrays, and Bluetooth remote modules right at your home, confirming an honest repair price before starting."
     ],
     tvTypes: [
       {
         title: "Xiaomi Mi 4K UHD & QLED TV Repair",
         desc: "Xiaomi 4K UHD models (4X, 5X, X-Series, Mi QLED) feature 4K panels powered by Vivid Picture Engine and Dolby Vision. When direct-lit backlight diodes burn out over daily use, sound continues playing while the display remains completely black.",
-        searchIntent: "Searching for <strong>Xiaomi 4K TV repair in Dindigul</strong>? We diagnose Mi 4K screen blackout, PatchWall boot loops, and HDMI eARC errors at your residence.",
+        searchIntent: "Searching for <strong>Xiaomi 4K TV repair in Karur</strong>? We diagnose Mi 4K screen blackout, PatchWall boot loops, and HDMI eARC errors at your residence.",
         problems: "Sound playing clearly while display is black, red indicator light blinking, TV rebooting every 10 seconds.",
         checks: "Measures forward voltage across direct-lit LED arrays, inspects secondary standby rails, and tests HDMI eARC IC.",
         parts: "Mi 4K LED backlight strips, SMPS power supply board, PatchWall logic board, HDMI eARC port.",
@@ -1181,8 +1181,8 @@ const brands = [
       },
       {
         title: "Xiaomi Mi TV 4A & Horizon Edition Repair",
-        desc: "Popular 32-inch and 43-inch Mi televisions widely installed in bedrooms across Dindigul. These models use unified combo motherboards where power supply and logic circuits are on a single PCB.",
-        searchIntent: "Need quick <strong>Xiaomi Smart TV repair in Dindigul</strong>? We repair combo motherboards, replace backlight strips, and fix boot loops at your doorstep.",
+        desc: "Popular 32-inch and 43-inch Mi televisions widely installed in bedrooms across Karur. These models use unified combo motherboards where power supply and logic circuits are on a single PCB.",
+        searchIntent: "Need quick <strong>Xiaomi Smart TV repair in Karur</strong>? We repair combo motherboards, replace backlight strips, and fix boot loops at your doorstep.",
         problems: "Stuck on 'Mi' startup logo screen, Wi-Fi failing to connect to broadband, Bluetooth remote unpairing.",
         checks: "Accesses service recovery mode, clears system partition cache, and tests internal Wi-Fi/Bluetooth module.",
         parts: "Combo motherboard, internal Wi-Fi module, eMMC flash memory, Bluetooth remote sensor.",
@@ -1191,7 +1191,7 @@ const brands = [
       {
         title: "Xiaomi Full HD & HD Ready Smart LED TV",
         desc: "Compact Xiaomi Smart televisions popular for everyday OTT streaming and DTH viewing. Voltage surges frequently damage input power capacitors or cause speaker audio distortion.",
-        searchIntent: "Looking for <strong>Xiaomi LED TV repair near me</strong> in Dindigul? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
+        searchIntent: "Looking for <strong>Xiaomi LED TV repair near me</strong> in Karur? We repair power supply boards, replace backlight strips, and service speakers at your doorstep.",
         problems: "Mi 4A power completely off, red LED not responding, distorted dialogue from bottom speakers.",
         checks: "Inspects single combo board fuse, measures secondary 12V DC rail, and tests down-firing speaker drivers.",
         parts: "Unified combo motherboard, down-firing speaker set, LVDS cable, remote sensor.",
@@ -1263,19 +1263,19 @@ const brands = [
     ],
     customerExperiences: [
       {
-        locality: "RM Colony",
+        locality: "Pasupathipalayam",
         title: "Xiaomi 43-inch 4X Backlight Replacement",
-        text: "A customer in RM Colony had a 43-inch Mi TV 4X playing YouTube audio clearly while the display remained dark. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
+        text: "A customer in Pasupathipalayam had a 43-inch Mi TV 4X playing YouTube audio clearly while the display remained dark. Our technician visited their residence, verified the backlight burnout with an LED tester, and replaced the complete strip set with matched spares. Picture brightness was restored on-site."
       },
       {
-        locality: "Nagal Nagar",
+        locality: "Kagithapuramam",
         title: "Xiaomi 32-inch 4A Boot Loop Fix",
-        text: "A family in Nagal Nagar had a 32-inch Mi TV 4A stuck on the 'Mi' startup logo. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
+        text: "A family in Kagithapuramam had a 32-inch Mi TV 4A stuck on the 'Mi' startup logo. The technician accessed the service recovery mode, reinstalled the firmware cache, and restored normal streaming app functions without replacing the motherboard."
       },
       {
-        locality: "Dindigul Town",
+        locality: "Karur Town",
         title: "Xiaomi 55-inch QLED HDMI Port Repair",
-        text: "A resident near Dindigul Clock Tower contacted us when their 55-inch Mi QLED TV stopped detecting the set-top box on HDMI 1. The technician inspected the port, resoldered loose connector pins, and restored signal continuity on-site."
+        text: "A resident near Karur Clock Tower contacted us when their 55-inch Mi QLED TV stopped detecting the set-top box on HDMI 1. The technician inspected the port, resoldered loose connector pins, and restored signal continuity on-site."
       }
     ]
   }

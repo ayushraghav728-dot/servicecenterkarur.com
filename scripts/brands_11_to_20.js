@@ -1,30 +1,30 @@
 // Brands 11 to 20: Godrej, Blue Star, Lloyd, IFB, Haier, Whirlpool, Hisense, Sharp, Acerpure, Kelvinator
-// Strictly for DINDIGUL, TAMIL NADU. NO forbidden cities. Real Indian English + natural Tanglish.
+// Strictly for KARUR, TAMIL NADU. NO forbidden cities. Real Indian English + natural Tanglish.
 
 module.exports = [
   {
     name: "Godrej",
-    slug: "godrej-ac-repair-service-in-dindigul.html",
-    tagline: "Godrej Green Inverter & 5-in-1 AC Service in Dindigul",
+    slug: "godrej-ac-repair-service-in-karur.html",
+    tagline: "Godrej Green Inverter & 5-in-1 AC Service in Karur",
     series: ["Green Inverter Series", "5-in-1 Convertible Series", "Turbo Cool Series", "Eon Inverter Split", "Godrej Classic Window AC"],
     refrigerants: "R32 and R290 eco-friendly refrigerants",
     tamilCallout: {
       headline: "Godrej Green Inverter AC cooling kammiya irukka? Outdoor unit clean panna venuma?",
-      body: "Ungaloda Godrej AC cooling pathala? Compressor start aaga time edukkudha? Dindigul-la local Godrej AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Godrej AC cooling pathala? Compressor start aaga time edukkudha? Karur-la local Godrej AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Godrej AC Repair Service in Dindigul | Godrej AC Service",
-    metaDesc: "Need Godrej AC repair service in Dindigul? Doorstep inspection for Godrej Green Inverter, 5-in-1 convertible split & window AC. Capacitor, gas check, jet wash.",
-    heroSubtitle: "Doorstep Godrej air conditioner repair, Green Inverter compressor check, Nano-Coat coil cleaning, capacitor replacement, and deep jet wash in Dindigul.",
+    metaTitle: "Godrej AC Repair Service in Karur | Godrej AC Service",
+    metaDesc: "Need Godrej AC repair service in Karur? Doorstep inspection for Godrej Green Inverter, 5-in-1 convertible split & window AC. Capacitor, gas check, jet wash.",
+    heroSubtitle: "Doorstep Godrej air conditioner repair, Green Inverter compressor check, Nano-Coat coil cleaning, capacitor replacement, and deep jet wash in Karur.",
     intro: {
-      p1: "Godrej AC cooling proper-ah illa? 5-in-1 convertible mode change aagala? <strong>Godrej AC repair in Dindigul</strong> or <strong>Godrej AC service near me</strong> thedureengala? Godrej air conditioners with Green Inverter technology, 100% copper coils, and Nano-Coat protection are widely trusted in Dindigul homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
-      p2: "Godrej ACs are built with heavy-duty twin rotary compressors and anti-corrosive blue fins. But during peak summer afternoons in Dindigul, dry highway dust from Palani and Trichy roads settles on outdoor coils, reducing heat dissipation and causing compressor tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Dindigul."
+      p1: "Godrej AC cooling proper-ah illa? 5-in-1 convertible mode change aagala? <strong>Godrej AC repair in Karur</strong> or <strong>Godrej AC service near me</strong> thedureengala? Godrej air conditioners with Green Inverter technology, 100% copper coils, and Nano-Coat protection are widely trusted in Karur homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
+      p2: "Godrej ACs are built with heavy-duty twin rotary compressors and anti-corrosive blue fins. But during peak summer afternoons in Karur, dry highway dust from Palani and Trichy roads settles on outdoor coils, reducing heat dissipation and causing compressor tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Godrej twin rotary compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Godrej twin rotary compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Godrej Green Inverter Split AC Service",
-        keywords: ["Godrej Inverter AC Repair in Dindigul", "Godrej Split AC Service Near Me", "Godrej AC Cooling Problem", "Godrej Green Inverter PCB Repair"],
+        keywords: ["Godrej Inverter AC Repair in Karur", "Godrej Split AC Service Near Me", "Godrej AC Cooling Problem", "Godrej Green Inverter PCB Repair"],
         desc: "We check and repair Godrej Green Inverter and 5-in-1 convertible split cooling systems at your home.",
         commonProblems: "5-in-1 convertible mode not switching, outdoor compressor tripping under afternoon heat, indoor water leakage, slow cooling, sensor error codes.",
         commonParts: "Inverter PCB, run capacitor, temperature thermistor sensor, outdoor fan motor, swing louver motor.",
@@ -38,7 +38,7 @@ module.exports = [
       },
       {
         title: "Godrej Window AC Repair",
-        keywords: ["Godrej Window AC Repair in Dindigul", "Godrej Window AC Service Near Me", "Godrej Window AC Noise Fixing", "Godrej AC Fan Motor Repair"],
+        keywords: ["Godrej Window AC Repair in Karur", "Godrej Window AC Service Near Me", "Godrej Window AC Noise Fixing", "Godrej AC Fan Motor Repair"],
         desc: "Complete maintenance and repair for Godrej classic and modern window air conditioners.",
         commonProblems: "Heavy cabinet vibration, fan motor hum, water splashing inside room from front grill, selector switch not turning on.",
         commonParts: "Dual run capacitor, fan motor bushing, selector rotary switch, thermostat, base drain tray.",
@@ -52,7 +52,7 @@ module.exports = [
       },
       {
         title: "Godrej Fixed Speed Split AC Service",
-        keywords: ["Godrej Split AC Service in Dindigul", "Godrej AC Gas Filling Near Me", "Godrej AC Capacitor Replacement", "Godrej AC Coil Leak Repair"],
+        keywords: ["Godrej Split AC Service in Karur", "Godrej AC Gas Filling Near Me", "Godrej AC Capacitor Replacement", "Godrej AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Godrej non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), fan motor, copper flare connections, drain hose.",
@@ -76,7 +76,7 @@ module.exports = [
     services: [
       { title: "Godrej AC General Servicing", desc: "Thorough filter washing, indoor coil surface cleaning, drain line flush, and electrical checks." },
       { title: "Godrej Capacitor Replacement", desc: "Testing and replacing weak or blown compressor run capacitors (35µF–50µF) and fan capacitors." },
-      { title: "Godrej Deep Jet Wash Cleaning", desc: "High-pressure water washing of outdoor copper fins and indoor coil to clear caked Dindigul dust." },
+      { title: "Godrej Deep Jet Wash Cleaning", desc: "High-pressure water washing of outdoor copper fins and indoor coil to clear caked Karur dust." },
       { title: "Godrej Water Leakage Fixing", desc: "Clearing clogged drain tubes with air pressure and leveling indoor unit brackets to stop dripping." },
       { title: "Godrej Gas Checking & Charging", desc: "Accurate manifold gauge pressure testing and proper R32 or eco-friendly refrigerant charging." },
       { title: "Godrej Window AC Overhaul", desc: "Complete sliding chassis removal, chemical wash, motor bush lubrication, and cabinet tightening." }
@@ -118,7 +118,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Godrej ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our rates are approximately 20% lower than typical market reference prices. The technician confirms the exact part price before fitting.",
+    sparePartsNote: "Compatible replacement parts for Godrej ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our rates are approximately 20% lower than typical market reference prices. The technician confirms the exact part price before fitting.",
     gasNote: "Godrej Inverter Split ACs primarily use R32 or eco-friendly refrigerants, while older window units run on R22. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -131,7 +131,7 @@ module.exports = [
           },
           {
                 "quote": "Anti-corrosive Blue Fin coil mela heavy dust adanjirukku",
-                "text": "Godrej Blue Fin outdoor condenser unit mela Dindigul roadside dust full-aa adanju cooling kuranjuduchu nu solluvanga. Outdoor fin heat rejection block aana compressor overload trip aagum. Technician pressurized water jet wash panni fins deep clean panni, compressor load reduce panni chilling restore panni tharuvanga."
+                "text": "Godrej Blue Fin outdoor condenser unit mela Karur roadside dust full-aa adanju cooling kuranjuduchu nu solluvanga. Outdoor fin heat rejection block aana compressor overload trip aagum. Technician pressurized water jet wash panni fins deep clean panni, compressor load reduce panni chilling restore panni tharuvanga."
           },
           {
                 "quote": "Outdoor unit run aagum bodhu humming and buzzing sound",
@@ -148,38 +148,38 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Godrej AC fan running but not cooling?", a: "In most Godrej split and window ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Godrej AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
-      { q: "Do you repair Godrej Window AC units in Dindigul?", a: "Yes. We service Godrej window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
+      { q: "How much does Godrej AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "Do you repair Godrej Window AC units in Karur?", a: "Yes. We service Godrej window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
       { q: "Why is water leaking from my Godrej indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Godrej AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Godrej Green Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Godrej ACs?", a: "Modern Godrej inverter split ACs use R32 or R290 eco refrigerants. Many older window and fixed-speed split units use R22." },
-      { q: "Can I get doorstep Godrej AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Godrej AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Blue Star",
-    slug: "blue-star-ac-repair-service-in-dindigul.html",
-    tagline: "Blue Star Heavy Duty Cooling & Inverter AC Service in Dindigul",
+    slug: "blue-star-ac-repair-service-in-karur.html",
+    tagline: "Blue Star Heavy Duty Cooling & Inverter AC Service in Karur",
     series: ["Heavy Duty Cooling Series", "Turbo Cool Inverter Series", "IC Inverter Split AC", "IA Heavy Duty Series", "Blue Star Classic Window AC", "Blue Star Cassette AC"],
     refrigerants: "R32 and R410A Refrigerant",
     tamilCallout: {
       headline: "Blue Star AC-la cooling stop aayiducha? Outdoor unit sound adhigama irukka?",
-      body: "Ungaloda Blue Star AC cooling slow-va irukka? Error code kaati outdoor compressor start aagala-nu nenaikireengala? Dindigul-la local Blue Star AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Blue Star AC cooling slow-va irukka? Error code kaati outdoor compressor start aagala-nu nenaikireengala? Karur-la local Blue Star AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Blue Star AC Repair Service in Dindigul | Blue Star AC Service",
-    metaDesc: "Looking for Blue Star AC repair service in Dindigul? Doorstep inspection for Blue Star inverter, split & window AC. PCB repair, gas check, jet wash.",
-    heroSubtitle: "Doorstep Blue Star air conditioner repair, inverter compressor check, dual capacitor replacement, acoustic jacket check, and deep jet cleaning in Dindigul.",
+    metaTitle: "Blue Star AC Repair Service in Karur | Blue Star AC Service",
+    metaDesc: "Looking for Blue Star AC repair service in Karur? Doorstep inspection for Blue Star inverter, split & window AC. PCB repair, gas check, jet wash.",
+    heroSubtitle: "Doorstep Blue Star air conditioner repair, inverter compressor check, dual capacitor replacement, acoustic jacket check, and deep jet cleaning in Karur.",
     intro: {
-      p1: "Blue Star AC cooling proper-ah illa? Turbo cool mode slow aagiducha? <strong>Blue Star AC repair in Dindigul</strong> or <strong>Blue Star AC service near me</strong> thedureengala? Blue Star air conditioners known for industrial-grade cooling and quiet operation are widely installed in Dindigul homes and clinics. When cooling drops or unusual noises develop, our local technician team is ready to inspect.",
-      p2: "Blue Star air conditioners feature acoustic jackets around compressors and anti-corrosive blue fins. But during peak summer afternoons in Dindigul, high ambient temperatures and dry dust can choke condenser fins or strain the run capacitor. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Dindigul."
+      p1: "Blue Star AC cooling proper-ah illa? Turbo cool mode slow aagiducha? <strong>Blue Star AC repair in Karur</strong> or <strong>Blue Star AC service near me</strong> thedureengala? Blue Star air conditioners known for industrial-grade cooling and quiet operation are widely installed in Karur homes and clinics. When cooling drops or unusual noises develop, our local technician team is ready to inspect.",
+      p2: "Blue Star air conditioners feature acoustic jackets around compressors and anti-corrosive blue fins. But during peak summer afternoons in Karur, high ambient temperatures and dry dust can choke condenser fins or strain the run capacitor. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Blue Star compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Blue Star compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Blue Star Inverter Split AC Repair",
-        keywords: ["Blue Star Inverter AC Repair in Dindigul", "Blue Star Split AC Service Near Me", "Blue Star AC Cooling Problem", "Blue Star AC PCB Repair"],
+        keywords: ["Blue Star Inverter AC Repair in Karur", "Blue Star Split AC Service Near Me", "Blue Star AC Cooling Problem", "Blue Star AC PCB Repair"],
         desc: "We diagnose and repair Blue Star IC, IA, and Turbo Cool series Inverter Split air conditioners.",
         commonProblems: "Outdoor compressor not modulating speed, indoor display showing error code, weak cooling during 40°C heat, indoor water dripping.",
         commonParts: "Inverter IPM circuit board, ambient temperature thermistor, BLDC indoor fan motor, outdoor condenser motor.",
@@ -193,7 +193,7 @@ module.exports = [
       },
       {
         title: "Blue Star Window AC Service",
-        keywords: ["Blue Star Window AC Repair in Dindigul", "Blue Star Window AC Service Near Me", "Blue Star Window AC Noise Fixing", "Blue Star AC Capacitor Replacement"],
+        keywords: ["Blue Star Window AC Repair in Karur", "Blue Star Window AC Service Near Me", "Blue Star Window AC Noise Fixing", "Blue Star AC Capacitor Replacement"],
         desc: "Complete overhaul and mechanical repair for Blue Star residential and commercial window ACs.",
         commonProblems: "Heavy buzzing sound from cabinet, front grill water dripping, selector switch jammed, slow cooling.",
         commonParts: "Dual run capacitor (35µF to 50µF), fan motor bushing, selector switch, thermostat dial, drain tray.",
@@ -207,7 +207,7 @@ module.exports = [
       },
       {
         title: "Blue Star Fixed Speed Split AC Repair",
-        keywords: ["Blue Star Split AC Service in Dindigul", "Blue Star AC Gas Filling Near Me", "Blue Star AC Capacitor Replacement", "Blue Star AC Coil Leak Repair"],
+        keywords: ["Blue Star Split AC Service in Karur", "Blue Star AC Gas Filling Near Me", "Blue Star AC Capacitor Replacement", "Blue Star AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Blue Star non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor starting, ice forming on copper pipe, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 55µF), outdoor fan motor, copper piping, flare connections.",
@@ -273,7 +273,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Blue Star ACs in Dindigul include run capacitors (35µF to 55µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Blue Star ACs in Karur include run capacitors (35µF to 55µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Blue Star Inverter Split ACs primarily use R32 or R410A refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -303,38 +303,38 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Blue Star AC fan running but not cooling?", a: "In most Blue Star split and window ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Blue Star AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 55µF). Our rates are approximately 20% lower than standard market benchmarks." },
-      { q: "Do you repair Blue Star Window AC units in Dindigul?", a: "Yes. We service Blue Star window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
+      { q: "How much does Blue Star AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 55µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "Do you repair Blue Star Window AC units in Karur?", a: "Yes. We service Blue Star window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
       { q: "Why is water leaking from my Blue Star indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Blue Star AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Blue Star Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Blue Star ACs?", a: "Modern Blue Star inverter split ACs use R32 or R410A refrigerant. Many older window and fixed-speed split units use R22." },
-      { q: "Can I get doorstep Blue Star AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Blue Star AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Lloyd",
-    slug: "lloyd-ac-repair-service-in-dindigul.html",
-    tagline: "Lloyd Grande Heavy Duty & Inverter AC Service in Dindigul",
+    slug: "lloyd-ac-repair-service-in-karur.html",
+    tagline: "Lloyd Grande Heavy Duty & Inverter AC Service in Karur",
     series: ["Grande Heavy Duty Series", "Stellar Inverter Series", "Golden Fin Series", "Lloyd Classic Window AC", "Lloyd Inverter Split AC"],
     refrigerants: "R32 Refrigerant",
     tamilCallout: {
       headline: "Lloyd AC cooling pathala? Rapid cooling mode start aagala-nu feel panreengala?",
-      body: "Ungaloda Lloyd AC cooling slow-va irukka? Golden fin coil-la dust adanja cooling stop aagum. Dindigul-la local Lloyd AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Lloyd AC cooling slow-va irukka? Golden fin coil-la dust adanja cooling stop aagum. Karur-la local Lloyd AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Lloyd AC Repair Service in Dindigul | Lloyd AC Service",
-    metaDesc: "Need Lloyd AC repair service in Dindigul? Doorstep inspection for Lloyd Grande Heavy Duty, Golden Fin split & window AC. Capacitor, gas check, jet wash.",
-    heroSubtitle: "Doorstep Lloyd air conditioner repair, Grande Heavy Duty compressor check, Golden Fin coil cleaning, capacitor replacement, and deep jet cleaning in Dindigul.",
+    metaTitle: "Lloyd AC Repair Service in Karur | Lloyd AC Service",
+    metaDesc: "Need Lloyd AC repair service in Karur? Doorstep inspection for Lloyd Grande Heavy Duty, Golden Fin split & window AC. Capacitor, gas check, jet wash.",
+    heroSubtitle: "Doorstep Lloyd air conditioner repair, Grande Heavy Duty compressor check, Golden Fin coil cleaning, capacitor replacement, and deep jet cleaning in Karur.",
     intro: {
-      p1: "Lloyd AC cooling proper-ah illa? Rapid cooling mode work aagala? <strong>Lloyd AC repair in Dindigul</strong> or <strong>Lloyd AC service near me</strong> thedureengala? Lloyd air conditioners with Golden Fin protection, heavy-duty compressors, and rapid cooling technology are widely installed in Dindigul homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
-      p2: "Lloyd ACs are designed to cool even at high temperatures, but during peak summer in Dindigul, dusty winds from roads settle on the Golden Fin condenser, restricting airflow and causing compressor tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Dindigul."
+      p1: "Lloyd AC cooling proper-ah illa? Rapid cooling mode work aagala? <strong>Lloyd AC repair in Karur</strong> or <strong>Lloyd AC service near me</strong> thedureengala? Lloyd air conditioners with Golden Fin protection, heavy-duty compressors, and rapid cooling technology are widely installed in Karur homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
+      p2: "Lloyd ACs are designed to cool even at high temperatures, but during peak summer in Karur, dusty winds from roads settle on the Golden Fin condenser, restricting airflow and causing compressor tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Lloyd compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Lloyd compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Lloyd Inverter Split AC Service",
-        keywords: ["Lloyd Inverter AC Repair in Dindigul", "Lloyd Split AC Service Near Me", "Lloyd AC Cooling Problem", "Lloyd Inverter PCB Repair"],
+        keywords: ["Lloyd Inverter AC Repair in Karur", "Lloyd Split AC Service Near Me", "Lloyd AC Cooling Problem", "Lloyd Inverter PCB Repair"],
         desc: "We check and repair Lloyd Grande Heavy Duty and Stellar Inverter Split ACs at your doorstep.",
         commonProblems: "Rapid cooling mode not kicking in, outdoor unit cutting off after 10 minutes, E1 sensor error, indoor water dripping on wall.",
         commonParts: "Inverter PCB, room and coil thermistor sensors, run capacitor, outdoor BLDC motor, cross flow blower wheel.",
@@ -348,7 +348,7 @@ module.exports = [
       },
       {
         title: "Lloyd Window AC Repair",
-        keywords: ["Lloyd Window AC Repair in Dindigul", "Lloyd Window AC Service Near Me", "Lloyd Window AC Noise Fixing", "Lloyd AC Fan Motor Repair"],
+        keywords: ["Lloyd Window AC Repair in Karur", "Lloyd Window AC Service Near Me", "Lloyd Window AC Noise Fixing", "Lloyd AC Fan Motor Repair"],
         desc: "Complete maintenance and repair for Lloyd classic and modern window air conditioners.",
         commonProblems: "Cabinet vibration rattling window frame, weak blower air delivery, water overflowing inside room, switch issues.",
         commonParts: "Dual run capacitor (35µF to 50µF), fan motor bushing, selector rotary switch, thermostat, drain pan.",
@@ -362,7 +362,7 @@ module.exports = [
       },
       {
         title: "Lloyd Fixed Speed Split AC Service",
-        keywords: ["Lloyd Split AC Service in Dindigul", "Lloyd AC Gas Filling Near Me", "Lloyd AC Capacitor Replacement", "Lloyd AC Coil Leak Repair"],
+        keywords: ["Lloyd Split AC Service in Karur", "Lloyd AC Gas Filling Near Me", "Lloyd AC Capacitor Replacement", "Lloyd AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Lloyd non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper flare connections, drain hose.",
@@ -428,7 +428,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Lloyd ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Lloyd ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Lloyd Inverter Split ACs primarily use R32 refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -458,38 +458,38 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Lloyd AC fan running but not cooling?", a: "In most Lloyd split and window ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Lloyd AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
-      { q: "Do you repair Lloyd Window AC units in Dindigul?", a: "Yes. We service Lloyd window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
+      { q: "How much does Lloyd AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "Do you repair Lloyd Window AC units in Karur?", a: "Yes. We service Lloyd window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
       { q: "Why is water leaking from my Lloyd indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Lloyd AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Lloyd Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Lloyd ACs?", a: "Modern Lloyd inverter split ACs use R32 refrigerant. Many older window and fixed-speed split units use R22." },
-      { q: "Can I get doorstep Lloyd AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Lloyd AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "IFB",
-    slug: "ifb-ac-repair-service-in-dindigul.html",
-    tagline: "IFB FastCool & Heavy Duty Inverter AC Service in Dindigul",
+    slug: "ifb-ac-repair-service-in-karur.html",
+    tagline: "IFB FastCool & Heavy Duty Inverter AC Service in Karur",
     series: ["FastCool Inverter Series", "Gold Fin Heavy Duty", "Silver Series Split AC", "Titanium Inverter Series", "I-Pro Inverter AC"],
     refrigerants: "R32 Refrigerant",
     tamilCallout: {
       headline: "IFB FastCool AC cooling kammiya irukka? Error code kaatudha?",
-      body: "Ungaloda IFB AC cooling pathala? Compressor start aaga late aagudha? Dindigul-la local IFB AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda IFB AC cooling pathala? Compressor start aaga late aagudha? Karur-la local IFB AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "IFB AC Repair Service in Dindigul | IFB AC Service",
-    metaDesc: "Looking for IFB AC repair service in Dindigul? Doorstep inspection for IFB FastCool Inverter, Gold Fin split AC. PCB repair, gas check, jet wash.",
-    heroSubtitle: "Doorstep IFB air conditioner repair, FastCool compressor check, Gold Fin coil cleaning, capacitor replacement, and deep jet cleaning in Dindigul.",
+    metaTitle: "IFB AC Repair Service in Karur | IFB AC Service",
+    metaDesc: "Looking for IFB AC repair service in Karur? Doorstep inspection for IFB FastCool Inverter, Gold Fin split AC. PCB repair, gas check, jet wash.",
+    heroSubtitle: "Doorstep IFB air conditioner repair, FastCool compressor check, Gold Fin coil cleaning, capacitor replacement, and deep jet cleaning in Karur.",
     intro: {
-      p1: "IFB AC cooling proper-ah illa? FastCool mode switch pannalum chill air varala? <strong>IFB AC repair in Dindigul</strong> or <strong>IFB AC service near me</strong> thedureengala? IFB air conditioners known for heavy-duty cooling and Gold Fin protection are popular in Dindigul homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
-      p2: "IFB ACs are built with 100% copper tubes and automotive-grade gold coating on both indoor and outdoor coils. But during hot Dindigul summers, fine dry dust blocks heat dissipation on the outdoor unit, tripping the compressor on overload. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Dindigul."
+      p1: "IFB AC cooling proper-ah illa? FastCool mode switch pannalum chill air varala? <strong>IFB AC repair in Karur</strong> or <strong>IFB AC service near me</strong> thedureengala? IFB air conditioners known for heavy-duty cooling and Gold Fin protection are popular in Karur homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
+      p2: "IFB ACs are built with 100% copper tubes and automotive-grade gold coating on both indoor and outdoor coils. But during hot Karur summers, fine dry dust blocks heat dissipation on the outdoor unit, tripping the compressor on overload. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces IFB compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces IFB compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "IFB FastCool Inverter Split AC Service",
-        keywords: ["IFB Inverter AC Repair in Dindigul", "IFB Split AC Service Near Me", "IFB AC Cooling Problem", "IFB Inverter PCB Repair"],
+        keywords: ["IFB Inverter AC Repair in Karur", "IFB Split AC Service Near Me", "IFB AC Cooling Problem", "IFB Inverter PCB Repair"],
         desc: "We diagnose and repair IFB FastCool and Titanium Inverter Split air conditioners at your home.",
         commonProblems: "FastCool mode not engaging, outdoor inverter module tripping, indoor unit water leakage, E1 or E2 sensor error codes.",
         commonParts: "Inverter PCB, room and coil thermistor sensors, run capacitor, outdoor condenser fan motor, blower motor.",
@@ -503,7 +503,7 @@ module.exports = [
       },
       {
         title: "IFB Fixed Speed Split AC Repair",
-        keywords: ["IFB Split AC Service in Dindigul", "IFB AC Gas Filling Near Me", "IFB AC Capacitor Replacement", "IFB AC Coil Leak Repair"],
+        keywords: ["IFB Split AC Service in Karur", "IFB AC Gas Filling Near Me", "IFB AC Capacitor Replacement", "IFB AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard IFB non-inverter split units.",
         commonProblems: "Compressor not starting, fan running without cool air, ice forming on copper pipe, water dripping.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper piping, flare joints, drain line.",
@@ -569,7 +569,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for IFB ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for IFB ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "IFB Inverter Split ACs primarily use R32 refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -595,37 +595,37 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my IFB AC fan running but not cooling?", a: "In most IFB split ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does IFB AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "How much does IFB AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
       { q: "Why is water leaking from my IFB indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean IFB AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair IFB Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in IFB ACs?", a: "Modern IFB inverter split ACs use R32 refrigerant. Many older fixed-speed split units use R22." },
-      { q: "Can I get doorstep IFB AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep IFB AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Haier",
-    slug: "haier-ac-repair-service-in-dindigul.html",
-    tagline: "Haier Triple Inverter & Frost Self-Clean AC Service in Dindigul",
+    slug: "haier-ac-repair-service-in-karur.html",
+    tagline: "Haier Triple Inverter & Frost Self-Clean AC Service in Karur",
     series: ["Triple Inverter Series", "Frost Self-Clean Series", "CleanCool Inverter", "Kinouchi Heavy Duty", "Haier Classic Window AC"],
     refrigerants: "R32 Refrigerant",
     tamilCallout: {
       headline: "Haier Triple Inverter AC-la Frost Self-Clean work aagala? Cooling kammiya irukka?",
-      body: "Ungaloda Haier AC cooling pathala? Error code kaatudha? Dindigul-la local Haier AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Haier AC cooling pathala? Error code kaatudha? Karur-la local Haier AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Haier AC Repair Service in Dindigul | Haier AC Service",
-    metaDesc: "Need Haier AC repair service in Dindigul? Doorstep inspection for Haier Triple Inverter, Frost Self-Clean split & window AC. PCB repair, gas check, jet wash.",
-    heroSubtitle: "Doorstep Haier air conditioner repair, Triple Inverter compressor check, Frost Self-Clean cycle check, capacitor replacement, and deep cleaning in Dindigul.",
+    metaTitle: "Haier AC Repair Service in Karur | Haier AC Service",
+    metaDesc: "Need Haier AC repair service in Karur? Doorstep inspection for Haier Triple Inverter, Frost Self-Clean split & window AC. PCB repair, gas check, jet wash.",
+    heroSubtitle: "Doorstep Haier air conditioner repair, Triple Inverter compressor check, Frost Self-Clean cycle check, capacitor replacement, and deep cleaning in Karur.",
     intro: {
-      p1: "Haier AC cooling proper-ah illa? Frost Self-Clean mode stuck aagiducha? <strong>Haier AC repair in Dindigul</strong> or <strong>Haier AC service near me</strong> thedureengala? Haier air conditioners featuring Triple Inverter Plus and Frost Self-Clean technology are widely used in Dindigul. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
-      p2: "Haier ACs are engineered for high ambient temperatures, but during peak summer in Dindigul, roadside dust settles thick on outdoor condenser coils, leading to high compressor head pressure and sudden tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Dindigul."
+      p1: "Haier AC cooling proper-ah illa? Frost Self-Clean mode stuck aagiducha? <strong>Haier AC repair in Karur</strong> or <strong>Haier AC service near me</strong> thedureengala? Haier air conditioners featuring Triple Inverter Plus and Frost Self-Clean technology are widely used in Karur. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
+      p2: "Haier ACs are engineered for high ambient temperatures, but during peak summer in Karur, roadside dust settles thick on outdoor condenser coils, leading to high compressor head pressure and sudden tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Haier Triple Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Haier Triple Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Haier Triple Inverter Split AC Service",
-        keywords: ["Haier Inverter AC Repair in Dindigul", "Haier Split AC Service Near Me", "Haier AC Cooling Problem", "Haier Inverter PCB Repair"],
+        keywords: ["Haier Inverter AC Repair in Karur", "Haier Split AC Service Near Me", "Haier AC Cooling Problem", "Haier Inverter PCB Repair"],
         desc: "We diagnose and repair Haier Triple Inverter and Frost Self-Clean split cooling systems at your home.",
         commonProblems: "Frost Self-Clean cycle freezing without draining, outdoor compressor tripping during hot afternoons, E7 error code, indoor water leak.",
         commonParts: "Triple Inverter PCB, room and coil thermistor sensors, run capacitor, BLDC outdoor fan motor, swing motor.",
@@ -639,7 +639,7 @@ module.exports = [
       },
       {
         title: "Haier Window AC Repair",
-        keywords: ["Haier Window AC Repair in Dindigul", "Haier Window AC Service Near Me", "Haier Window AC Noise Fixing", "Haier AC Fan Motor Repair"],
+        keywords: ["Haier Window AC Repair in Karur", "Haier Window AC Service Near Me", "Haier Window AC Noise Fixing", "Haier AC Fan Motor Repair"],
         desc: "Complete maintenance and repair for Haier classic and modern window air conditioners.",
         commonProblems: "Cabinet vibration rattling window frame, weak blower air delivery, water overflowing inside room, switch issues.",
         commonParts: "Dual run capacitor (35µF to 50µF), fan motor bushing, selector rotary switch, thermostat, drain pan.",
@@ -653,7 +653,7 @@ module.exports = [
       },
       {
         title: "Haier Fixed Speed Split AC Service",
-        keywords: ["Haier Split AC Service in Dindigul", "Haier AC Gas Filling Near Me", "Haier AC Capacitor Replacement", "Haier AC Coil Leak Repair"],
+        keywords: ["Haier Split AC Service in Karur", "Haier AC Gas Filling Near Me", "Haier AC Capacitor Replacement", "Haier AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Haier non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper flare connections, drain hose.",
@@ -719,7 +719,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Haier ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Haier ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Haier Inverter Split ACs primarily use R32 refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -749,38 +749,38 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Haier AC fan running but not cooling?", a: "In most Haier split and window ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Haier AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
-      { q: "Do you repair Haier Window AC units in Dindigul?", a: "Yes. We service Haier window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
+      { q: "How much does Haier AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "Do you repair Haier Window AC units in Karur?", a: "Yes. We service Haier window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
       { q: "Why is water leaking from my Haier indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Haier AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Haier Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Haier ACs?", a: "Modern Haier inverter split ACs use R32 refrigerant. Many older window and fixed-speed split units use R22." },
-      { q: "Can I get doorstep Haier AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Haier AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Whirlpool",
-    slug: "whirlpool-ac-repair-service-in-dindigul.html",
-    tagline: "Whirlpool 3D Cool & 6th Sense Intellicool AC Service in Dindigul",
+    slug: "whirlpool-ac-repair-service-in-karur.html",
+    tagline: "Whirlpool 3D Cool & 6th Sense Intellicool AC Service in Karur",
     series: ["3D Cool Inverter Series", "6th Sense Intellicool", "Magicool Inverter", "Suprecool Series", "Whirlpool Classic Window AC"],
     refrigerants: "R32 Refrigerant",
     tamilCallout: {
       headline: "Whirlpool 3D Cool AC-la cooling slow-va irukka? 6th sense mode work aagala?",
-      body: "Ungaloda Whirlpool AC cooling pathala? Compressor on aagala? Dindigul-la local Whirlpool AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Whirlpool AC cooling pathala? Compressor on aagala? Karur-la local Whirlpool AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Whirlpool AC Repair Service in Dindigul | Whirlpool AC Service",
-    metaDesc: "Looking for Whirlpool AC repair service in Dindigul? Doorstep inspection for Whirlpool 3D Cool, 6th Sense Intellicool split & window AC. PCB repair, gas check, jet wash.",
-    heroSubtitle: "Doorstep Whirlpool air conditioner repair, 6th Sense Intellicool check, 3D Cool vent inspection, capacitor replacement, and deep cleaning in Dindigul.",
+    metaTitle: "Whirlpool AC Repair Service in Karur | Whirlpool AC Service",
+    metaDesc: "Looking for Whirlpool AC repair service in Karur? Doorstep inspection for Whirlpool 3D Cool, 6th Sense Intellicool split & window AC. PCB repair, gas check, jet wash.",
+    heroSubtitle: "Doorstep Whirlpool air conditioner repair, 6th Sense Intellicool check, 3D Cool vent inspection, capacitor replacement, and deep cleaning in Karur.",
     intro: {
-      p1: "Whirlpool AC cooling proper-ah illa? 6th Sense mode switch pannalum room cool aagala? <strong>Whirlpool AC repair in Dindigul</strong> or <strong>Whirlpool AC service near me</strong> thedureengala? Whirlpool air conditioners featuring 3D Cool airflow and 6th Sense Intellicool technology are popular in Dindigul residences. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
-      p2: "Whirlpool ACs use dual vents and multi-sensor intelligence to maintain room temperature. But during high heat in Dindigul, roadside dust settles on outdoor condenser coils, restricting heat rejection and causing compressor tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Dindigul."
+      p1: "Whirlpool AC cooling proper-ah illa? 6th Sense mode switch pannalum room cool aagala? <strong>Whirlpool AC repair in Karur</strong> or <strong>Whirlpool AC service near me</strong> thedureengala? Whirlpool air conditioners featuring 3D Cool airflow and 6th Sense Intellicool technology are popular in Karur residences. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
+      p2: "Whirlpool ACs use dual vents and multi-sensor intelligence to maintain room temperature. But during high heat in Karur, roadside dust settles on outdoor condenser coils, restricting heat rejection and causing compressor tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Whirlpool Intellicool compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Whirlpool Intellicool compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Whirlpool 3D Cool Inverter Split AC Service",
-        keywords: ["Whirlpool Inverter AC Repair in Dindigul", "Whirlpool Split AC Service Near Me", "Whirlpool AC Cooling Problem", "Whirlpool Inverter PCB Repair"],
+        keywords: ["Whirlpool Inverter AC Repair in Karur", "Whirlpool Split AC Service Near Me", "Whirlpool AC Cooling Problem", "Whirlpool Inverter PCB Repair"],
         desc: "We diagnose and repair Whirlpool 3D Cool and 6th Sense Intellicool inverter split cooling systems at your home.",
         commonProblems: "6th Sense auto mode failing to adjust cooling, dual air vent louvers jammed, outdoor compressor tripping during noon heat, indoor water dripping.",
         commonParts: "Inverter PCB, room and coil thermistor sensors, run capacitor, dual swing motors, outdoor condenser motor.",
@@ -794,7 +794,7 @@ module.exports = [
       },
       {
         title: "Whirlpool Window AC Repair",
-        keywords: ["Whirlpool Window AC Repair in Dindigul", "Whirlpool Window AC Service Near Me", "Whirlpool Window AC Noise Fixing", "Whirlpool AC Fan Motor Repair"],
+        keywords: ["Whirlpool Window AC Repair in Karur", "Whirlpool Window AC Service Near Me", "Whirlpool Window AC Noise Fixing", "Whirlpool AC Fan Motor Repair"],
         desc: "Complete maintenance and repair for Whirlpool classic and modern window air conditioners.",
         commonProblems: "Cabinet vibration rattling window frame, weak blower air delivery, water overflowing inside room, switch issues.",
         commonParts: "Dual run capacitor (35µF to 50µF), fan motor bushing, selector rotary switch, thermostat, drain pan.",
@@ -808,7 +808,7 @@ module.exports = [
       },
       {
         title: "Whirlpool Fixed Speed Split AC Service",
-        keywords: ["Whirlpool Split AC Service in Dindigul", "Whirlpool AC Gas Filling Near Me", "Whirlpool AC Capacitor Replacement", "Whirlpool AC Coil Leak Repair"],
+        keywords: ["Whirlpool Split AC Service in Karur", "Whirlpool AC Gas Filling Near Me", "Whirlpool AC Capacitor Replacement", "Whirlpool AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Whirlpool non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper flare connections, drain hose.",
@@ -874,7 +874,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Whirlpool ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Whirlpool ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Whirlpool Inverter Split ACs primarily use R32 refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -904,38 +904,38 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Whirlpool AC fan running but not cooling?", a: "In most Whirlpool split and window ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Whirlpool AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
-      { q: "Do you repair Whirlpool Window AC units in Dindigul?", a: "Yes. We service Whirlpool window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
+      { q: "How much does Whirlpool AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "Do you repair Whirlpool Window AC units in Karur?", a: "Yes. We service Whirlpool window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
       { q: "Why is water leaking from my Whirlpool indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Whirlpool AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Whirlpool Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Whirlpool ACs?", a: "Modern Whirlpool inverter split ACs use R32 refrigerant. Many older window and fixed-speed split units use R22." },
-      { q: "Can I get doorstep Whirlpool AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Whirlpool AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Hisense",
-    slug: "hisense-ac-repair-service-in-dindigul.html",
-    tagline: "Hisense Intelligent Inverter & Turbo Cool AC Service in Dindigul",
+    slug: "hisense-ac-repair-service-in-karur.html",
+    tagline: "Hisense Intelligent Inverter & Turbo Cool AC Service in Karur",
     series: ["Intelligent Inverter Series", "Turbo Cool Series", "IntelliPro Inverter AC", "Hisense Smart Split AC", "Hisense Fixed Speed Split"],
     refrigerants: "R32 Refrigerant",
     tamilCallout: {
       headline: "Hisense AC-la error code varudha? Turbo cool mode cooling kammiya irukka?",
-      body: "Ungaloda Hisense AC cooling pathala? Inverter board problem-nu nenaikireengala? Dindigul-la local Hisense AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Hisense AC cooling pathala? Inverter board problem-nu nenaikireengala? Karur-la local Hisense AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Hisense AC Repair Service in Dindigul | Hisense AC Service",
-    metaDesc: "Looking for Hisense AC repair service in Dindigul? Doorstep inspection for Hisense Intelligent Inverter, Turbo Cool split AC. PCB repair, gas check, jet wash.",
-    heroSubtitle: "Doorstep Hisense air conditioner repair, Intelligent Inverter compressor check, Turbo Cool testing, capacitor replacement, and deep cleaning in Dindigul.",
+    metaTitle: "Hisense AC Repair Service in Karur | Hisense AC Service",
+    metaDesc: "Looking for Hisense AC repair service in Karur? Doorstep inspection for Hisense Intelligent Inverter, Turbo Cool split AC. PCB repair, gas check, jet wash.",
+    heroSubtitle: "Doorstep Hisense air conditioner repair, Intelligent Inverter compressor check, Turbo Cool testing, capacitor replacement, and deep cleaning in Karur.",
     intro: {
-      p1: "Hisense AC cooling proper-ah illa? Turbo Cool mode switch aagala? <strong>Hisense AC repair in Dindigul</strong> or <strong>Hisense AC service near me</strong> thedureengala? Hisense air conditioners with smart inverter motors and fast cooling circuits are widely installed in Dindigul residences. When cooling drops or error codes appear, our local team is ready to inspect.",
-      p2: "Hisense ACs use 100% copper coils and electronic expansion valves for accurate temperature maintenance. But during peak summer afternoons in Dindigul, dry dusty winds settle on outdoor condenser fins, causing high head pressure and thermal tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Dindigul."
+      p1: "Hisense AC cooling proper-ah illa? Turbo Cool mode switch aagala? <strong>Hisense AC repair in Karur</strong> or <strong>Hisense AC service near me</strong> thedureengala? Hisense air conditioners with smart inverter motors and fast cooling circuits are widely installed in Karur residences. When cooling drops or error codes appear, our local team is ready to inspect.",
+      p2: "Hisense ACs use 100% copper coils and electronic expansion valves for accurate temperature maintenance. But during peak summer afternoons in Karur, dry dusty winds settle on outdoor condenser fins, causing high head pressure and thermal tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Hisense Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Hisense Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Hisense Inverter Split AC Service",
-        keywords: ["Hisense Inverter AC Repair in Dindigul", "Hisense Split AC Service Near Me", "Hisense AC Cooling Problem", "Hisense Inverter PCB Repair"],
+        keywords: ["Hisense Inverter AC Repair in Karur", "Hisense Split AC Service Near Me", "Hisense AC Cooling Problem", "Hisense Inverter PCB Repair"],
         desc: "We diagnose and repair Hisense Intelligent Inverter and Turbo Cool split cooling systems at your home.",
         commonProblems: "Outdoor compressor not ramping up speed, display error code (E0/E4), indoor water leakage on wall, weak cooling in peak heat.",
         commonParts: "Inverter PCB, room and coil thermistor sensors, run capacitor, BLDC outdoor fan motor, swing louver motor.",
@@ -949,7 +949,7 @@ module.exports = [
       },
       {
         title: "Hisense Fixed Speed Split AC Repair",
-        keywords: ["Hisense Split AC Service in Dindigul", "Hisense AC Gas Filling Near Me", "Hisense AC Capacitor Replacement", "Hisense AC Coil Leak Repair"],
+        keywords: ["Hisense Split AC Service in Karur", "Hisense AC Gas Filling Near Me", "Hisense AC Capacitor Replacement", "Hisense AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Hisense non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper flare connections, drain hose.",
@@ -1015,7 +1015,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Hisense ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Hisense ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Hisense Inverter Split ACs primarily use R32 refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -1041,37 +1041,37 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Hisense AC fan running but not cooling?", a: "In most Hisense split ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Hisense AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "How much does Hisense AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
       { q: "Why is water leaking from my Hisense indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Hisense AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Hisense Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Hisense ACs?", a: "Modern Hisense inverter split ACs use R32 refrigerant. Many older fixed-speed split units use R22." },
-      { q: "Can I get doorstep Hisense AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Hisense AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Sharp",
-    slug: "sharp-ac-repair-service-in-dindigul.html",
-    tagline: "Sharp Plasmacluster & J-Tech Inverter AC Service in Dindigul",
+    slug: "sharp-ac-repair-service-in-karur.html",
+    tagline: "Sharp Plasmacluster & J-Tech Inverter AC Service in Karur",
     series: ["Plasmacluster Inverter Series", "J-Tech Inverter Series", "Eco Inverter Split AC", "Sharp Super Jet Series", "Sharp Classic Split"],
     refrigerants: "R32 and R410A Refrigerant",
     tamilCallout: {
       headline: "Sharp Plasmacluster AC-la air purify aagala? Cooling drop aayiducha?",
-      body: "Ungaloda Sharp AC cooling pathala? J-Tech inverter compressor start aaga time edukkudha? Dindigul-la local Sharp AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Sharp AC cooling pathala? J-Tech inverter compressor start aaga time edukkudha? Karur-la local Sharp AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Sharp AC Repair Service in Dindigul | Sharp AC Service",
-    metaDesc: "Need Sharp AC repair service in Dindigul? Doorstep inspection for Sharp Plasmacluster, J-Tech Inverter split AC. PCB repair, gas check, jet wash.",
-    heroSubtitle: "Doorstep Sharp air conditioner repair, Plasmacluster ion generator check, J-Tech Inverter compressor check, capacitor replacement, and deep cleaning in Dindigul.",
+    metaTitle: "Sharp AC Repair Service in Karur | Sharp AC Service",
+    metaDesc: "Need Sharp AC repair service in Karur? Doorstep inspection for Sharp Plasmacluster, J-Tech Inverter split AC. PCB repair, gas check, jet wash.",
+    heroSubtitle: "Doorstep Sharp air conditioner repair, Plasmacluster ion generator check, J-Tech Inverter compressor check, capacitor replacement, and deep cleaning in Karur.",
     intro: {
-      p1: "Sharp AC cooling proper-ah illa? Plasmacluster ion indicator blink aagudha? <strong>Sharp AC repair in Dindigul</strong> or <strong>Sharp AC service near me</strong> thedureengala? Sharp air conditioners featuring Plasmacluster air purifying ions and J-Tech Inverter technology are known for gentle, clean cooling in Dindigul homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
-      p2: "Sharp ACs use precise temperature control down to 0.5°C steps and anti-corrosive copper coils. But during hot Dindigul summers, fine dry dust blocks heat dissipation on the outdoor unit, tripping the compressor on overload. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Dindigul."
+      p1: "Sharp AC cooling proper-ah illa? Plasmacluster ion indicator blink aagudha? <strong>Sharp AC repair in Karur</strong> or <strong>Sharp AC service near me</strong> thedureengala? Sharp air conditioners featuring Plasmacluster air purifying ions and J-Tech Inverter technology are known for gentle, clean cooling in Karur homes. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
+      p2: "Sharp ACs use precise temperature control down to 0.5°C steps and anti-corrosive copper coils. But during hot Karur summers, fine dry dust blocks heat dissipation on the outdoor unit, tripping the compressor on overload. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Sharp J-Tech Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Sharp J-Tech Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Sharp J-Tech Inverter Split AC Service",
-        keywords: ["Sharp Inverter AC Repair in Dindigul", "Sharp Split AC Service Near Me", "Sharp AC Cooling Problem", "Sharp Inverter PCB Repair"],
+        keywords: ["Sharp Inverter AC Repair in Karur", "Sharp Split AC Service Near Me", "Sharp AC Cooling Problem", "Sharp Inverter PCB Repair"],
         desc: "We diagnose and repair Sharp J-Tech Inverter and Plasmacluster split cooling systems at your home.",
         commonProblems: "Outdoor compressor not responding to remote temperature changes, Plasmacluster ion generator sparking, indoor water dripping on wall.",
         commonParts: "J-Tech Inverter PCB, room and coil thermistor sensors, run capacitor, ionizer unit, BLDC outdoor fan motor.",
@@ -1085,7 +1085,7 @@ module.exports = [
       },
       {
         title: "Sharp Fixed Speed Split AC Repair",
-        keywords: ["Sharp Split AC Service in Dindigul", "Sharp AC Gas Filling Near Me", "Sharp AC Capacitor Replacement", "Sharp AC Coil Leak Repair"],
+        keywords: ["Sharp Split AC Service in Karur", "Sharp AC Gas Filling Near Me", "Sharp AC Capacitor Replacement", "Sharp AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Sharp non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper flare connections, drain hose.",
@@ -1151,7 +1151,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Sharp ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Sharp ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Sharp Inverter Split ACs primarily use R32 or R410A refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -1177,37 +1177,37 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Sharp AC fan running but not cooling?", a: "In most Sharp split ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Sharp AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "How much does Sharp AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
       { q: "Why is water leaking from my Sharp indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Sharp AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Sharp J-Tech Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Sharp ACs?", a: "Modern Sharp inverter split ACs use R32 or R410A refrigerant. Older non-inverter split units use R22." },
-      { q: "Can I get doorstep Sharp AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Sharp AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Acerpure",
-    slug: "acerpure-ac-repair-service-in-dindigul.html",
-    tagline: "Acerpure Cool Inverter & Air Purifier AC Service in Dindigul",
+    slug: "acerpure-ac-repair-service-in-karur.html",
+    tagline: "Acerpure Cool Inverter & Air Purifier AC Service in Karur",
     series: ["Cool Inverter Series", "Dual Filter Series", "Pro Smart Inverter AC", "Acerpure Clean Series", "Acerpure Eco Split"],
     refrigerants: "R32 Refrigerant",
     tamilCallout: {
       headline: "Acerpure AC cooling slow-va irukka? Filter indicator light blink aagudha?",
-      body: "Ungaloda Acerpure AC cooling pathala? Inverter fan speed fluctuate aagudha? Dindigul-la local Acerpure AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Acerpure AC cooling pathala? Inverter fan speed fluctuate aagudha? Karur-la local Acerpure AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Acerpure AC Repair Service in Dindigul | Acerpure AC Service",
-    metaDesc: "Looking for Acerpure AC repair service in Dindigul? Doorstep inspection for Acerpure Cool Inverter, Dual Filter split AC. PCB repair, gas check, jet wash.",
-    heroSubtitle: "Doorstep Acerpure air conditioner repair, Cool Inverter compressor check, HEPA filter inspection, capacitor replacement, and deep cleaning in Dindigul.",
+    metaTitle: "Acerpure AC Repair Service in Karur | Acerpure AC Service",
+    metaDesc: "Looking for Acerpure AC repair service in Karur? Doorstep inspection for Acerpure Cool Inverter, Dual Filter split AC. PCB repair, gas check, jet wash.",
+    heroSubtitle: "Doorstep Acerpure air conditioner repair, Cool Inverter compressor check, HEPA filter inspection, capacitor replacement, and deep cleaning in Karur.",
     intro: {
-      p1: "Acerpure AC cooling proper-ah illa? Filter alert light off aagala? <strong>Acerpure AC repair in Dindigul</strong> or <strong>Acerpure AC service near me</strong> thedureengala? Acerpure air conditioners combining inverter cooling with integrated air purification are growing popular in modern Dindigul homes. When cooling drops or error codes appear, our local team is ready to inspect.",
-      p2: "Acerpure ACs use smart inverter chips and sensitive multi-stage filtration. But during peak summer afternoons in Dindigul, dry dusty winds settle on outdoor condenser fins, causing high head pressure and thermal tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Dindigul."
+      p1: "Acerpure AC cooling proper-ah illa? Filter alert light off aagala? <strong>Acerpure AC repair in Karur</strong> or <strong>Acerpure AC service near me</strong> thedureengala? Acerpure air conditioners combining inverter cooling with integrated air purification are growing popular in modern Karur homes. When cooling drops or error codes appear, our local team is ready to inspect.",
+      p2: "Acerpure ACs use smart inverter chips and sensitive multi-stage filtration. But during peak summer afternoons in Karur, dry dusty winds settle on outdoor condenser fins, causing high head pressure and thermal tripping. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we offer honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Acerpure Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Acerpure Inverter compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Acerpure Cool Inverter Split AC Service",
-        keywords: ["Acerpure Inverter AC Repair in Dindigul", "Acerpure Split AC Service Near Me", "Acerpure AC Cooling Problem", "Acerpure Inverter PCB Repair"],
+        keywords: ["Acerpure Inverter AC Repair in Karur", "Acerpure Split AC Service Near Me", "Acerpure AC Cooling Problem", "Acerpure Inverter PCB Repair"],
         desc: "We diagnose and repair Acerpure Cool Inverter and Dual Filter split cooling systems at your home.",
         commonProblems: "Filter change indicator not resetting, outdoor compressor tripping during hot noon, indoor water dripping on wall, slow cooling.",
         commonParts: "Inverter PCB, room and coil thermistor sensors, run capacitor, dual filter frame, outdoor fan motor.",
@@ -1221,7 +1221,7 @@ module.exports = [
       },
       {
         title: "Acerpure Fixed Speed Split AC Repair",
-        keywords: ["Acerpure Split AC Service in Dindigul", "Acerpure AC Gas Filling Near Me", "Acerpure AC Capacitor Replacement", "Acerpure AC Coil Leak Repair"],
+        keywords: ["Acerpure Split AC Service in Karur", "Acerpure AC Gas Filling Near Me", "Acerpure AC Capacitor Replacement", "Acerpure AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Acerpure non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper flare connections, drain hose.",
@@ -1287,7 +1287,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Acerpure ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Acerpure ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Acerpure Inverter Split ACs primarily use R32 refrigerant. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -1313,37 +1313,37 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Acerpure AC fan running but not cooling?", a: "In most Acerpure split ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Acerpure AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "How much does Acerpure AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
       { q: "Why is water leaking from my Acerpure indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Acerpure AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Acerpure Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Acerpure ACs?", a: "Modern Acerpure inverter split ACs use R32 refrigerant. Older non-inverter split units use R22." },
-      { q: "Can I get doorstep Acerpure AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Acerpure AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   },
   {
     name: "Kelvinator",
-    slug: "kelvinator-ac-repair-service-in-dindigul.html",
-    tagline: "Kelvinator Crown & Inverter Split AC Service in Dindigul",
+    slug: "kelvinator-ac-repair-service-in-karur.html",
+    tagline: "Kelvinator Crown & Inverter Split AC Service in Karur",
     series: ["Crown Inverter Series", "Living Inverter Series", "Kelvinator Classic Window AC", "Kelvinator Fixed Speed Split", "Kelvinator Eco AC"],
     refrigerants: "R32 and R22 Refrigerant",
     tamilCallout: {
       headline: "Kelvinator AC-la cooling kammiya irukka? Outdoor compressor sound adhigama irukka?",
-      body: "Ungaloda Kelvinator AC cooling pathala? Window AC sound adhigama irukka? Dindigul-la local Kelvinator AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
+      body: "Ungaloda Kelvinator AC cooling pathala? Window AC sound adhigama irukka? Karur-la local Kelvinator AC inspection and repair service kedaikkum. Technician doorstep-ku vandhu exact fault check pannuvanga."
     },
-    metaTitle: "Kelvinator AC Repair Service in Dindigul | Kelvinator AC Service",
-    metaDesc: "Need Kelvinator AC repair service in Dindigul? Doorstep inspection for Kelvinator Crown Inverter, split & window AC. Capacitor, gas check, jet wash.",
-    heroSubtitle: "Doorstep Kelvinator air conditioner repair, Crown Inverter compressor check, window AC overhaul, capacitor replacement, and deep cleaning in Dindigul.",
+    metaTitle: "Kelvinator AC Repair Service in Karur | Kelvinator AC Service",
+    metaDesc: "Need Kelvinator AC repair service in Karur? Doorstep inspection for Kelvinator Crown Inverter, split & window AC. Capacitor, gas check, jet wash.",
+    heroSubtitle: "Doorstep Kelvinator air conditioner repair, Crown Inverter compressor check, window AC overhaul, capacitor replacement, and deep cleaning in Karur.",
     intro: {
-      p1: "Kelvinator AC cooling proper-ah illa? Outdoor fan odudhu aana cooling varala? <strong>Kelvinator AC repair in Dindigul</strong> or <strong>Kelvinator AC service near me</strong> thedureengala? Kelvinator air conditioners known for heavy cooling and durable compressors have served Dindigul homes for decades. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
-      p2: "Whether you use a classic Kelvinator window AC or a modern Crown inverter split AC, peak summer heat in Dindigul causes dry highway dust to clog outdoor condenser fins. This restricts heat rejection and trips the compressor overload. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
-      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Dindigul."
+      p1: "Kelvinator AC cooling proper-ah illa? Outdoor fan odudhu aana cooling varala? <strong>Kelvinator AC repair in Karur</strong> or <strong>Kelvinator AC service near me</strong> thedureengala? Kelvinator air conditioners known for heavy cooling and durable compressors have served Karur homes for decades. When cooling drops or water leaks from the unit, our local team is ready to inspect.",
+      p2: "Whether you use a classic Kelvinator window AC or a modern Crown inverter split AC, peak summer heat in Karur causes dry highway dust to clog outdoor condenser fins. This restricts heat rejection and trips the compressor overload. Problem enna-nu share pannunga — technician visits your house directly to test electrical components, board signals, and operating pressures.",
+      p3: "From seasonal high-pressure jet washing and drain clearing to capacitor replacement and R32 refrigerant checking, we provide honest, transparent doorstep service across Karur."
     },
-    climateContext: "Dindigul's dry summer heat forces Kelvinator compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
+    climateContext: "Karur's dry summer heat forces Kelvinator compressors to work under high thermal loads. Airborne dust carried from main roads sticks to the outdoor condenser fins. When fins are choked, heat dissipation slows down, causing the compressor to cut off repeatedly on thermal overload. Regular seasonal jet cleaning restores cooling efficiency.",
     acTypes: [
       {
         title: "Kelvinator Inverter Split AC Service",
-        keywords: ["Kelvinator Inverter AC Repair in Dindigul", "Kelvinator Split AC Service Near Me", "Kelvinator AC Cooling Problem", "Kelvinator Inverter PCB Repair"],
+        keywords: ["Kelvinator Inverter AC Repair in Karur", "Kelvinator Split AC Service Near Me", "Kelvinator AC Cooling Problem", "Kelvinator Inverter PCB Repair"],
         desc: "We diagnose and repair Kelvinator Crown and Living series Inverter Split air conditioners.",
         commonProblems: "Outdoor compressor not starting under midday heat, display error code, indoor water dripping on wall, slow cooling.",
         commonParts: "Inverter PCB, room and coil thermistor sensors, run capacitor, outdoor BLDC fan motor, swing motor.",
@@ -1357,7 +1357,7 @@ module.exports = [
       },
       {
         title: "Kelvinator Window AC Repair",
-        keywords: ["Kelvinator Window AC Repair in Dindigul", "Kelvinator Window AC Service Near Me", "Kelvinator Window AC Noise Fixing", "Kelvinator AC Fan Motor Repair"],
+        keywords: ["Kelvinator Window AC Repair in Karur", "Kelvinator Window AC Service Near Me", "Kelvinator Window AC Noise Fixing", "Kelvinator AC Fan Motor Repair"],
         desc: "Complete maintenance and repair for Kelvinator classic and modern window air conditioners.",
         commonProblems: "Cabinet vibration rattling window frame, weak blower air delivery, water overflowing inside room, switch issues.",
         commonParts: "Dual run capacitor (35µF to 50µF), fan motor bushing, selector rotary switch, thermostat, drain pan.",
@@ -1371,7 +1371,7 @@ module.exports = [
       },
       {
         title: "Kelvinator Fixed Speed Split AC Service",
-        keywords: ["Kelvinator Split AC Service in Dindigul", "Kelvinator AC Gas Filling Near Me", "Kelvinator AC Capacitor Replacement", "Kelvinator AC Coil Leak Repair"],
+        keywords: ["Kelvinator Split AC Service in Karur", "Kelvinator AC Gas Filling Near Me", "Kelvinator AC Capacitor Replacement", "Kelvinator AC Coil Leak Repair"],
         desc: "Reliable maintenance and component testing for standard Kelvinator non-inverter split units.",
         commonProblems: "Outdoor fan spinning without compressor start, ice forming on indoor cooling coil, water dripping behind indoor unit.",
         commonParts: "Dual capacitor (35µF to 50µF), outdoor fan motor, copper flare connections, drain hose.",
@@ -1437,7 +1437,7 @@ module.exports = [
       { service: "Refrigerant Top-up (Minor drop)", gas: "R32 / R410A", price: "₹899 – ₹1,299", notes: "For slight pressure drop when system is leak-free" },
       { service: "Nitrogen Leak Testing & Joint Brazing", gas: "All", price: "₹649 – ₹949", notes: "High pressure hold test and copper leak sealing" }
     ],
-    sparePartsNote: "Compatible replacement parts for Kelvinator ACs in Dindigul include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
+    sparePartsNote: "Compatible replacement parts for Kelvinator ACs in Karur include run capacitors (35µF to 50µF), fan capacitors, thermistor sensors, swing motors, indoor cross-flow blower wheels, universal remotes, and inverter PCB repair services. Our prices are approximately 20% lower than typical market reference prices. Rate confirmed before fitting.",
     gasNote: "Kelvinator Inverter Split ACs primarily use R32 refrigerant, while older window units run on R22. If cooling feels weak, our technician tests manifold suction pressure and checks flare nuts. Refrigerant is only recharged after checking operating pressures and repairing any leaks.",
     customerProblems: [
           {
@@ -1467,13 +1467,13 @@ module.exports = [
     ],
     faqs: [
       { q: "Why is my Kelvinator AC fan running but not cooling?", a: "In most Kelvinator split and window ACs, this happens when the compressor run capacitor has weakened or blown. Replacing the capacitor usually restores cooling immediately." },
-      { q: "How much does Kelvinator AC capacitor replacement cost in Dindigul?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
-      { q: "Do you repair Kelvinator Window AC units in Dindigul?", a: "Yes. We service Kelvinator window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
+      { q: "How much does Kelvinator AC capacitor replacement cost in Karur?", a: "Capacitor replacement costs around ₹499 to ₹699 depending on the rating (35µF to 50µF). Our rates are approximately 20% lower than standard market benchmarks." },
+      { q: "Do you repair Kelvinator Window AC units in Karur?", a: "Yes. We service Kelvinator window ACs for heavy vibration, motor noise, water dripping inside, selector switch faults, and cooling issues." },
       { q: "Why is water leaking from my Kelvinator indoor AC unit?", a: "Water leaks occur when the narrow condensate drain pipe gets blocked with algae or dust slime. Flushing the line clears the obstruction." },
       { q: "Does low cooling always mean Kelvinator AC gas is empty?", a: "No! Clogged air filters, dirty condenser fins, and weak capacitors are far more common causes of low cooling than gas loss." },
       { q: "Do you repair Kelvinator Inverter PCB boards?", a: "Yes. Our technicians inspect inverter microcontroller boards, communication wires, and power modules for error codes and starting faults." },
       { q: "Which gas is used in Kelvinator ACs?", a: "Modern Kelvinator inverter split ACs use R32 refrigerant. Many older window and fixed-speed split units use R22." },
-      { q: "Can I get doorstep Kelvinator AC service in Dindigul Town?", a: "Yes. Doorstep visits are available across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Seelapadi, and surrounding areas." }
+      { q: "Can I get doorstep Kelvinator AC service in Karur Town?", a: "Yes. Doorstep visits are available across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Vengamedu, and surrounding areas." }
     ]
   }
 ];

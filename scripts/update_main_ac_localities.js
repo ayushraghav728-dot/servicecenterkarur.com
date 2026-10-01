@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { generateMainAcLocalitiesHtml } = require('./generate_locality_cards');
 
-const mainAcPath = path.join(__dirname, '..', 'ac-repair-service-in-dindigul.html');
+const mainAcPath = path.join(__dirname, '..', 'ac-repair-service-in-karur.html');
 let content = fs.readFileSync(mainAcPath, 'utf8');
 
 const startTag = '<div class="localities-grid-expanded">';
@@ -23,4 +23,4 @@ const newLocalities = generateMainAcLocalitiesHtml();
 const updatedContent = content.substring(0, startIdx + startTag.length) + '\n' + newLocalities + '\n      ' + content.substring(endIdx);
 
 fs.writeFileSync(mainAcPath, updatedContent, 'utf8');
-console.log("Successfully updated localities in ac-repair-service-in-dindigul.html");
+console.log("Successfully updated localities in ac-repair-service-in-karur.html");

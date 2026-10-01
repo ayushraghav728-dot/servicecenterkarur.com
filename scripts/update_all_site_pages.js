@@ -33,20 +33,20 @@ const faviconHtml = `  <!-- Favicon System -->
 
 // Footer brand directory HTML
 const footerBrandDirectoryHtml = `      <div class="footer-brand-directory">
-        <h4>Brand Service Centers in Dindigul</h4>
+        <h4>Brand Service Centers in Karur</h4>
         <div class="footer-brand-grid">
-          ${brands.map(b => `<a href="/service-center/${b.slug}-service-center-dindigul.html">${b.name} Service Center Dindigul</a>`).join('\n          ')}
+          ${brands.map(b => `<a href="/service-center/${b.slug}-service-center-karur.html">${b.name} Service Center Karur</a>`).join('\n          ')}
         </div>
       </div>
 `;
 
 function getCrossLinkCallout(b, relPrefix, variantIndex) {
-  const targetUrl = `${relPrefix}service-center/${b.slug}-service-center-dindigul.html`;
+  const targetUrl = `${relPrefix}service-center/${b.slug}-service-center-karur.html`;
   const variants = [
-    `Looking for complete <strong>${b.name} home appliance service</strong> in Dindigul? Visit the <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Service Center Dindigul</a> page for multi-appliance repair information and verified manufacturer support details.`,
-    `Need comprehensive repair guidance or multi-product inspection for ${b.name} appliances? Check our dedicated <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Service Center in Dindigul</a> directory.`,
-    `Planning doorstep service across multiple ${b.name} appliances in Dindigul? Explore the full <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Appliance Service Center Dindigul</a> overview.`,
-    `Want verified customer reference information and complete appliance support for ${b.name}? Visit <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Service Center Dindigul</a>.`
+    `Looking for complete <strong>${b.name} home appliance service</strong> in Karur? Visit the <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Service Center Karur</a> page for multi-appliance repair information and verified manufacturer support details.`,
+    `Need comprehensive repair guidance or multi-product inspection for ${b.name} appliances? Check our dedicated <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Service Center in Karur</a> directory.`,
+    `Planning doorstep service across multiple ${b.name} appliances in Karur? Explore the full <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Appliance Service Center Karur</a> overview.`,
+    `Want verified customer reference information and complete appliance support for ${b.name}? Visit <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">${b.name} Service Center Karur</a>.`
   ];
 
   const text = variants[variantIndex % variants.length];
@@ -69,9 +69,9 @@ function getHubCrossLinkCallout(applianceName, relPrefix) {
   <!-- Natural Service Center Hub Cross-Link -->
   <section class="section" style="padding: 1.75rem 0; background: #f0f9ff; border-top: 1px solid #bae6fd; border-bottom: 1px solid #bae6fd;">
     <div class="container" style="max-width: 880px; text-align: center;">
-      <h3 style="font-size: 1.15rem; color: #0369a1; margin-bottom: 0.5rem;">Explore All Brand Service Centers in Dindigul</h3>
+      <h3 style="font-size: 1.15rem; color: #0369a1; margin-bottom: 0.5rem;">Explore All Brand Service Centers in Karur</h3>
       <p style="margin: 0; font-size: 0.95rem; color: #0c4a6e; line-height: 1.6;">
-        In addition to single-appliance repair, we provide comprehensive multi-brand doorstep inspection across 54 leading brands. Visit our complete <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">Brand Service Center Directory in Dindigul</a> to view all brand-specific service information.
+        In addition to single-appliance repair, we provide comprehensive multi-brand doorstep inspection across 54 leading brands. Visit our complete <a href="${targetUrl}" style="font-weight: 700; color: #0284c7; text-decoration: underline;">Brand Service Center Directory in Karur</a> to view all brand-specific service information.
       </p>
     </div>
   </section>
@@ -155,7 +155,7 @@ allHtmlFiles.forEach((absPath, index) => {
   const brandInfo = fileToBrand[relPath];
   if (brandInfo) {
     const b = brandBySlug[brandInfo.slug];
-    const targetUrl = `service-center/${b.slug}-service-center-dindigul.html`;
+    const targetUrl = `service-center/${b.slug}-service-center-karur.html`;
     if (b && !html.includes(targetUrl)) {
       const relPrefix = relPath.includes('/') ? '../' : '';
       const calloutHtml = getCrossLinkCallout(b, relPrefix, index);
@@ -176,10 +176,10 @@ allHtmlFiles.forEach((absPath, index) => {
 
   // 6. Cross Internal Links for Hub Pages (ac, fridge, washing-machine, tv index/hubs)
   const hubPages = [
-    { file: 'ac/ac-repair-service-in-dindigul.html', name: 'AC' },
-    { file: 'fridge/refrigerator-repair-service-in-dindigul.html', name: 'Refrigerator' },
-    { file: 'washing-machine/washing-machine-repair-service-in-dindigul.html', name: 'Washing Machine' },
-    { file: 'tv/tv-repair-service-in-dindigul.html', name: 'TV' }
+    { file: 'ac/ac-repair-service-in-karur.html', name: 'AC' },
+    { file: 'fridge/refrigerator-repair-service-in-karur.html', name: 'Refrigerator' },
+    { file: 'washing-machine/washing-machine-repair-service-in-karur.html', name: 'Washing Machine' },
+    { file: 'tv/tv-repair-service-in-karur.html', name: 'TV' }
   ];
 
   hubPages.forEach(hub => {

@@ -65,7 +65,7 @@ const expandedBrandProblems = {
   samsung: [
     {
       quote: "Samsung WindFree mode-la cooling feel aagala",
-      text: "Samsung WindFree AC micro-holes vazhiya cool air varala, room warm-aa irukku nu customers ask pannuvanga. WindFree panel tiny holes-la Dindigul dust full-aa adanju airflow block aagirukalaam. Front panel unclip panni micro-mesh foam wash and blower pressure clean panni uniform gentle cooling restore panna technician mudivangala."
+      text: "Samsung WindFree AC micro-holes vazhiya cool air varala, room warm-aa irukku nu customers ask pannuvanga. WindFree panel tiny holes-la Karur dust full-aa adanju airflow block aagirukalaam. Front panel unclip panni micro-mesh foam wash and blower pressure clean panni uniform gentle cooling restore panna technician mudivangala."
     },
     {
       quote: "AC start pannina main switch MCB trip aagidudhu",
@@ -92,7 +92,7 @@ const expandedBrandProblems = {
   voltas: [
     {
       quote: "Voltas AC-la fan odudhu, aana cooling mattum konjam kooda illa",
-      text: "Summer peak time-la Voltas split AC run aanaalum warm air blow aagudhu nu customers dindigul service desk-la ketpanga. Indha situation-la outdoor compressor run capacitor 45/50 mfd weak aagirukalaam, illana condenser dust adanjirukalaam. Local technician unit inspect panni, capacitor test panni actual fault explain panni fix pannuvanga."
+      text: "Summer peak time-la Voltas split AC run aanaalum warm air blow aagudhu nu customers karur service desk-la ketpanga. Indha situation-la outdoor compressor run capacitor 45/50 mfd weak aagirukalaam, illana condenser dust adanjirukalaam. Local technician unit inspect panni, capacitor test panni actual fault explain panni fix pannuvanga."
     },
     {
       quote: "Maha Adjustable mode switch panna compressor cut-off aagudhu",
@@ -119,7 +119,7 @@ const expandedBrandProblems = {
   "o-general": [
     {
       quote: "O-General AC extreme heat-la cooling kurayudhu",
-      text: "O-General heavy duty split AC Dindigul 40 degree heat-la afternoon cooling drop aagudhu nu customers call pannuvanga. Rooftop outdoor condenser unit-la heat accumulate aagi thermal overload switch trip aagirukalaam. Technician outdoor coil high pressure water wash panni, proper heat ventilation ensure panni chilling restore pannuvanga."
+      text: "O-General heavy duty split AC Karur 40 degree heat-la afternoon cooling drop aagudhu nu customers call pannuvanga. Rooftop outdoor condenser unit-la heat accumulate aagi thermal overload switch trip aagirukalaam. Technician outdoor coil high pressure water wash panni, proper heat ventilation ensure panni chilling restore pannuvanga."
     },
     {
       quote: "Indoor blower switch on panna mild squeaking sound varudhu",
@@ -173,7 +173,7 @@ const expandedBrandProblems = {
   hitachi: [
     {
       quote: "Hitachi Expandable Inverter AC cooling slow-ah feel aagudhu",
-      text: "Hitachi Expandable Inverter AC remote-la full capacity set panninaalum room cooling slow-aa nadakudhu nu customer solluvanga. Outdoor ambient sensor reading mismatch illana outdoor condenser fins Dindigul dust-naala choke aagirukalaam. Technician outdoor coil deep jet cleaning panni, sensor ohms calibrate panni full capacity cooling bring pannuvanga."
+      text: "Hitachi Expandable Inverter AC remote-la full capacity set panninaalum room cooling slow-aa nadakudhu nu customer solluvanga. Outdoor ambient sensor reading mismatch illana outdoor condenser fins Karur dust-naala choke aagirukalaam. Technician outdoor coil deep jet cleaning panni, sensor ohms calibrate panni full capacity cooling bring pannuvanga."
     },
     {
       quote: "Hitachi i-Clean auto cleaning brush jam aagi sound varudhu",
@@ -270,7 +270,7 @@ const expandedBrandProblems = {
     },
     {
       quote: "Afternoon heat-la Onida AC compressor trip aagi fan mattum odudhu",
-      text: "Dindigul afternoon peak sun time-la compressor continuous-aa run aagama 5 minutes-ku oru thadava cut-off aagudhu nu customer ketpanga. Condenser coil dust clogging-naala high discharge pressure create aagi thermal trip aagum. Technician chemical coil wash panni cooling capacity stable-aa maintain panna vaipanga."
+      text: "Karur afternoon peak sun time-la compressor continuous-aa run aagama 5 minutes-ku oru thadava cut-off aagudhu nu customer ketpanga. Condenser coil dust clogging-naala high discharge pressure create aagi thermal trip aagum. Technician chemical coil wash panni cooling capacity stable-aa maintain panna vaipanga."
     },
     {
       quote: "Remote-la temperature set panna respond panna matengudhu",

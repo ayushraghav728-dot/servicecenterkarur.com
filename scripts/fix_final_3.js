@@ -9,7 +9,7 @@ const replacements = [
   ],
   [
     'We check SMPS boards on site, install genuine replacement backlight strips, and restore faulty audio.',
-    'Searching for <strong>Mi LED TV service in Dindigul</strong>? We check power supply boards, replace burnt-out LED light arrays, and fix crackling speakers right in your home.'
+    'Searching for <strong>Mi LED TV service in Karur</strong>? We check power supply boards, replace burnt-out LED light arrays, and fix crackling speakers right in your home.'
   ],
   [
     'Technicians diagnose power circuits, fit matched LED backlight strips, and restore clear audio at home.',

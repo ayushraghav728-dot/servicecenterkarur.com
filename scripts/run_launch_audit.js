@@ -6,8 +6,8 @@ const brands = require('./data_brands_info.js');
 
 console.log('====================================================');
 console.log('STARTING COMPREHENSIVE PRE-LAUNCH AUDIT');
-console.log('PROJECT: servicecenterdindigul.com');
-console.log('LOCATION: Dindigul, Tamil Nadu, India');
+console.log('PROJECT: servicecenterkarur.com');
+console.log('LOCATION: Karur, Tamil Nadu, India');
 console.log('====================================================\n');
 
 // 1. Gather all customer-facing HTML files
@@ -118,7 +118,7 @@ let scBrandErrors = 0;
 const scDir = path.join(rootDir, 'service-center');
 
 brands.forEach(b => {
-  const pageFile = `${b.slug}-service-center-dindigul.html`;
+  const pageFile = `${b.slug}-service-center-karur.html`;
   const pagePath = path.join(scDir, pageFile);
 
   if (!fs.existsSync(pagePath)) {
@@ -159,7 +159,7 @@ brands.forEach(b => {
   }
 
   // Check false authorized claims
-  if (content.includes(`"${b.name} Authorized Service Center in Dindigul"`)) {
+  if (content.includes(`"${b.name} Authorized Service Center in Karur"`)) {
     console.error(`[FAIL] ${pageFile}: Unverified authorized service claim!`);
     auditErrors.push(`${pageFile}: Unverified authorization claim`);
     scBrandErrors++;
@@ -192,7 +192,7 @@ allHtmlFiles.forEach(file => {
     canonicalErrors++;
   } else {
     const cUrl = canonicalMatches[1];
-    if (!cUrl.startsWith('https://servicecenterdindigul.com/')) {
+    if (!cUrl.startsWith('https://servicecenterkarur.com/')) {
       console.error(`[FAIL] ${relPath}: Invalid canonical domain: ${cUrl}`);
       auditErrors.push(`${relPath}: Invalid canonical domain`);
       canonicalErrors++;
@@ -234,7 +234,7 @@ allHtmlFiles.forEach(file => {
 });
 
 if (canonicalErrors === 0) {
-  console.log(`[PASS] All ${allHtmlFiles.length} pages have valid, unique canonical URLs under https://servicecenterdindigul.com/\n`);
+  console.log(`[PASS] All ${allHtmlFiles.length} pages have valid, unique canonical URLs under https://servicecenterkarur.com/\n`);
 }
 
 // 6. Internal Broken Link Audit

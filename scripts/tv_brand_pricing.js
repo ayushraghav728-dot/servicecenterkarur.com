@@ -1,4 +1,4 @@
-// Researched brand-wise TV repair pricing across all 31 brands for Dindigul, Tamil Nadu
+// Researched brand-wise TV repair pricing across all 31 brands for Karur, Tamil Nadu
 module.exports = {
   Samsung: {
     inspection: "₹249 – ₹350",

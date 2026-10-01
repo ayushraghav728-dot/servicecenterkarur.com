@@ -2,19 +2,19 @@
 module.exports = {
   "acer": [
     {
-      "q": "Where is the Acer Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Acer home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Acer Service Center located in Karur?",
+      "a": "We provide local doorstep service for Acer home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Acer Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Acer Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Acer appliances do you service in Dindigul?",
+      "q": "What Acer appliances do you service in Karur?",
       "a": "We service verified Acer home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Television, Air Purifier."
     },
     {
-      "q": "Do you repair Acer inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Acer inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Acer inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -22,8 +22,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Acer refrigerators in Dindigul?",
-      "a": "Yes, we service Acer single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Acer refrigerators in Karur?",
+      "a": "Yes, we service Acer single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Acer frost-free fridge?",
@@ -38,7 +38,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Acer smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Acer smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Acer LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -46,7 +46,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Acer appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Acer appliances in Karur?",
       "a": "The technician first inspects the Acer appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -58,29 +58,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Acer models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Acer home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Acer home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Acer service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Acer appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Acer service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Acer appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "acerpure": [
     {
-      "q": "Where is the Acerpure Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Acerpure home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Acerpure Service Center located in Karur?",
+      "a": "We provide local doorstep service for Acerpure home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Acerpure Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Acerpure Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Acerpure appliances do you service in Dindigul?",
+      "q": "What Acerpure appliances do you service in Karur?",
       "a": "We service verified Acerpure home appliances including Air Conditioner, Television, Air Purifier, Air Circulator Fan, Water Purifier."
     },
     {
-      "q": "Do you repair Acerpure inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Acerpure inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Acerpure inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -88,7 +88,7 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you repair Acerpure smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Acerpure smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Acerpure LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -96,7 +96,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Acerpure appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Acerpure appliances in Karur?",
       "a": "The technician first inspects the Acerpure appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -108,29 +108,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Acerpure models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Acerpure home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Acerpure home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Acerpure service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Acerpure appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Acerpure service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Acerpure appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "aiwa": [
     {
-      "q": "Where is the Aiwa Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Aiwa home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Aiwa Service Center located in Karur?",
+      "a": "We provide local doorstep service for Aiwa home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Aiwa Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Aiwa Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Aiwa appliances do you service in Dindigul?",
+      "q": "What Aiwa appliances do you service in Karur?",
       "a": "We service verified Aiwa home appliances including Television, Soundbar, Home Audio System."
     },
     {
-      "q": "Do you repair Aiwa smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Aiwa smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Aiwa LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -138,7 +138,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Aiwa appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Aiwa appliances in Karur?",
       "a": "The technician first inspects the Aiwa appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -150,29 +150,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Aiwa models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Aiwa home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Aiwa home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Aiwa service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Aiwa appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Aiwa service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Aiwa appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "akai": [
     {
-      "q": "Where is the Akai Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Akai home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Akai Service Center located in Karur?",
+      "a": "We provide local doorstep service for Akai home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Akai Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Akai Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Akai appliances do you service in Dindigul?",
+      "q": "What Akai appliances do you service in Karur?",
       "a": "We service verified Akai home appliances including Television, Home Audio System, Air Cooler."
     },
     {
-      "q": "Do you repair Akai smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Akai smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Akai LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -180,7 +180,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Akai appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Akai appliances in Karur?",
       "a": "The technician first inspects the Akai appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -192,29 +192,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Akai models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Akai home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Akai home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Akai service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Akai appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Akai service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Akai appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "bajaj": [
     {
-      "q": "Where is the Bajaj Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Bajaj home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Bajaj Service Center located in Karur?",
+      "a": "We provide local doorstep service for Bajaj home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Bajaj Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Bajaj Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Bajaj appliances do you service in Dindigul?",
+      "q": "What Bajaj appliances do you service in Karur?",
       "a": "We service verified Bajaj home appliances including Air Conditioner, Air Cooler, Geyser / Water Heater, Microwave Oven, Mixer Grinder."
     },
     {
-      "q": "Do you repair Bajaj inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Bajaj inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Bajaj inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -222,7 +222,7 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "How is the repair cost estimated for Bajaj appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Bajaj appliances in Karur?",
       "a": "The technician first inspects the Bajaj appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -234,29 +234,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Bajaj models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Bajaj home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Bajaj home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Bajaj service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Bajaj appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Bajaj service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Bajaj appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "blue-star": [
     {
-      "q": "Where is the Blue Star Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Blue Star home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Blue Star Service Center located in Karur?",
+      "a": "We provide local doorstep service for Blue Star home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Blue Star Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Blue Star Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Blue Star appliances do you service in Dindigul?",
+      "q": "What Blue Star appliances do you service in Karur?",
       "a": "We service verified Blue Star home appliances including Air Conditioner, Refrigerator, Deep Freezer, Water Purifier, Air Purifier, Air Cooler, Water Cooler."
     },
     {
-      "q": "Do you repair Blue Star inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Blue Star inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Blue Star inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -264,15 +264,15 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Blue Star refrigerators in Dindigul?",
-      "a": "Yes, we service Blue Star single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Blue Star refrigerators in Karur?",
+      "a": "Yes, we service Blue Star single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Blue Star frost-free fridge?",
       "a": "This is usually caused by a blocked air vent, a faulty defrost bimetal sensor, an open defrost heater, or an evaporator fan motor failure that halts airflow to the fresh food zone."
     },
     {
-      "q": "How is the repair cost estimated for Blue Star appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Blue Star appliances in Karur?",
       "a": "The technician first inspects the Blue Star appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -284,30 +284,30 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Blue Star models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Blue Star home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Blue Star home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Blue Star service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Blue Star appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Blue Star service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Blue Star appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "bosch": [
     {
-      "q": "Where is the Bosch Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Bosch home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Bosch Service Center located in Karur?",
+      "a": "We provide local doorstep service for Bosch home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Bosch Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Bosch Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Bosch appliances do you service in Dindigul?",
+      "q": "What Bosch appliances do you service in Karur?",
       "a": "We service verified Bosch home appliances including Washing Machine, Washer Dryer, Refrigerator, Dishwasher, Microwave Oven, Built-in Oven, Kitchen Chimney, Hob."
     },
     {
-      "q": "Do you provide doorstep repair for Bosch refrigerators in Dindigul?",
-      "a": "Yes, we service Bosch single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Bosch refrigerators in Karur?",
+      "a": "Yes, we service Bosch single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Bosch frost-free fridge?",
@@ -322,7 +322,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Bosch appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Bosch appliances in Karur?",
       "a": "The technician first inspects the Bosch appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -334,29 +334,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Bosch models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Bosch home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Bosch home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Bosch service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Bosch appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Bosch service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Bosch appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "bpl": [
     {
-      "q": "Where is the BPL Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for BPL home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the BPL Service Center located in Karur?",
+      "a": "We provide local doorstep service for BPL home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for BPL Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for BPL Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What BPL appliances do you service in Dindigul?",
+      "q": "What BPL appliances do you service in Karur?",
       "a": "We service verified BPL home appliances including Air Conditioner, Refrigerator, Washing Machine, Television."
     },
     {
-      "q": "Do you repair BPL inverter split air conditioners in Dindigul?",
+      "q": "Do you repair BPL inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair BPL inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -364,8 +364,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for BPL refrigerators in Dindigul?",
-      "a": "Yes, we service BPL single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for BPL refrigerators in Karur?",
+      "a": "Yes, we service BPL single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a BPL frost-free fridge?",
@@ -380,7 +380,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair BPL smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair BPL smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect BPL LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -388,7 +388,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for BPL appliances in Dindigul?",
+      "q": "How is the repair cost estimated for BPL appliances in Karur?",
       "a": "The technician first inspects the BPL appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -400,29 +400,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional BPL models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for BPL home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for BPL home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for BPL service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your BPL appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for BPL service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your BPL appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "carrier": [
     {
-      "q": "Where is the Carrier Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Carrier home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Carrier Service Center located in Karur?",
+      "a": "We provide local doorstep service for Carrier home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Carrier Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Carrier Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Carrier appliances do you service in Dindigul?",
+      "q": "What Carrier appliances do you service in Karur?",
       "a": "We service verified Carrier home appliances including Air Conditioner, Air Purifier, Cassette AC."
     },
     {
-      "q": "Do you repair Carrier inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Carrier inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Carrier inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -430,7 +430,7 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "How is the repair cost estimated for Carrier appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Carrier appliances in Karur?",
       "a": "The technician first inspects the Carrier appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -442,25 +442,25 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Carrier models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Carrier home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Carrier home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Carrier service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Carrier appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Carrier service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Carrier appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "daewoo": [
     {
-      "q": "Where is the Daewoo Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Daewoo home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Daewoo Service Center located in Karur?",
+      "a": "We provide local doorstep service for Daewoo home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Daewoo Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Daewoo Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Daewoo appliances do you service in Dindigul?",
+      "q": "What Daewoo appliances do you service in Karur?",
       "a": "We service verified Daewoo home appliances including Washing Machine, Washer Dryer, Microwave Oven."
     },
     {
@@ -472,7 +472,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Daewoo appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Daewoo appliances in Karur?",
       "a": "The technician first inspects the Daewoo appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -484,29 +484,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Daewoo models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Daewoo home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Daewoo home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Daewoo service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Daewoo appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Daewoo service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Daewoo appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "daikin": [
     {
-      "q": "Where is the Daikin Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Daikin home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Daikin Service Center located in Karur?",
+      "a": "We provide local doorstep service for Daikin home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Daikin Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Daikin Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Daikin appliances do you service in Dindigul?",
+      "q": "What Daikin appliances do you service in Karur?",
       "a": "We service verified Daikin home appliances including Air Conditioner, Air Purifier, Cassette AC, Ductable AC."
     },
     {
-      "q": "Do you repair Daikin inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Daikin inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Daikin inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -514,7 +514,7 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "How is the repair cost estimated for Daikin appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Daikin appliances in Karur?",
       "a": "The technician first inspects the Daikin appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -526,29 +526,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Daikin models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Daikin home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Daikin home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Daikin service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Daikin appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Daikin service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Daikin appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "electrolux": [
     {
-      "q": "Where is the Electrolux Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Electrolux home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Electrolux Service Center located in Karur?",
+      "a": "We provide local doorstep service for Electrolux home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Electrolux Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Electrolux Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Electrolux appliances do you service in Dindigul?",
+      "q": "What Electrolux appliances do you service in Karur?",
       "a": "We service verified Electrolux home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Dishwasher, Microwave Oven, Air Purifier."
     },
     {
-      "q": "Do you repair Electrolux inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Electrolux inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Electrolux inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -556,8 +556,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Electrolux refrigerators in Dindigul?",
-      "a": "Yes, we service Electrolux single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Electrolux refrigerators in Karur?",
+      "a": "Yes, we service Electrolux single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Electrolux frost-free fridge?",
@@ -572,7 +572,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Electrolux appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Electrolux appliances in Karur?",
       "a": "The technician first inspects the Electrolux appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -584,29 +584,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Electrolux models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Electrolux home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Electrolux home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Electrolux service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Electrolux appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Electrolux service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Electrolux appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "godrej": [
     {
-      "q": "Where is the Godrej Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Godrej home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Godrej Service Center located in Karur?",
+      "a": "We provide local doorstep service for Godrej home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Godrej Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Godrej Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Godrej appliances do you service in Dindigul?",
+      "q": "What Godrej appliances do you service in Karur?",
       "a": "We service verified Godrej home appliances including Air Conditioner, Refrigerator, Washing Machine, Microwave Oven, Chest Freezer, Air Cooler."
     },
     {
-      "q": "Do you repair Godrej inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Godrej inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Godrej inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -614,8 +614,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Godrej refrigerators in Dindigul?",
-      "a": "Yes, we service Godrej single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Godrej refrigerators in Karur?",
+      "a": "Yes, we service Godrej single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Godrej frost-free fridge?",
@@ -630,7 +630,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Godrej appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Godrej appliances in Karur?",
       "a": "The technician first inspects the Godrej appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -642,29 +642,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Godrej models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Godrej home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Godrej home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Godrej service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Godrej appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Godrej service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Godrej appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "haier": [
     {
-      "q": "Where is the Haier Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Haier home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Haier Service Center located in Karur?",
+      "a": "We provide local doorstep service for Haier home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Haier Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Haier Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Haier appliances do you service in Dindigul?",
+      "q": "What Haier appliances do you service in Karur?",
       "a": "We service verified Haier home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Television, Microwave Oven, Deep Freezer, Water Heater."
     },
     {
-      "q": "Do you repair Haier inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Haier inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Haier inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -672,8 +672,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Haier refrigerators in Dindigul?",
-      "a": "Yes, we service Haier single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Haier refrigerators in Karur?",
+      "a": "Yes, we service Haier single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Haier frost-free fridge?",
@@ -688,7 +688,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Haier smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Haier smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Haier LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -696,7 +696,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Haier appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Haier appliances in Karur?",
       "a": "The technician first inspects the Haier appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -708,29 +708,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Haier models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Haier home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Haier home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Haier service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Haier appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Haier service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Haier appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "havells": [
     {
-      "q": "Where is the Havells Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Havells home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Havells Service Center located in Karur?",
+      "a": "We provide local doorstep service for Havells home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Havells Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Havells Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Havells appliances do you service in Dindigul?",
+      "q": "What Havells appliances do you service in Karur?",
       "a": "We service verified Havells home appliances including Air Conditioner, Washing Machine, Geyser / Water Heater, Air Purifier, Kitchen Appliances."
     },
     {
-      "q": "Do you repair Havells inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Havells inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Havells inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -746,7 +746,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Havells appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Havells appliances in Karur?",
       "a": "The technician first inspects the Havells appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -758,29 +758,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Havells models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Havells home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Havells home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Havells service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Havells appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Havells service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Havells appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "hisense": [
     {
-      "q": "Where is the Hisense Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Hisense home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Hisense Service Center located in Karur?",
+      "a": "We provide local doorstep service for Hisense home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Hisense Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Hisense Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Hisense appliances do you service in Dindigul?",
+      "q": "What Hisense appliances do you service in Karur?",
       "a": "We service verified Hisense home appliances including Air Conditioner, Refrigerator, Television, Dishwasher."
     },
     {
-      "q": "Do you repair Hisense inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Hisense inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Hisense inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -788,15 +788,15 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Hisense refrigerators in Dindigul?",
-      "a": "Yes, we service Hisense single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Hisense refrigerators in Karur?",
+      "a": "Yes, we service Hisense single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Hisense frost-free fridge?",
       "a": "This is usually caused by a blocked air vent, a faulty defrost bimetal sensor, an open defrost heater, or an evaporator fan motor failure that halts airflow to the fresh food zone."
     },
     {
-      "q": "Do you repair Hisense smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Hisense smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Hisense LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -804,7 +804,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Hisense appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Hisense appliances in Karur?",
       "a": "The technician first inspects the Hisense appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -816,29 +816,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Hisense models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Hisense home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Hisense home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Hisense service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Hisense appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Hisense service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Hisense appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "hitachi": [
     {
-      "q": "Where is the Hitachi Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Hitachi home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Hitachi Service Center located in Karur?",
+      "a": "We provide local doorstep service for Hitachi home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Hitachi Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Hitachi Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Hitachi appliances do you service in Dindigul?",
+      "q": "What Hitachi appliances do you service in Karur?",
       "a": "We service verified Hitachi home appliances including Air Conditioner, Refrigerator, Washing Machine, Television, Air Purifier."
     },
     {
-      "q": "Do you repair Hitachi inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Hitachi inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Hitachi inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -846,8 +846,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Hitachi refrigerators in Dindigul?",
-      "a": "Yes, we service Hitachi single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Hitachi refrigerators in Karur?",
+      "a": "Yes, we service Hitachi single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Hitachi frost-free fridge?",
@@ -862,7 +862,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Hitachi smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Hitachi smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Hitachi LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -870,7 +870,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Hitachi appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Hitachi appliances in Karur?",
       "a": "The technician first inspects the Hitachi appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -882,29 +882,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Hitachi models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Hitachi home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Hitachi home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Hitachi service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Hitachi appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Hitachi service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Hitachi appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "hyundai": [
     {
-      "q": "Where is the Hyundai Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Hyundai home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Hyundai Service Center located in Karur?",
+      "a": "We provide local doorstep service for Hyundai home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Hyundai Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Hyundai Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Hyundai appliances do you service in Dindigul?",
+      "q": "What Hyundai appliances do you service in Karur?",
       "a": "We service verified Hyundai home appliances including Television, Air Cooler, Smart LED TV."
     },
     {
-      "q": "Do you repair Hyundai smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Hyundai smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Hyundai LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -912,7 +912,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Hyundai appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Hyundai appliances in Karur?",
       "a": "The technician first inspects the Hyundai appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -924,29 +924,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Hyundai models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Hyundai home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Hyundai home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Hyundai service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Hyundai appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Hyundai service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Hyundai appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "ifb": [
     {
-      "q": "Where is the IFB Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for IFB home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the IFB Service Center located in Karur?",
+      "a": "We provide local doorstep service for IFB home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for IFB Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for IFB Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What IFB appliances do you service in Dindigul?",
+      "q": "What IFB appliances do you service in Karur?",
       "a": "We service verified IFB home appliances including Washing Machine, Washer Dryer, Clothes Dryer, Refrigerator, Air Conditioner, Microwave Oven, Dishwasher, Kitchen Chimney, Hob, Built-in Oven."
     },
     {
-      "q": "Do you repair IFB inverter split air conditioners in Dindigul?",
+      "q": "Do you repair IFB inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair IFB inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -954,8 +954,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for IFB refrigerators in Dindigul?",
-      "a": "Yes, we service IFB single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for IFB refrigerators in Karur?",
+      "a": "Yes, we service IFB single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a IFB frost-free fridge?",
@@ -970,7 +970,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for IFB appliances in Dindigul?",
+      "q": "How is the repair cost estimated for IFB appliances in Karur?",
       "a": "The technician first inspects the IFB appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -982,29 +982,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional IFB models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for IFB home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for IFB home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for IFB service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your IFB appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for IFB service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your IFB appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "iffalcon": [
     {
-      "q": "Where is the iFFALCON Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for iFFALCON home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the iFFALCON Service Center located in Karur?",
+      "a": "We provide local doorstep service for iFFALCON home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for iFFALCON Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for iFFALCON Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What iFFALCON appliances do you service in Dindigul?",
+      "q": "What iFFALCON appliances do you service in Karur?",
       "a": "We service verified iFFALCON home appliances including Television, 4K Google TV, QLED TV."
     },
     {
-      "q": "Do you repair iFFALCON smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair iFFALCON smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect iFFALCON LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1012,7 +1012,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for iFFALCON appliances in Dindigul?",
+      "q": "How is the repair cost estimated for iFFALCON appliances in Karur?",
       "a": "The technician first inspects the iFFALCON appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1024,25 +1024,25 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional iFFALCON models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for iFFALCON home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for iFFALCON home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for iFFALCON service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your iFFALCON appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for iFFALCON service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your iFFALCON appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "intex": [
     {
-      "q": "Where is the Intex Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Intex home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Intex Service Center located in Karur?",
+      "a": "We provide local doorstep service for Intex home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Intex Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Intex Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Intex appliances do you service in Dindigul?",
+      "q": "What Intex appliances do you service in Karur?",
       "a": "We service verified Intex home appliances including Washing Machine, Television, Air Cooler, Home Audio Speaker."
     },
     {
@@ -1054,7 +1054,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Intex smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Intex smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Intex LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1062,7 +1062,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Intex appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Intex appliances in Karur?",
       "a": "The technician first inspects the Intex appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1074,29 +1074,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Intex models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Intex home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Intex home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Intex service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Intex appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Intex service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Intex appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "kelvinator": [
     {
-      "q": "Where is the Kelvinator Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Kelvinator home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Kelvinator Service Center located in Karur?",
+      "a": "We provide local doorstep service for Kelvinator home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Kelvinator Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Kelvinator Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Kelvinator appliances do you service in Dindigul?",
+      "q": "What Kelvinator appliances do you service in Karur?",
       "a": "We service verified Kelvinator home appliances including Air Conditioner, Refrigerator, Washing Machine, Microwave Oven, Chest Freezer."
     },
     {
-      "q": "Do you repair Kelvinator inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Kelvinator inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Kelvinator inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1104,8 +1104,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Kelvinator refrigerators in Dindigul?",
-      "a": "Yes, we service Kelvinator single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Kelvinator refrigerators in Karur?",
+      "a": "Yes, we service Kelvinator single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Kelvinator frost-free fridge?",
@@ -1120,7 +1120,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Kelvinator appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Kelvinator appliances in Karur?",
       "a": "The technician first inspects the Kelvinator appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1132,29 +1132,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Kelvinator models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Kelvinator home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Kelvinator home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Kelvinator service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Kelvinator appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Kelvinator service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Kelvinator appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "kenstar": [
     {
-      "q": "Where is the Kenstar Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Kenstar home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Kenstar Service Center located in Karur?",
+      "a": "We provide local doorstep service for Kenstar home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Kenstar Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Kenstar Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Kenstar appliances do you service in Dindigul?",
+      "q": "What Kenstar appliances do you service in Karur?",
       "a": "We service verified Kenstar home appliances including Air Conditioner, Washing Machine, Air Cooler, Geyser / Water Heater, Microwave Oven."
     },
     {
-      "q": "Do you repair Kenstar inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Kenstar inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Kenstar inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1170,7 +1170,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Kenstar appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Kenstar appliances in Karur?",
       "a": "The technician first inspects the Kenstar appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1182,29 +1182,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Kenstar models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Kenstar home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Kenstar home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Kenstar service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Kenstar appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Kenstar service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Kenstar appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "kodak": [
     {
-      "q": "Where is the Kodak Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Kodak home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Kodak Service Center located in Karur?",
+      "a": "We provide local doorstep service for Kodak home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Kodak Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Kodak Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Kodak appliances do you service in Dindigul?",
+      "q": "What Kodak appliances do you service in Karur?",
       "a": "We service verified Kodak home appliances including Television, 4K UHD Smart TV, QLED TV."
     },
     {
-      "q": "Do you repair Kodak smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Kodak smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Kodak LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1212,7 +1212,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Kodak appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Kodak appliances in Karur?",
       "a": "The technician first inspects the Kodak appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1224,37 +1224,37 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Kodak models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Kodak home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Kodak home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Kodak service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Kodak appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Kodak service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Kodak appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "liebherr": [
     {
-      "q": "Where is the Liebherr Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Liebherr home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Liebherr Service Center located in Karur?",
+      "a": "We provide local doorstep service for Liebherr home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Liebherr Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Liebherr Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Liebherr appliances do you service in Dindigul?",
+      "q": "What Liebherr appliances do you service in Karur?",
       "a": "We service verified Liebherr home appliances including Refrigerator, DuoCooling Fridge, Side-by-Side Refrigerator, Bottom Freezer Refrigerator."
     },
     {
-      "q": "Do you provide doorstep repair for Liebherr refrigerators in Dindigul?",
-      "a": "Yes, we service Liebherr single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Liebherr refrigerators in Karur?",
+      "a": "Yes, we service Liebherr single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Liebherr frost-free fridge?",
       "a": "This is usually caused by a blocked air vent, a faulty defrost bimetal sensor, an open defrost heater, or an evaporator fan motor failure that halts airflow to the fresh food zone."
     },
     {
-      "q": "How is the repair cost estimated for Liebherr appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Liebherr appliances in Karur?",
       "a": "The technician first inspects the Liebherr appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1266,29 +1266,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Liebherr models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Liebherr home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Liebherr home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Liebherr service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Liebherr appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Liebherr service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Liebherr appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "lloyd": [
     {
-      "q": "Where is the Lloyd Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Lloyd home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Lloyd Service Center located in Karur?",
+      "a": "We provide local doorstep service for Lloyd home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Lloyd Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Lloyd Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Lloyd appliances do you service in Dindigul?",
+      "q": "What Lloyd appliances do you service in Karur?",
       "a": "We service verified Lloyd home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Television, Dishwasher, Chest Freezer."
     },
     {
-      "q": "Do you repair Lloyd inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Lloyd inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Lloyd inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1296,8 +1296,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Lloyd refrigerators in Dindigul?",
-      "a": "Yes, we service Lloyd single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Lloyd refrigerators in Karur?",
+      "a": "Yes, we service Lloyd single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Lloyd frost-free fridge?",
@@ -1312,7 +1312,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Lloyd smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Lloyd smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Lloyd LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1320,7 +1320,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Lloyd appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Lloyd appliances in Karur?",
       "a": "The technician first inspects the Lloyd appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1332,29 +1332,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Lloyd models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Lloyd home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Lloyd home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Lloyd service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Lloyd appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Lloyd service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Lloyd appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "mi": [
     {
-      "q": "Where is the Mi Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Mi home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Mi Service Center located in Karur?",
+      "a": "We provide local doorstep service for Mi home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Mi Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Mi Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Mi appliances do you service in Dindigul?",
+      "q": "What Mi appliances do you service in Karur?",
       "a": "We service verified Mi home appliances including Television, Smart TV, Water Purifier, Air Purifier."
     },
     {
-      "q": "Do you repair Mi smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Mi smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Mi LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1362,7 +1362,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Mi appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Mi appliances in Karur?",
       "a": "The technician first inspects the Mi appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1374,29 +1374,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Mi models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Mi home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Mi home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Mi service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Mi appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Mi service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Mi appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "micromax": [
     {
-      "q": "Where is the Micromax Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Micromax home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Micromax Service Center located in Karur?",
+      "a": "We provide local doorstep service for Micromax home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Micromax Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Micromax Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Micromax appliances do you service in Dindigul?",
+      "q": "What Micromax appliances do you service in Karur?",
       "a": "We service verified Micromax home appliances including Television, Smart Android TV, LED TV."
     },
     {
-      "q": "Do you repair Micromax smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Micromax smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Micromax LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1404,7 +1404,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Micromax appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Micromax appliances in Karur?",
       "a": "The technician first inspects the Micromax appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1416,29 +1416,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Micromax models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Micromax home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Micromax home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Micromax service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Micromax appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Micromax service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Micromax appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "midea": [
     {
-      "q": "Where is the Midea Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Midea home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Midea Service Center located in Karur?",
+      "a": "We provide local doorstep service for Midea home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Midea Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Midea Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Midea appliances do you service in Dindigul?",
+      "q": "What Midea appliances do you service in Karur?",
       "a": "We service verified Midea home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Dishwasher, Microwave Oven, Geyser / Water Heater."
     },
     {
-      "q": "Do you repair Midea inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Midea inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Midea inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1446,8 +1446,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Midea refrigerators in Dindigul?",
-      "a": "Yes, we service Midea single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Midea refrigerators in Karur?",
+      "a": "Yes, we service Midea single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Midea frost-free fridge?",
@@ -1462,7 +1462,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Midea appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Midea appliances in Karur?",
       "a": "The technician first inspects the Midea appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1474,29 +1474,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Midea models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Midea home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Midea home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Midea service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Midea appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Midea service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Midea appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "mitsubishi": [
     {
-      "q": "Where is the Mitsubishi Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Mitsubishi home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Mitsubishi Service Center located in Karur?",
+      "a": "We provide local doorstep service for Mitsubishi home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Mitsubishi Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Mitsubishi Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Mitsubishi appliances do you service in Dindigul?",
+      "q": "What Mitsubishi appliances do you service in Karur?",
       "a": "We service verified Mitsubishi home appliances including Air Conditioner, Inverter Split AC, Cassette AC, Multi-Split AC."
     },
     {
-      "q": "Do you repair Mitsubishi inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Mitsubishi inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Mitsubishi inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1504,7 +1504,7 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "How is the repair cost estimated for Mitsubishi appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Mitsubishi appliances in Karur?",
       "a": "The technician first inspects the Mitsubishi appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1516,29 +1516,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Mitsubishi models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Mitsubishi home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Mitsubishi home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Mitsubishi service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Mitsubishi appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Mitsubishi service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Mitsubishi appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "motorola": [
     {
-      "q": "Where is the Motorola Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Motorola home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Motorola Service Center located in Karur?",
+      "a": "We provide local doorstep service for Motorola home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Motorola Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Motorola Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Motorola appliances do you service in Dindigul?",
+      "q": "What Motorola appliances do you service in Karur?",
       "a": "We service verified Motorola home appliances including Air Conditioner, Refrigerator, Washing Machine, Smart Connected Appliances."
     },
     {
-      "q": "Do you repair Motorola inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Motorola inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Motorola inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1546,8 +1546,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Motorola refrigerators in Dindigul?",
-      "a": "Yes, we service Motorola single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Motorola refrigerators in Karur?",
+      "a": "Yes, we service Motorola single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Motorola frost-free fridge?",
@@ -1562,7 +1562,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Motorola appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Motorola appliances in Karur?",
       "a": "The technician first inspects the Motorola appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1574,29 +1574,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Motorola models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Motorola home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Motorola home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Motorola service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Motorola appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Motorola service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Motorola appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "o-general": [
     {
-      "q": "Where is the O-General Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for O-General home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the O-General Service Center located in Karur?",
+      "a": "We provide local doorstep service for O-General home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for O-General Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for O-General Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What O-General appliances do you service in Dindigul?",
+      "q": "What O-General appliances do you service in Karur?",
       "a": "We service verified O-General home appliances including Air Conditioner, Tropical Inverter Split AC, Window AC, Cassette AC."
     },
     {
-      "q": "Do you repair O-General inverter split air conditioners in Dindigul?",
+      "q": "Do you repair O-General inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair O-General inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1604,7 +1604,7 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "How is the repair cost estimated for O-General appliances in Dindigul?",
+      "q": "How is the repair cost estimated for O-General appliances in Karur?",
       "a": "The technician first inspects the O-General appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1616,29 +1616,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional O-General models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for O-General home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for O-General home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for O-General service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your O-General appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for O-General service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your O-General appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "oneplus": [
     {
-      "q": "Where is the OnePlus Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for OnePlus home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the OnePlus Service Center located in Karur?",
+      "a": "We provide local doorstep service for OnePlus home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for OnePlus Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for OnePlus Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What OnePlus appliances do you service in Dindigul?",
+      "q": "What OnePlus appliances do you service in Karur?",
       "a": "We service verified OnePlus home appliances including Television, 4K QLED TV, Smart Android TV."
     },
     {
-      "q": "Do you repair OnePlus smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair OnePlus smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect OnePlus LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1646,7 +1646,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for OnePlus appliances in Dindigul?",
+      "q": "How is the repair cost estimated for OnePlus appliances in Karur?",
       "a": "The technician first inspects the OnePlus appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1658,29 +1658,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional OnePlus models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for OnePlus home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for OnePlus home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for OnePlus service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your OnePlus appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for OnePlus service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your OnePlus appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "onida": [
     {
-      "q": "Where is the Onida Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Onida home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Onida Service Center located in Karur?",
+      "a": "We provide local doorstep service for Onida home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Onida Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Onida Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Onida appliances do you service in Dindigul?",
+      "q": "What Onida appliances do you service in Karur?",
       "a": "We service verified Onida home appliances including Air Conditioner, Refrigerator, Washing Machine, Television, Microwave Oven."
     },
     {
-      "q": "Do you repair Onida inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Onida inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Onida inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1688,8 +1688,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Onida refrigerators in Dindigul?",
-      "a": "Yes, we service Onida single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Onida refrigerators in Karur?",
+      "a": "Yes, we service Onida single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Onida frost-free fridge?",
@@ -1704,7 +1704,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Onida smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Onida smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Onida LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1712,7 +1712,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Onida appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Onida appliances in Karur?",
       "a": "The technician first inspects the Onida appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1724,29 +1724,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Onida models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Onida home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Onida home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Onida service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Onida appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Onida service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Onida appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "panasonic": [
     {
-      "q": "Where is the Panasonic Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Panasonic home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Panasonic Service Center located in Karur?",
+      "a": "We provide local doorstep service for Panasonic home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Panasonic Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Panasonic Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Panasonic appliances do you service in Dindigul?",
+      "q": "What Panasonic appliances do you service in Karur?",
       "a": "We service verified Panasonic home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Television, Microwave Oven, Geyser / Water Heater."
     },
     {
-      "q": "Do you repair Panasonic inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Panasonic inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Panasonic inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1754,8 +1754,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Panasonic refrigerators in Dindigul?",
-      "a": "Yes, we service Panasonic single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Panasonic refrigerators in Karur?",
+      "a": "Yes, we service Panasonic single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Panasonic frost-free fridge?",
@@ -1770,7 +1770,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Panasonic smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Panasonic smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Panasonic LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1778,7 +1778,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Panasonic appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Panasonic appliances in Karur?",
       "a": "The technician first inspects the Panasonic appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1790,29 +1790,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Panasonic models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Panasonic home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Panasonic home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Panasonic service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Panasonic appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Panasonic service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Panasonic appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "philips": [
     {
-      "q": "Where is the Philips Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Philips home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Philips Service Center located in Karur?",
+      "a": "We provide local doorstep service for Philips home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Philips Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Philips Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Philips appliances do you service in Dindigul?",
+      "q": "What Philips appliances do you service in Karur?",
       "a": "We service verified Philips home appliances including Television, Ambilight 4K TV, Smart LED TV, Soundbar Audio."
     },
     {
-      "q": "Do you repair Philips smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Philips smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Philips LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1820,7 +1820,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Philips appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Philips appliances in Karur?",
       "a": "The technician first inspects the Philips appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1832,29 +1832,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Philips models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Philips home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Philips home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Philips service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Philips appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Philips service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Philips appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "redmi": [
     {
-      "q": "Where is the Redmi Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Redmi home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Redmi Service Center located in Karur?",
+      "a": "We provide local doorstep service for Redmi home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Redmi Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Redmi Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Redmi appliances do you service in Dindigul?",
+      "q": "What Redmi appliances do you service in Karur?",
       "a": "We service verified Redmi home appliances including Television, Smart Fire TV, 4K Android TV."
     },
     {
-      "q": "Do you repair Redmi smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Redmi smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Redmi LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1862,7 +1862,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Redmi appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Redmi appliances in Karur?",
       "a": "The technician first inspects the Redmi appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1874,29 +1874,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Redmi models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Redmi home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Redmi home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Redmi service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Redmi appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Redmi service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Redmi appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "samsung": [
     {
-      "q": "Where is the Samsung Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Samsung home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Samsung Service Center located in Karur?",
+      "a": "We provide local doorstep service for Samsung home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Samsung Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Samsung Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Samsung appliances do you service in Dindigul?",
+      "q": "What Samsung appliances do you service in Karur?",
       "a": "We service verified Samsung home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Television, Microwave Oven, Dishwasher, Air Purifier."
     },
     {
-      "q": "Do you repair Samsung inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Samsung inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Samsung inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1904,8 +1904,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Samsung refrigerators in Dindigul?",
-      "a": "Yes, we service Samsung single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Samsung refrigerators in Karur?",
+      "a": "Yes, we service Samsung single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Samsung frost-free fridge?",
@@ -1920,7 +1920,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Samsung smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Samsung smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Samsung LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1928,7 +1928,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Samsung appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Samsung appliances in Karur?",
       "a": "The technician first inspects the Samsung appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1940,29 +1940,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Samsung models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Samsung home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Samsung home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Samsung service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Samsung appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Samsung service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Samsung appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "sansui": [
     {
-      "q": "Where is the Sansui Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Sansui home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Sansui Service Center located in Karur?",
+      "a": "We provide local doorstep service for Sansui home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Sansui Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Sansui Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Sansui appliances do you service in Dindigul?",
+      "q": "What Sansui appliances do you service in Karur?",
       "a": "We service verified Sansui home appliances including Air Conditioner, Television, Smart Google TV, LED TV."
     },
     {
-      "q": "Do you repair Sansui inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Sansui inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Sansui inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -1970,7 +1970,7 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you repair Sansui smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Sansui smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Sansui LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -1978,7 +1978,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Sansui appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Sansui appliances in Karur?",
       "a": "The technician first inspects the Sansui appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -1990,29 +1990,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Sansui models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Sansui home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Sansui home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Sansui service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Sansui appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Sansui service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Sansui appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "sanyo": [
     {
-      "q": "Where is the Sanyo Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Sanyo home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Sanyo Service Center located in Karur?",
+      "a": "We provide local doorstep service for Sanyo home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Sanyo Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Sanyo Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Sanyo appliances do you service in Dindigul?",
+      "q": "What Sanyo appliances do you service in Karur?",
       "a": "We service verified Sanyo home appliances including Television, Kaizen 4K Android TV, Smart LED TV."
     },
     {
-      "q": "Do you repair Sanyo smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Sanyo smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Sanyo LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2020,7 +2020,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Sanyo appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Sanyo appliances in Karur?",
       "a": "The technician first inspects the Sanyo appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2032,29 +2032,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Sanyo models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Sanyo home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Sanyo home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Sanyo service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Sanyo appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Sanyo service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Sanyo appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "sharp": [
     {
-      "q": "Where is the Sharp Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Sharp home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Sharp Service Center located in Karur?",
+      "a": "We provide local doorstep service for Sharp home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Sharp Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Sharp Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Sharp appliances do you service in Dindigul?",
+      "q": "What Sharp appliances do you service in Karur?",
       "a": "We service verified Sharp home appliances including Air Conditioner, Refrigerator, Washing Machine, Television, Air Purifier, Microwave Oven."
     },
     {
-      "q": "Do you repair Sharp inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Sharp inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Sharp inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -2062,8 +2062,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Sharp refrigerators in Dindigul?",
-      "a": "Yes, we service Sharp single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Sharp refrigerators in Karur?",
+      "a": "Yes, we service Sharp single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Sharp frost-free fridge?",
@@ -2078,7 +2078,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Sharp smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Sharp smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Sharp LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2086,7 +2086,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Sharp appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Sharp appliances in Karur?",
       "a": "The technician first inspects the Sharp appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2098,30 +2098,30 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Sharp models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Sharp home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Sharp home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Sharp service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Sharp appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Sharp service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Sharp appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "siemens": [
     {
-      "q": "Where is the Siemens Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Siemens home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Siemens Service Center located in Karur?",
+      "a": "We provide local doorstep service for Siemens home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Siemens Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Siemens Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Siemens appliances do you service in Dindigul?",
+      "q": "What Siemens appliances do you service in Karur?",
       "a": "We service verified Siemens home appliances including Washing Machine, Washer Dryer, Refrigerator, Dishwasher, Built-in Oven, Hob, Kitchen Chimney."
     },
     {
-      "q": "Do you provide doorstep repair for Siemens refrigerators in Dindigul?",
-      "a": "Yes, we service Siemens single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Siemens refrigerators in Karur?",
+      "a": "Yes, we service Siemens single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Siemens frost-free fridge?",
@@ -2136,7 +2136,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Siemens appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Siemens appliances in Karur?",
       "a": "The technician first inspects the Siemens appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2148,29 +2148,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Siemens models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Siemens home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Siemens home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Siemens service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Siemens appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Siemens service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Siemens appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "sony": [
     {
-      "q": "Where is the Sony Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Sony home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Sony Service Center located in Karur?",
+      "a": "We provide local doorstep service for Sony home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Sony Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Sony Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Sony appliances do you service in Dindigul?",
+      "q": "What Sony appliances do you service in Karur?",
       "a": "We service verified Sony home appliances including Television, Bravia 4K Google TV, OLED TV, Soundbar Audio System."
     },
     {
-      "q": "Do you repair Sony smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Sony smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Sony LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2178,7 +2178,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Sony appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Sony appliances in Karur?",
       "a": "The technician first inspects the Sony appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2190,29 +2190,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Sony models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Sony home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Sony home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Sony service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Sony appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Sony service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Sony appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "tcl": [
     {
-      "q": "Where is the TCL Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for TCL home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the TCL Service Center located in Karur?",
+      "a": "We provide local doorstep service for TCL home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for TCL Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for TCL Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What TCL appliances do you service in Dindigul?",
+      "q": "What TCL appliances do you service in Karur?",
       "a": "We service verified TCL home appliances including Air Conditioner, Washing Machine, Television, QLED 4K TV, Mini-LED TV."
     },
     {
-      "q": "Do you repair TCL inverter split air conditioners in Dindigul?",
+      "q": "Do you repair TCL inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair TCL inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -2228,7 +2228,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair TCL smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair TCL smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect TCL LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2236,7 +2236,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for TCL appliances in Dindigul?",
+      "q": "How is the repair cost estimated for TCL appliances in Karur?",
       "a": "The technician first inspects the TCL appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2248,25 +2248,25 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional TCL models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for TCL home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for TCL home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for TCL service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your TCL appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for TCL service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your TCL appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "thomson": [
     {
-      "q": "Where is the Thomson Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Thomson home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Thomson Service Center located in Karur?",
+      "a": "We provide local doorstep service for Thomson home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Thomson Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Thomson Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Thomson appliances do you service in Dindigul?",
+      "q": "What Thomson appliances do you service in Karur?",
       "a": "We service verified Thomson home appliances including Washing Machine, Semi-Automatic Washer, Top Load Fully Automatic Washer."
     },
     {
@@ -2278,7 +2278,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Thomson appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Thomson appliances in Karur?",
       "a": "The technician first inspects the Thomson appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2290,30 +2290,30 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Thomson models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Thomson home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Thomson home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Thomson service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Thomson appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Thomson service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Thomson appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "toshiba": [
     {
-      "q": "Where is the Toshiba Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Toshiba home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Toshiba Service Center located in Karur?",
+      "a": "We provide local doorstep service for Toshiba home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Toshiba Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Toshiba Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Toshiba appliances do you service in Dindigul?",
+      "q": "What Toshiba appliances do you service in Karur?",
       "a": "We service verified Toshiba home appliances including Refrigerator, Washing Machine, Washer Dryer, Television, Microwave Oven, Dishwasher."
     },
     {
-      "q": "Do you provide doorstep repair for Toshiba refrigerators in Dindigul?",
-      "a": "Yes, we service Toshiba single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Toshiba refrigerators in Karur?",
+      "a": "Yes, we service Toshiba single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Toshiba frost-free fridge?",
@@ -2328,7 +2328,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Toshiba smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Toshiba smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Toshiba LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2336,7 +2336,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Toshiba appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Toshiba appliances in Karur?",
       "a": "The technician first inspects the Toshiba appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2348,30 +2348,30 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Toshiba models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Toshiba home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Toshiba home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Toshiba service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Toshiba appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Toshiba service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Toshiba appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "videocon": [
     {
-      "q": "Where is the Videocon Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Videocon home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Videocon Service Center located in Karur?",
+      "a": "We provide local doorstep service for Videocon home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Videocon Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Videocon Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Videocon appliances do you service in Dindigul?",
+      "q": "What Videocon appliances do you service in Karur?",
       "a": "We service verified Videocon home appliances including Refrigerator, Washing Machine, Television, Air Cooler."
     },
     {
-      "q": "Do you provide doorstep repair for Videocon refrigerators in Dindigul?",
-      "a": "Yes, we service Videocon single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Videocon refrigerators in Karur?",
+      "a": "Yes, we service Videocon single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Videocon frost-free fridge?",
@@ -2386,7 +2386,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair Videocon smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Videocon smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Videocon LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2394,7 +2394,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Videocon appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Videocon appliances in Karur?",
       "a": "The technician first inspects the Videocon appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2406,29 +2406,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Videocon models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Videocon home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Videocon home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Videocon service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Videocon appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Videocon service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Videocon appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "voltas": [
     {
-      "q": "Where is the Voltas Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Voltas home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Voltas Service Center located in Karur?",
+      "a": "We provide local doorstep service for Voltas home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Voltas Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Voltas Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Voltas appliances do you service in Dindigul?",
+      "q": "What Voltas appliances do you service in Karur?",
       "a": "We service verified Voltas home appliances including Air Conditioner, Washing Machine, Air Cooler, Commercial Deep Freezer, Water Dispenser."
     },
     {
-      "q": "Do you repair Voltas inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Voltas inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Voltas inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -2444,7 +2444,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Voltas appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Voltas appliances in Karur?",
       "a": "The technician first inspects the Voltas appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2456,30 +2456,30 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Voltas models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Voltas home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Voltas home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Voltas service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Voltas appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Voltas service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Voltas appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "voltas-beko": [
     {
-      "q": "Where is the Voltas Beko Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Voltas Beko home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Voltas Beko Service Center located in Karur?",
+      "a": "We provide local doorstep service for Voltas Beko home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Voltas Beko Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Voltas Beko Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Voltas Beko appliances do you service in Dindigul?",
+      "q": "What Voltas Beko appliances do you service in Karur?",
       "a": "We service verified Voltas Beko home appliances including Refrigerator, Washing Machine, Washer Dryer, Dishwasher, Microwave Oven."
     },
     {
-      "q": "Do you provide doorstep repair for Voltas Beko refrigerators in Dindigul?",
-      "a": "Yes, we service Voltas Beko single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Voltas Beko refrigerators in Karur?",
+      "a": "Yes, we service Voltas Beko single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Voltas Beko frost-free fridge?",
@@ -2494,7 +2494,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Voltas Beko appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Voltas Beko appliances in Karur?",
       "a": "The technician first inspects the Voltas Beko appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2506,29 +2506,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Voltas Beko models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Voltas Beko home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Voltas Beko home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Voltas Beko service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Voltas Beko appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Voltas Beko service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Voltas Beko appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "vu": [
     {
-      "q": "Where is the Vu Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Vu home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Vu Service Center located in Karur?",
+      "a": "We provide local doorstep service for Vu home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Vu Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Vu Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Vu appliances do you service in Dindigul?",
+      "q": "What Vu appliances do you service in Karur?",
       "a": "We service verified Vu home appliances including Television, GloLED TV, Masterpiece QLED TV, Cinema 4K TV."
     },
     {
-      "q": "Do you repair Vu smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Vu smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Vu LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2536,7 +2536,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Vu appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Vu appliances in Karur?",
       "a": "The technician first inspects the Vu appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2548,25 +2548,25 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Vu models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Vu home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Vu home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Vu service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Vu appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Vu service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Vu appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "vw": [
     {
-      "q": "Where is the VW Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for VW home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the VW Service Center located in Karur?",
+      "a": "We provide local doorstep service for VW home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for VW Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for VW Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What VW appliances do you service in Dindigul?",
+      "q": "What VW appliances do you service in Karur?",
       "a": "We service verified VW home appliances including Washing Machine, Television, Frameless Smart LED TV, 4K Android TV."
     },
     {
@@ -2578,7 +2578,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "Do you repair VW smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair VW smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect VW LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2586,7 +2586,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for VW appliances in Dindigul?",
+      "q": "How is the repair cost estimated for VW appliances in Karur?",
       "a": "The technician first inspects the VW appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2598,29 +2598,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional VW models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for VW home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for VW home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for VW service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your VW appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for VW service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your VW appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "whirlpool": [
     {
-      "q": "Where is the Whirlpool Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Whirlpool home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Whirlpool Service Center located in Karur?",
+      "a": "We provide local doorstep service for Whirlpool home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Whirlpool Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Whirlpool Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Whirlpool appliances do you service in Dindigul?",
+      "q": "What Whirlpool appliances do you service in Karur?",
       "a": "We service verified Whirlpool home appliances including Air Conditioner, Refrigerator, Washing Machine, Washer Dryer, Microwave Oven, Dishwasher, Water Purifier."
     },
     {
-      "q": "Do you repair Whirlpool inverter split air conditioners in Dindigul?",
+      "q": "Do you repair Whirlpool inverter split air conditioners in Karur?",
       "a": "Yes, our technicians inspect and repair Whirlpool inverter split ACs, fixed-speed models, and window units for issues like low cooling, gas leakage, PCB faults, and water leakage."
     },
     {
@@ -2628,8 +2628,8 @@ module.exports = {
       "a": "Common reasons include clogged air filters, low refrigerant gas pressure, a weak run capacitor, or a faulty inverter sensor. A technician multimeter check identifies the exact fault."
     },
     {
-      "q": "Do you provide doorstep repair for Whirlpool refrigerators in Dindigul?",
-      "a": "Yes, we service Whirlpool single door, double door, and frost-free refrigerators across Dindigul for cooling failure, ice buildup, water leakage, and compressor startup problems."
+      "q": "Do you provide doorstep repair for Whirlpool refrigerators in Karur?",
+      "a": "Yes, we service Whirlpool single door, double door, and frost-free refrigerators across Karur for cooling failure, ice buildup, water leakage, and compressor startup problems."
     },
     {
       "q": "What causes cooling to drop in the lower compartment of a Whirlpool frost-free fridge?",
@@ -2644,7 +2644,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for Whirlpool appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Whirlpool appliances in Karur?",
       "a": "The technician first inspects the Whirlpool appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2656,25 +2656,25 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Whirlpool models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Whirlpool home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Whirlpool home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Whirlpool service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Whirlpool appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Whirlpool service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Whirlpool appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "white-westinghouse": [
     {
-      "q": "Where is the White Westinghouse Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for White Westinghouse home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the White Westinghouse Service Center located in Karur?",
+      "a": "We provide local doorstep service for White Westinghouse home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for White Westinghouse Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for White Westinghouse Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What White Westinghouse appliances do you service in Dindigul?",
+      "q": "What White Westinghouse appliances do you service in Karur?",
       "a": "We service verified White Westinghouse home appliances including Washing Machine, Semi-Automatic Washer, Fully Automatic Washing Machine."
     },
     {
@@ -2686,7 +2686,7 @@ module.exports = {
       "a": "Heavy shaking can occur due to unlevel installation on tiled floors, worn suspension shock absorber rods, uneven laundry distribution, or damaged drum bearings."
     },
     {
-      "q": "How is the repair cost estimated for White Westinghouse appliances in Dindigul?",
+      "q": "How is the repair cost estimated for White Westinghouse appliances in Karur?",
       "a": "The technician first inspects the White Westinghouse appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2698,29 +2698,29 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional White Westinghouse models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for White Westinghouse home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for White Westinghouse home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for White Westinghouse service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your White Westinghouse appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for White Westinghouse service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your White Westinghouse appliance model and address in Karur to schedule a convenient visit."
     }
   ],
   "xiaomi": [
     {
-      "q": "Where is the Xiaomi Service Center located in Dindigul?",
-      "a": "We provide local doorstep service for Xiaomi home appliances across Dindigul. Our technicians visit your residence directly in areas like RM Colony, Nagal Nagar, Begampur, Palani Road, and Seelapadi, so you do not need to transport heavy appliances."
+      "q": "Where is the Xiaomi Service Center located in Karur?",
+      "a": "We provide local doorstep service for Xiaomi home appliances across Karur. Our technicians visit your residence directly in areas like Pasupathipalayam, Kagithapuramam, Thanthonimalai, Kovai Road, and Vengamedu, so you do not need to transport heavy appliances."
     },
     {
-      "q": "How quickly can a technician visit for Xiaomi Service Near Me in Dindigul?",
-      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Dindigul neighborhood."
+      "q": "How quickly can a technician visit for Xiaomi Service Near Me in Karur?",
+      "a": "Technician visits are usually arranged on the same day or within 24 hours depending on technician route availability in your specific Karur neighborhood."
     },
     {
-      "q": "What Xiaomi appliances do you service in Dindigul?",
+      "q": "What Xiaomi appliances do you service in Karur?",
       "a": "We service verified Xiaomi home appliances including Television, OLED Vision TV, Smart Google TV, Air Purifier, Water Purifier."
     },
     {
-      "q": "Do you repair Xiaomi smart LED and 4K TVs in Dindigul?",
+      "q": "Do you repair Xiaomi smart LED and 4K TVs in Karur?",
       "a": "Yes, our technicians inspect Xiaomi LED, Android, and 4K smart TVs at your home for problems such as sound without picture, black screen, restart loops, and power supply failures."
     },
     {
@@ -2728,7 +2728,7 @@ module.exports = {
       "a": "In most cases, this indicates that the LED backlight strips inside the screen panel have failed or the LED driver on the power board is not supplying voltage."
     },
     {
-      "q": "How is the repair cost estimated for Xiaomi appliances in Dindigul?",
+      "q": "How is the repair cost estimated for Xiaomi appliances in Karur?",
       "a": "The technician first inspects the Xiaomi appliance at your home and explains the root problem, needed spare parts, and expected cost. Repair work starts only after you approve the estimate."
     },
     {
@@ -2740,12 +2740,12 @@ module.exports = {
       "a": "Yes, our technicians handle older conventional Xiaomi models as well as the latest digital inverter, smart, and microcontroller-based appliances."
     },
     {
-      "q": "Which areas in Dindigul do you cover for Xiaomi home appliance repair?",
-      "a": "We cover all residential and commercial areas across Dindigul including RM Colony, Nagal Nagar, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Siluvathur Road, Vedasandur, Batlagundu, and surrounding localities."
+      "q": "Which areas in Karur do you cover for Xiaomi home appliance repair?",
+      "a": "We cover all residential and commercial areas across Karur including Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Vennaimalai, Mayanur, Velayuthampalayam, and surrounding localities."
     },
     {
-      "q": "How do I book a technician visit for Xiaomi service in Dindigul?",
-      "a": "You can call our support number directly or send a message on WhatsApp with your Xiaomi appliance model and address in Dindigul to schedule a convenient visit."
+      "q": "How do I book a technician visit for Xiaomi service in Karur?",
+      "a": "You can call our support number directly or send a message on WhatsApp with your Xiaomi appliance model and address in Karur to schedule a convenient visit."
     }
   ]
 };

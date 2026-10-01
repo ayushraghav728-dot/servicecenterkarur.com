@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const tvHtml = fs.readFileSync('tv/tv-repair-service-in-dindigul.html', 'utf8');
-const fridgeHtml = fs.readFileSync('fridge/refrigerator-repair-service-in-dindigul.html', 'utf8');
+const tvHtml = fs.readFileSync('tv/tv-repair-service-in-karur.html', 'utf8');
+const fridgeHtml = fs.readFileSync('fridge/refrigerator-repair-service-in-karur.html', 'utf8');
 
 console.log('--- COMPARING TV AND FRIDGE MAIN PAGE ---');
 

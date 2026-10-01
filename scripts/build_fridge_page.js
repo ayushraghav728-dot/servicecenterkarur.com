@@ -8,7 +8,7 @@ if (!fs.existsSync(fridgeDir)) {
   fs.mkdirSync(fridgeDir, { recursive: true });
 }
 
-const localities = require('./dindigul_localities.json');
+const localities = require('./karur_localities.json');
 
 function escapeHtml(str) {
   if (!str) return '';
@@ -20,8 +20,8 @@ const fridgeTypes = [
   {
     name: "Single Door Refrigerator",
     subtitle: "Direct Cool Single Door Fridge",
-    searchIntent: "Searching for <strong>Single Door Fridge Repair Near Me</strong> in Dindigul? We diagnose cooling failure, excess ice accumulation, and thermostat faults directly at your doorstep.",
-    desc: "Single door direct cool refrigerators are widely used in Dindigul households for compact kitchens and daily milk, water, and vegetable storage. These units use a single outer door enclosing a freezer box inside.",
+    searchIntent: "Searching for <strong>Single Door Fridge Repair Near Me</strong> in Karur? We diagnose cooling failure, excess ice accumulation, and thermostat faults directly at your doorstep.",
+    desc: "Single door direct cool refrigerators are widely used in Karur households for compact kitchens and daily milk, water, and vegetable storage. These units use a single outer door enclosing a freezer box inside.",
     problems: "Defrost water overflowing, ice jamming the freezer door, compressor clicking repeatedly, low cooling in bottom crisper.",
     checks: "Thermostat capillary tube sensitivity, PTC start relay resistance, door magnetic gasket seal, and evaporator defrost button.",
     parts: "Mechanical thermostat, PTC start relay, overload protector (OLP), door rubber gasket, interior bulb.",
@@ -30,7 +30,7 @@ const fridgeTypes = [
   {
     name: "Double Door Refrigerator",
     subtitle: "Frost-Free Double Door Fridge",
-    searchIntent: "Need reliable <strong>Double Door Refrigerator Service in Dindigul</strong>? Our technicians fix freezer over-icing, bottom cabin warm temperature, and fan motor failure on-site.",
+    searchIntent: "Need reliable <strong>Double Door Refrigerator Service in Karur</strong>? Our technicians fix freezer over-icing, bottom cabin warm temperature, and fan motor failure on-site.",
     desc: "Double door frost-free refrigerators feature separate compartments for the freezer and fresh food section. A circulating fan and automatic defrost heater prevent manual ice scraping.",
     problems: "Freezer is freezing rock solid but bottom fridge compartment is warm, water dripping into the vegetable crisper, rattling fan noise.",
     checks: "Evaporator fan motor RPM, defrost bimetal thermostat, glass defrost heater continuity, and air duct damper flap.",
@@ -40,7 +40,7 @@ const fridgeTypes = [
   {
     name: "Side-by-Side Refrigerator",
     subtitle: "Wide Dual Door Fridge",
-    searchIntent: "Looking for an experienced <strong>Side-by-Side Fridge Technician in Dindigul</strong>? We inspect multi-inverter compressors, dual cooling loops, and electronic control boards at your residence.",
+    searchIntent: "Looking for an experienced <strong>Side-by-Side Fridge Technician in Karur</strong>? We inspect multi-inverter compressors, dual cooling loops, and electronic control boards at your residence.",
     desc: "Side-by-side refrigerators offer large storage capacity with vertical freezer on one side and fresh food compartment on the other, often equipped with external touch displays.",
     problems: "Uneven cooling between left and right compartments, ice maker not dispensing ice where fitted, touch display showing error codes, clicking relay noise.",
     checks: "Independent evaporator coils, electronic expansion valve stepping, inverter compressor driving frequency, and dual temperature sensors.",
@@ -50,7 +50,7 @@ const fridgeTypes = [
   {
     name: "French Door Refrigerator",
     subtitle: "Multi-Zone French Door Fridge",
-    searchIntent: "Require specialized <strong>French Door Refrigerator Repair Near Me</strong> in Dindigul? We resolve center mullion heater faults, drawer freezing problems, and sensor mismatch.",
+    searchIntent: "Require specialized <strong>French Door Refrigerator Repair Near Me</strong> in Karur? We resolve center mullion heater faults, drawer freezing problems, and sensor mismatch.",
     desc: "French door models combine two side-opening upper doors for fresh food with one or two pull-out freezer drawers below, offering wide shelving for large platters.",
     problems: "Condensation sweat along center door flap, bottom freezer drawer sticking with frost, vegetables freezing in deli drawer, cooling fluctuation.",
     checks: "Door mullion flap spring and internal heater, lower drawer seal alignment, multi-zone damper operation, and defrost drain trough.",
@@ -60,7 +60,7 @@ const fridgeTypes = [
   {
     name: "Multi-Door Refrigerator",
     subtitle: "Four-Door & Modular Zone Fridge",
-    searchIntent: "Doorstep <strong>Multi-Door Fridge Service in Dindigul</strong> for four-door and custom temperature compartment refrigerators.",
+    searchIntent: "Doorstep <strong>Multi-Door Fridge Service in Karur</strong> for four-door and custom temperature compartment refrigerators.",
     desc: "Multi-door refrigerators feature four or more distinct door sections with independent temperature settings for vegetables, beverages, and frozen meats.",
     problems: "Custom cooling zone failing to maintain selected temperature, fan rattling inside intermediate section, electronic valve clicking.",
     checks: "Multi-port refrigerant distribution valve, compartment thermistors, and independent duct air dampers.",
@@ -70,7 +70,7 @@ const fridgeTypes = [
   {
     name: "Triple Door Refrigerator",
     subtitle: "Three-Tier Active Fresh Fridge",
-    searchIntent: "Searching for <strong>Triple Door Refrigerator Repair in Dindigul</strong>? We service separate vegetable drawer cooling, fan ducting, and frost issues.",
+    searchIntent: "Searching for <strong>Triple Door Refrigerator Repair in Karur</strong>? We service separate vegetable drawer cooling, fan ducting, and frost issues.",
     desc: "Triple door refrigerators provide a separate dedicated bottom drawer for fresh fruits and vegetables to prevent odor mixing and maintain high humidity.",
     problems: "Vegetable crisper drawer too cold or freezing leafy greens, middle compartment not cooling, frost buildup along drawer rails.",
     checks: "Bottom duct damper control, air circulation passages, and vegetable zone moisture seal.",
@@ -90,7 +90,7 @@ const fridgeTypes = [
   {
     name: "Top Freezer Refrigerator",
     subtitle: "Classic Two-Door Refrigerator",
-    searchIntent: "Fast <strong>Top Freezer Refrigerator Service in Dindigul</strong> for classic two-door models experiencing cooling loss or strange vibration.",
+    searchIntent: "Fast <strong>Top Freezer Refrigerator Service in Karur</strong> for classic two-door models experiencing cooling loss or strange vibration.",
     desc: "The traditional top freezer layout uses a top mounted freezer compartment that gravity-feeds chilled air into the lower fresh food compartment via an adjustable damper.",
     problems: "Air vent between freezer and fridge blocked with ice, dial temperature control not adjusting cooling, loud humming from top cabinet.",
     checks: "Air channel vent clearance, mechanical damper dial flap, fan motor bearing wear, and defrost timer cycle.",
@@ -100,7 +100,7 @@ const fridgeTypes = [
   {
     name: "Convertible Refrigerator",
     subtitle: "Multi-Mode Convertible Fridge",
-    searchIntent: "Get expert <strong>Convertible Fridge Repair in Dindigul</strong> when freezer-to-fridge conversion mode fails to change cooling levels.",
+    searchIntent: "Get expert <strong>Convertible Fridge Repair in Karur</strong> when freezer-to-fridge conversion mode fails to change cooling levels.",
     desc: "Convertible refrigerators allow users to switch the freezer compartment into a regular fridge section or extra cooling space through inverter motor and sensor controls.",
     problems: "Freezer section refuses to switch temperature mode, panel buttons unresponsive, temperature stuck on deep freeze.",
     checks: "Mode selection PCB signals, inverter compressor variable frequency output, and compartment NTC thermistor calibration.",
@@ -110,7 +110,7 @@ const fridgeTypes = [
   {
     name: "Inverter Refrigerator",
     subtitle: "Variable Speed BLDC Compressor Fridge",
-    searchIntent: "Need certified <strong>Inverter Refrigerator Repair Near Me</strong> in Dindigul? We diagnose inverter PCB flashing codes, compressor start failure, and power surge faults.",
+    searchIntent: "Need certified <strong>Inverter Refrigerator Repair Near Me</strong> in Karur? We diagnose inverter PCB flashing codes, compressor start failure, and power surge faults.",
     desc: "Inverter refrigerators utilize a brushless DC (BLDC) compressor that adjusts its operational speed continuously rather than cycling strictly on and off, reducing electricity consumption.",
     problems: "Inverter compressor not turning on, inverter PCB LED blinking error codes, cooling drops after voltage fluctuations, unusual high-pitch whine.",
     checks: "DC bus voltage from inverter board (280V–320V DC), compressor three-phase winding resistance (U-V-W balance), and IPM driver module.",
@@ -120,7 +120,7 @@ const fridgeTypes = [
   {
     name: "Smart Refrigerator",
     subtitle: "Wi-Fi & Digital Interface Fridge",
-    searchIntent: "Doorstep <strong>Smart Refrigerator Service in Dindigul</strong> for touch screen glitches, Wi-Fi pairing drops, and sensor diagnosis.",
+    searchIntent: "Doorstep <strong>Smart Refrigerator Service in Karur</strong> for touch screen glitches, Wi-Fi pairing drops, and sensor diagnosis.",
     desc: "Smart refrigerators feature integrated Wi-Fi connectivity, electronic touch displays, internal door sensors, and app-based temperature monitoring.",
     problems: "Display panel freezing on brand logo, door open alarm sounding continuously even when doors are closed, Wi-Fi disconnected.",
     checks: "Door reed switches, display communication ribbon cable, power supply rail to Wi-Fi module, and motherboard firmware.",
@@ -130,7 +130,7 @@ const fridgeTypes = [
   {
     name: "Direct Cool Refrigerator",
     subtitle: "Natural Convection Economical Fridge",
-    searchIntent: "Fast <strong>Direct Cool Fridge Repair in Dindigul</strong> for single door refrigerators with frost buildup, cooling loss, or thermostat faults.",
+    searchIntent: "Fast <strong>Direct Cool Fridge Repair in Karur</strong> for single door refrigerators with frost buildup, cooling loss, or thermostat faults.",
     desc: "Direct Cool refrigerators work on natural convection airflow without an internal fan. The cooling coil is directly exposed inside the freezer box and requires manual periodic defrosting.",
     problems: "Thick layer of frost choking freezer space, cooling drops in lower shelf, water leaking from defrost tray behind unit.",
     checks: "Thermostat temperature cutoff point, door gasket seal integrity, capillary tube flow, and compressor relay.",
@@ -140,7 +140,7 @@ const fridgeTypes = [
   {
     name: "Frost Free Refrigerator",
     subtitle: "Automatic Defrost Cycle Fridge",
-    searchIntent: "Expert <strong>Frost Free Refrigerator Service in Dindigul</strong> for automatic defrost cycle failure, blocked drain tubes, and fan motor issues.",
+    searchIntent: "Expert <strong>Frost Free Refrigerator Service in Karur</strong> for automatic defrost cycle failure, blocked drain tubes, and fan motor issues.",
     desc: "Frost-free refrigerators circulate cooled air using a motorized fan and melt frost automatically using an electric heater and timer/sensor cycle, keeping shelves clean and frost-free.",
     problems: "Freezer coils coated in thick frost, fan motor blade hitting accumulated ice, drain pipe choked causing water puddles on bottom shelf.",
     checks: "Defrost heater resistance (ohms), bimetal switch continuity when frozen, defrost timer motor rotation, and drain hole clearance.",
@@ -150,7 +150,7 @@ const fridgeTypes = [
   {
     name: "Mini Refrigerator / Bar Refrigerator",
     subtitle: "Compact Single Door Fridge",
-    searchIntent: "Affordable <strong>Mini Fridge Repair Near Me</strong> in Dindigul for compact single door bar fridges in offices, bedrooms, and dormitories.",
+    searchIntent: "Affordable <strong>Mini Fridge Repair Near Me</strong> in Karur for compact single door bar fridges in offices, bedrooms, and dormitories.",
     desc: "Mini bar refrigerators provide compact cooling for beverages, snacks, medicines, and water in compact office cabins, bedrooms, and small spaces.",
     problems: "Compressor overheating and tripping, cooling is inadequate for beverages, door gasket not sealing tightly.",
     checks: "Compressor thermal cut-off, thermostat dial setting, condenser heat dissipation clearance, and door seal magnet strength.",
@@ -175,7 +175,7 @@ const commonProblems = [
     title: "Fridge Cooling is Low / Insufficient",
     badge: "Low Cooling",
     label1: "Observed Fault",
-    val1: "Freezer makes mild cold air but items do not freeze, and vegetables in the lower section spoil quickly in Dindigul's afternoon heat.",
+    val1: "Freezer makes mild cold air but items do not freeze, and vegetables in the lower section spoil quickly in Karur's afternoon heat.",
     label2: "Likely Technical Cause",
     val2: "Dust coated condenser coils, loose door rubber gasket leaking cold air, failing evaporator fan motor, or clogged capillary tube.",
     label3: "What Technician Checks",
@@ -561,10 +561,10 @@ const fridgeParts = [
 
 // 4. Locality Content Generator (Divided into 4 Quadrants as requested)
 function generateLocalitySections() {
-  const eastLocs = ["RM Colony", "Seelapadi", "Balakrishnapuram", "Siluvathur Road", "Round Road", "Nehruji Nagar", "Govindapuram", "Ponmandurai", "Paraipatti", "Pandian Nagar", "MSP Nagar", "Kamala Nagar", "EB Colony", "Kaveri Nagar", "Sriram Nagar"];
-  const westLocs = ["Palani Road", "Murugabhavanam", "Chettinaickenpatti", "Reddiarchatram", "Kannivadi", "Oddanchatram", "Akshaya Nagar", "Thiruvalluvar Nagar", "Annamalaiyar Colony", "Rathinavel Nagar", "Kaveri Layout", "Srinivasa Nagar", "Kannan Nagar", "Vaigai Nagar", "Meenakshi Nagar"];
-  const northLocs = ["Vedasandur", "Thadicombu", "Vadamadurai", "Ayyalur", "Gujiliamparai", "Nagalpatti", "Kurumbapatti", "Thamaraipadi", "Alamarathupatti", "Vadamadurai Road", "Eriodu", "Kujiliamparai", "Oddanchatram Road", "Mariyammal Nagar", "Soundararaja Nagar"];
-  const southLocs = ["Dindigul Town", "Nagal Nagar", "Begampur", "Batlagundu", "Nilakottai", "Chinnalapatti", "Adiyanuthu", "Spencer Compound", "Mendonsa Colony", "Salai Road", "Railway Feeder Road", "Nanthavanapatti", "Sirumalai Foot Road", "Trichy Road", "Natham Road"];
+  const eastLocs = ["Pasupathipalayam", "Vengamedu", "Inam Karur", "Vennaimalai", "Sengunthapuram", "Sukkaliyur", "Govindapuram", "Ponmandurai", "Paraipatti", "LGB Nagar", "Min Nagar", "Kamala Nagar", "EB Colony", "Kaveri Nagar", "Pugalur Road"];
+  const westLocs = ["Kovai Road", "Sanjeevi Nagar", "Chinna Andankovil", "Chettipalayam", "Andankovil West", "Aravakurichi", "Akshaya Nagar", "Thiruvalluvar Nagar", "Annamalaiyar Colony", "Rathinavel Nagar", "Kaveri Layout", "Srinivasa Nagar", "Kannan Nagar", "Vaigai Nagar", "Meenakshi Nagar"];
+  const northLocs = ["Mayanur", "Vangal", "Krishnarayapuram", "Koyampalli", "Punjai Thottakurichi", "Nagalpatti", "Thanthoni", "Thamaraipadi", "Alamarathupatti", "Krishnarayapuram Road", "Somur", "Kujiliamparai", "Aravakurichi Road", "Mariyammal Nagar", "Soundararaja Nagar"];
+  const southLocs = ["Karur Town", "Kagithapuramam", "Thanthonimalai", "Velayuthampalayam", "Puliyur", "Vaiyapuri Nagar", "Sanapiratti", "Thorakkalpatti", "Periya Andankovil", "Salai Road", "Railway Feeder Road", "Nanthavanapatti", "Amaravathi basin Foot Road", "Trichy Road", "Salem Bypass Road"];
 
   function renderGrid(locArray, areaName) {
     return locArray.map((locName, idx) => {
@@ -572,7 +572,7 @@ function generateLocalitySections() {
       const mod = idx % 4;
       if (mod === 0) {
         serviceTitle = `Refrigerator Repair in ${locName}`;
-        descText = `Doorstep single & double door fridge troubleshooting across ${locName}, Dindigul.`;
+        descText = `Doorstep single & double door fridge troubleshooting across ${locName}, Karur.`;
       } else if (mod === 1) {
         serviceTitle = `Fridge Repair Near Me in ${locName}`;
         descText = `Technician inspection for low cooling, water leakage, and thermostat issues in ${locName}.`;
@@ -580,7 +580,7 @@ function generateLocalitySections() {
         serviceTitle = `Refrigerator Service in ${locName}`;
         descText = `Compressor relay, gas checking, and defrost system servicing for households in ${locName}.`;
       } else {
-        serviceTitle = `Fridge Technician in ${locName}, Dindigul`;
+        serviceTitle = `Fridge Technician in ${locName}, Karur`;
         descText = `Doorstep repair for inverter and frost-free refrigerators around ${locName}.`;
       }
       return `        <div class="locality-card">
@@ -592,63 +592,63 @@ function generateLocalitySections() {
   }
 
   return `
-      <!-- East Dindigul -->
+      <!-- East Karur -->
       <div style="margin-bottom: 2.5rem;">
         <h3 style="color: var(--primary-color); font-size: 1.25rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent-blue);">
-          Refrigerator Repair in East Dindigul
+          Refrigerator Repair in East Karur
         </h3>
         <p style="font-size: 0.95rem; color: var(--text-color); margin-bottom: 1rem;">
-          Doorstep refrigerator repair coverage across RM Colony, Seelapadi, Balakrishnapuram, Siluvathur Road, and eastern residential developments:
+          Doorstep refrigerator repair coverage across Pasupathipalayam, Vengamedu, Inam Karur, Vennaimalai, and eastern residential developments:
         </p>
         <div class="localities-grid-expanded">
-${renderGrid(eastLocs, 'East Dindigul')}
+${renderGrid(eastLocs, 'East Karur')}
         </div>
       </div>
 
-      <!-- West Dindigul -->
+      <!-- West Karur -->
       <div style="margin-bottom: 2.5rem;">
         <h3 style="color: var(--primary-color); font-size: 1.25rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent-blue);">
-          Refrigerator Repair in West Dindigul
+          Refrigerator Repair in West Karur
         </h3>
         <p style="font-size: 0.95rem; color: var(--text-color); margin-bottom: 1rem;">
-          Technician visits across Palani Road, Chettinaickenpatti, Murugabhavanam, Oddanchatram highway, and western layouts:
+          Technician visits across Kovai Road, Chinna Andankovil, Sanjeevi Nagar, Aravakurichi highway, and western layouts:
         </p>
         <div class="localities-grid-expanded">
-${renderGrid(westLocs, 'West Dindigul')}
+${renderGrid(westLocs, 'West Karur')}
         </div>
       </div>
 
-      <!-- North Dindigul -->
+      <!-- North Karur -->
       <div style="margin-bottom: 2.5rem;">
         <h3 style="color: var(--primary-color); font-size: 1.25rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent-blue);">
-          Refrigerator Repair in North Dindigul
+          Refrigerator Repair in North Karur
         </h3>
         <p style="font-size: 0.95rem; color: var(--text-color); margin-bottom: 1rem;">
-          Reliable home service across Thadicombu, Vedasandur corridor, Vadamadurai, Thamaraipadi, and northern colonies:
+          Reliable home service across Vangal, Mayanur corridor, Krishnarayapuram, Thamaraipadi, and northern colonies:
         </p>
         <div class="localities-grid-expanded">
-${renderGrid(northLocs, 'North Dindigul')}
+${renderGrid(northLocs, 'North Karur')}
         </div>
       </div>
 
-      <!-- South Dindigul -->
+      <!-- South Karur -->
       <div>
         <h3 style="color: var(--primary-color); font-size: 1.25rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent-blue);">
-          Refrigerator Repair in South Dindigul
+          Refrigerator Repair in South Karur
         </h3>
         <p style="font-size: 0.95rem; color: var(--text-color); margin-bottom: 1rem;">
-          Local doorstep visits in Dindigul Town Center, Nagal Nagar, Begampur, Batlagundu Road, Nilakottai, and Chinnalapatti:
+          Local doorstep visits in Karur Town Center, Kagithapuramam, Thanthonimalai, Velayuthampalayam Road, Puliyur, and Vaiyapuri Nagar:
         </p>
         <div class="localities-grid-expanded">
-${renderGrid(southLocs, 'South Dindigul')}
+${renderGrid(southLocs, 'South Karur')}
         </div>
       </div>`;
 }
 
 // 5. Build Complete Fridge HTML Page
 function buildFridgePageHtml() {
-  const canonicalUrl = 'https://servicecenterdindigul.com/fridge/refrigerator-repair-service-in-dindigul.html';
-  const whatsappUrl = 'https://wa.me/919442054321?text=Hello%2C%20I%20need%20refrigerator%20repair%20service%20in%20Dindigul.%20Please%20share%20technician%20visit%20details.';
+  const canonicalUrl = 'https://servicecenterkarur.com/fridge/refrigerator-repair-service-in-karur.html';
+  const whatsappUrl = 'https://wa.me/919442054321?text=Hello%2C%20I%20need%20refrigerator%20repair%20service%20in%20Karur.%20Please%20share%20technician%20visit%20details.';
 
   // Types HTML
   const typesHtml = fridgeTypes.map(t => `
@@ -699,7 +699,7 @@ function buildFridgePageHtml() {
             <tr>
               <td class="highlight-col">Doorstep Inspection & Problem Diagnosis</td>
               <td class="price-col">₹249 – ₹350</td>
-              <td>Thorough electronic and mechanical testing of compressor, relay, thermostat, and gas lines across Dindigul.</td>
+              <td>Thorough electronic and mechanical testing of compressor, relay, thermostat, and gas lines across Karur.</td>
             </tr>
             <tr>
               <td class="highlight-col">PTC Start Relay & Overload Protector (OLP)</td>
@@ -755,11 +755,11 @@ function buildFridgePageHtml() {
   // 27 Detailed FAQs
   const faqs = [
     {
-      q: "Do you provide refrigerator repair in Dindigul?",
-      a: "Yes. We coordinate doorstep refrigerator repair service across Dindigul Town, Nagal Nagar, RM Colony, Begampur, Palani Road, and all 60 surrounding residential areas and taluks."
+      q: "Do you provide refrigerator repair in Karur?",
+      a: "Yes. We coordinate doorstep refrigerator repair service across Karur Town, Kagithapuramam, Pasupathipalayam, Thanthonimalai, Kovai Road, and all 60 surrounding residential areas and taluks."
     },
     {
-      q: "Can I get fridge repair near me in Dindigul?",
+      q: "Can I get fridge repair near me in Karur?",
       a: "Yes. Our local technicians visit your home directly with diagnostic tools, multimeters, and common replacement components like start relays, thermostats, and sensors."
     },
     {
@@ -792,7 +792,7 @@ function buildFridgePageHtml() {
     },
     {
       q: "Do you repair direct-cool refrigerators?",
-      a: "Yes. We check manual defrost systems, mechanical thermostats, capillary tubes, and door magnetic seals for direct-cool refrigerators throughout Dindigul."
+      a: "Yes. We check manual defrost systems, mechanical thermostats, capillary tubes, and door magnetic seals for direct-cool refrigerators throughout Karur."
     },
     {
       q: "What should I do if my refrigerator is not cooling at all?",
@@ -844,23 +844,23 @@ function buildFridgePageHtml() {
     },
     {
       q: "Is there a technician visit charge?",
-      a: "Doorstep inspection across Dindigul ranges between ₹249 and ₹350. The technician thoroughly tests the appliance and provides an honest repair quote before starting any work."
+      a: "Doorstep inspection across Karur ranges between ₹249 and ₹350. The technician thoroughly tests the appliance and provides an honest repair quote before starting any work."
     },
     {
       q: "Can I know the exact repair cost before parts are replaced?",
       a: "Yes. Our technician diagnoses the problem, explains the root cause clearly, and gives you a transparent estimate for parts and labor before carrying out any repair."
     },
     {
-      q: "Do you repair refrigerators directly at home in Dindigul?",
+      q: "Do you repair refrigerators directly at home in Karur?",
       a: "Yes. Over 90% of refrigerator faults—including relay replacement, thermostat fitting, fan motor renewal, drain unblocking, gasket fixing, and sensor testing—are completed on-site at your home."
     },
     {
-      q: "Which areas of Dindigul do you cover?",
-      a: "We cover all 60 approved residential colonies, towns, and bypass corridors, including Nagal Nagar, RM Colony, Dindigul Town, Begampur, Seelapadi, Balakrishnapuram, Palani Road, Batlagundu, Natham, Oddanchatram, and Vedasandur."
+      q: "Which areas of Karur do you cover?",
+      a: "We cover all 60 approved residential colonies, towns, and bypass corridors, including Kagithapuramam, Pasupathipalayam, Karur Town, Thanthonimalai, Vengamedu, Inam Karur, Kovai Road, Velayuthampalayam, Pugalur, Aravakurichi, and Mayanur."
     },
     {
-      q: "How do I contact you for fridge repair near me in Dindigul?",
-      a: "Simply call +91 94420 54321 or tap the WhatsApp button on this page. Share your refrigerator brand, door type (single door, double door, side-by-side), observed problem, and your Dindigul locality to book an inspection visit."
+      q: "How do I contact you for fridge repair near me in Karur?",
+      a: "Simply call +91 94420 54321 or tap the WhatsApp button on this page. Share your refrigerator brand, door type (single door, double door, side-by-side), observed problem, and your Karur locality to book an inspection visit."
     }
   ];
 
@@ -880,15 +880,15 @@ function buildFridgePageHtml() {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Refrigerator Repair Service in Dindigul | Fridge Repair Near Me</title>
-  <meta name="description" content="Refrigerator Repair Service in Dindigul for cooling problems, freezer issues, water leakage, thermostat, compressor and other fridge problems. Contact for technician service near you.">
+  <title>Refrigerator Repair Service in Karur | Fridge Repair Near Me</title>
+  <meta name="description" content="Refrigerator Repair Service in Karur for cooling problems, freezer issues, water leakage, thermostat, compressor and other fridge problems. Contact for technician service near you.">
   <link rel="canonical" href="${canonicalUrl}">
   
   <meta property="og:type" content="article">
   <meta property="og:url" content="${canonicalUrl}">
-  <meta property="og:title" content="Refrigerator Repair Service in Dindigul | Fridge Repair Near Me">
-  <meta property="og:description" content="Doorstep refrigerator repair service in Dindigul for single door, double door, inverter & side-by-side models. Cooling problems, water leakage, and compressor inspection.">
-  <meta property="og:site_name" content="Service Center Dindigul">
+  <meta property="og:title" content="Refrigerator Repair Service in Karur | Fridge Repair Near Me">
+  <meta property="og:description" content="Doorstep refrigerator repair service in Karur for single door, double door, inverter & side-by-side models. Cooling problems, water leakage, and compressor inspection.">
+  <meta property="og:site_name" content="Service Center Karur">
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -900,27 +900,27 @@ function buildFridgePageHtml() {
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Refrigerator Repair Service in Dindigul",
+    "name": "Refrigerator Repair Service in Karur",
     "serviceType": "Refrigerator Repair Service",
     "url": "${canonicalUrl}",
     "provider": {
       "@type": "HomeAndConstructionBusiness",
-      "name": "Service Center Dindigul",
+      "name": "Service Center Karur",
       "telephone": "+919442054321",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Road, Near Nagal Nagar & RM Colony",
-        "addressLocality": "Dindigul",
+        "streetAddress": "Jawahar Bazaar, Kovai Road, Near Bus Stand",
+        "addressLocality": "Karur",
         "addressRegion": "Tamil Nadu",
-        "postalCode": "624001",
+        "postalCode": "639001",
         "addressCountry": "IN"
       }
     },
     "areaServed": {
       "@type": "City",
-      "name": "Dindigul"
+      "name": "Karur"
     },
-    "description": "Doorstep inspection and repair for single door, double door, frost-free, inverter, and side-by-side refrigerators across Dindigul, Tamil Nadu."
+    "description": "Doorstep inspection and repair for single door, double door, frost-free, inverter, and side-by-side refrigerators across Karur, Tamil Nadu."
   }
   </script>
 </head>
@@ -929,14 +929,14 @@ function buildFridgePageHtml() {
   <!-- Site Header -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="../index.html" class="brand-logo" title="Service Center Dindigul Homepage">
+      <a href="../index.html" class="brand-logo" title="Service Center Karur Homepage">
         <div class="brand-icon">
           <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
           </svg>
         </div>
         <div class="brand-title">
-          <span class="brand-name">Service Center Dindigul</span>
+          <span class="brand-name">Service Center Karur</span>
           <span class="brand-loc">Local Appliance Care</span>
         </div>
       </a>
@@ -944,10 +944,10 @@ function buildFridgePageHtml() {
       <!-- Desktop Nav -->
       <nav class="main-nav" id="mainNav" aria-label="Main Navigation">
         <a href="../index.html">Home</a>
-        <a href="../ac/ac-repair-service-in-dindigul.html">AC Repair</a>
-        <a href="refrigerator-repair-service-in-dindigul.html" class="active">Fridge Repair</a>
-        <a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine</a>
-        <a href="../tv/tv-repair-service-in-dindigul.html">TV Repair</a>
+        <a href="../ac/ac-repair-service-in-karur.html">AC Repair</a>
+        <a href="refrigerator-repair-service-in-karur.html" class="active">Fridge Repair</a>
+        <a href="../washing-machine/washing-machine-repair-service-in-karur.html">Washing Machine</a>
+        <a href="../tv/tv-repair-service-in-karur.html">TV Repair</a>
       </nav>
 
       <div class="header-actions">
@@ -971,7 +971,7 @@ function buildFridgePageHtml() {
       <ol>
         <li><a href="../index.html">Home</a></li>
         <li><a href="#">Refrigerator Repair</a></li>
-        <li aria-current="page">Refrigerator Repair Service in Dindigul</li>
+        <li aria-current="page">Refrigerator Repair Service in Karur</li>
       </ol>
     </div>
   </div>
@@ -982,14 +982,14 @@ function buildFridgePageHtml() {
       <div class="hero-content">
         <div class="hero-badge">
           <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-          <span>Dindigul Doorstep Refrigerator Care</span>
+          <span>Karur Doorstep Refrigerator Care</span>
         </div>
 
         <!-- Single H1 Rule -->
-        <h1>Refrigerator Repair Service in Dindigul</h1>
+        <h1>Refrigerator Repair Service in Karur</h1>
 
         <p class="hero-copy">
-          Searching for <strong>refrigerator repair near me</strong> in Dindigul? From single door and double door to inverter and side-by-side refrigerators, our local technicians check cooling loss, water leakage, compressor clicking, thermostat issues, and gas charging directly at your home.
+          Searching for <strong>refrigerator repair near me</strong> in Karur? From single door and double door to inverter and side-by-side refrigerators, our local technicians check cooling loss, water leakage, compressor clicking, thermostat issues, and gas charging directly at your home.
         </p>
 
         <!-- Tanglish Helper Box -->
@@ -997,7 +997,7 @@ function buildFridgePageHtml() {
           <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2z"/></svg>
           <div>
             <strong>Fridge-la cooling kammi aa irukka? Freezer proper-aa freeze aagala?</strong><br>
-            Water leak aagudha? Compressor continuous-aa running? Dindigul local technician inspection arrange panna Call or WhatsApp pannunga. Spot-laye fault check panni clear cost estimate solluvom.
+            Water leak aagudha? Compressor continuous-aa running? Karur local technician inspection arrange panna Call or WhatsApp pannunga. Spot-laye fault check panni clear cost estimate solluvom.
           </div>
         </div>
 
@@ -1016,7 +1016,7 @@ function buildFridgePageHtml() {
       <!-- Quick Request Card -->
       <div class="hero-card-box">
         <h2>Schedule Fridge Inspection</h2>
-        <p>Doorstep checking for all refrigerator types across Dindigul.</p>
+        <p>Doorstep checking for all refrigerator types across Karur.</p>
 
         <form class="quick-booking-form">
           <input type="hidden" name="appliance" value="Refrigerator Repair & Service">
@@ -1027,22 +1027,22 @@ function buildFridgePageHtml() {
           </div>
 
           <div class="form-group">
-            <label for="fridgeLocality">Your Locality in Dindigul</label>
+            <label for="fridgeLocality">Your Locality in Karur</label>
             <select id="fridgeLocality" name="locality" class="form-control" required>
-              <option value="Dindigul Town">Dindigul Town / Bus Stand</option>
-              <option value="Nagal Nagar">Nagal Nagar</option>
-              <option value="RM Colony">RM Colony</option>
-              <option value="Begampur">Begampur</option>
-              <option value="Seelapadi">Seelapadi</option>
-              <option value="Balakrishnapuram">Balakrishnapuram</option>
-              <option value="Adiyanuthu">Adiyanuthu</option>
-              <option value="Siluvathur Road">Siluvathur Road</option>
-              <option value="Palani Road">Palani Road</option>
-              <option value="Batlagundu">Batlagundu</option>
-              <option value="Natham">Natham</option>
-              <option value="Oddanchatram">Oddanchatram</option>
-              <option value="Vedasandur">Vedasandur</option>
-              <option value="Nilakottai">Nilakottai</option>
+              <option value="Karur Town">Karur Town / Bus Stand</option>
+              <option value="Kagithapuramam">Kagithapuramam</option>
+              <option value="Pasupathipalayam">Pasupathipalayam</option>
+              <option value="Thanthonimalai">Thanthonimalai</option>
+              <option value="Vengamedu">Vengamedu</option>
+              <option value="Inam Karur">Inam Karur</option>
+              <option value="Sanapiratti">Sanapiratti</option>
+              <option value="Vennaimalai">Vennaimalai</option>
+              <option value="Kovai Road">Kovai Road</option>
+              <option value="Velayuthampalayam">Velayuthampalayam</option>
+              <option value="Pugalur">Pugalur</option>
+              <option value="Aravakurichi">Aravakurichi</option>
+              <option value="Mayanur">Mayanur</option>
+              <option value="Puliyur">Puliyur</option>
             </select>
           </div>
 
@@ -1065,23 +1065,23 @@ function buildFridgePageHtml() {
     </div>
   </section>
 
-  <!-- Starting Section: Search Intent & Local Dindigul Kitchen Context -->
+  <!-- Starting Section: Search Intent & Local Karur Kitchen Context -->
   <section class="section">
     <div class="container">
       <div class="keyword-opening-box">
         <div style="background: rgba(30, 58, 138, 0.06); border-left: 4px solid var(--accent-blue); padding: 0.85rem 1.25rem; border-radius: 4px; margin-bottom: 1.25rem;">
-          <strong style="color: var(--primary-color); font-size: 1.05rem;">Looking for Fridge Repair Near Me in Dindigul?</strong>
+          <strong style="color: var(--primary-color); font-size: 1.05rem;">Looking for Fridge Repair Near Me in Karur?</strong>
           <p style="margin: 0.25rem 0 0 0; color: var(--text-muted); font-size: 0.95rem;">
-            Whether you need <strong>Refrigerator Repair in Dindigul</strong> for an emergency cooling failure or routine thermostat servicing, our local team schedules doorstep technician visits to your home across all residential areas.
+            Whether you need <strong>Refrigerator Repair in Karur</strong> for an emergency cooling failure or routine thermostat servicing, our local team schedules doorstep technician visits to your home across all residential areas.
           </p>
         </div>
 
-        <h2>Reliable Refrigerator Repair & Maintenance Across Dindigul</h2>
+        <h2>Reliable Refrigerator Repair & Maintenance Across Karur</h2>
         <p>
-          In every Dindigul home, the refrigerator is one of the most critical appliances operating 24 hours a day. Families depend on it daily to preserve milk, fresh curd, vegetables, fruits, cooked food, cold drinking water, frozen items, and ice. During Dindigul's hot summer months, ambient temperatures rise significantly, placing extra continuous load on the compressor and condenser coils to maintain proper cooling.
+          In every Karur home, the refrigerator is one of the most critical appliances operating 24 hours a day. Families depend on it daily to preserve milk, fresh curd, vegetables, fruits, cooked food, cold drinking water, frozen items, and ice. During Karur's hot summer months, ambient temperatures rise significantly, placing extra continuous load on the compressor and condenser coils to maintain proper cooling.
         </p>
         <p>
-          When a refrigerator suddenly stops cooling, makes loud clicking sounds, or leaks water onto the kitchen floor, food spoilage can happen within hours. Our local Dindigul technicians carry practical diagnostic equipment to check compressor health, start relay condition, gas pressure, thermostat cutoff points, defrost heaters, and door gaskets right in your home.
+          When a refrigerator suddenly stops cooling, makes loud clicking sounds, or leaks water onto the kitchen floor, food spoilage can happen within hours. Our local Karur technicians carry practical diagnostic equipment to check compressor health, start relay condition, gas pressure, thermostat cutoff points, defrost heaters, and door gaskets right in your home.
         </p>
       </div>
     </div>
@@ -1091,8 +1091,8 @@ function buildFridgePageHtml() {
   <section class="section section-bg-muted" id="fridgeTypesSection">
     <div class="container">
       <div class="section-header">
-        <h2>Types of Refrigerators We Repair in Dindigul</h2>
-        <p>Doorstep troubleshooting, component testing, and repair support across all refrigerator designs and cooling configurations in Dindigul.</p>
+        <h2>Types of Refrigerators We Repair in Karur</h2>
+        <p>Doorstep troubleshooting, component testing, and repair support across all refrigerator designs and cooling configurations in Karur.</p>
       </div>
 
       <div class="types-grid" style="grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));">
@@ -1105,8 +1105,8 @@ ${typesHtml}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Common Refrigerator Problems We Repair in Dindigul</h2>
-        <p>Frequent refrigerator issues faced by households across Dindigul, their likely technical causes, and how our technicians inspect them.</p>
+        <h2>Common Refrigerator Problems We Repair in Karur</h2>
+        <p>Frequent refrigerator issues faced by households across Karur, their likely technical causes, and how our technicians inspect them.</p>
       </div>
 
       <div class="problems-grid">
@@ -1120,7 +1120,7 @@ ${problemsHtml}
     <div class="container">
       <div class="section-header">
         <h2>Refrigerator Parts We Check or Replace</h2>
-        <p>Essential components tested, serviced, and replaced for compatible refrigerator models in Dindigul.</p>
+        <p>Essential components tested, serviced, and replaced for compatible refrigerator models in Karur.</p>
       </div>
 
       <p style="text-align: center; max-width: 820px; margin: 0 auto 1.5rem auto; font-size: 0.95rem; color: var(--text-muted);">
@@ -1146,7 +1146,7 @@ ${partsHtml}
           <div class="step-num">1</div>
           <div class="step-content">
             <h4>Contact Our Local Desk</h4>
-            <p>Call or WhatsApp our Dindigul desk with your refrigerator type (single door, double door, inverter) and observed issue.</p>
+            <p>Call or WhatsApp our Karur desk with your refrigerator type (single door, double door, inverter) and observed issue.</p>
           </div>
         </div>
 
@@ -1154,7 +1154,7 @@ ${partsHtml}
           <div class="step-num">2</div>
           <div class="step-content">
             <h4>Doorstep Technician Visit</h4>
-            <p>A local technician visits your Dindigul home at your preferred time slot with multimeter, gauges, and common spares.</p>
+            <p>A local technician visits your Karur home at your preferred time slot with multimeter, gauges, and common spares.</p>
           </div>
         </div>
 
@@ -1241,8 +1241,8 @@ ${partsHtml}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Refrigerator Brands We Service in Dindigul</h2>
-        <p>Repair support and doorstep component replacement for all major refrigerator brands in Dindigul homes:</p>
+        <h2>Refrigerator Brands We Service in Karur</h2>
+        <p>Repair support and doorstep component replacement for all major refrigerator brands in Karur homes:</p>
       </div>
 
       <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; margin-bottom: 1.5rem;">
@@ -1261,12 +1261,12 @@ ${partsHtml}
     </div>
   </section>
 
-  <!-- Refrigerator Repair Cost in Dindigul -->
+  <!-- Refrigerator Repair Cost in Karur -->
   <section class="section section-bg-muted" id="pricingSection">
     <div class="container">
       <div class="section-header">
-        <h2>Refrigerator Repair Cost in Dindigul</h2>
-        <p>Indicative market price ranges for typical refrigerator repairs and common component replacements in Dindigul:</p>
+        <h2>Refrigerator Repair Cost in Karur</h2>
+        <p>Indicative market price ranges for typical refrigerator repairs and common component replacements in Karur:</p>
       </div>
 
       <div class="content-table-wrapper">
@@ -1297,8 +1297,8 @@ ${pricingTableHtml}
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Why Choose Us for Refrigerator Repair in Dindigul</h2>
-        <p>Practical benefits of scheduling your refrigerator inspection with our local Dindigul service desk:</p>
+        <h2>Why Choose Us for Refrigerator Repair in Karur</h2>
+        <p>Practical benefits of scheduling your refrigerator inspection with our local Karur service desk:</p>
       </div>
 
       <div class="why-grid">
@@ -1307,8 +1307,8 @@ ${pricingTableHtml}
             <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
           </div>
           <div class="why-card-content">
-            <h3>Local Dindigul Technicians</h3>
-            <p>Direct coordination with experienced local repair technicians based in Dindigul for fast doorstep visits.</p>
+            <h3>Local Karur Technicians</h3>
+            <p>Direct coordination with experienced local repair technicians based in Karur for fast doorstep visits.</p>
           </div>
         </div>
 
@@ -1369,43 +1369,43 @@ ${pricingTableHtml}
   <section class="section section-bg-muted">
     <div class="container">
       <div class="section-header">
-        <h2>Recent Refrigerator Repair Experiences in Dindigul</h2>
-        <p>Illustrative examples of everyday refrigerator issues resolved across Dindigul neighborhoods:</p>
+        <h2>Recent Refrigerator Repair Experiences in Karur</h2>
+        <p>Illustrative examples of everyday refrigerator issues resolved across Karur neighborhoods:</p>
       </div>
 
       <div class="experiences-grid">
         <div class="experience-card">
-          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 Nagal Nagar, Dindigul</div>
+          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 Kagithapuramam, Karur</div>
           <h4 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.45rem;">Double Door Fridge Freezer Freezing but Bottom Warm</h4>
           <p class="experience-desc" style="font-size: 0.9rem; line-height: 1.55; color: var(--text-color); margin-bottom: 0.5rem;">
-            A family in Nagal Nagar noticed their double door refrigerator freezing ice cubes solid while milk and vegetables in the lower cabin stayed lukewarm. The technician dismantled the freezer rear panel, diagnosed an open defrost heater, replaced the element, and cleared the air duct. Proper airflow was restored within two hours.
+            A family in Kagithapuramam noticed their double door refrigerator freezing ice cubes solid while milk and vegetables in the lower cabin stayed lukewarm. The technician dismantled the freezer rear panel, diagnosed an open defrost heater, replaced the element, and cleared the air duct. Proper airflow was restored within two hours.
           </p>
           <span style="font-size: 0.82rem; color: var(--text-muted); font-weight: 600;">⏱️ Resolved on-site in 2 hours</span>
         </div>
 
         <div class="experience-card">
-          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 RM Colony, Dindigul</div>
+          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 Pasupathipalayam, Karur</div>
           <h4 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.45rem;">Single Door Fridge Compressor Clicking Without Starting</h4>
           <p class="experience-desc" style="font-size: 0.9rem; line-height: 1.55; color: var(--text-color); margin-bottom: 0.5rem;">
-            An RM Colony resident reported a sharp clicking noise from their 190L single door refrigerator after power cuts, with zero cooling inside. The technician tested the compressor terminals, diagnosed a burnt PTC start relay, installed a fresh relay and overload protector, and verified instant compressor startup.
+            An Pasupathipalayam resident reported a sharp clicking noise from their 190L single door refrigerator after power cuts, with zero cooling inside. The technician tested the compressor terminals, diagnosed a burnt PTC start relay, installed a fresh relay and overload protector, and verified instant compressor startup.
           </p>
           <span style="font-size: 0.82rem; color: var(--text-muted); font-weight: 600;">⏱️ Serviced same day in 1 hour</span>
         </div>
 
         <div class="experience-card">
-          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 Palani Road, Dindigul</div>
+          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 Kovai Road, Karur</div>
           <h4 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.45rem;">Inverter Refrigerator Error Code Following Voltage Surge</h4>
           <p class="experience-desc" style="font-size: 0.9rem; line-height: 1.55; color: var(--text-color); margin-bottom: 0.5rem;">
-            A customer on Palani Road faced an inverter frost-free refrigerator showing a blinking LED error code with no cooling. The technician inspected the inverter driver PCB, repaired blown surge suppression diodes on-site, and verified proper DC motor frequency.
+            A customer on Kovai Road faced an inverter frost-free refrigerator showing a blinking LED error code with no cooling. The technician inspected the inverter driver PCB, repaired blown surge suppression diodes on-site, and verified proper DC motor frequency.
           </p>
           <span style="font-size: 0.82rem; color: var(--text-muted); font-weight: 600;">⏱️ Completed on-site in 2.5 hours</span>
         </div>
 
         <div class="experience-card">
-          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 Begampur, Dindigul</div>
+          <div style="font-size: 0.82rem; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; margin-bottom: 0.35rem;">📍 Thanthonimalai, Karur</div>
           <h4 style="font-size: 1.05rem; color: var(--primary-color); margin-bottom: 0.45rem;">Water Accumulating Under Vegetable Crisper Drawer</h4>
           <p class="experience-desc" style="font-size: 0.9rem; line-height: 1.55; color: var(--text-color); margin-bottom: 0.5rem;">
-            A household in Begampur called regarding water pooling beneath the bottom vegetable drawer and leaking onto the tiles. The technician cleared the iced drain hole, flushed the internal conduit with hot sanitizing solution, and repositioned the drain pan.
+            A household in Thanthonimalai called regarding water pooling beneath the bottom vegetable drawer and leaking onto the tiles. The technician cleared the iced drain hole, flushed the internal conduit with hot sanitizing solution, and repositioned the drain pan.
           </p>
           <span style="font-size: 0.82rem; color: var(--text-muted); font-weight: 600;">⏱️ Fixed in 45 minutes</span>
         </div>
@@ -1413,12 +1413,12 @@ ${pricingTableHtml}
     </div>
   </section>
 
-  <!-- Refrigerator Repair Near Me in Dindigul (Locality Section in 4 Quadrants) -->
+  <!-- Refrigerator Repair Near Me in Karur (Locality Section in 4 Quadrants) -->
   <section class="section" id="localitiesSection">
     <div class="container">
       <div class="section-header">
-        <h2>Refrigerator Repair Near Me in Dindigul</h2>
-        <p>Timely doorstep repair and inspection visits across all residential areas, towns, and surrounding zones of Dindigul:</p>
+        <h2>Refrigerator Repair Near Me in Karur</h2>
+        <p>Timely doorstep repair and inspection visits across all residential areas, towns, and surrounding zones of Karur:</p>
       </div>
 
 ${generateLocalitySections()}
@@ -1429,8 +1429,8 @@ ${generateLocalitySections()}
   <section class="section section-bg-muted" id="faqSection">
     <div class="container">
       <div class="section-header">
-        <h2>Frequently Asked Questions — Refrigerator Repair in Dindigul</h2>
-        <p>Helpful answers to common questions about refrigerator faults, technician visits, costs, and maintenance in Dindigul.</p>
+        <h2>Frequently Asked Questions — Refrigerator Repair in Karur</h2>
+        <p>Helpful answers to common questions about refrigerator faults, technician visits, costs, and maintenance in Karur.</p>
       </div>
 
       <div class="faq-container">
@@ -1439,28 +1439,28 @@ ${faqsHtml}
     </div>
   </section>
 
-  <!-- Other Home Appliances in Dindigul -->
+  <!-- Other Home Appliances in Karur -->
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Other Home Appliance Repair Services in Dindigul</h2>
+        <h2>Other Home Appliance Repair Services in Karur</h2>
         <p>Explore doorstep assistance for your other household appliances:</p>
       </div>
 
       <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
-        <a href="../ac/ac-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
+        <a href="../ac/ac-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.1rem; color: var(--primary-color); margin-bottom: 0.35rem;">AC Repair & Service</h3>
-          <p style="font-size: 0.88rem; color: var(--text-muted);">Split & window AC cooling faults, water drips, fan motor issues & seasonal maintenance across Dindigul.</p>
+          <p style="font-size: 0.88rem; color: var(--text-muted);">Split & window AC cooling faults, water drips, fan motor issues & seasonal maintenance across Karur.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue); margin-top: auto; padding-top: 0.75rem;">View AC Services →</span>
         </a>
 
-        <a href="../washing-machine/washing-machine-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
+        <a href="../washing-machine/washing-machine-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.1rem; color: var(--primary-color); margin-bottom: 0.35rem;">Washing Machine Repair</h3>
-          <p style="font-size: 0.88rem; color: var(--text-muted);">Front load, top load & semi-automatic drainage, spinning, vibration & motor repair across Dindigul.</p>
+          <p style="font-size: 0.88rem; color: var(--text-muted);">Front load, top load & semi-automatic drainage, spinning, vibration & motor repair across Karur.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue); margin-top: auto; padding-top: 0.75rem;">View Washing Machine →</span>
         </a>
 
-        <a href="../tv/tv-repair-service-in-dindigul.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
+        <a href="../tv/tv-repair-service-in-karur.html" class="service-card" style="text-decoration: none; padding: 1.25rem;">
           <h3 style="font-size: 1.1rem; color: var(--primary-color); margin-bottom: 0.35rem;">TV Repair & Service</h3>
           <p style="font-size: 0.88rem; color: var(--text-muted);">LED, Smart TV, and 4K television screen blackout, backlight renewal, sound issues & motherboard service.</p>
           <span style="font-size: 0.85rem; font-weight: 600; color: var(--accent-blue); margin-top: auto; padding-top: 0.75rem;">View TV Services →</span>
@@ -1472,7 +1472,7 @@ ${faqsHtml}
   <!-- CTA Banner Section -->
   <section class="cta-banner-section">
     <div class="container">
-      <h2>Need Refrigerator Repair in Dindigul?</h2>
+      <h2>Need Refrigerator Repair in Karur?</h2>
       <p>Contact our local team now to discuss your fridge problem and book an experienced technician inspection.</p>
       <div class="cta-banner-buttons">
         <a href="tel:+919442054321" class="btn-primary-call sync-call">
@@ -1492,13 +1492,13 @@ ${faqsHtml}
     <div class="container">
       <div class="footer-grid">
         <div class="footer-col">
-          <h4>Service Center Dindigul</h4>
+          <h4>Service Center Karur</h4>
           <p>
-            Local doorstep repair and inspection service for home appliances across Dindigul, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
+            Local doorstep repair and inspection service for home appliances across Karur, Tamil Nadu. Fast coordination, technician visit, and transparent guidance.
           </p>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-            <span>Main Road, Nagal Nagar & RM Colony, Dindigul, Tamil Nadu 624001</span>
+            <span>Main Road, Kagithapuramam & Pasupathipalayam, Karur, Tamil Nadu 639001</span>
           </div>
           <div class="footer-contact-item">
             <svg viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
@@ -1509,21 +1509,21 @@ ${faqsHtml}
         <div class="footer-col">
           <h4>Repair Services</h4>
           <ul class="footer-links">
-            <li><a href="../ac/ac-repair-service-in-dindigul.html">AC Repair & Service</a></li>
-            <li><a href="refrigerator-repair-service-in-dindigul.html">Refrigerator / Fridge Repair</a></li>
-            <li><a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine Repair</a></li>
-            <li><a href="../tv/tv-repair-service-in-dindigul.html">TV Repair & Service</a></li>
+            <li><a href="../ac/ac-repair-service-in-karur.html">AC Repair & Service</a></li>
+            <li><a href="refrigerator-repair-service-in-karur.html">Refrigerator / Fridge Repair</a></li>
+            <li><a href="../washing-machine/washing-machine-repair-service-in-karur.html">Washing Machine Repair</a></li>
+            <li><a href="../tv/tv-repair-service-in-karur.html">TV Repair & Service</a></li>
           </ul>
         </div>
 
         <div class="footer-col">
-          <h4>Dindigul Coverage</h4>
+          <h4>Karur Coverage</h4>
           <ul class="footer-links">
-            <li><a href="../index.html#localitiesSection">Nagal Nagar & RM Colony</a></li>
-            <li><a href="../index.html#localitiesSection">Begampur & Town Center</a></li>
-            <li><a href="../index.html#localitiesSection">Seelapadi & Balakrishnapuram</a></li>
-            <li><a href="../index.html#localitiesSection">Palani Road & Adiyanuthu</a></li>
-            <li><a href="../index.html#localitiesSection">Batlagundu, Natham & Oddanchatram</a></li>
+            <li><a href="../index.html#localitiesSection">Kagithapuramam & Pasupathipalayam</a></li>
+            <li><a href="../index.html#localitiesSection">Thanthonimalai & Town Center</a></li>
+            <li><a href="../index.html#localitiesSection">Vengamedu & Inam Karur</a></li>
+            <li><a href="../index.html#localitiesSection">Kovai Road & Sanapiratti</a></li>
+            <li><a href="../index.html#localitiesSection">Velayuthampalayam, Pugalur & Aravakurichi</a></li>
           </ul>
         </div>
 
@@ -1545,7 +1545,7 @@ ${faqsHtml}
       </div>
 
       <div class="footer-copy">
-        <div>© 2026 servicecenterdindigul.com — Local Home Appliance Repair in Dindigul.</div>
+        <div>© 2026 servicecenterkarur.com — Local Home Appliance Repair in Karur.</div>
         <div>All rights reserved.</div>
       </div>
     </div>
@@ -1581,13 +1581,13 @@ ${faqsHtml}
 </html>`;
 }
 
-// Write the rebuilt page to fridge/refrigerator-repair-service-in-dindigul.html
-const destPath = path.join(fridgeDir, 'refrigerator-repair-service-in-dindigul.html');
+// Write the rebuilt page to fridge/refrigerator-repair-service-in-karur.html
+const destPath = path.join(fridgeDir, 'refrigerator-repair-service-in-karur.html');
 fs.writeFileSync(destPath, buildFridgePageHtml(), 'utf8');
 console.log('Successfully created:', destPath);
 
-// Delete old root file refrigerator-repair-service-in-dindigul.html
-const oldRootFile = path.join(rootDir, 'refrigerator-repair-service-in-dindigul.html');
+// Delete old root file refrigerator-repair-service-in-karur.html
+const oldRootFile = path.join(rootDir, 'refrigerator-repair-service-in-karur.html');
 if (fs.existsSync(oldRootFile)) {
   fs.unlinkSync(oldRootFile);
   console.log('Successfully removed old root file:', oldRootFile);

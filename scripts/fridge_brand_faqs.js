@@ -16,7 +16,7 @@ const brandFaqsMap = {
       a: 'Idhu classic defrost system failure. Evaporator coil-la excessive ice kattina, lower cabin-ku cold air varaadhu. Defrost bimetal sensor, thermal fuse, or defrost heater replace panna vendiyirukkum.'
     },
     {
-      q: 'Dindigul-la Samsung fridge doorstep inspection epdi book panradhu?',
+      q: 'Karur-la Samsung fridge doorstep inspection epdi book panradhu?',
       a: 'Phone call or WhatsApp vazhiya unga area location and fridge problem share pannina, technician unga convenient time-ku doorstep-la vandhu diagnose pannuvanga.'
     },
     {
@@ -32,7 +32,7 @@ const brandFaqsMap = {
       a: 'Minor misalignment irundha heat treatment panni seal adjust pannalam. Rubber crack aagi magnet weak aana brand-compatible gasket beading change panradhu dhaan best.'
     },
     {
-      q: 'Samsung refrigerator gas charging cost Dindigul-la evlo aagum?',
+      q: 'Samsung refrigerator gas charging cost Karur-la evlo aagum?',
       a: 'R600a eco-friendly refrigerant leak test, copper brazing, and gas recharging usually ₹1,850 to ₹2,850 kulla model capacity base panni vary aagum.'
     },
     {
@@ -44,8 +44,8 @@ const brandFaqsMap = {
       a: 'Kandippa, replace panna defective parts customer kitta kaati explain pannitu thirumba kuduthiduvanga.'
     },
     {
-      q: 'Dindigul RM Colony and Nagal Nagar-la Samsung fridge service kedaikuma?',
-      a: 'Kedaikum, RM Colony, Nagal Nagar, Begampur, Seelapadi, Palani Road ulpada Dindigul city full-aa doorstep technician visit provide panrom.'
+      q: 'Karur Pasupathipalayam and Kagithapuramam-la Samsung fridge service kedaikuma?',
+      a: 'Kedaikum, Pasupathipalayam, Kagithapuramam, Thanthonimalai, Vengamedu, Kovai Road ulpada Karur city full-aa doorstep technician visit provide panrom.'
     },
     {
       q: 'Samsung fridge compressor continuous-aa odite irundha enna aagum?',
@@ -74,7 +74,7 @@ const brandFaqsMap = {
       a: 'Rear defrost drain trough choke aagi irukkum. Technician back panel open panni drain line clear pannitu water flow test pannuvanga.'
     },
     {
-      q: 'Dindigul-la Whirlpool fridge repair cost epdi calculate pannuvanga?',
+      q: 'Karur-la Whirlpool fridge repair cost epdi calculate pannuvanga?',
       a: 'Inspection mudinjudhum exact fault, needed spare part cost, and technician service charge explain pannuvanga. Unga approval apram dhaan repair work start pannuvanga.'
     },
     {
@@ -82,8 +82,8 @@ const brandFaqsMap = {
       a: 'Varaadhu. Frost-free system-la fan odalana freezer-la mattum light chill irukkum, food compartment warm-aa irukkum. Fan motor replace panna cooling restore aagum.'
     },
     {
-      q: 'Whirlpool fridge repair-ku doorstep visit Dindigul Town-la kedaikuma?',
-      a: 'Kedaikum, Dindigul Town, Round Road, GTN Nagar, Batlagundu Road area-la doorstep visit regular-aa provide panrom.'
+      q: 'Whirlpool fridge repair-ku doorstep visit Karur Town-la kedaikuma?',
+      a: 'Kedaikum, Karur Town, Sengunthapuram, Rayanur, Velayuthampalayam Road area-la doorstep visit regular-aa provide panrom.'
     },
     {
       q: 'Whirlpool fridge door rubber-la gap irundha enna seiyanum?',
@@ -112,7 +112,7 @@ const brandFaqsMap = {
       a: 'Evaporator coil pinadi frost build-up aagi multiAirflow duct-a block pannirukkum. Defrost heater element and thermal cut-off sensor check panna vendiyirukkum.'
     },
     {
-      q: 'Bosch fridge repair-ku Dindigul-la genuine spares kedaikuma?',
+      q: 'Bosch fridge repair-ku Karur-la genuine spares kedaikuma?',
       a: 'Aama, Bosch models-ku matching VarioInverter boards, multi-flow fans, and NTC sensors match panni doorstep-la install panrom.'
     },
     {
@@ -124,7 +124,7 @@ const brandFaqsMap = {
       a: 'Magnetic door gasket seating-la gap irundhu exterior humidity ulla enter aana kondensation droplets varum. Gasket seating alignment test panna vendiyirukkum.'
     },
     {
-      q: 'Bosch refrigerator gas leak repair Dindigul-la panna mudiyuma?',
+      q: 'Bosch refrigerator gas leak repair Karur-la panna mudiyuma?',
       a: 'Mudiyum. Nitrogen pressure test panni pinhole leak detect seivadhu, copper brazing, system evacuation, and precision R600a charging perform panrom.'
     },
     {
@@ -132,8 +132,8 @@ const brandFaqsMap = {
       a: 'Basic sensor or fan motor repair ₹1,200 muthal start aagalam. Inverter module or sealed system repairs model specific pricing-la quote pannuvom.'
     },
     {
-      q: 'Dindigul Begampur and Seelapadi area-la Bosch technician visit irukka?',
-      a: 'Kandippa irukku. Seelapadi bypass, Begampur, Balakrishnapuram ella area-layum doorstep inspection provide panrom.'
+      q: 'Karur Thanthonimalai and Vengamedu area-la Bosch technician visit irukka?',
+      a: 'Kandippa irukku. Vengamedu bypass, Thanthonimalai, Inam Karur ella area-layum doorstep inspection provide panrom.'
     },
     {
       q: 'Bosch fridge-la abnormal humming noise varudhu, edhula irundhu varudhu?',
@@ -154,7 +154,7 @@ const brandFaqsMap = {
       a: 'Crisper humidity membrane clogged aana or cabinet defrost drain line blocked aana excess condensation moisture vegetable drawer-la thengum.'
     },
     {
-      q: 'Dindigul-la Electrolux refrigerator repair doorstep-la mudiyuma?',
+      q: 'Karur-la Electrolux refrigerator repair doorstep-la mudiyuma?',
       a: 'Mudiyum. Majority electrical, fan, sensor, defrost, and gas leak repairs unga veetulaye direct-aa attend panni fix panrom.'
     },
     {
@@ -166,7 +166,7 @@ const brandFaqsMap = {
       a: 'Door switch reed contact or switch spring jam aagirukkum. Idhanala light heat internal cabin cooling-a affect pannalam.'
     },
     {
-      q: 'Electrolux refrigerator spare parts Dindigul-la readily available-aa?',
+      q: 'Electrolux refrigerator spare parts Karur-la readily available-aa?',
       a: 'Electrolux models-ku suitable relays, sensors, heaters, and fan motors arrange panni quick service provide panrom.'
     },
     {
@@ -174,7 +174,7 @@ const brandFaqsMap = {
       a: 'Faulty component type and repair work nature poruthu honest quote explain pannuvanga. Approval ku apram work proceed aagum.'
     },
     {
-      q: 'Dindigul Spencer Compound and Mendonsa Colony-ku Electrolux service varuvangala?',
+      q: 'Karur Thorakkalpatti and Periya Andankovil-ku Electrolux service varuvangala?',
       a: 'Kandippa varuvanga, city center and outer residential layouts rendulayume technician support irukku.'
     }
   ],
@@ -192,7 +192,7 @@ const brandFaqsMap = {
       a: 'Door ajar alarm or cooling performance deviation irundha warning buzzer adikkum. First door closure and gasket seal check pannanum. Alarm continue aana sensor check pannanum.'
     },
     {
-      q: 'Liebherr fridge repair Dindigul-la reliable-aa kedaikuma?',
+      q: 'Liebherr fridge repair Karur-la reliable-aa kedaikuma?',
       a: 'Aama, experienced technicians Liebherr electronic modules, variable speed compressors, and defrost circuits-a systematically check panranga.'
     },
     {
@@ -200,7 +200,7 @@ const brandFaqsMap = {
       a: 'Freezer airflow obstruction or defrost cycle delay nala temperature warm aana ice set aaga late aagum. Evaporator coil frost status check pannanum.'
     },
     {
-      q: 'Liebherr fridge-ku replacement door gasket Dindigul-la kedaikuma?',
+      q: 'Liebherr fridge-ku replacement door gasket Karur-la kedaikuma?',
       a: 'Model dimension match panna magnetic perimeter gasket replace panni thermal sealing restore pannuvom.'
     },
     {
@@ -216,8 +216,8 @@ const brandFaqsMap = {
       a: 'Electronic halogen leak detector or nitrogen pressure holding test vechu internal copper joints inspect panni braze pannuvom.'
     },
     {
-      q: 'Dindigul Palani Road and GTN Salai area-la Liebherr fridge attend pannuvangala?',
-      a: 'Kandippa, Dindigul Palani Road, GTN Salai, RM Colony ellathulayum quick doorstep service kedaikkum.'
+      q: 'Karur Kovai Road and Kovai Road area-la Liebherr fridge attend pannuvangala?',
+      a: 'Kandippa, Karur Kovai Road, Kovai Road, Pasupathipalayam ellathulayum quick doorstep service kedaikkum.'
     }
   ],
   'Godrej': [
@@ -238,8 +238,8 @@ const brandFaqsMap = {
       a: 'Internal defrost drain hole dust-la அடைப்பு aagirukkum. Adhai clear panni hot water flush pannina water rear tray-ku smoothly drain aagum.'
     },
     {
-      q: 'Godrej fridge repair-ku Dindigul-la parts price affordable-aa irukkuma?',
-      a: 'Godrej Indian brand aadharala spares Dindigul-la readily available and romba reasonable cost-la kedaikkum. High spare charges irukaadhu.'
+      q: 'Godrej fridge repair-ku Karur-la parts price affordable-aa irukkuma?',
+      a: 'Godrej Indian brand aadharala spares Karur-la readily available and romba reasonable cost-la kedaikkum. High spare charges irukaadhu.'
     },
     {
       q: 'Godrej inverter fridge motherboard fault repair panna mudiyuma?',
@@ -250,8 +250,8 @@ const brandFaqsMap = {
       a: 'Model size and single/double door poruthu ₹650 to ₹1,400 kulla replacement gasket fit panni airtight sealing ensure pannalam.'
     },
     {
-      q: 'Dindigul Chinnalapatti and Batlagundu-la Godrej fridge service varuvangala?',
-      a: 'Aama, Dindigul town mattumilla Chinnalapatti, Batlagundu, Oddanchatram surrounding area-layum doorstep service provide panrom.'
+      q: 'Karur Vaiyapuri Nagar and Velayuthampalayam-la Godrej fridge service varuvangala?',
+      a: 'Aama, Karur town mattumilla Vaiyapuri Nagar, Velayuthampalayam, Aravakurichi surrounding area-layum doorstep service provide panrom.'
     },
     {
       q: 'Godrej fridge-la shock adikkudha madhiri irundha enna seiyanum?',
@@ -284,7 +284,7 @@ const brandFaqsMap = {
       a: 'Compressor mounting rubber bushes dry aagi harden aana or condenser tubing touch aana vibration noise kekkum. Alignment adjust panni solve pannalam.'
     },
     {
-      q: 'Dindigul-la Haier fridge repair service evlo time-la kedaikkum?',
+      q: 'Karur-la Haier fridge repair service evlo time-la kedaikkum?',
       a: 'Call or WhatsApp panni unga slot book pannina same day or next day convenient time-la technician doorstep attend pannuvanga.'
     },
     {
@@ -296,7 +296,7 @@ const brandFaqsMap = {
       a: 'Kandippa, side-by-side models-ku necessary diagnostic tools and testing meters technician veetukke kondu vandhu diagnose pannuvanga.'
     },
     {
-      q: 'Haier fridge gas charging cost Dindigul-la evlo aagum?',
+      q: 'Haier fridge gas charging cost Karur-la evlo aagum?',
       a: 'R600a hydrocarbon refrigerant gas charging usually ₹1,800 to ₹2,750 range-la leak repair and vacuuming kooda include aagum.'
     },
     {
@@ -304,8 +304,8 @@ const brandFaqsMap = {
       a: 'Aama, Haier models-ku original fit magnetic rubber beading install panni cold air retention restore panrom.'
     },
     {
-      q: 'Dindigul Siluvathur Road and Adiyanuthu-la Haier fridge service kedaikuma?',
-      a: 'Kedaikum, Siluvathur Road, Adiyanuthu, Balakrishnapuram ella layout-layum quick doorstep repair support irukku.'
+      q: 'Karur Vennaimalai and Sanapiratti-la Haier fridge service kedaikuma?',
+      a: 'Kedaikum, Vennaimalai, Sanapiratti, Inam Karur ella layout-layum quick doorstep repair support irukku.'
     }
   ],
   'Videocon': [
@@ -322,8 +322,8 @@ const brandFaqsMap = {
       a: 'Mechanical defrost timer or glass tube heater fail aagi coil ice-la moodirukkum. Timer manual rotate panni heating circuit test pannanum.'
     },
     {
-      q: 'Videocon fridge spares ippo Dindigul-la kedaikkuma?',
-      a: 'Kedaikkum, Videocon fridges use universal mechanical thermostats, standard relays, bimetals, and blower fans that are readily available in Dindigul.'
+      q: 'Videocon fridge spares ippo Karur-la kedaikkuma?',
+      a: 'Kedaikkum, Videocon fridges use universal mechanical thermostats, standard relays, bimetals, and blower fans that are readily available in Karur.'
     },
     {
       q: 'Videocon fridge-la current leak aana enna seiyanum?',
@@ -334,12 +334,12 @@ const brandFaqsMap = {
       a: 'Aama, gap vazhiya wet air ulla poi heavy frost undakkum, compressor continuous-aa odi current bill yerum. Gasket replace pannanum.'
     },
     {
-      q: 'Videocon fridge repair-ku Dindigul-la technician charges evlo?',
+      q: 'Videocon fridge repair-ku Karur-la technician charges evlo?',
       a: 'Nominal visit & inspection charge dhaan. Spares theva patta transparent part cost confirm pannitu repair pannuvom.'
     },
     {
-      q: 'Dindigul Town and Nagal Nagar-la Videocon fridge attend pannuvangala?',
-      a: 'Kandippa, Dindigul Town, Nagal Nagar, Begampur surrounding areas-la doorstep service quick-aa provide panrom.'
+      q: 'Karur Town and Kagithapuramam-la Videocon fridge attend pannuvangala?',
+      a: 'Kandippa, Karur Town, Kagithapuramam, Thanthonimalai surrounding areas-la doorstep service quick-aa provide panrom.'
     }
   ],
   'Panasonic': [
@@ -360,15 +360,15 @@ const brandFaqsMap = {
       a: 'Evaporator coil mela ice excess-aa build aagi fan blade rotate aagum bodhu ice-la urasum. Defrost cycle check panni ice melt pannanum.'
     },
     {
-      q: 'Dindigul-la Panasonic refrigerator repair-ku doorstep visit unda?',
-      a: 'Unda, Dindigul city and residential suburbs full-aa scheduled technician doorstep service provide panrom.'
+      q: 'Karur-la Panasonic refrigerator repair-ku doorstep visit unda?',
+      a: 'Unda, Karur city and residential suburbs full-aa scheduled technician doorstep service provide panrom.'
     },
     {
       q: 'Panasonic fridge bottom vegetable tray kulla water thengudhu, enna fault?',
       a: 'Drain hole and defrost trough dirt or algae-la choked aagirukkum. Technicians clean panni drain pathway-a flush pannuvanga.'
     },
     {
-      q: 'Panasonic fridge inverter PCB board cost Dindigul-la evlo irukkum?',
+      q: 'Panasonic fridge inverter PCB board cost Karur-la evlo irukkum?',
       a: 'Model chassis and capacity poruthu board repair ₹2,500 to ₹5,400 kulla vary aagum. First component repair check pannuvom.'
     },
     {
@@ -380,7 +380,7 @@ const brandFaqsMap = {
       a: 'Multi-airflow vent dampers and return air vents-la obstruction irukka-nu verify pannanum. Damper motor check panna vendiyirukkum.'
     },
     {
-      q: 'Dindigul RM Colony and GTN Salai-ku Panasonic technician varuvara?',
+      q: 'Karur Pasupathipalayam and Kovai Road-ku Panasonic technician varuvara?',
       a: 'Kandippa varuvar, direct call or WhatsApp moolam timing slot pick pannikalam.'
     },
     {
@@ -406,7 +406,7 @@ const brandFaqsMap = {
       a: 'Aama, Siemens heavy insulated doors-la seal weak aana exterior humidity ulla vandhu frost choke undakkum. Gasket replace pannanum.'
     },
     {
-      q: 'Dindigul-la Siemens refrigerator repair technicians available-aa?',
+      q: 'Karur-la Siemens refrigerator repair technicians available-aa?',
       a: 'Aama, quality European brand refrigeration architectures-la train aana technicians doorstep inspection conduct panranga.'
     },
     {
@@ -422,8 +422,8 @@ const brandFaqsMap = {
       a: 'Top and bottom shelves-la cooling uniform-aa irukaadhu. DC fan motor speed voltage check panni replacement pannanum.'
     },
     {
-      q: 'Dindigul Palani Road and Seelapadi bypass-la Siemens service kedaikuma?',
-      a: 'Kedaikum, Palani Road, Seelapadi, Begampur, Round Road residential zones-la doorstep service kedaikkum.'
+      q: 'Karur Kovai Road and Vengamedu bypass-la Siemens service kedaikuma?',
+      a: 'Kedaikum, Kovai Road, Vengamedu, Thanthonimalai, Sengunthapuram residential zones-la doorstep service kedaikkum.'
     },
     {
       q: 'Siemens fridge repair work-ku estimate transparent-aa irukkuma?',
@@ -448,8 +448,8 @@ const brandFaqsMap = {
       a: 'Cabin food items freeze aagi ice aagum or cooling delay aagi milk spoil aagum. Sensor temperature curve test pannanum.'
     },
     {
-      q: 'Dindigul-la Hitachi refrigerator repair doorstep-la attend panrara?',
-      a: 'Aama, Hitachi multi-door and inverter models-ku doorstep inspection and component replacement Dindigul-la provide panrom.'
+      q: 'Karur-la Hitachi refrigerator repair doorstep-la attend panrara?',
+      a: 'Aama, Hitachi multi-door and inverter models-ku doorstep inspection and component replacement Karur-la provide panrom.'
     },
     {
       q: 'Hitachi fridge evaporator coil mela excessive frost build-up aana enna seiyanum?',
@@ -460,12 +460,12 @@ const brandFaqsMap = {
       a: 'Hitachi door frame profiles-ku matching magnetic gasket fit panni cold air retention restore panna mudiyum.'
     },
     {
-      q: 'Hitachi sealed system gas charging Dindigul-la evlo aagum?',
+      q: 'Hitachi sealed system gas charging Karur-la evlo aagum?',
       a: 'System brazing, vacuum pull, and R600a charging around ₹2,100 to ₹3,100 range-la model capacity base panni quote pannuvom.'
     },
     {
-      q: 'Dindigul RM Colony and Spencer Compound-la Hitachi service irukka?',
-      a: 'Irukku, RM Colony, Spencer Compound, Nagal Nagar ellathulayum reliable doorstep technicians visit panranga.'
+      q: 'Karur Pasupathipalayam and Thorakkalpatti-la Hitachi service irukka?',
+      a: 'Irukku, Pasupathipalayam, Thorakkalpatti, Kagithapuramam ellathulayum reliable doorstep technicians visit panranga.'
     }
   ],
   'Kelvinator': [
@@ -482,8 +482,8 @@ const brandFaqsMap = {
       a: 'Bimetal defrost switch or defrost timer stuck aagirukkum. Evaporator coil frost choke aana keezha chill airflow varaadhu.'
     },
     {
-      q: 'Kelvinator pazhaya model fridges-ku spares Dindigul-la kedaikkuma?',
-      a: 'Kedaikkum, Kelvinator robust mechanical components-ku compatible spares Dindigul market-la readily available-aa irukku.'
+      q: 'Kelvinator pazhaya model fridges-ku spares Karur-la kedaikkuma?',
+      a: 'Kedaikkum, Kelvinator robust mechanical components-ku compatible spares Karur market-la readily available-aa irukku.'
     },
     {
       q: 'Kelvinator fridge vegetable box kulla water leak aagudhu, enna seiyanum?',
@@ -494,8 +494,8 @@ const brandFaqsMap = {
       a: 'Door gasket magnetic strip weak aagirukalam or bottom hinge washer theinju door sag aagirukalam. Hinge alignment and gasket seating fix pannuvom.'
     },
     {
-      q: 'Dindigul Town and Begampur-la Kelvinator fridge technician visit varuvara?',
-      a: 'Kandippa varuvar, Dindigul Town, Begampur, Balakrishnapuram ella area-layum doorstep service quick-aa kedaikkum.'
+      q: 'Karur Town and Thanthonimalai-la Kelvinator fridge technician visit varuvara?',
+      a: 'Kandippa varuvar, Karur Town, Thanthonimalai, Inam Karur ella area-layum doorstep service quick-aa kedaikkum.'
     },
     {
       q: 'Kelvinator fridge repair cost estimate eppo theriyum?',
@@ -520,8 +520,8 @@ const brandFaqsMap = {
       a: 'Normally moist gentle chill dhaan irukkanum. Solid ice kattina defrost sensor or control logic fault check panna vendiyirukkum.'
     },
     {
-      q: 'Dindigul-la Sharp refrigerator repair-ku doorstep visit unda?',
-      a: 'Unda, Dindigul residential areas across doorstep diagnostic inspection and repair visits provide panrom.'
+      q: 'Karur-la Sharp refrigerator repair-ku doorstep visit unda?',
+      a: 'Unda, Karur residential areas across doorstep diagnostic inspection and repair visits provide panrom.'
     },
     {
       q: 'Sharp fridge-la defrost heater fault epdi inspect pannuvanga?',
@@ -540,8 +540,8 @@ const brandFaqsMap = {
       a: 'Nitrogen pressure testing moolam pinhole leaks identify panni copper brazing and R600a refill conduct panrom.'
     },
     {
-      q: 'Dindigul GTN Salai and Siluvathur Road-ku Sharp technician varuvara?',
-      a: 'Aama, GTN Salai, Siluvathur Road, RM Colony ellathulayum technicians doorstep service attend panranga.'
+      q: 'Karur Kovai Road and Vennaimalai-ku Sharp technician varuvara?',
+      a: 'Aama, Kovai Road, Vennaimalai, Pasupathipalayam ellathulayum technicians doorstep service attend panranga.'
     }
   ],
   'IFB': [
@@ -562,7 +562,7 @@ const brandFaqsMap = {
       a: 'Door switch plunger loose or broken. Continuous light heat cooling chamber-a warm panna vaaipu irukku, switch change pannanum.'
     },
     {
-      q: 'Dindigul-la IFB refrigerator doorstep repair service available-aa?',
+      q: 'Karur-la IFB refrigerator doorstep repair service available-aa?',
       a: 'Available, unga call or message vandha udane scheduled timing slot-la technician doorstep visit panni troubleshoot pannuvanga.'
     },
     {
@@ -578,8 +578,8 @@ const brandFaqsMap = {
       a: 'Mudiyum, IFB models-ku matching magnetic door seals install panni airtight cooling preservation restore panrom.'
     },
     {
-      q: 'Dindigul Seelapadi and Batlagundu Road-la IFB fridge service irukka?',
-      a: 'Irukku, Seelapadi, Batlagundu Road, Nagal Nagar surrounding areas-la doorstep service kedaikkum.'
+      q: 'Karur Vengamedu and Velayuthampalayam Road-la IFB fridge service irukka?',
+      a: 'Irukku, Vengamedu, Velayuthampalayam Road, Kagithapuramam surrounding areas-la doorstep service kedaikkum.'
     }
   ],
   'Onida': [
@@ -596,7 +596,7 @@ const brandFaqsMap = {
       a: 'Defrost timer or bimetal thermostat failure nala evaporator coil ice-la block aagi blower fan air throw panna mudiyama poidum.'
     },
     {
-      q: 'Onida fridge parts Dindigul-la affordable cost-la kedaikkuma?',
+      q: 'Onida fridge parts Karur-la affordable cost-la kedaikkuma?',
       a: 'Kedaikkum, Onida fridges use standard Indian refrigeration parts which are cost-effective and easily serviceable.'
     },
     {
@@ -604,16 +604,16 @@ const brandFaqsMap = {
       a: 'Gasket rubber harden aana airtight sealing poirum. New magnetic gasket beading replace panni cooling leakage prevent pannanum.'
     },
     {
-      q: 'Onida fridge repair-ku Dindigul-la technician doorstep visit eppo varuvanga?',
+      q: 'Onida fridge repair-ku Karur-la technician doorstep visit eppo varuvanga?',
       a: 'Same day or customer convenient timing slot-la technician doorstep attend panni problem resolve pannuvanga.'
     },
     {
-      q: 'Onida fridge gas refill cost evlo aagum Dindigul-la?',
+      q: 'Onida fridge gas refill cost evlo aagum Karur-la?',
       a: 'Leak test, brazing, and gas recharging usually ₹1,600 to ₹2,500 range-la transparent-aa complete pannuvom.'
     },
     {
-      q: 'Dindigul Begampur and Chinnalapatti-la Onida fridge repair kedaikuma?',
-      a: 'Kandippa kedaikum, Begampur, Chinnalapatti, Dindigul Town ella area-layum doorstep service provide panrom.'
+      q: 'Karur Thanthonimalai and Vaiyapuri Nagar-la Onida fridge repair kedaikuma?',
+      a: 'Kandippa kedaikum, Thanthonimalai, Vaiyapuri Nagar, Karur Town ella area-layum doorstep service provide panrom.'
     }
   ],
   'Toshiba': [
@@ -634,15 +634,15 @@ const brandFaqsMap = {
       a: 'Fan blade freely rotate aagala or high-pitched humming sound vandha fan bearing dry aagirukku. DC fan motor replace pannanum.'
     },
     {
-      q: 'Dindigul-la Toshiba refrigerator repair doorstep service unda?',
-      a: 'Unda, Dindigul Town, RM Colony, Spencer Compound and outer suburbs full-aa technician doorstep service provide panrom.'
+      q: 'Karur-la Toshiba refrigerator repair doorstep service unda?',
+      a: 'Unda, Karur Town, Pasupathipalayam, Thorakkalpatti and outer suburbs full-aa technician doorstep service provide panrom.'
     },
     {
       q: 'Toshiba fridge door gasket loose aana cooling leak aaguma?',
       a: 'Kandippa, magnetic seal weak aana exterior moisture ulla vandhu internal sweating and cooling drop undakkum. Gasket change pannanum.'
     },
     {
-      q: 'Toshiba inverter PCB board repair Dindigul-la panna mudiyuma?',
+      q: 'Toshiba inverter PCB board repair Karur-la panna mudiyuma?',
       a: 'Mudiyum, switching power supplies and drive circuitry bench test panni component level repair conduct panrom.'
     },
     {
@@ -654,8 +654,8 @@ const brandFaqsMap = {
       a: 'Aama, technician spot inspection mudinju clear spare and service cost explain pannitu unga confirmation kedaicha dhaan repair start aagum.'
     },
     {
-      q: 'Dindigul Palani Road and Nagal Nagar-la Toshiba service attend pannuvangala?',
-      a: 'Kandippa, Palani Road, Nagal Nagar, GTN Nagar surrounding residential layouts-la regular-aa attend panrom.'
+      q: 'Karur Kovai Road and Kagithapuramam-la Toshiba service attend pannuvangala?',
+      a: 'Kandippa, Kovai Road, Kagithapuramam, Rayanur surrounding residential layouts-la regular-aa attend panrom.'
     }
   ],
   'Voltas Beko': [
@@ -676,8 +676,8 @@ const brandFaqsMap = {
       a: 'Defrost heater element or bimetal thermal fuse cut aagirukkum. Heat illadha nala accumulated frost defrost aagala.'
     },
     {
-      q: 'Dindigul-la Voltas Beko refrigerator service doorstep-la kedaikuma?',
-      a: 'Kedaikum, Dindigul city and all surrounding pin codes-ku direct doorstep inspection and spare replacement support undu.'
+      q: 'Karur-la Voltas Beko refrigerator service doorstep-la kedaikuma?',
+      a: 'Kedaikum, Karur city and all surrounding pin codes-ku direct doorstep inspection and spare replacement support undu.'
     },
     {
       q: 'Voltas Beko fridge bottom vegetable tray kulla water thengudhu, why?',
@@ -696,8 +696,8 @@ const brandFaqsMap = {
       a: 'Kandippa, replace panna defective parts customer kitta kaati clarify pannitu hand over panniduvom.'
     },
     {
-      q: 'Dindigul Seelapadi and Balakrishnapuram-la Voltas Beko technician varuvara?',
-      a: 'Varuvar, Seelapadi, Balakrishnapuram, Begampur ellathulayum reliable doorstep technicians available-aa irukanga.'
+      q: 'Karur Vengamedu and Inam Karur-la Voltas Beko technician varuvara?',
+      a: 'Varuvar, Vengamedu, Inam Karur, Thanthonimalai ellathulayum reliable doorstep technicians available-aa irukanga.'
     },
     {
       q: 'Voltas Beko single door direct cool fridge repair attend pannuvangala?',
@@ -722,8 +722,8 @@ const brandFaqsMap = {
       a: 'Thermostat sensor capillary loose aagi continuous run aagalam. Thermostat switch replace panni temperature regulate pannanum.'
     },
     {
-      q: 'Dindigul-la Lloyd refrigerator repair doorstep-la mudiyuma?',
-      a: 'Mudiyum, Dindigul Town, RM Colony, Begampur, and all areas-la doorstep service arrange panrom.'
+      q: 'Karur-la Lloyd refrigerator repair doorstep-la mudiyuma?',
+      a: 'Mudiyum, Karur Town, Pasupathipalayam, Thanthonimalai, and all areas-la doorstep service arrange panrom.'
     },
     {
       q: 'Lloyd fridge vegetable crisper bottom-la water leak aagudhu, edhanala?',
@@ -738,8 +738,8 @@ const brandFaqsMap = {
       a: 'Kandippa, warm exterior air ulla pogadha nala compressor workload kuraiyum, cooling retention 100% restore aagum.'
     },
     {
-      q: 'Dindigul Chinnalapatti and Vedasandur Road-la Lloyd fridge service kedaikuma?',
-      a: 'Kedaikum, Chinnalapatti, Vedasandur Road, Siluvathur Road ellathulayum scheduled doorstep visits provide panrom.'
+      q: 'Karur Vaiyapuri Nagar and Mayanur Road-la Lloyd fridge service kedaikuma?',
+      a: 'Kedaikum, Vaiyapuri Nagar, Mayanur Road, Vennaimalai ellathulayum scheduled doorstep visits provide panrom.'
     }
   ],
   'Midea': [
@@ -760,8 +760,8 @@ const brandFaqsMap = {
       a: 'Fan blade ice-la touch aagudha or fan motor bearing worn out aagirukka-nu check pannanum. Replacement fan motor fit pannuvom.'
     },
     {
-      q: 'Dindigul-la Midea refrigerator repair-ku doorstep support unda?',
-      a: 'Unda, Dindigul residential localities-la experienced technicians doorstep inspection conduct panranga.'
+      q: 'Karur-la Midea refrigerator repair-ku doorstep support unda?',
+      a: 'Unda, Karur residential localities-la experienced technicians doorstep inspection conduct panranga.'
     },
     {
       q: 'Midea fridge door magnetic gasket loose aana repair mudiyuma?',
@@ -776,8 +776,8 @@ const brandFaqsMap = {
       a: 'Aama, fault diagnosis mudinjudhum exact spare requirement and labour cost upfront explain pannuvanga.'
     },
     {
-      q: 'Dindigul Palani Road and Begampur-la Midea fridge attend pannuvangala?',
-      a: 'Kandippa, Palani Road, Begampur, RM Colony, Round Road all zones-la technician visits available.'
+      q: 'Karur Kovai Road and Thanthonimalai-la Midea fridge attend pannuvangala?',
+      a: 'Kandippa, Kovai Road, Thanthonimalai, Pasupathipalayam, Sengunthapuram all zones-la technician visits available.'
     },
     {
       q: 'Midea fridge digital display-la temperature blink aagudha?',
@@ -802,8 +802,8 @@ const brandFaqsMap = {
       a: 'Sub-zero digital controller power supply or probe connection check pannanum. Controller fail aana replacement unit install panni program pannuvom.'
     },
     {
-      q: 'Dindigul commercial & domestic areas-la Blue Star cooling unit service kedaikuma?',
-      a: 'Kedaikum, Dindigul commercial markets, grocery outlets, and residential homes ellathulayum Blue Star cooling equipment service provide panrom.'
+      q: 'Karur commercial & domestic areas-la Blue Star cooling unit service kedaikuma?',
+      a: 'Kedaikum, Karur commercial markets, grocery outlets, and residential homes ellathulayum Blue Star cooling equipment service provide panrom.'
     },
     {
       q: 'Blue Star deep freezer sealed system puncture gas leak repair panna mudiyuma?',
@@ -814,12 +814,12 @@ const brandFaqsMap = {
       a: 'Condenser fan stop aana compressor overheat aagi internal thermal protector trip aagum, cooling full-aa ninnu poirum. Fan motor replace pannanum.'
     },
     {
-      q: 'Blue Star cooling equipment repair charges Dindigul-la evlo irukkum?',
+      q: 'Blue Star cooling equipment repair charges Karur-la evlo irukkum?',
       a: 'Unit type (chest freezer, visi cooler, domestic unit) and spare requirement poruthu honest upfront estimate provide panrom.'
     },
     {
-      q: 'Dindigul Nagal Nagar and Bus Stand Road-la Blue Star technician varuvara?',
-      a: 'Kandippa varuvar, wholesale market, Nagal Nagar, Bus Stand Road and bypass corridors-la quick service kedaikkum.'
+      q: 'Karur Kagithapuramam and Bus Stand Area-la Blue Star technician varuvara?',
+      a: 'Kandippa varuvar, wholesale market, Kagithapuramam, Bus Stand Area and bypass corridors-la quick service kedaikkum.'
     }
   ],
   'Motorola': [
@@ -840,7 +840,7 @@ const brandFaqsMap = {
       a: 'Power circuit components and voltage regulator stages doorstep-la test panni suitable board repair or replacement provide panrom.'
     },
     {
-      q: 'Dindigul-la Motorola refrigerator repair technician visit eppo kedaikkum?',
+      q: 'Karur-la Motorola refrigerator repair technician visit eppo kedaikkum?',
       a: 'Phone or WhatsApp vazhiya booking confirm pannina convenient time slot-la doorstep technician visit provide panrom.'
     },
     {
@@ -852,8 +852,8 @@ const brandFaqsMap = {
       a: 'Aama, magnetic seal weak aana exterior moisture ulla vandhu internal sweating and cooling drop undakkum. Gasket change pannanum.'
     },
     {
-      q: 'Dindigul RM Colony and Spencer Compound-la Motorola fridge service unda?',
-      a: 'Undu, RM Colony, Spencer Compound, Palani Road residential areas-la scheduled doorstep visits attend panrom.'
+      q: 'Karur Pasupathipalayam and Thorakkalpatti-la Motorola fridge service unda?',
+      a: 'Undu, Pasupathipalayam, Thorakkalpatti, Kovai Road residential areas-la scheduled doorstep visits attend panrom.'
     }
   ],
   'BPL': [
@@ -870,7 +870,7 @@ const brandFaqsMap = {
       a: 'Defrost timer or bimetal thermostat failure nala evaporator coil ice-la block aagi blower fan air throw panna mudiyama poidum.'
     },
     {
-      q: 'BPL fridge spares ippo Dindigul-la kedaikkuma?',
+      q: 'BPL fridge spares ippo Karur-la kedaikkuma?',
       a: 'Kedaikkum, BPL fridges use standard electromechanical components such as rotary thermostats, PTC relays, and fans that are readily available.'
     },
     {
@@ -882,11 +882,11 @@ const brandFaqsMap = {
       a: 'Defrost water drain tube algae or dirt-la அடைஞ்சு irukkum. Cleansing and water flushing moolam drain smooth aagum.'
     },
     {
-      q: 'Dindigul Town and Begampur-la BPL fridge technician visit varuvara?',
-      a: 'Kandippa varuvar, Dindigul Town, Begampur, Balakrishnapuram ella area-layum doorstep service quick-aa kedaikkum.'
+      q: 'Karur Town and Thanthonimalai-la BPL fridge technician visit varuvara?',
+      a: 'Kandippa varuvar, Karur Town, Thanthonimalai, Inam Karur ella area-layum doorstep service quick-aa kedaikkum.'
     },
     {
-      q: 'BPL fridge gas charging cost Dindigul-la evlo aagum?',
+      q: 'BPL fridge gas charging cost Karur-la evlo aagum?',
       a: 'Leak test, brazing, and gas recharging usually ₹1,600 to ₹2,500 range-la transparent-aa complete pannuvom.'
     }
   ],
@@ -908,8 +908,8 @@ const brandFaqsMap = {
       a: 'Fan blade ice-la touch aagudha or DC motor bearing dry aagirukka-nu check pannanum. Replacement fan motor fit pannuvom.'
     },
     {
-      q: 'Dindigul-la Acerpure refrigerator repair doorstep service unda?',
-      a: 'Unda, Dindigul residential areas across doorstep diagnostic inspection and repair visits provide panrom.'
+      q: 'Karur-la Acerpure refrigerator repair doorstep service unda?',
+      a: 'Unda, Karur residential areas across doorstep diagnostic inspection and repair visits provide panrom.'
     },
     {
       q: 'Acer fridge inverter PCB control board repair mudiyuma?',
@@ -920,8 +920,8 @@ const brandFaqsMap = {
       a: 'Mudiyum, Acerpure profiles-ku matching magnetic gasket beading install panni airtight cooling preservation restore panrom.'
     },
     {
-      q: 'Dindigul RM Colony and GTN Salai-ku Acer technician varuvara?',
-      a: 'Aama, RM Colony, GTN Salai, Siluvathur Road ellathulayum technicians doorstep service attend panranga.'
+      q: 'Karur Pasupathipalayam and Kovai Road-ku Acer technician varuvara?',
+      a: 'Aama, Pasupathipalayam, Kovai Road, Vennaimalai ellathulayum technicians doorstep service attend panranga.'
     }
   ],
   'Hisense': [
@@ -942,8 +942,8 @@ const brandFaqsMap = {
       a: 'Hisense control boards specific error codes moolam sensor, fan, or defrost failure-a signal pannum. Code decode panni quick repair mudiyum.'
     },
     {
-      q: 'Dindigul-la Hisense refrigerator repair doorstep-la attend panrara?',
-      a: 'Aama, Hisense multi-door, side-by-side, and frost-free models-ku doorstep inspection and component replacement Dindigul-la provide panrom.'
+      q: 'Karur-la Hisense refrigerator repair doorstep-la attend panrara?',
+      a: 'Aama, Hisense multi-door, side-by-side, and frost-free models-ku doorstep inspection and component replacement Karur-la provide panrom.'
     },
     {
       q: 'Hisense fridge door close pannalum tight seal kedaikala, enna pannanum?',
@@ -962,8 +962,8 @@ const brandFaqsMap = {
       a: 'Kandippa, part replacement theva patta exact cost and labour upfront explain pannitu unga confirmation kedaicha dhaan proceed pannuvom.'
     },
     {
-      q: 'Dindigul Seelapadi and Palani Road-la Hisense service kedaikuma?',
-      a: 'Kedaikum, Palani Road, Seelapadi, Begampur, Round Road residential zones-la doorstep service kedaikkum.'
+      q: 'Karur Vengamedu and Kovai Road-la Hisense service kedaikuma?',
+      a: 'Kedaikum, Kovai Road, Vengamedu, Thanthonimalai, Sengunthapuram residential zones-la doorstep service kedaikkum.'
     }
   ]
 };

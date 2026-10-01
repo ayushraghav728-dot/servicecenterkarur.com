@@ -1,5 +1,5 @@
 const fs = require('fs');
-const content = fs.readFileSync('ac-repair-service-in-dindigul.html', 'utf8');
+const content = fs.readFileSync('ac-repair-service-in-karur.html', 'utf8');
 const locStart = content.indexOf('<div class="localities-grid-expanded">');
 const locEnd = content.indexOf('</div>\n    </div>\n  </section>', locStart);
 const inner = content.substring(locStart, locEnd);
@@ -19,4 +19,4 @@ while ((match = regex.exec(inner)) !== null) {
 console.log(`Found ${localities.length} localities.`);
 console.log('Sample first 5:', localities.slice(0, 5));
 console.log('Sample last 5:', localities.slice(-5));
-fs.writeFileSync('scripts/dindigul_localities.json', JSON.stringify(localities, null, 2));
+fs.writeFileSync('scripts/karur_localities.json', JSON.stringify(localities, null, 2));

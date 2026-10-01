@@ -1,14 +1,14 @@
 // Multilingual Customer Service Experiences for All 54 Brands
-// Natural mix of Simple English, Natural Tamil, and Dindigul Tanglish
-// Strictly localized to Dindigul neighborhoods and verified brand appliances
+// Natural mix of Simple English, Natural Tamil, and Karur Tanglish
+// Strictly localized to Karur neighborhoods and verified brand appliances
 
 const brands = require('./data_brands_info.js');
 
 const localities = [
-  "RM Colony", "Nagal Nagar", "Palani Road", "Begampur", "Seelapadi",
-  "Balakrishnapuram", "Siluvathur Road", "GTN Nagar", "Round Road",
-  "Nehruji Nagar", "Collectorate Area", "Spencer Compound", "Mendonsa Colony",
-  "Chinnalapatti", "Batlagundu", "Thadicombu", "Vedasandur", "Natham Road"
+  "Pasupathipalayam", "Kagithapuramam", "Kovai Road", "Thanthonimalai", "Vengamedu",
+  "Inam Karur", "Vennaimalai", "Rayanur", "Sengunthapuram",
+  "Sukkaliyur", "Collectorate & Arts College Road", "Thorakkalpatti", "Periya Andankovil",
+  "Vaiyapuri Nagar", "Velayuthampalayam", "Vangal", "Mayanur", "Salem Bypass Road"
 ];
 
 function generateBrandExperiences(b, index) {
@@ -89,7 +89,7 @@ function generateBrandExperiences(b, index) {
     });
   }
 
-  // Card 3: Tanglish Experience (Dindigul conversational style)
+  // Card 3: Tanglish Experience (Karur conversational style)
   const loc3 = localities[locIdx % localities.length];
   locIdx++;
 
