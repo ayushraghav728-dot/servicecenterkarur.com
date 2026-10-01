@@ -1,35 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b2545"/>
-      <stop offset="100%" stop-color="#134074"/>
+      <stop offset="0%" stop-color="#071b30"/>
+      <stop offset="100%" stop-color="#0f3966"/>
     </linearGradient>
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8"/>
       <stop offset="100%" stop-color="#0284c7"/>
     </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#00f2fe"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
   </defs>
-  <!-- Background Rounded Shield -->
-  <rect width="512" height="512" rx="112" fill="url(#bgGrad)"/>
-  <rect x="16" y="16" width="480" height="480" rx="96" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="8"/>
-  
-  <!-- Outer Ring Elements -->
-  <circle cx="256" cy="256" r="190" fill="none" stroke="url(#accentGrad)" stroke-width="14" stroke-dasharray="28 14"/>
 
-  <!-- Service Wrench and Gear Graphic -->
-  <g transform="translate(256, 256) scale(1.15)">
-    <!-- Central Gear Core -->
-    <path d="M-60,-20 L-45,-20 L-40,-35 L-52,-47 L-35,-64 L-20,-52 L-5,-57 L-5,-72 L19,-72 L19,-57 L34,-52 L49,-64 L66,-47 L54,-35 L59,-20 L74,-20 L74,4 L59,4 L54,19 L66,31 L49,48 L34,36 L19,41 L19,56 L-5,56 L-5,41 L-20,36 L-35,48 L-52,31 L-40,19 L-45,4 L-60,4 Z" fill="rgba(255,255,255,0.15)"/>
-    <circle cx="7" cy="-8" r="28" fill="#0b2545"/>
+  <!-- Background Squircle with subtle border -->
+  <rect width="512" height="512" rx="108" fill="url(#bgGrad)"/>
+  <rect x="14" y="14" width="484" height="484" rx="96" fill="none" stroke="#38bdf8" stroke-width="12" stroke-opacity="0.3"/>
+
+  <!-- Center Decorative Glow Ring -->
+  <circle cx="256" cy="225" r="160" fill="none" stroke="url(#cyanGrad)" stroke-width="16" stroke-opacity="0.25"/>
+
+  <!-- Service Gear Emblem -->
+  <g transform="translate(256, 215)" filter="url(#shadow)">
+    <!-- Gear outer teeth -->
+    <path d="M-30,-125 L30,-125 L38,-85 L72,-105 L114,-63 L94,-28 L134,-20 L134,40 L94,48 L114,83 L72,125 L38,105 L30,145 L-30,145 L-38,105 L-72,125 L-114,83 L-94,48 L-134,40 L-134,-20 L-94,-28 L-114,-63 L-72,-105 L-38,-85 Z" fill="#0c2a4d" stroke="#38bdf8" stroke-width="10"/>
     
-    <!-- Crossed Service Tools: Wrench -->
-    <path d="M-90,65 L50,-75 C60,-85 75,-85 85,-75 C95,-65 95,-50 85,-40 L-55,100 C-65,110 -80,110 -90,100 C-100,90 -100,75 -90,65 Z" fill="url(#accentGrad)"/>
-    <!-- Wrench Head -->
-    <path d="M40,-65 C35,-50 45,-30 65,-25 C85,-20 100,-35 95,-50 L120,-75 C128,-83 125,-95 115,-100 L95,-80 L80,-95 L100,-115 C95,-125 83,-128 75,-120 Z" fill="#ffffff"/>
-    <path d="M-50,75 L-65,90 C-72,97 -83,97 -90,90 C-97,83 -97,72 -90,65 L-75,50 Z" fill="#ffffff"/>
+    <!-- Central Gear Hollow Hole -->
+    <circle cx="0" cy="10" r="54" fill="url(#bgGrad)" stroke="#38bdf8" stroke-width="8"/>
+
+    <!-- Bold Service Wrench (45 degree angle) -->
+    <g transform="rotate(-45 0 10)">
+      <!-- Wrench Handle -->
+      <rect x="-18" y="-40" width="36" height="150" rx="14" fill="#ffffff"/>
+      <!-- Inner accent on handle -->
+      <rect x="-8" y="10" width="16" height="70" rx="8" fill="#38bdf8"/>
+      <!-- Lower ring hole -->
+      <circle cx="0" cy="95" r="8" fill="#071b30"/>
+      <!-- Wrench Head -->
+      <path d="M-42,-35 C-42,-75 42,-75 42,-35 C42,-15 28,0 18,5 L18,-30 L-18,-30 L-18,5 C-28,0 -42,-15 -42,-35 Z" fill="#ffffff"/>
+    </g>
   </g>
 
-  <!-- SCD Monogram Badge -->
-  <rect x="146" y="360" width="220" height="64" rx="20" fill="#0284c7" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.4))"/>
-  <text x="256" y="405" font-family="'Inter', -apple-system, sans-serif" font-size="34" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="4">KARUR</text>
+  <!-- Karur Location & Service Badge at Bottom -->
+  <g transform="translate(256, 420)">
+    <rect x="-140" y="-36" width="280" height="72" rx="20" fill="url(#cyanGrad)" filter="url(#shadow)"/>
+    <text x="0" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="4">KARUR</text>
+  </g>
 </svg>
