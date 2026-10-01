@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2545"/>
+      <stop offset="100%" stop-color="#134074"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded Shield -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)"/>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="8"/>
+  
+  <!-- Outer Ring Elements -->
+  <circle cx="256" cy="256" r="190" fill="none" stroke="url(#accentGrad)" stroke-width="14" stroke-dasharray="28 14"/>
+
+  <!-- Service Wrench and Gear Graphic -->
+  <g transform="translate(256, 256) scale(1.15)">
+    <!-- Central Gear Core -->
+    <path d="M-60,-20 L-45,-20 L-40,-35 L-52,-47 L-35,-64 L-20,-52 L-5,-57 L-5,-72 L19,-72 L19,-57 L34,-52 L49,-64 L66,-47 L54,-35 L59,-20 L74,-20 L74,4 L59,4 L54,19 L66,31 L49,48 L34,36 L19,41 L19,56 L-5,56 L-5,41 L-20,36 L-35,48 L-52,31 L-40,19 L-45,4 L-60,4 Z" fill="rgba(255,255,255,0.15)"/>
+    <circle cx="7" cy="-8" r="28" fill="#0b2545"/>
+    
+    <!-- Crossed Service Tools: Wrench -->
+    <path d="M-90,65 L50,-75 C60,-85 75,-85 85,-75 C95,-65 95,-50 85,-40 L-55,100 C-65,110 -80,110 -90,100 C-100,90 -100,75 -90,65 Z" fill="url(#accentGrad)"/>
+    <!-- Wrench Head -->
+    <path d="M40,-65 C35,-50 45,-30 65,-25 C85,-20 100,-35 95,-50 L120,-75 C128,-83 125,-95 115,-100 L95,-80 L80,-95 L100,-115 C95,-125 83,-128 75,-120 Z" fill="#ffffff"/>
+    <path d="M-50,75 L-65,90 C-72,97 -83,97 -90,90 C-97,83 -97,72 -90,65 L-75,50 Z" fill="#ffffff"/>
+  </g>
+
+  <!-- SCD Monogram Badge -->
+  <rect x="146" y="360" width="220" height="64" rx="20" fill="#0284c7" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.4))"/>
+  <text x="256" y="405" font-family="'Inter', -apple-system, sans-serif" font-size="34" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="4">DINDIGUL</text>
+</svg>

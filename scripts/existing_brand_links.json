@@ -1,0 +1,224 @@
+{
+  "acer": {
+    "ac": "acer-ac-repair-service-in-dindigul.html",
+    "fridge": "acer-refrigerator-repair-service-in-dindigul.html",
+    "wm": "acer-washing-machine-repair-service-in-dindigul.html",
+    "tv": "acer-tv-repair-service-in-dindigul.html"
+  },
+  "acerpure": {
+    "ac": "acerpure-ac-repair-service-in-dindigul.html",
+    "tv": "acerpure-tv-repair-service-in-dindigul.html"
+  },
+  "bajaj": {
+    "ac": "bajaj-ac-repair-service-in-dindigul.html"
+  },
+  "blue-star": {
+    "ac": "blue-star-ac-repair-service-in-dindigul.html",
+    "fridge": "blue-star-refrigerator-repair-service-in-dindigul.html"
+  },
+  "bpl": {
+    "ac": "bpl-ac-repair-service-in-dindigul.html",
+    "fridge": "bpl-refrigerator-repair-service-in-dindigul.html",
+    "wm": "bpl-washing-machine-repair-service-in-dindigul.html",
+    "tv": "bpl-tv-repair-service-in-dindigul.html"
+  },
+  "carrier": {
+    "ac": "carrier-ac-repair-service-in-dindigul.html"
+  },
+  "daikin": {
+    "ac": "daikin-ac-repair-service-in-dindigul.html"
+  },
+  "electrolux": {
+    "ac": "electrolux-ac-repair-service-in-dindigul.html",
+    "fridge": "electrolux-refrigerator-repair-service-in-dindigul.html",
+    "wm": "electrolux-washing-machine-repair-service-in-dindigul.html"
+  },
+  "godrej": {
+    "ac": "godrej-ac-repair-service-in-dindigul.html",
+    "fridge": "godrej-refrigerator-repair-service-in-dindigul.html",
+    "wm": "godrej-washing-machine-repair-service-in-dindigul.html"
+  },
+  "haier": {
+    "ac": "haier-ac-repair-service-in-dindigul.html",
+    "fridge": "haier-refrigerator-repair-service-in-dindigul.html",
+    "wm": "haier-washing-machine-repair-service-in-dindigul.html",
+    "tv": "haier-tv-repair-service-in-dindigul.html"
+  },
+  "havells": {
+    "ac": "havells-ac-repair-service-in-dindigul.html",
+    "wm": "havells-washing-machine-repair-service-in-dindigul.html"
+  },
+  "hisense": {
+    "ac": "hisense-ac-repair-service-in-dindigul.html",
+    "fridge": "hisense-refrigerator-repair-service-in-dindigul.html",
+    "tv": "hisense-tv-repair-service-in-dindigul.html"
+  },
+  "hitachi": {
+    "ac": "hitachi-ac-repair-service-in-dindigul.html",
+    "fridge": "hitachi-refrigerator-repair-service-in-dindigul.html",
+    "wm": "hitachi-washing-machine-repair-service-in-dindigul.html",
+    "tv": "hitachi-tv-repair-service-in-dindigul.html"
+  },
+  "ifb": {
+    "ac": "ifb-ac-repair-service-in-dindigul.html",
+    "fridge": "ifb-refrigerator-repair-service-in-dindigul.html",
+    "wm": "ifb-washing-machine-repair-service-in-dindigul.html"
+  },
+  "kelvinator": {
+    "ac": "kelvinator-ac-repair-service-in-dindigul.html",
+    "fridge": "kelvinator-refrigerator-repair-service-in-dindigul.html",
+    "wm": "kelvinator-washing-machine-repair-service-in-dindigul.html"
+  },
+  "kenstar": {
+    "ac": "kenstar-ac-repair-service-in-dindigul.html",
+    "wm": "kenstar-washing-machine-repair-service-in-dindigul.html"
+  },
+  "lloyd": {
+    "ac": "lloyd-ac-repair-service-in-dindigul.html",
+    "fridge": "lloyd-refrigerator-repair-service-in-dindigul.html",
+    "wm": "lloyd-washing-machine-repair-service-in-dindigul.html",
+    "tv": "lloyd-tv-repair-service-in-dindigul.html"
+  },
+  "midea": {
+    "ac": "midea-ac-repair-service-in-dindigul.html",
+    "fridge": "midea-refrigerator-repair-service-in-dindigul.html",
+    "wm": "midea-washing-machine-repair-service-in-dindigul.html"
+  },
+  "mitsubishi": {
+    "ac": "mitsubishi-ac-repair-service-in-dindigul.html"
+  },
+  "motorola": {
+    "ac": "motorola-ac-repair-service-in-dindigul.html",
+    "fridge": "motorola-refrigerator-repair-service-in-dindigul.html",
+    "wm": "motorola-washing-machine-repair-service-in-dindigul.html"
+  },
+  "o-general": {
+    "ac": "o-general-ac-repair-service-in-dindigul.html"
+  },
+  "onida": {
+    "ac": "onida-ac-repair-service-in-dindigul.html",
+    "fridge": "onida-refrigerator-repair-service-in-dindigul.html",
+    "wm": "onida-washing-machine-repair-service-in-dindigul.html",
+    "tv": "onida-tv-repair-service-in-dindigul.html"
+  },
+  "panasonic": {
+    "ac": "panasonic-ac-repair-service-in-dindigul.html",
+    "fridge": "panasonic-refrigerator-repair-service-in-dindigul.html",
+    "wm": "panasonic-washing-machine-repair-service-in-dindigul.html",
+    "tv": "panasonic-tv-repair-service-in-dindigul.html"
+  },
+  "samsung": {
+    "ac": "samsung-ac-repair-service-in-dindigul.html",
+    "fridge": "samsung-refrigerator-repair-service-in-dindigul.html",
+    "wm": "samsung-washing-machine-repair-service-in-dindigul.html",
+    "tv": "samsung-tv-repair-service-in-dindigul.html"
+  },
+  "sansui": {
+    "ac": "sansui-ac-repair-service-in-dindigul.html",
+    "tv": "sansui-tv-repair-service-in-dindigul.html"
+  },
+  "sharp": {
+    "ac": "sharp-ac-repair-service-in-dindigul.html",
+    "fridge": "sharp-refrigerator-repair-service-in-dindigul.html",
+    "wm": "sharp-washing-machine-repair-service-in-dindigul.html",
+    "tv": "sharp-tv-repair-service-in-dindigul.html"
+  },
+  "tcl": {
+    "ac": "tcl-ac-repair-service-in-dindigul.html",
+    "wm": "tcl-washing-machine-repair-service-in-dindigul.html",
+    "tv": "tcl-tv-repair-service-in-dindigul.html"
+  },
+  "voltas": {
+    "ac": "voltas-ac-repair-service-in-dindigul.html",
+    "wm": "voltas-washing-machine-repair-service-in-dindigul.html"
+  },
+  "whirlpool": {
+    "ac": "whirlpool-ac-repair-service-in-dindigul.html",
+    "fridge": "whirlpool-refrigerator-repair-service-in-dindigul.html",
+    "wm": "whirlpool-washing-machine-repair-service-in-dindigul.html"
+  },
+  "bosch": {
+    "fridge": "bosch-refrigerator-repair-service-in-dindigul.html",
+    "wm": "bosch-washing-machine-repair-service-in-dindigul.html"
+  },
+  "liebherr": {
+    "fridge": "liebherr-refrigerator-repair-service-in-dindigul.html"
+  },
+  "siemens": {
+    "fridge": "siemens-refrigerator-repair-service-in-dindigul.html",
+    "wm": "siemens-washing-machine-repair-service-in-dindigul.html"
+  },
+  "toshiba": {
+    "fridge": "toshiba-refrigerator-repair-service-in-dindigul.html",
+    "wm": "toshiba-washing-machine-repair-service-in-dindigul.html",
+    "tv": "toshiba-tv-repair-service-in-dindigul.html"
+  },
+  "videocon": {
+    "fridge": "videocon-refrigerator-repair-service-in-dindigul.html",
+    "wm": "videocon-washing-machine-repair-service-in-dindigul.html",
+    "tv": "videocon-tv-repair-service-in-dindigul.html"
+  },
+  "voltas-beko": {
+    "fridge": "voltas-beko-refrigerator-repair-service-in-dindigul.html",
+    "wm": "voltas-beko-washing-machine-repair-service-in-dindigul.html"
+  },
+  "daewoo": {
+    "wm": "daewoo-washing-machine-repair-service-in-dindigul.html"
+  },
+  "intex": {
+    "wm": "intex-washing-machine-repair-service-in-dindigul.html",
+    "tv": "intex-tv-repair-service-in-dindigul.html"
+  },
+  "thomson": {
+    "wm": "thomson-washing-machine-repair-service-in-dindigul.html"
+  },
+  "vw": {
+    "wm": "vw-washing-machine-repair-service-in-dindigul.html",
+    "tv": "vw-tv-repair-service-in-dindigul.html"
+  },
+  "white-westinghouse": {
+    "wm": "white-westinghouse-washing-machine-repair-service-in-dindigul.html"
+  },
+  "aiwa": {
+    "tv": "aiwa-tv-repair-service-in-dindigul.html"
+  },
+  "akai": {
+    "tv": "akai-tv-repair-service-in-dindigul.html"
+  },
+  "hyundai": {
+    "tv": "hyundai-tv-repair-service-in-dindigul.html"
+  },
+  "iffalcon": {
+    "tv": "iffalcon-tv-repair-service-in-dindigul.html"
+  },
+  "kodak": {
+    "tv": "kodak-tv-repair-service-in-dindigul.html"
+  },
+  "mi": {
+    "tv": "mi-tv-repair-service-in-dindigul.html"
+  },
+  "micromax": {
+    "tv": "micromax-tv-repair-service-in-dindigul.html"
+  },
+  "oneplus": {
+    "tv": "oneplus-tv-repair-service-in-dindigul.html"
+  },
+  "philips": {
+    "tv": "philips-tv-repair-service-in-dindigul.html"
+  },
+  "redmi": {
+    "tv": "redmi-tv-repair-service-in-dindigul.html"
+  },
+  "sanyo": {
+    "tv": "sanyo-tv-repair-service-in-dindigul.html"
+  },
+  "sony": {
+    "tv": "sony-tv-repair-service-in-dindigul.html"
+  },
+  "vu": {
+    "tv": "vu-tv-repair-service-in-dindigul.html"
+  },
+  "xiaomi": {
+    "tv": "xiaomi-tv-repair-service-in-dindigul.html"
+  }
+}

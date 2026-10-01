@@ -1,0 +1,69 @@
+const fs = require('fs');
+const path = require('path');
+
+const rootDir = path.resolve(__dirname, '..');
+const srcFile = path.join(rootDir, 'tv-repair-service-in-dindigul.html');
+const destFile = path.join(rootDir, 'tv', 'tv-repair-service-in-dindigul.html');
+
+let html = fs.readFileSync(srcFile, 'utf8');
+
+// 1. Canonical and OG / Schema URLs
+html = html.replace(
+  'href="https://servicecenterdindigul.com/tv-repair-service-in-dindigul.html"',
+  'href="https://servicecenterdindigul.com/tv/tv-repair-service-in-dindigul.html"'
+);
+html = html.replace(
+  'content="https://servicecenterdindigul.com/tv-repair-service-in-dindigul.html"',
+  'content="https://servicecenterdindigul.com/tv/tv-repair-service-in-dindigul.html"'
+);
+
+// 2. CSS and JS paths
+html = html.replace('href="css/style.css"', 'href="../css/style.css"');
+html = html.replace('src="js/config.js"', 'src="../js/config.js"');
+html = html.replace('src="js/main.js"', 'src="../js/main.js"');
+
+// 3. Navigation Header
+html = html.replace('href="index.html" class="brand-logo"', 'href="../index.html" class="brand-logo"');
+
+const newNav = `<nav class="main-nav" id="mainNav" aria-label="Main Navigation">
+        <a href="../index.html">Home</a>
+        <a href="../ac/ac-repair-service-in-dindigul.html">AC Repair</a>
+        <a href="../fridge/refrigerator-repair-service-in-dindigul.html">Fridge Repair</a>
+        <a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine</a>
+        <a href="tv-repair-service-in-dindigul.html" class="active">TV Repair</a>
+      </nav>`;
+html = html.replace(/<nav class="main-nav"[\s\S]*?<\/nav>/, newNav);
+
+// 4. Breadcrumbs
+html = html.replace('<li><a href="index.html">Home</a></li>', '<li><a href="../index.html">Home</a></li>');
+
+// 5. Brand links within TV page: change href="tv/brand.html" to href="brand.html"
+html = html.replace(/href="tv\/([a-z0-9\-]+-tv-repair-service-in-dindigul\.html)"/g, 'href="$1"');
+
+// 6. Other appliance service cards: update links and remove microwave
+html = html.replace('href="ac-repair-service-in-dindigul.html"', 'href="../ac/ac-repair-service-in-dindigul.html"');
+html = html.replace('href="refrigerator-repair-service-in-dindigul.html"', 'href="../fridge/refrigerator-repair-service-in-dindigul.html"');
+html = html.replace('href="washing-machine/washing-machine-repair-service-in-dindigul.html"', 'href="../washing-machine/washing-machine-repair-service-in-dindigul.html"');
+
+// Remove microwave service card
+html = html.replace(/<a href="microwave-repair-service-in-dindigul\.html"[\s\S]*?<\/a>\s*/, '');
+
+// 7. Footer links
+html = html.replace('<li><a href="ac-repair-service-in-dindigul.html">AC Repair & Service</a></li>', '<li><a href="../ac/ac-repair-service-in-dindigul.html">AC Repair & Service</a></li>');
+html = html.replace('<li><a href="refrigerator-repair-service-in-dindigul.html">Refrigerator / Fridge Repair</a></li>', '<li><a href="../fridge/refrigerator-repair-service-in-dindigul.html">Refrigerator / Fridge Repair</a></li>');
+html = html.replace('<li><a href="washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine Repair</a></li>', '<li><a href="../washing-machine/washing-machine-repair-service-in-dindigul.html">Washing Machine Repair</a></li>');
+html = html.replace('<li><a href="tv-repair-service-in-dindigul.html">TV Repair & Service</a></li>', '<li><a href="tv-repair-service-in-dindigul.html">TV Repair & Service</a></li>');
+html = html.replace('<li><a href="microwave-repair-service-in-dindigul.html">Microwave Oven Repair</a></li>', '');
+
+// Locality links in footer
+html = html.replace(/href="index\.html#localitiesSection"/g, 'href="../index.html#localitiesSection"');
+
+// Write destination
+fs.writeFileSync(destFile, html, 'utf8');
+console.log('Successfully wrote:', destFile);
+
+// Remove old root file
+if (fs.existsSync(srcFile)) {
+  fs.unlinkSync(srcFile);
+  console.log('Successfully removed old root file:', srcFile);
+}
