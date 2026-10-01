@@ -2305,16 +2305,9 @@ html, body {
   padding: 0;
 }
 
-/* 2. Top Information Bar */
+/* 2. Top Information Bar (Removed to eliminate mobile clutter) */
 .top-bar {
-  background-color: var(--primary-color);
-  color: #e2e8f0;
-  font-size: 0.8rem;
-  padding: 0.45rem 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
+  display: none !important;
 }
 
 .top-bar-inner {
